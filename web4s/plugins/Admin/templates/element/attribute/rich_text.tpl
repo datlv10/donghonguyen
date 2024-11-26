@@ -1,0 +1,1 @@
+<textarea name="{if !empty($code)}{$code}{/if}" id="{if !empty($code)}{$code}{/if}" class="d-none {$class}" input-attribute="rich-text">{if !empty($value)}{$value}{/if}</textarea>

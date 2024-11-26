@@ -1,0 +1,1437 @@
+msgid "danh_sach"
+msgstr "リスト"
+
+msgid "tao_moi_tai_khoan"
+msgstr "新しいアカウントを作成する"
+
+msgid "dong"
+msgstr "閉じる"
+
+msgid "so_luong_san_pham_{0}_hien_khong_con_du_so_luong_de_dat_hang"
+msgstr "製品数量" {0} "は現在注文できません"
+
+msgid "tai_khoan_hoac_email"
+msgstr "アカウントまたはメール"
+
+msgid "mat_khau"
+msgstr "パスワード"
+
+msgid "dang_nhap"
+msgstr "ログイン"
+
+msgid "quen_mat_khau"
+msgstr "パスワードを忘れた"
+
+msgid "dang_ky_tai_khoan_moi"
+msgstr "新規アカウント登録"
+
+msgid "thoat"
+msgstr "終了"
+
+msgid "noi_bat"
+msgstr "注目"
+
+msgid "giam_gia"
+msgstr "割引"
+
+msgid "con_hang"
+msgstr "在庫あり"
+
+msgid "het_hang"
+msgstr "在庫切れ"
+
+msgid "them_gio_hang"
+msgstr "カートを追加"
+
+msgid "xem_nhanh"
+msgstr "クイックビュー"
+
+msgid "xem_chi_tiet"
+msgstr "詳細を表示"
+
+msgid "chon_thuoc_tinh"
+msgstr "プロパティの選択"
+
+msgid "san_pham_het_hang"
+msgstr "商品が在庫切れです"
+
+msgid "uu_thich"
+msgstr "お気に入り"
+
+msgid "so_sanh"
+msgstr "比較"
+
+msgid "danh_muc"
+msgstr "カタログ"
+
+msgid "mau_sac"
+msgstr "色"
+
+msgid "size"
+msgstr "サイズ"
+
+msgid "xoa"
+msgstr "削除"
+
+msgid "chia_se"
+msgstr "共有"
+
+msgid "tong_cong"
+msgstr "合計"
+
+msgid "thong_tin_gio_hang"
+msgstr "予約シート"
+
+msgid "gio_hang"
+msgstr "カート"
+
+msgid "tim_kiem"
+msgstr "検  索"
+
+msgid "tai_khoan"
+msgstr "アカウント"
+
+msgid "ban_can_them_mot_so_san_pham_vao_gio_hang_cua_minh"
+msgstr "カートにいくつかの商品を追加する必要があります"
+
+msgid "vui_long_them_mot_so_san_pham_vao_gio_hang_cua_minh_vui_long_truy_cap_trang_chu_va_tim_san_pham_cua_ban"
+msgstr "ホーム」に移動して製品を見つけてください"
+
+msgid "xin_loi_da_co_loi_he_thong_xay_ra_ban_vui_long_quay_lai_gio_hang_va_tien_hanh_thanh_toan"
+msgstr "申し訳ありませんが、システムエラーが発生しました。カートに戻ってチェックアウトに進んでください。"
+
+msgid "thong_tin_dang_nhap"
+msgstr "ログイン情報"
+
+msgid "de_gui_binh_luan_vui_long_cung_cap_ten_hien_thi_va_dia_chi_email_lien_he"
+msgstr "コメントを投稿するには、表示名と連絡先メールアドレスを入力してください"
+
+msgid "email_hoac_so_dien_thoai_se_khong_hien_thi_va_se_chi_duoc_ban_bien_tap_su_dung_de_lien_he_voi_ban_trong_truong_hop_can_thiet"
+msgstr "電子メールまたは電話番号は表示されず、必要な場合に連絡するために編集者によってのみ使用されます"
+
+msgid "ho_va_ten"
+msgstr "名前"
+
+msgid "so_dien_thoai"
+msgstr "電話番号"
+
+msgid "tieu_de"
+msgstr "タイトル"
+
+msgid "noi_dung"
+msgstr "お問い合わせ内容"
+
+msgid "gui_yeu_cau"
+msgstr "リクエストの送信"
+
+msgid "gui_tin_nhan"
+msgstr "メッセージの送信"
+
+msgid "trang_chu"
+msgstr "ホーム"
+
+msgid "dang_ky"
+msgstr "登録"
+
+msgid "email"
+msgstr "メール"
+
+msgid "tinh_thanh"
+msgstr "州"
+
+msgid "quan_huyen"
+msgstr "地区"
+
+msgid "phuong_xa"
+msgstr "コミューンワード"
+
+msgid "zip_code"
+msgstr "郵便番号"
+
+msgid "dia_chi"
+msgstr "アドレス"
+
+msgid "xac_nhan_mat_khau"
+msgstr "パスワードの確認"
+
+msgid "tong_quan"
+msgstr "概要"
+
+msgid "quan_ly_don_hang"
+msgstr "注文の管理"
+
+msgid "so_dia_chi"
+msgstr "名簿"
+
+msgid "khong_lay_duoc_thong_tin_dia_chi"
+msgstr "アドレス情報を取得できません"
+
+msgid "thong_tin_tai_khoan"
+msgstr "アカウント情報"
+
+msgid "thay_doi_mat_khau"
+msgstr "パスワードの変更"
+
+msgid "dang_xuat"
+msgstr "ログアウト"
+
+msgid "thong_tin_ca_nhan"
+msgstr "個人情報"
+
+
+msgid "dia_chi_mac_dinh"
+msgstr "デフォルトアドレス"
+
+msgid "ten_tai_khoan"
+msgstr "アカウント名"
+
+msgid "gioi_tinh"
+msgstr "性別"
+
+msgid "ngay_sinh"
+msgstr "誕生日"
+
+msgid "ten"
+msgstr "名"
+
+msgid "dien_thoai"
+msgstr "電話"
+
+msgid "don_hang_gan_day"
+msgstr "最近の注文"
+
+msgid "ma_don_hang"
+msgstr "注文ID"
+
+msgid "tien"
+msgstr "お金"
+
+msgid "ngay_dat_hang"
+msgstr "注文日"
+
+msgid "trang_thai"
+msgstr "ステータス"
+
+msgid "nam"
+msgstr "男性"
+
+msgid "nu"
+msgstr "女性"
+
+msgid "khac"
+msgstr "その他"
+
+msgid "mat_khau"
+msgstr "パスワード"
+
+msgid "mat_khau_moi"
+msgstr "新しいパスワード"
+
+msgid "nhap_lai_mat_khau_moi"
+msgstr "新しいパスワードを再入力してください"
+
+msgid "cap_nhat"
+msgstr "更新"
+
+msgid "thong_tin_san_pham"
+msgstr "製品情報"
+
+msgid "san_pham"
+msgstr "ルームタイプ"
+
+msgid "so_luong"
+msgstr "数量"
+
+msgid "gia"
+msgstr "価格"
+
+msgid "van_chuyen"
+msgstr "配送"
+
+msgid "coupon"
+msgstr "クーポン"
+
+msgid "tong_tien"
+msgstr "合計金額"
+
+msgid "mac_dinh"
+msgstr "デフォルト"
+
+msgid "sua"
+msgstr "編集"
+
+msgid "them_dia_chi"
+msgstr "アドレスの追加"
+
+msgid "don_hang"
+msgstr "注文"
+
+msgid "ghi_chu"
+msgstr "メモ（リクエスト）"
+
+msgid "phuong_thuc_thanh_toan"
+msgstr "お支払い方法"
+
+msgid "chua_xac_nhan"
+msgstr "未確認"
+
+msgid "don_moi"
+msgstr "新しいアプリケーション"
+
+msgid "dang_chuyen"
+msgstr "転送中"
+
+msgid "xac_nhan"
+msgstr "確認"
+
+msgid "da_dong_goi"
+msgstr "パック済み"
+
+msgid "xuat_kho"
+msgstr "エクスポート"
+
+msgid "thanh_cong"
+msgstr "成功"
+
+msgid "da_huy"
+msgstr "キャンセル済み"
+
+msgid "cho_nhan_hang"
+msgstr "配信待ち"
+
+msgid "da_nhan_hang"
+msgstr "アイテムを受け取りました"
+
+msgid "tu_ngay"
+msgstr "開始日"
+
+msgid "den_ngay"
+msgstr "現在まで"
+
+msgid "huy_don"
+msgstr "注文のキャンセル"
+
+msgid "xac_nhan_huy_don_hang"
+msgstr "注文キャンセルの確認"
+
+msgid "truoc_khi_huy_don_hang_vui_long_doc_ky_dieu_kien_duoi_day"
+msgstr "注文をキャンセルする前に、以下の条件をよくお読みください"
+
+msgid "dieu_kien_huy_don_hang"
+msgstr "注文キャンセル条件"
+
+msgid "ly_do_huy_don"
+msgstr "キャンセルの理由"
+
+
+msgid "huy_don_hang_khong_thanh_cong"
+msgstr "キャンセルに失敗しました"
+
+msgid "toi_da_doc_va_dong_y_voi_chinh_sach"
+msgstr "ポリシーを読み、同意しました"
+
+msgid "dong_y"
+msgstr "同意する"
+
+msgid "ma_khach_hang"
+msgstr "顧客ID"
+
+msgid "mat_khau"
+msgstr "パスワード"
+
+msgid "hien_chua_co_don_hang"
+msgstr "まだ注文はありません"
+
+msgid "ban_chua_dong_y_voi_dieu_khoan"
+msgstr "あなたは条件に同意しません"
+
+msgid "cap_nhat_thanh_cong"
+msgstr "更新に成功しました"
+
+msgid "cap_nhat_dia_chi"
+msgstr "アドレスの更新"
+
+msgid "that_tiec_trang_cua_ban_yeu_cau_khong_ton_tai"
+msgstr "残念ながらあなたがリクエストしたページは存在しません"
+
+msgid "vui_long_thu_mot_trang_khac_hoac_lien_he_truc_tiep_voi_web4s_nhe"
+msgstr "別のサイトを試すか、web4sに直接連絡してください"
+
+msgid "khong_lay_duoc_thong_tin_don_hang"
+msgstr "注文情報を取得できませんでした"
+
+msgid "thong_tin_don_hang"
+msgstr "予約シート"
+
+msgid "binh_luan"
+msgstr "コメント"
+
+msgid "thay_doi"
+msgstr "変更"
+
+msgid "moi_ban_de_lai_binh_luan"
+msgstr "コメントを残してください"
+
+msgid "gui_binh_luan"
+msgstr "コメントを送信"
+
+msgid "de_gui_binh_luan_ban_vui_long_cung_cap_them_thong_tin_lien_he"
+msgstr "コメントを投稿するには、連絡先情報を入力してください"
+
+msgid "thong_tin_nguoi_gui"
+msgstr "送信者情報"
+
+msgid "ten_hien_thi"
+msgstr "表示名"
+
+msgid "phut_truoc"
+msgstr "直前"
+
+msgid "gio_truoc"
+msgstr "1時間前"
+
+msgid "ngay_truoc"
+msgstr "最終日"
+
+msgid "thang"
+msgstr "月"
+
+msgid "luc"
+msgstr "at"
+
+msgid "thang_truoc"
+msgstr "先月"
+
+msgid "nam_truoc"
+msgstr "昨年"
+
+msgid "vua_xong"
+msgstr "完了しました"
+
+msgid "gia_san_pham"
+msgstr "製品価格"
+
+msgid "thuong_hieu"
+msgstr "ブランド"
+
+msgid "sap_xep"
+msgstr "並べ替え"
+
+msgid "sap_xep_theo_ten"
+msgstr "名前で並べ替え"
+
+msgid "gia_tu_thap_den_cao"
+msgstr "低価格から高価格"
+
+msgid "gia_tu_cao_den_thap"
+msgstr "高から低への価格"
+
+msgid "hien_thi"
+msgstr "表示"
+
+msgid "duoi"
+msgstr "下"
+
+msgid "trieu_vnd"
+msgstr "million VND"
+
+msgid "tu"
+msgstr "単語"
+
+msgid "den"
+msgstr "to"
+
+msgid "tren"
+msgstr "on"
+
+msgid "dia_chi_giao_hang"
+msgstr "配送先住所"
+
+msgid "chuc_mung_quy_khach_da_dat_hang_thanh_cong"
+msgstr "ご注文おめでとうございます"
+
+msgid "don_hang_thanh_cong"
+msgstr "正常な注文"
+
+msgid "da_het_phien_lam_viec_vui_long_chon_lai_san_pham"
+msgstr "動作を停止します。もう一度製品を選択してください"
+
+msgid "san_pham_chua_duoc_them_vao_gio_hang"
+msgstr "商品はカートに追加されていません"
+
+msgid "cap_nhat_gio_hang"
+msgstr "カートの更新"
+
+msgid "xac_nhan_gio_hang"
+msgstr "カートの確認"
+
+msgid "ban_da_co_ma_coupon"
+msgstr "あなたはすでにクーポンコードを持っています"
+
+msgid "click_de_nhap_ma"
+msgstr "クリックしてコードを入力してください"
+
+msgid "neu_ban_da_co_tai_khoan_hay_dang_nhap_tai_day"
+msgstr "すでにアカウントをお持ちの場合は、こちらからログインしてください"
+
+msgid "ma_coupon"
+msgstr "クーポンコード"
+
+msgid "ap_dung_ma"
+msgstr "コードの適用"
+
+msgid "thong_tin_khach_hang"
+msgstr "顧客情報"
+
+msgid "thong_tin_dat_hang"
+msgstr "注文情報"
+
+msgid "dia_chi_chi_tiet"
+msgstr "詳細アドレス"
+
+msgid "tong_tien_san_pham"
+msgstr "合計金額"
+
+msgid "thanh_toan"
+msgstr "支払い"
+
+msgid "thanh_tien"
+msgstr "お支払い金額"
+
+msgid "them_thong_tin"
+msgstr "詳細"
+
+msgid "so_nha_ngo_duong"
+msgstr "家と通りの数"
+
+msgid "thanh_toan_ngay"
+msgstr "予約"
+
+msgid "thanh_toan_don_hang"
+msgstr "注文支払い"
+
+msgid "don_hang_nay_da_duoc_thanh_toan"
+msgstr "この注文は支払われました"
+
+msgid "phuong_thuc_khong_hop_le"
+msgstr "無効なメソッド"
+
+msgid "du_lieu_khong_hop_le"
+msgstr "無効なデータ"
+
+msgid "tao_don_hang_thanh_cong"
+msgstr "注文の作成に成功しました"
+
+msgid "khong_lay_duoc_thong_tin_cong_thanh_toan"
+msgstr "支払いゲートウェイ情報を取得できません"
+
+msgid "khong_cap_nhat_duoc_thong_tin_don_hang"
+msgstr "注文情報を更新できません"
+
+msgid "xu_ly_thanh_toan_don_hang_thanh_cong"
+msgstr "注文支払い処理が成功しました"
+
+msgid "chua_co_san_pham_nao_trong_gio_hang"
+msgstr "まだ予約していません"
+
+msgid "mua_hang"
+msgstr "予約"
+
+msgid "xem_them"
+msgstr "See more"
+
+msgid "chia_se"
+msgstr "共有"
+
+msgid "mo_ta"
+msgstr "説明"
+
+msgid "ma_san_pham"
+msgstr "製品コード"
+
+msgid "chua_co_binh_luan_nao"
+msgstr "コメントはまだありません"
+
+msgid "khach_hang_da_binh_luan"
+msgstr "お客様のコメント"
+
+msgid "cac_truong_bat_buoc_khong_duoc_de_trong"
+msgstr "必須フィールドを空にすることはできません"
+
+msgid "cac_truong_bat_buoc_khong_duoc_de_trong"
+msgstr "必須フィールドを空にすることはできません
+
+msgid "co_anh"
+msgstr "利用可能な画像"
+
+msgid "co_video"
+msgstr "ビデオが利用可能"
+
+msgid "co_tai_lieu"
+msgstr "文書化"
+
+msgid "tai_xuong"
+msgstr "ダウンロード"
+
+msgid "khong_co_du_lieu"
+msgstr "データなし"
+
+msgid "gui_binh_luan_thanh_cong"
+msgstr "コメントの送信に成功しました"
+
+msgid "trang_dau_tien"
+msgstr "最初のページ"
+
+msgid "trang_tiep"
+msgstr "次のページ"
+
+msgid "trang_cuoi"
+msgstr "最後のページ"
+
+msgid "khong_lay_duoc_thong_tin_giao_dich"
+msgstr "取引情報を取得できません"
+
+msgid "giao_dich_da_duoc_thuc_hien"
+msgstr "トランザクションが完了しました"
+
+msgid "xu_ly_thong_tin_giao_dich_thanh_cong"
+msgstr "トランザクション情報を正常に処理しています"
+
+msgid "khong_lay_duoc_thong_tin_email_nhan"
+msgstr "受信したメール情報を取得できません"
+
+msgid "khong_lay_duoc_thong_tin_mau_email"
+msgstr "メールテンプレート情報を取得できません"
+
+msgid "vui_long_cau_hinh_email_ung_dung"
+msgstr "アプリケーションのメールアドレスを設定してください"
+
+msgid "he_thong_khong_cau_hinh_su_dung_recaptcha"
+msgstr "システムはreCaptchaを使用するように構成されていません"
+
+msgid "khong_lay_duoc_thong_tin_ma_bao_mat_recaptcha"
+msgstr "reCaptchaセキュリティコード情報の取得に失敗しました"
+
+msgid "khong_nhan_duoc_thong_tin_ma_xac_nhan_recaptcha"
+msgstr "reCaptcha確認コードを受信して いません"
+
+msgid "khong_xac_nhan_duoc_thong_tin_recaptcha"
+msgstr "reCaptcha情報の確認に失敗しました"
+
+msgid "xac_nhan_recaptcha_thanh_cong"
+msgstr "reCaptchaが成功したことを確認する"
+
+msgid "cap_nhat_khong_thanh_cong"
+msgstr "更新に失敗しました"
+
+msgid "tep_dang_tai_khong_hop_le"
+msgstr "無効な読み込みファイル"
+
+msgid "tep_dang_tai_co_dung_luong_qua_lon"
+msgstr "読み込み中のファイルが大きすぎます"
+
+msgid "khong_lay_duoc_ma_dang_tai_cdn"
+msgstr "CDN読み込みゴーストを取得できません"
+
+msgid "dang_tai_tep_khong_thanh_cong"
+msgstr "ファイルのアップロードに失敗しました"
+
+msgid "dang_tai_tep_thanh_cong"
+msgstr "ファイルのアップロードに成功しました"
+
+msgid "khong_lay_duoc_thong_tin_giao_dien"
+msgstr "インターフェース情報を取得できません"
+
+msgid "khong_lay_duoc_thong_tin_ngon_ngu_cua_website"
+msgstr "ウェブサイトの言語情報を取得できません"
+
+msgid "chua_cai_dat_don_vi_tien_te_mac_dinh_cua_website"
+msgstr "ウェブサイトのデフォルト通貨が設定されていません"
+
+msgid "xu_ly_du_lieu_khong_thanh_cong"
+msgstr "データ処理に失敗しました"
+
+msgid "khong_tim_thay_thong_tin_san_pham"
+msgstr "製品情報が見つかりません"
+
+msgid "cap_nhat_gio_hang_thanh_cong"
+msgstr "カートの更新に成功しました"
+
+msgid "khong_tim_thay_thong_tin_gio_hang"
+msgstr "カートが見つかりません"
+
+msgid "vui_long_nhap_ten_nguoi_binh_luan"
+msgstr "コメント投稿者の名前を入力してください"
+
+msgid "vui_long_nhap_noi_dung_binh_luan"
+msgstr "コメントを入力してください"
+
+msgid "khong_lay_duoc_thong_tin_duong_dan"
+msgstr "パス情報を取得できません"
+
+msgid "khong_lay_duoc_thong_tin_binh_luan"
+msgstr "コメントを取得できません"
+
+msgid "loai_binh_luan_khong_hop_le"
+msgstr "無効なコメントタイプ"
+
+msgid "vui_long_chon_so_sao_danh_gia"
+msgstr "レビュースターの数を選択してください"
+
+msgid "vui_long_cau_hinh_ma_form"
+msgstr "フォームコードを設定してください"
+
+msgid "ma_form_duoc_cau_hinh_khong_ton_tai_tren_he_thong"
+msgstr "設定されたフォームコードがシステムに存在しません"
+
+msgid "vui_long_cau_hinh_cac_truong_cua_form"
+msgstr "フォームフィールドを設定してください"
+
+msgid "gui_thong_tin_lien_he_thanh_cong"
+msgstr "正常に送信された連絡先情報"
+
+msgid "xu_ly_du_lieu_thanh_cong"
+msgstr "データ処理が成功しました"
+
+msgid "het_phien_lam_viec_vui_long_dang_nhap_lai_tai_khoan"
+msgstr "セッションの終了、再ログインしてください"
+
+msgid "vui_long_nhap_tai_khoan_va_mat_khau_de_dang_nhap"
+msgstr "ログインするにはユーザー名とパスワードを入力してください"
+
+msgid "tai_khoan_hoac_mat_khau_khong_dung"
+msgstr "無効なアカウントまたはパスワード"
+
+msgid "tai_khoan_cua_ban_hien_dang_bi_khoa"
+msgstr "あなたのアカウントは現在ロックされています"
+
+msgid "tai_khoan_cua_ban_chua_duoc_kich_hoat"
+msgstr "アカウントがアクティブ化されていません"
+
+msgid "khong_lay_duoc_thong_tin_tai_khoan"
+msgstr "アカウント情報を取得できません"
+
+msgid "dang_nhap_thanh_cong"
+msgstr "ログインに成功しました"
+
+msgid "dang_ky_tai_khoan"
+msgstr "アカウントの登録"
+
+msgid "vui_long_nhap_tai_khoan_dang_ky"
+msgstr "登録済みのアカウントを入力してください"
+
+msgid "vui_long_nhap_mat_khau"
+msgstr "パスワードを入力してください"
+
+msgid "vui_long_nhap_xac_nhan_mat_khau"
+msgstr "パスワード確認を入力してください"
+
+msgid "xac_nhan_mat_khau_khong_chinh_xac"
+msgstr "無効なパスワードの確認"
+
+msgid "tai_khoan_da_duoc_dang_ky"
+msgstr "アカウントはすでに登録されています"
+
+msgid "tai_khoan_cua_ban_da_duoc_dang_ky_thanh_cong"
+msgstr "アカウントは正常に登録されました"
+
+msgid "quan_ly_tai_khoan"
+msgstr "アカウント管理"
+
+msgid "vui_long_nhap_day_du_thong_tin"
+msgstr "完全な情報を入力してください"
+
+msgid "mat_khau_cu_nhap_khong_chinh_xac"
+msgstr "古いパスワードが正しく入力されていません"
+
+msgid "mat_khau_thay_doi_khong_the_giong_mat_khau_cu"
+msgstr "変更されたパスワードを古いパスワードと同じにすることはできません"
+
+msgid "don_hang_cua_ban"
+msgstr "ご注文"
+
+msgid "chu_ky_khong_hop_le"
+msgstr "無効な署名"
+
+msgid "giao_dich_khong_thanh_cong"
+msgstr "トランザクションが失敗しました"
+
+msgid "giao_dich_thanh_cong"
+msgstr "トランザクションが成功しました"
+
+msgid "khong_lay_duoc_du_lieu_tra_ve_tu_webhooks"
+msgstr "Webhookからデータを取得できませんでした"
+
+msgid "khong_tim_thay_thong_tin_giao_dich"
+msgstr "トランザクションが見つかりません"
+
+msgid "giao_dich_nay_da_thanh_cong"
+msgstr "このトランザクションは成功しました"
+
+msgid "gia_tri_giao_dich_khong_chinh_xac"
+msgstr "不正なトランザクション値"
+
+msgid "loi_khi_cap_nhap_thong_tin_giao_dich"
+msgstr "トランザクション情報の更新中にエラーが発生しました"
+
+msgid "loi_khi_cap_nhap_thong_tin_don_hang"
+msgstr "注文情報の更新中にエラーが発生しました"
+
+msgid "vui_long_nhap_noi_dung_gui_thu"
+msgstr "メッセージテキストを入力してください"
+
+msgid "the_bai_viet"
+msgstr "投稿タグ"
+
+msgid "khong_co_du_lieu_file"
+msgstr "ファイルデータがありません"
+
+msgid "khong_co_du_lieu_anh"
+msgstr "画像データがありません"
+
+msgid "khong_co_du_lieu_video"
+msgstr "ビデオデータがありません"
+
+msgid "trang_truoc"
+msgstr "前のページ"
+
+msgid "hien_chua_co_dia_chi_nao"
+msgstr "現在利用可能なアドレスはありません"
+
+msgid "xin_loi_da_co_loi_he_thong_xay_ra_ban_vui_long_quay_lai_trang_chu"
+msgstr "システムエラーが発生しました。ホームページに戻ってください"
+
+msgid "kich_thuoc"
+msgstr "サイズ"
+
+msgid "tin_tuc"
+msgstr "ニュース"
+
+msgid "tu_khoa_tim_kiem"
+msgstr "キーワードの検索"
+
+msgid "khach_hang_danh_gia"
+msgstr "カスタマーレビュー"
+
+msgid "chia_se_nhan_xet_ve_san_pham"
+msgstr "商品レビューを共有する"
+
+msgid "danh_gia_va_nhan_xet"
+msgstr "レビューとコメント"
+
+msgid "gui_nhan_xet_cua_ban"
+msgstr "コメントを送信してください"
+
+msgid "danh_gia_cua_ban_ve_san_pham_nay"
+msgstr "この商品のレビュー"
+
+msgid "viet_nhan_xet_cua_ban_vao_ben_duoi"
+msgstr "以下にコメントを書いてください"
+
+msgid "nhan_xet_cua_ban_ve_san_pham_nay"
+msgstr "この商品のレビュー"
+
+msgid "thong_tin_ca_nhan_cua_ban"
+msgstr "あなたの個人情報"
+
+msgid "thong_tin_ca_nhan_cua_ban"
+msgstr "あなたの個人情報"
+
+msgid "hinh_anh"
+msgstr "画像"
+
+msgid "gui_danh_gia"
+msgstr "レビューを送信する"
+
+msgid "thao_luan"
+msgstr "レビューを送信する"
+
+msgid "xem_them_thao_luan"
+msgstr "他のディスカッションを表示"
+
+msgid "danh_gia"
+msgstr "レビュー"
+
+msgid "tai_xuong_tap_tin_dinh_kem"
+msgstr "添付ファイルのダウンロード"
+
+msgid "dat_lai"
+msgstr "リセット"
+
+msgid "muc_luc_noi_dung"
+msgstr "目次"
+
+msgid "tai_khoan_ngan_hang"
+msgstr "銀行口座"
+
+msgid "ten_ngan_hang"
+msgstr "銀行名"
+
+msgid "chi_nhanh"
+msgstr "ブランチ"
+
+msgid "chu_tai_khoan"
+msgstr "アカウント所有者"
+
+msgid "so_tai_khoan"
+msgstr "アカウント番号"
+
+msgid "ma_giao_dich"
+msgstr "トランザクションコード"
+
+msgid "can_nang"
+msgstr "重量"
+
+msgid "chieu_dai"
+msgstr "長さ"
+
+msgid "chieu_rong"
+msgstr "幅"
+
+msgid "chieu_cao"
+msgstr "高さ"
+
+msgid "chao_khach_hang"
+msgstr "こんにちは顧客"
+
+msgid "chao_ban"
+msgstr "こんにちは"
+
+msgid "cam_on_ban_da_mua_sam_tren_website_cua_chung_toi_hy_vong_ban_se_hai_long_voi_nhung_san_pham_da_mua"
+msgstr "当社のウェブサイトでお買い物いただきありがとうございます。ご購入にご満足いただければ幸いです。"
+
+msgid "cua_ban_hien_dang_xu_ly_va_se_thong_bao_cho_ban_ngay_khi_hang_duoc_xuat_kho"
+msgstr "アイテムは現在処理中であり、出荷されるとすぐに通知されます。"
+
+msgid "don_gia"
+msgstr "単価"
+
+msgid "chiet_khau"
+msgstr "割引"
+
+msgid "phi_van_chuyen"
+msgstr "送料"
+
+msgid "xac_nhan_thay_doi_mat_khau"
+msgstr "パスワード変更の確認"
+
+msgid "vui_long_click_vao_dia_chi_ben_duoi_de_thay_doi_mat_khau"
+msgstr "- パスワードを変更するには、以下のアドレスをクリックしてください"
+
+msgid "thong_tin_dang_ky"
+msgstr "登録情報"
+
+msgid "ban_hoac_ai_do_da_su_dung_email_nay_de_dang_ky_tai_khoan_tai_website_voi_thong_tin_sau"
+msgstr "あなたまたは他の誰かがこのメールを使用しました。次の情報を使用してWebサイトにアカウントを登録します。"
+
+msgid "de_xac_nhan_viec_dang_ky_nay_la_hop_le_ban_vui_long_truy_cap_vao"
+msgstr "この登録が有効であることを確認するには、にアクセスしてください"
+
+msgid "email_dang_ky"
+msgstr "登録メール"
+
+msgid "ten_truy_cap"
+msgstr "ユーザー名"
+
+msgid "thong_tin_lien_he"
+msgstr "連絡先情報"
+
+msgid "dang_ky_thanh_cong"
+msgstr "登録に成功しました
+
+msgid "chuc_mung_ban_da_dang_ky_thanh_cong_vui_long_kiem_tra_email_de_nhan_thong_tin_kich_hoat"
+msgstr "登録が成功しました。アクティベーション情報についてはメールを確認してください。"
+
+msgid "chuc_mung_ban_da_dang_ky_thanh_cong_tai_khoan_tai"
+msgstr "アカウント登録が成功しました。おめでとうございます"
+
+msgid "voi_thong_tin_sau"
+msgstr "次の情報付き"
+
+msgid "duong_dan"
+msgstr "パス"
+
+msgid "nay_de_kich_hoat_tai_khoan"
+msgstr "これはアカウントのアクティブ化用です"
+
+msgid "gui_lai_ma_xac_nhan"
+msgstr "確認コードを再送信してください"
+
+msgid "ma_xac_nhan"
+msgstr "確認コード"
+
+msgid "thoi_gian_giua_hai_lan_gui_la_mot_phut"
+msgstr "送信間の1分"
+
+msgid "thong_tin_kich_hoat_khong_ton_tai"
+msgstr "アクティベーション情報が存在しません"
+
+msgid "ban_da_kich_hoat_thanh_cong_tai_khoan"
+msgstr "アカウントが正常にアクティブ化されました"
+
+msgid "gui_ma_xac_nhan_thanh_cong"
+msgstr "確認コードが正常に送信されました"
+
+msgid "kich_hoat_tai_khoan"
+msgstr "アカウントのアクティブ化"
+
+msgid "neu_nhu_ban_khong_dang_ky_thong_tin_voi_tai_khoan"
+msgstr "アカウントに登録されていない場合"
+
+msgid "vui_long_bo_qua_va_xoa_email_nay"
+msgstr "このメールは無視して削除してください"
+
+msgid "xin_cam_on"
+msgstr "ありがとう"
+
+msgid "sau_khi_nhap_dia_chi_email_vui_long_kiem_tra_hom_thu_dien_tu_de_lay_ma_xac_nhan_thay_doi_mat_khau"
+msgstr "メールアドレスを入力したら、メールでパスワード変更確認コードを確認してください。"
+
+msgid "thong_tin_tai_khoan_khong_ton_tai"
+msgstr "アカウント情報が存在しません"
+
+msgid "thay_doi_mat_khau_thanh_cong"
+msgstr "パスワードが正常に変更されました"
+
+msgid "thong_tin_khong_chinh_xac_hoac_ma_xac_nhan_da_het_han"
+msgstr "無効な情報または期限切れのトークン"
+
+msgid "de_xac_nhan_viec_thay_doi_mat_khau_nay_la_hop_le_ban_vui_long_truy_cap_vao"
+msgstr "このパスワード変更が有効であることを確認するには、にアクセスしてください"
+
+msgid "neu_nhu_ban_khong_thay_doi_mat_khau_voi_tai_khoan"
+msgstr "アカウントのパスワードを変更しない場合"
+
+msgid "khach_hang_de_lai_thong_tin_lien_he"
+msgstr "顧客は連絡先情報を残します"
+
+msgid "thong_tin_khach_hang_khong_hop_le"
+msgstr "無効な顧客情報"
+
+msgid "nhan_vao"
+msgstr "クリック"
+
+msgid "nay_de_chuyen_toi_trang_kich_hoat_tai_khoan"
+msgstr "これはアカウントアクティベーションページに移動します"
+
+msgid "neu_nhu_ban_khong_yeu_cau_gui_lai_ma_xac_nhan_vui_long_bo_qua_va_xoa_email_nay"
+msgstr "確認コードの再送信を要求しなかった場合。このメールは無視して削除してください。"
+
+msgid "khong_the_kich_hoat_tai_khoan_nay"
+msgstr "このアカウントをアクティブ化できません"
+
+msgid "kich_hoat_tai_khoan_thanh_cong"
+msgstr "アカウントのアクティブ化に成功しました"
+
+msgid "chon_dia_chi_khac"
+msgstr "アカウントのアクティブ化に成功しました"
+
+msgid "ban_da_danh_gia_san_pham_nay_roi"
+msgstr "あなたはすでにこの製品を評価しています"
+
+msgid "vui_long_dang_nhap_tai_khoan_de_su_dung_chuc_nang_nay"
+msgstr "この機能を使用するにはログインしてください"
+
+msgid "cho_van_chuyen"
+msgstr "発送待ち"
+
+msgid "da_xac_nhan"
+msgstr "確認済み"
+
+msgid "thao_tac"
+msgstr "アクション"
+
+msgid "anh_dai_dien"
+msgstr "利用可能な画像"
+
+msgid "thong_tin_chi_tiet"
+msgstr "詳細"
+msgid "thong_tin_san_pham_khong_ton_tai"
+msgstr "製品情報が存在しません"
+
+msgid "san_pham_ngung_kinh_doanh"
+msgstr "製造中止製品"
+
+msgid "quay_lai"
+msgstr "戻る"
+
+msgid "dia_chi_nhan_hang"
+msgstr "配送先住所"
+
+msgid "ten_dia_chi"
+msgstr "アドレス名"
+
+msgid "khong_gui_duoc_email"
+msgstr "メールを送信できません"
+
+msgid "vui_long_nhap_ma_xac_nhan"
+msgstr "確認コードを入力してください"
+
+msgid "ban_chua_co_tai_khoan_he_thong"
+msgstr "まだシステムアカウントをお持ちではありませんか？"
+
+msgid "quay_lai_gio_hang"
+msgstr "カートに戻る"
+
+msgid "vui_long_nhap_dia_chi_email"
+msgstr "メールアドレスを入力してください"
+
+msgid "so_dien_thoai_da_duoc_dang_ky"
+msgstr "登録電話番号"
+
+msgid "yeu_thich"
+msgstr "お気に入り"
+
+msgid "khong_lay_duoc_thong_tin_yeu_thich"
+msgstr "お気に入りを取得できませんでした"
+
+msgid "them_thanh_cong_san_pham_yeu_thich"
+msgstr "お気に入りの商品を正常に追加しました"
+
+msgid "them_thanh_cong_bai_viet_yeu_thich"
+msgstr "お気に入りが正常に追加されました"
+
+msgid "xoa_thanh_cong_san_pham_yeu_thich"
+msgstr "お気に入りを正常に削除しました"
+
+msgid "xoa_thanh_cong_bai_viet_yeu_thich"
+msgstr "お気に入りの投稿を正常に削除しました"
+
+msgid "bai_viet"
+msgstr "投稿"
+
+msgid "anh"
+msgstr "写真"
+
+msgid "hoat_dong"
+msgstr "操作"
+
+msgid "khong_hoat_dong"
+msgstr "機能しません"
+
+msgid "gia_dac_biet"
+msgstr "特別価格"
+
+msgid "ngay_khuyen_mai"
+msgstr "営業日"
+
+msgid "anh_san_pham"
+msgstr "製品画像"
+
+msgid "so_luong_san_co"
+msgstr "利用可能な数量"
+
+msgid "gia_va_phien_ban_san_pham"
+msgstr "製品の価格とバージョン"
+
+msgid "kich_co"
+msgstr "サイズ"
+
+msgid "so_sanh_san_pham"
+msgstr "製品の比較"
+
+msgid "them_san_pham_so_sanh"
+msgstr "比較製品を追加"
+
+msgid "tim_kiem_san_pham"
+msgstr "製品の検索"
+
+msgid "number_people"
+msgstr "人数"
+
+msgid "check_in"
+msgstr "チェックイン"
+
+msgid "check_out"
+msgstr "チェックアウト"
+
+msgid "phong_duoc_trang_bi_noi_that_do_gia_dung_va_bo_do_an_can_thiet_cho_cuoc_song_hang_ngay"
+msgstr "生活に必要な家具家電、食器類一式備えています。"
+
+msgid "tien_nghi"
+msgstr "アメニティ"
+
+msgid "dich_vu"
+msgstr "サービス"
+
+msgid "order_detai"
+msgstr "ご予約・空室情報"
+
+msgid "name"
+msgstr "会社名"
+
+msgid "ten_cong_ty"
+msgstr "名前"
+
+msgid "toi_da"
+msgstr "最大"
+
+msgid "nguoi"
+msgstr "名"
+
+msgid "nguoi_lon"
+msgstr "大人"
+
+msgid "tre_em"
+msgstr "子供"
+
+msgid "ngay_nhan_phong"
+msgstr "チェックイン日"
+
+msgid "ngay_tra_phong"
+msgstr "チェックアウト日"
+
+msgid "nguoi_lon_phat_sinh"
+msgstr "追加した大人"
+
+msgid "tre_em_7_12_phat_sinh"
+msgstr "7〜12歳の子供が生まれた"
+
+msgid "tre_em_phat_sinh"
+msgstr "生まれた子供たち"
+
+msgid "so_ngay_dat"
+msgstr "日によるの値段"
+
+msgid "gia_tung_ngay"
+msgstr "1日あたりの料金"
+
+msgid "trang_bi_san_cac_do_dung_bat_dia_va_do_dien_gia_dung_can_thiet_cho_cuoc_song"
+msgstr "生活に必要な家具家電、食器類一式備えています。"
+
+msgid "ngay_dat_phong_khong_hop_le"
+msgstr "予約日が無効です"
+
+msgid "vui_long_nhap_ngay_nhan_phong"
+msgstr "チェックイン日を入力してください"
+
+msgid "vui_long_nhap_ngay_tra_phong"
+msgstr "チェックアウト日を入力してください"
+
+msgid "tong_so_nguoi_dat_vuot_qua_so_luong_cho_phep"
+msgstr "予約者の総数が許容量を超えました"
+
+msgid "so_nguoi_lon_vuot_qua_so_nguoi_dat_toi_da_cho_phep"
+msgstr "大人の数が許可された数を超えています"
+
+msgid "that_khong_may_khach_san_da_het_phong_nay"
+msgstr "残念ながら、ホテルは部屋の外にあります"
+
+msgid "quoc_gia"
+msgstr "国家"
+
+msgid "quoc_tich"
+msgstr "国籍"
+
+msgid "note_payment_guide"
+msgstr "空き状況とお支払い方法を確認するため、30分以内に事前にご連絡いたします."
+
+msgid "gui_yeu_cau_dat_phong"
+msgstr "予約確認ページへ"
+
+msgid "bang_cach_an_nut_thanh_toan_ban_dong_y_voi"
+msgstr "支払いボタンを押すことにより、あなたは同意します"
+
+msgid "dieu_kien_va_dieu_khoan_cua_chung_toi"
+msgstr "利用規約"
+
+msgid "phong"
+msgstr "部屋"
+
+msgid "dem"
+msgstr "夜"
+
+msgid "gia_theo_ngay"
+msgstr "日ごとの宿泊の料金"
+
+msgid "gia_thue_1_ngay"
+msgstr "1日あたりの宿泊の料金"
+
+msgid "so_luong_phong"
+msgstr "室数"
+
+msgid "so_ngay_dat"
+msgstr "予約日数"
+
+msgid "nguoi_lon_phat_sinh"
+msgstr "大人生まれ"
+
+msgid "tre_em_phat_sinh"
+msgstr "子供が生まれる"
+
+msgid "tre_em_7_12_phat_sinh"
+msgstr "7〜12歳の子供"
+
+msgid "xac_nhan_thong_tin_dat_phong"
+msgstr "予約確認"
+
+msgid "thong_tin_phong"
+msgstr "部屋情報"
+
+msgid "dat_phong_thanh_cong"
+msgstr "予約完了しました"
+
+msgid "so_luong_khach_tieu_chuan"
+msgstr "ご利用標準人数"
+
+msgid "tre_em_tu_7_12_tuoi"
+msgstr "7-12歳のお子様：1名様あたり"
+
+msgid "tre_em_tu_6_tuoi_tro_xuong"
+msgstr "6歳以下のお子様：1名様あたり"
+
+msgid "nguoi_lon_toi_da"
+msgstr "最大の大人"
+
+msgid "tre_em_7_12_toi_da"
+msgstr "最大の7歳から12歳までの子供"
+
+msgid "tre_em_toi_da"
+msgstr "最大の6歳以下の子供"
+
+msgid "so_tre_em_7_12_vuot_qua_so_nguoi_dat_toi_da_cho_phep"
+msgstr "子供の数7〜12人が許可された人数を超えています"
+
+msgid "so_tre_em_vuot_qua_so_nguoi_dat_toi_da_cho_phep"
+msgstr "お子様の人数が許可されている人数を超えています"
+
+msgid "vuong_mac_dat_phong_lien_he_sdt"
+msgstr "予約のお手続きにご不明な点やご不便などございましたら、お電話にてご連絡ください。"
+
+msgid "ban_cung_co_the_dat_phong_qua_sdt"
+msgstr "お電話にてもご予約をいただけます。"
+
+msgid "sdt_(+84)_2473009686"
+msgstr "電話番号：(+84) 24 7300 9686"
+
+msgid "thong_tin_phong_ban_da_dat"
+msgstr "予約情報"
+
+msgid "cam_on_quy_khach_da_dat_phong"
+msgstr "ご予約ありがとうございます！"
+
+msgid "chung_toi_se_som_gui_mail_xac_nhan_toi_quy_khach"
+msgstr "予約確認書をまもなくメールでお送りいたします。"
+
+msgid "neu_co_bat_ky_dieu_gi_can_trao_doi_them_vui_long_lien_he_sdt_02473011868"
+msgstr " ご不明な点がございましたら、お気軽にご連絡ください。 電話番号 024.7300.9686"
+
+msgid "don_hang_nay_da_xac_nhan_thanh_toan"
+msgstr "この注文は支払われました"
+
+msgid "tren_18_tuoi"
+msgstr "13歳以上"
+
+msgid "tu_7_12_tuoi"
+msgstr "７－12歳"
+
+msgid "duoi_6_tuoi"
+msgstr "6歳以下"
+
+msgid "xong"
+msgstr "決定"
+
+msgid "dat_phong_luon"
+msgstr "今すぐ予約"
+
+msgid "chon_1_trong_2"
+msgstr "どちらかを選択してください"
+
+msgid "ve_dich_vu_khach_san"
+msgstr "ホテルサービスについて"
+
+msgid "loai_phong"
+msgstr "ルームタイプ"
+
+msgid "1_dem"
+msgstr "1泊"
+
+msgid "ve_dich_vu_can_ho"
+msgstr "アパートサービスについて"
+
+msgid "duong_dan_tim_kiem"
+msgstr "探-す"
+
+msgid "ho"
+msgstr "姓"
+
+msgid "ten"
+msgstr "名"
+
+msgid "that_khong_may_khach_san_chi_con"
+msgstr "残念ながらホテルは"
+
+msgid "vui_long_chon_ngay_nhan_phong"
+msgstr "チェックイン日を選択してください"
+
+msgid "vui_long_chon_ngay_tra_phong"
+msgstr "チェックアウト日を選択してください"
+
+msgid "note_ho_ten"
+msgstr "ローマ字のみ"
+
+msgid "yeu_cau_de_nghi"
+msgstr "リクエスト"
+
+msgid "so_luong_nguoi"
+msgstr "宿泊人数"
+
+msgid "gia_phong_binh_quan_cua_mot_ngay"
+msgstr "一泊あたりの平均宿泊料."
+
+msgid "chi_tiet"
+msgstr "詳細はこちら"
+
+msgid "tong_so_tien_thanh_toan"
+msgstr "お支払合計金額"
+
+msgid "phuong_thuc_thanh_toan_tai_cho"
+msgstr "お支払い方法：現地でお支払い"
+
+msgid "xac_nhan_dat_phong"
+msgstr "予約確定"
+
+msgid "cam_on_quy_khach_da_dat_phong"
+msgstr "ご予約ありがとうございます！"
+
+msgid "chung_toi_se_som_gui_mail_xac_nhan_toi_quy_khach"
+msgstr "予約確認書をまもなくメールでお送りいたします。"
+
+msgid "neu_co_bat_ky_dieu_gi_can_trao_doi_them_vui_long_lien_he_so_dien_thoai"
+msgstr "ご不明な点がございましたら、お気軽にご連絡ください。 電話番号"
+
+msgid "thong_tin_phong_ban_da_dat"
+msgstr "予約した部屋情報"
+
+msgid "ngay"
+msgstr "日"
+
+msgid "dong_y_voi_noi_dung"
+msgstr "に同意します"
+
+msgid "hop_dong_thue"
+msgstr "利用規約"
+
+msgid "link_hop_dong_thue"
+msgstr "利用規約"
+
+msgid "so_ngay_dat_1"
+msgstr "宿泊の日数"
+
+msgid "ghi_chu_quoc_tich"
+msgstr "ローマ字のみ"
+
+msgid "ma_vung"
+msgstr "国番号"
+
+msgid "phi_phat_sinh_trong_truong_hop_tu_3_nguoi_tro_len"
+msgstr "【3名様以上でご利用の場合の追加料金】"
+
+msgid "so_luong_khach_toi_da_2_nguoi_lon"
+msgstr "* ご宿泊いただける最大人数：大人小人合わせて2名"
+
+msgid "so_luong_khach_toi_da_2_nguoi_lon_2_tre_em"
+msgstr "* ご宿泊いただける最大人数：大人2名、小人2名"
+
+msgid "nguoi_1_dem"
+msgstr "/ 泊"

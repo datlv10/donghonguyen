@@ -1,0 +1,4265 @@
+msgid "tim_kiem"
+msgstr "検索"
+
+msgid "danh_sach"
+msgstr "リスト"
+
+msgid "da_chon"
+msgstr "選択"
+
+msgid "nhan_ban"
+msgstr "レプリケーション"
+
+msgid "ban_ghi"
+msgstr "記録"
+
+msgid "trang_thai"
+msgstr "状態"
+
+msgid "hoat_dong"
+msgstr "オンライン"
+
+msgid "khong_hoat_dong"
+msgstr "オフライン"
+
+msgid "ngung_hoat_dong"
+msgstr "活動が停止"
+
+msgid "xoa"
+msgstr "削除"
+
+msgid "xoa_tat_ca"
+msgstr "全て削除"
+
+msgid "quay_lai"
+msgstr "戻る"
+
+msgid "them_moi"
+msgstr "新しく追加する"
+
+msgid "cap_nhat"
+msgstr "アップデート"
+
+msgid "cap_nhat_moi_nhat"
+msgstr "最新のアップデート"
+
+msgid "chi_tiet_danh_muc"
+msgstr "項目の詳細"
+
+msgid "chi_tiet_tai_khoan"
+msgstr "アカウントの詳細"
+
+msgid "chi_tiet_nhom_quyen"
+msgstr "権限グループの詳細"
+
+msgid "vui_long_them_quyen_tai_khoan_truoc_khi_cai_dat"
+msgstr "インストールする前にアカウントの権限を追加してください"
+
+msgid "ban_khong_co_quyen_truy_cap_vao_trang_nay"
+msgstr "このサイトにアクセスできません"
+
+msgid "ban_khong_co_quyen_thuc_hien_hanh_dong_nay"
+msgstr "操作を実行する権限がありません"
+
+msgid "khong_co_quyen_truy_cap"
+msgstr "アクセス権限がありません"
+
+msgid "quay_lai_danh_sach"
+msgstr "項目を戻る"
+
+msgid "danh_muc_cha"
+msgstr "親項目"
+
+msgid "ten_danh_muc"
+msgstr "項目名"
+
+msgid "ngay_tao"
+msgstr "作成日"
+
+msgid "chi_tiet"
+msgstr "詳細"
+
+msgid "luu_&_tiep_tuc"
+msgstr "保存&amp; 続き"
+
+msgid "luu_&_them_moi"
+msgstr "保存 &amp; 新しく作成"
+
+msgid "luu_&_quay_lai"
+msgstr "保存 &amp; 戻る"
+
+msgid "thay_doi_trang_thai"
+msgstr "状態を変更する"
+
+msgid "lua_chon"
+msgstr "選択"
+
+msgid "cai_dat"
+msgstr "設定"
+
+msgid "giao_dien_website"
+msgstr "ウェブサイトのインターフェイス"
+
+msgid "cai_dat_giao_dien"
+msgstr "インターフェイスの設定"
+
+msgid "quan_ly_module"
+msgstr "モジュール管理"
+
+msgid "quan_ly_menu"
+msgstr "メニュー管理"
+
+msgid "tuy_chinh_giao_dien"
+msgstr "インターフェースをカスタマイズする"
+
+msgid "tuy_chinh_css"
+msgstr "Cssでカスタマイズする"
+
+msgid "tuy_chinh_javascript"
+msgstr "Javascriptでカスタマイズする"
+
+msgid "tuy_chinh_javascript_cho_website"
+msgstr "ウェブサイトのJavascriptをカスタマイズする"
+
+msgid "ma_nhung"
+msgstr "埋め込みコード"
+
+msgid "khong_lay_duoc_thong_tin_giao_dien"
+msgstr "インターフェース情報を取得できません"
+
+msgid "ban_hang"
+msgstr "売る"
+
+msgid "thuong_mai_dien_tu"
+msgstr "eコマース"
+
+msgid "san_pham"
+msgstr "商品"
+
+msgid "giao_dich"
+msgstr "取引"
+
+msgid "lien_he"
+msgstr "問い合わせ"
+
+msgid "bao_cao"
+msgstr "報告"
+
+msgid "them_san_pham"
+msgstr "商品を追加する"
+
+msgid "danh_muc_san_pham"
+msgstr "商品の項目"
+
+msgid "danh_sach_tinh_thanh_thanh_pho"
+msgstr "都市のリスト"
+
+msgid "danh_sach_quan_huyen"
+msgstr "県のリスト"
+
+msgid "danh_sach_phuong_xa"
+msgstr "町のリスト"
+
+msgid "thay_doi_vi_tri"
+msgstr "位置を変更する"
+
+msgid "danh_muc_bai_viet"
+msgstr "投稿の項目"
+
+msgid "danh_muc"
+msgstr "項目"
+
+msgid "them_danh_muc"
+msgstr "項目を追加する"
+
+msgid "them_danh_muc_san_pham"
+msgstr "商品の項目を追加する"
+
+msgid "them_danh_muc_bai_viet"
+msgstr "記事の項目を追加する"
+
+msgid "thuong_hieu"
+msgstr "ブランド"
+
+msgid "them_thuong_hieu"
+msgstr "ブランドを追加する"
+
+msgid "xoa_du_lieu_thuong_hieu"
+msgstr "ブランド情報を削除する"
+
+msgid "khuyen_mai"
+msgstr "割引"
+
+msgid "chuong_trinh_khuyen_mai"
+msgstr "プロモーション"
+
+msgid "chuong_trinh_coupon"
+msgstr "割引クーポン"
+
+msgid "khong_tim_thay_chuong_trinh_khuyen_mai_phu_hop"
+msgstr "一致するプロモーションが見つかりません"
+
+msgid "hien_thi_chuong_trinh_trong_danh_sach_khuyen_mai_cua_khach_hang"
+msgstr "顧客のプロモーションリストを表示する"
+
+msgid "ma_coupon"
+msgstr "クーポンコード"
+
+msgid "don_hang"
+msgstr "注文"
+
+msgid "them_don_hang"
+msgstr "注文を追加する"
+
+msgid "giao_dich_thanh_toan"
+msgstr "支払い取引"
+
+msgid "ban_giao_van_chuyen"
+msgstr "配送の引き渡し"
+
+msgid "bao_cao_don_hang"
+msgstr "注文を報告する"
+
+msgid "theo_ngay_thang"
+msgstr "日付による"
+
+msgid "theo_tinh_thanh"
+msgstr "県による"
+
+msgid "theo_gia_tri"
+msgstr "価格による"
+
+msgid "theo_nguon_don"
+msgstr "注文由来による"
+
+msgid "tai_khoan"
+msgstr "アカウント"
+
+msgid "danh_sach_tai_khoan"
+msgstr "アカウントリスト"
+
+msgid "them_tai_khoan"
+msgstr "アカウントを追加する"
+
+msgid "cap_nhat_tai_khoan"
+msgstr "アカウントをアップデートする"
+
+msgid "thong_tin_tai_khoan"
+msgstr "アカウントの情報"
+
+msgid "thong_tin_ca_nhan"
+msgstr "個人情報"
+
+msgid "doi_mat_khau"
+msgstr "パスワードを変更する"
+
+msgid "ten_dang_nhap"
+msgstr "アカウント名を変更する"
+
+msgid "mat_khau"
+msgstr "パスワード"
+
+msgid "xac_nhan_mat_khau"
+msgstr "パスワードを再確認する"
+
+msgid "ho_va_ten"
+msgstr "名前"
+
+msgid "ho_ten_day_du"
+msgstr "フルネーム"
+
+msgid "so_dien_thoai"
+msgstr "電話番号"
+
+msgid "email"
+msgstr "Eメール"
+
+msgid "dia_chi"
+msgstr "住所"
+
+msgid "ngay_sinh"
+msgstr "生年月日"
+
+msgid "gioi_tinh"
+msgstr "性別"
+
+msgid "nam"
+msgstr "男性"
+
+msgid "nu"
+msgstr "女性"
+
+msgid "khac"
+msgstr "その他"
+
+msgid "nhom_quyen"
+msgstr "権限グループ"
+
+msgid "them_nhom_quyen"
+msgstr "権限グループを追加する"
+
+msgid "cap_nhat_nhom_quyen"
+msgstr "権限グループの更新"
+
+msgid "thong_tin_nhom quyen"
+msgstr "権限グループ情報"
+
+msgid "mo_ta_ngan"
+msgstr "簡単な説明"
+
+msgid "phan_quyen"
+msgstr "分散"
+
+msgid "khach_hang"
+msgstr "顧客"
+
+msgid "them_khach_hang"
+msgstr "顧客を追加する"
+
+msgid "quan_ly_bai_viet"
+msgstr "投稿を管理する"
+
+msgid "bai_viet"
+msgstr "投稿"
+
+msgid "danh_sach_bai_viet"
+msgstr "投稿リスト"
+
+msgid "them_bai_viet"
+msgstr "投稿を追加する"
+
+msgid "cap_nhat_bai_viet"
+msgstr "投稿を更新する"
+
+msgid "thong_tin_chinh"
+msgstr "主要なトピックス"
+
+msgid "tieu_de"
+msgstr "タイトル"
+
+msgid "mo_ta_ngan"
+msgstr "簡単な説明"
+
+msgid "noi_dung"
+msgstr "内容"
+
+msgid "duong_dan"
+msgstr "パス"
+
+msgid "duong_dan_den"
+msgstr "リンク先"
+
+msgid "duong_dan_chuyen_huong"
+msgstr "リダイレクト"
+
+msgid "thong_tin_khac"
+msgstr "その他の情報"
+
+msgid "mo_ta_seo"
+msgstr "SEOの説明"
+
+msgid "tu_khoa_seo"
+msgstr "SEOキーワード"
+
+msgid "tieu_de_seo"
+msgstr "SEOタイトル"
+
+msgid "anh_seo"
+msgstr "SEO画像"
+
+msgid "tu_khoa_seo"
+msgstr "SEOキーワード"
+
+msgid "the_bai_viet"
+msgstr "タイトルタグ"
+
+msgid "xoa_du_lieu_the_bai_viet"
+msgstr "タイトルタグ情報を削除する"
+
+msgid "site_map"
+msgstr "サイトマップ"
+
+msgid "chuyen_huong_301"
+msgstr "301リダイレクト"
+
+msgid "chuyen_huong_https"
+msgstr "HTTPSリダイレクト"
+
+msgid "ten_the"
+msgstr "タグ名"
+
+msgid "danh_sach_the_bai_viet"
+msgstr "タイトルタグのリスト"
+
+msgid "vui_long_nhap_ten_the"
+msgstr "タグ名を入力してください"
+
+msgid "ten_the_da_ton_tai_tren_he_thong"
+msgstr "タグ名がシステム上に存在しています"
+
+msgid "ngon_ngu_khong_hop_le"
+msgstr "不適合な言語です"
+
+msgid "khong_lay_duoc_thong_tin_ngon_ngu_cua_website"
+msgstr "ウェブサイトの言語情報を取得できません"
+
+msgid "chi_ho_tro_{0}_the_va_do_dai_moi_the_khong_qua_{1}_ky_tu"
+msgstr "{0}タグのみがサポートされており、各タグの長さは{1}文字を超えることはできません"
+
+msgid "chi_ho_tro_{0}_tu_khoa_va_do_dai_moi_tu_khoa_khong_qua_{1}_ky_tu"
+msgstr "{0}キーワードのみがサポートされており、各キーワードの長さは{1}文字以下です。"
+
+msgid "anh_chinh"
+msgstr "メイン写真"
+
+msgid "album"
+msgstr "アルバム"
+
+msgid "video"
+msgstr "ビデオ"
+
+msgid "cong_thanh_toan"
+msgstr "ペイメントゲートウェイ"
+
+msgid "thiet_lap_cong_thanh_toan"
+msgstr "ペイメントゲートウェイを設立する"
+
+msgid "thiet_lap_hang_van_chuyen"
+msgstr "郵送会社を選択する"
+
+msgid "cau_hinh_don_hang"
+msgstr "注文構成"
+
+msgid "thiet_lap_cau_hinh_don_hang"
+msgstr "注文構成を設定する"
+
+msgid "ap_dung_tru_so_luong_san_pham_sau_khi_tao_don_hang"
+msgstr "注文を作成した後、商品数を引くことを適用する"
+
+msgid "dieu_kien_ap_dung_tru_so_luong_san_pham"
+msgstr "商品数量を引く条件"
+
+msgid "sau_khi_tao_don_hang_moi"
+msgstr "新しい注文を作成した後"
+
+msgid "sau_khi_xac_nhan_don_hang"
+msgstr "注文確認後"
+
+msgid "sau_khi_xuat_kho"
+msgstr "発送後"
+
+msgid "danh_sach_giao_dich"
+msgstr "取引リスト"
+
+msgid "cai_dat_chung"
+msgstr "一般設定"
+
+msgid "thong_tin_website"
+msgstr "ウェブサイト情報"
+
+msgid "thiet_lap_website"
+msgstr "ウェブサイトのセットアップ"
+
+msgid "thiet_lap_seo"
+msgstr "Seoのセットアップ"
+
+msgid "phat_trien"
+msgstr "発展"
+
+msgid "da_thiet_lap"
+msgstr "セットアップした"
+
+msgid "ngon_ngu"
+msgstr "言語"
+
+msgid "vi_tri"
+msgstr "位置"
+
+msgid "van_chuyen"
+msgstr "輸送"
+
+msgid "hang_van_chuyen"
+msgstr "輸送会社"
+
+msgid "mau_in"
+msgstr "印刷サンプル
+
+msgid "tinh_thanh"
+msgstr "県府"
+
+msgid "he_thong"
+msgstr "システム"
+
+msgid "xoa_cache"
+msgstr "Cacheを削除する"
+
+msgid "bao_mat"
+msgstr "セキュリティ"
+
+msgid "ho_tro"
+msgstr "サポート"
+
+msgid "ho_tro_khach_hang"
+msgstr "カスタマサポート"
+
+msgid "huong_dan_su_dung"
+msgstr "使用マニュアル"
+
+msgid "phan_hoi"
+msgstr "フィードバック"
+
+msgid "thong_tin_goi_website"
+msgstr "ウェブサイトパッケージ情報"
+
+msgid "cap_nhat_thanh_cong"
+msgstr "更新成功"
+
+msgid "cap_nhat_khong_thanh_cong"
+msgstr "更新に失敗"
+
+msgid "xoa_du_lieu_thanh_cong"
+msgstr "データを完全消去"
+
+msgid "xu_ly_du_lieu_thanh_cong"
+msgstr "データ処理完了"
+
+msgid "loi_xu_ly_du_lieu"
+msgstr "データ処理エラー"
+
+msgid "phuong_thuc_khong_hop_le"
+msgstr "無効な方法"
+
+msgid "du_lieu_khong_hop_le"
+msgstr "無効なデータ"
+
+msgid "khong_lay_duoc_thong_tin_ban_ghi"
+msgstr "ログ情報を取得できません"
+
+msgid "ten_dang_nhap_da_ton_tai_tren_he_thong"
+msgstr "ユーザーアカウントはすでにシステムに存在します"
+
+msgid "email_da_ton_tai_tren_he_thong"
+msgstr "メールはすでにシステムに存在します"
+
+msgid "chua_dung_dinh_dang_ngay_thang"
+msgstr "日付形式が正しくありません"
+
+msgid "vui_long_chon_ngon_ngu"
+msgstr "言語を選択してください"
+
+msgid "vui_long_nhap_tieu_de"
+msgstr "タイトルを入力してください"
+
+msgid "vui_long_nhap_duong_dan"
+msgstr "パスを入力してください"
+
+msgid "duong_dan_da_ton_tai_tren_he_thong"
+msgstr "パスはすでにシステムに存在します"
+
+msgid "co_the_su_dung_duong_dan_nay"
+msgstr "このパスは使用できます"
+
+msgid "ten_thuong_hieu"
+msgstr "ブランド名"
+
+msgid "thong_tin_cap_nhat"
+msgstr "更新情報"
+
+msgid "ngon_ngu_hien_tai"
+msgstr "現在の言語"
+
+msgid "sua_ban_dich"
+msgstr "翻訳を編集する"
+
+msgid "nguoi_tao"
+msgstr "作者"
+
+msgid "thoi_gian_tao"
+msgstr "作成日付"
+
+msgid "cap_nhat_moi"
+msgstr "新しいアップデート"
+
+msgid "bai_noi_bat"
+msgstr "注目投稿"
+
+msgid "album_anh"
+msgstr "アルバム"
+
+msgid "chon_anh_album"
+msgstr "アルバムを選択する"
+
+msgid "chon_video"
+msgstr "ビデオを選択する"
+
+msgid "xoa_tep"
+msgstr "ファイルを削除する"
+
+msgid "quan_ly_danh_muc"
+msgstr "カテゴリを管理する"
+
+msgid "tep_dinh_kem"
+msgstr "添付ファイル"
+
+msgid "chon_tep_dinh_kem"
+msgstr "添付ファイルを選択する"
+
+msgid "voi_kieu_video_youtube_url_chi_dien_ma_video"
+msgstr "ユーチューブ動画は、ビデオコードを入力するだけです"
+
+msgid "ten_cong_ty"
+msgstr "会社名"
+
+msgid "ten_cong_ty"
+msgstr "会社名"
+
+msgid "favicon"
+msgstr "ファビコン"
+
+msgid "logo"
+msgstr "ロゴ"
+
+msgid "hotline"
+msgstr "ホットライン"
+
+msgid "luu_lai"
+msgstr "保存"
+
+msgid "copyright"
+msgstr "著作権"
+
+msgid "ten_co_so"
+msgstr "支店名"
+
+msgid "ten_website"
+msgstr "サイト名"
+
+msgid "them_moi_chi_nhanh"
+msgstr "新しい支店を追加する"
+
+msgid "co"
+msgstr "はい"
+
+msgid "khong"
+msgstr "いいえ"
+
+msgid "thong_tin_seo"
+msgstr "SEO情報"
+
+msgid "tai_tep_robots"
+msgstr "ロボットファイルをダウンロードする"
+
+msgid "cau_hinh_seo"
+msgstr "SEO構成"
+
+msgid "cau_hinh_seo"
+msgstr "SEO構成"
+
+msgid "luu_cau_hinh_sitemap"
+msgstr "サイトマップ構成を保存する"
+
+msgid "luu_cau_hinh_chuyen_huong_301"
+msgstr "リダイレクト301構成を保存する"
+
+msgid "phan_nhom_sitemap"
+msgstr "サイトマップをグループを分別する"
+
+msgid "chia_sitemap_theo_nam"
+msgstr "サイトマップを年で分割する"
+
+msgid "chia_sitemap_thanh_cac_nhom_nho_giup_viec_hien_thi_sitemap_nhanh_va_de_dang_hon"
+msgstr "サイトアップを小さなグループに分割すると、サイトマップの表示がより速くなります"
+
+msgid "chung_toi_khuyen_khich_su_dung_chuc_nang_nay_voi_cac_website_co_tu_500_duong_dan_tro_len"
+msgstr "リンク数が500以上のウェブサイトでこの機能を使用することをお勧めします"
+
+msgid "khi_website_cua_ban_hoat_dong_lau_nam_va_da_co_qua_nhieu_duong_dan_thi_ban_nen_chia_sitemap_theo_cac_nam_de_dam_bao_sitemap_luon_duoc_hien_thi_tot_nhat"
+msgstr "サイトが長期間稼働していて、リンクが多すぎる場合は、サイトマップを年で割って、サイトマップが常に最高の状態で表示されるようにする"
+
+msgid "chi_hoat_dong_khi_sitemap_duoc_cau_hinh_phan_theo_nhom"
+msgstr "サイトマップがグループで構成されている場合にのみ稼働する"
+
+msgid "tai_len"
+msgstr "アップロード"
+
+msgid "tai_len_tat_ca"
+msgstr "全てアップロード"
+
+msgid "chi_ho_tro_dinh_dang_tep_txt"
+msgstr ".txtフォルダーのみサポートする"
+
+msgid "chi_ho_tro_dinh_dang_file_txt"
+msgstr ".txtファイルのみサポートする"
+
+msgid "chi_ho_tro_dinh_dang_file_xml"
+msgstr ".xmlファイルのみサポートする"
+
+msgid "chon_tep_robots"
+msgstr "robots.txtフォルダーを選択する"
+
+msgid "ten_tep_khong_chinh_xac"
+msgstr "フォルダー名が正しくありません"
+
+msgid "tep_tin_khong_hop_le"
+msgstr "無効なファイル"
+
+msgid "sai_dinh_dang"
+msgstr "間違ったフォーマット"
+
+msgid "nhap_file_robots"
+msgstr "ロボットファイルを入力する"
+
+msgid "tai_xuong_file_robots"
+msgstr "ファイルロボットをダウンロードする"
+
+msgid "chua_co_file_robots"
+msgstr "ロボットファイルはまだありません"
+
+msgid "duong_dan_tinh"
+msgstr "パーマリンク"
+
+msgid "cai_dat_co_ban"
+msgstr "基本設定"
+
+msgid "mac_dinh"
+msgstr "デフォルト"
+
+msgid "ngon_ngu_va_ten_bai_viet"
+msgstr "言語と記事のタイトル"
+
+msgid "danh_muc_va_ten_bai_viet"
+msgstr "カテゴリと記事のタイトル"
+
+msgid "tieu_de_bai_viet"
+msgstr "記事のタイトル"
+
+msgid "tuy_bien"
+msgstr "カスタマイズ"
+
+msgid "file_htaccess"
+msgstr ".htaccessファイル"
+
+msgid "htaccess"
+msgstr ".htaccess"
+
+msgid "id"
+msgstr "ID"
+
+msgid "tieu-de"
+msgstr "タイトル"
+
+msgid "danh-muc"
+msgstr "項目"
+
+msgid "nam_year"
+msgstr "年"
+
+msgid "thang"
+msgstr "月"
+
+msgid "ngay"
+msgstr "日"
+
+msgid "gio"
+msgstr "時"
+
+msgid "gio"
+msgstr "時"
+
+msgid "cau_hinh_email"
+msgstr "メール構成"
+
+msgid "template_email"
+msgstr "テンプレートメール"
+
+msgid "gui_thu"
+msgstr "メールを送信する"
+
+msgid "email_ung_dung"
+msgstr "メールアプリ"
+
+msgid "mat_khau_ung_dung"
+msgstr "パスワード"
+
+msgid "email_host"
+msgstr "メールホスト"
+
+msgid "quan_tri_nhan_thong_bao"
+msgstr "管理者は通知を受け取ります"
+
+msgid "email_quan_tri"
+msgstr "管理者メール"
+
+msgid "mau_email"
+msgstr "メールテンプレート"
+
+msgid "tieu_de_email_gui"
+msgstr "送信された電子メールの件名"
+
+msgid "email_gui_kem_cc"
+msgstr "添付メール（CC）"
+
+msgid "email_gui_kem_an_danh_bcc"
+msgstr "添付メール（匿名-BCC）"
+
+msgid "mau_template"
+msgstr "テンプレート"
+
+msgid "mau_dung_san_khong_phep_sua"
+msgstr "事前に作成されたテンプレート（編集は許可されていません）"
+
+msgid "tu_thiet_ke"
+msgstr "自己設計"
+
+msgid "luu_mau_email"
+msgstr "メールテンプレートを保存"
+
+msgid "email_nhan"
+msgstr "受信したメール"
+
+msgid "gui_email"
+msgstr "メールを送る"
+
+msgid "gmail"
+msgstr "Gメール"
+
+msgid "yahoo_mail"
+msgstr "ヤフーメール"
+
+msgid "hotmail_live"
+msgstr "Hotmail、Liveメール"
+
+msgid "khac"
+msgstr "その他"
+
+msgid "khong_duoc_thay_doi_mau_email_mac_dinh"
+msgstr "デフォルトのメールテンプレートを変更できません"
+
+msgid "luu_lai_css"
+msgstr "css保存"
+
+msgid "luu_lai_javascript"
+msgstr "javascript保存"
+
+msgid "chon_anh"
+msgstr "画像を選択する"
+
+msgid "ma_nhung_trong_the_head"
+msgstr "headタグ内の埋め込みコード"
+
+msgid "ma_nhung_phia_tren_the_body"
+msgstr "bodyタグの上の埋め込みコード"
+
+msgid "ma_nhung_phia_duoi_the_body"
+msgstr "bodyタグの下の埋め込みコード"
+
+msgid "chinh_sua_giao_dien"
+msgstr "インターフェースの編集"
+
+msgid "danh_sach_thu_muc"
+msgstr "項目リスト"
+
+msgid "noi_dung_file_chinh_sua"
+msgstr "編集されたファイルの内容"
+
+msgid "chi_ho_tro_dinh_dang_file"
+msgstr "ファイル形式のみがサポートされている"
+
+msgid "them_file"
+msgstr "追加ファイル"
+
+msgid "tai_len"
+msgstr "アップロード"
+
+msgid "tai_file_len"
+msgstr "ファイルをアップロードする"
+
+msgid "khong_cho_phep_doc_file_này"
+msgstr "このファイルの読み取りは許可されていません"
+
+msgid "khong_cho_phep_luu_file_voi_dinh_dang_nay"
+msgstr "この形式でファイルを保存することは許可されていません"
+
+msgid "file_nay_khong_ton_tai"
+msgstr "このファイルは存在しません"
+
+msgid "ten_chua_duoc_thay_doi"
+msgstr "名前は変更されていません"
+
+msgid "doi_ten_thanh_cong"
+msgstr "名前の変更に成功"
+
+msgid "file_khong_ton_tai"
+msgstr "ファイルが存在しません"
+
+msgid "file_da_duoc_xoa"
+msgstr "ファイルが削除された"
+
+msgid "folder_da_duoc_xoa"
+msgstr "フォルダが削除された"
+
+msgid "kich_thuoc_tep_tin_qua_lon"
+msgstr "ファイルのサイズが大きすぎる"
+
+msgid "hien_thi"
+msgstr "表示する"
+
+msgid "khong_hien_thi"
+msgstr "表示しない"
+
+msgid "ngung_kinh_doanh"
+msgstr "営業を停止する"
+
+msgid "hien_thi_muc_luc"
+msgstr "目次を表示する"
+
+msgid "ban_luu_nhap"
+msgstr "ドラフト"
+
+msgid "chon"
+msgstr "選択"
+
+msgid "tu"
+msgstr "から"
+
+msgid "den"
+msgstr "まで"
+
+msgid "khong_co_anh"
+msgstr "写真がない"
+
+msgid "co_anh"
+msgstr "写真があり"
+
+msgid "cua_hang"
+msgstr "店舗"
+
+msgid "ten_cua_hang"
+msgstr "店舗名"
+
+msgid "danh_dau"
+msgstr "印をつける"
+
+msgid "san_pham_noi_bat"
+msgstr "注目商品"
+
+msgid "hinh_anh"
+msgstr "画像"
+
+msgid "hien_thi_ngoai_website"
+msgstr "ウェブサイト外に表示する"
+
+msgid "ma_san_pham"
+msgstr "商品コード"
+
+msgid "gia"
+msgstr "価格"
+
+msgid "muc_gia"
+msgstr "価格帯"
+
+msgid "ngay_khuyen_mai"
+msgstr "プロモーションデー"
+
+msgid "gia_dac_biet"
+msgstr "特別価格"
+
+msgid "can_nang"
+msgstr "体重"
+
+msgid "chieu_dai"
+msgstr "長さ"
+
+msgid "chieu_rong"
+msgstr "広さ"
+
+msgid "chieu_cao"
+msgstr "高さ"
+
+msgid "so_luong"
+msgstr "数量"
+
+msgid "phien_ban"
+msgstr "バージョン"
+
+msgid "dong_y"
+msgstr "同意"
+
+msgid "huy_bo"
+msgstr "キャンセル"
+
+msgid "gia_khong_nho_hon_gia_dac_biet"
+msgstr "価格は特別価より低くない"
+
+msgid "chua_dien_gia"
+msgstr "価格をまだ入力していない"
+
+msgid "ghi_chu"
+msgstr "メモ"
+
+msgid "ma_khach_hang"
+msgstr "お客様のコード"
+
+msgid "neu_khong_nhap_he_thong_se_tu_dong_sinh_ra_ma"
+msgstr "コードを入力しない場合、システムは自動的にコードを生成します"
+
+msgid "ten"
+msgstr "名前"
+
+msgid "them_moi_dia_chi"
+msgstr "新しい住所を追加する"
+
+msgid "them_moi_ghi_chu"
+msgstr "新しいメモを追加する"
+
+msgid "zip_code"
+msgstr "郵便番号"
+
+msgid "cap_nhat_khach_hang"
+msgstr "カスタマーアップデート"
+
+msgid "ten_khach_hang"
+msgstr "お客様のお名前"
+
+msgid "ten_da_ton_tai_tren_he_thong"
+msgstr "名前はすでにシステムに存在します"
+
+msgid "vui_long_nhap_ten_khach_hang"
+msgstr "お客様の名前を入力してください"
+
+msgid "email_da_duoc_dang_ky"
+msgstr "メールが登録されました"
+
+msgid "so_dien_thoai_da_duoc_dang_ky"
+msgstr "電話番号が登録されました"
+
+msgid "ngay_sinh_chua_dung_dinh_dang_ngay_thang"
+msgstr "生年月日が正しい日付形式ではありません"
+
+msgid "khong_xoa_duoc_dia_chi_mac_dinh"
+msgstr "デフォルトのアドレスは削除できません"
+
+msgid "nhan_vien_cham_soc"
+msgstr "担当者"
+
+msgid "tinh_thanh_thanh_pho"
+msgstr "市県"
+
+msgid "quan_huyen"
+msgstr "区地域"
+
+msgid "phuong_xa"
+msgstr "区"
+
+msgid "neu_khong_nhap_he_thong_se_tu_dong_sinh_ra_ma_khach_hang"
+msgstr "入力しない場合、システムは自動的に顧客コードを生成します"
+
+msgid "thong_tin_co_ban"
+msgstr "基本情報"
+
+msgid "chi_tiet_khach_hang"
+msgstr "顧客の詳細情報"
+
+msgid "don_hang_cua_toi"
+msgstr "私の注文"
+
+msgid "so_dia_chi"
+msgstr "住所"
+
+msgid "ma_don_hang"
+msgstr "注文コード"
+
+msgid "tong_tien"
+msgstr "合計金額"
+
+msgid "ten_dia_chi"
+msgstr "住所名"
+
+msgid "them_dia_chi"
+msgstr "住所を追加する"
+
+msgid "don_hang_moi"
+msgstr "新しい注文"
+
+msgid "xac_nhan"
+msgstr "確認"
+
+msgid "dong_goi"
+msgstr "包装"
+
+msgid "xuat_kho"
+msgstr "発送"
+
+msgid "hoan_thanh"
+msgstr "完了"
+
+msgid "huy"
+msgstr "キャンセル"
+
+msgid "chinh_sua"
+msgstr "編集"
+
+msgid "danh_sach_don_van"
+msgstr "輸送リスト"
+
+msgid "cho_lay_hang"
+msgstr "商品の受付を待つ"
+
+msgid "dang_giao_hang"
+msgstr "発送中"
+
+msgid "da_giao_hang"
+msgstr "お届け済"
+
+msgid "huy_dong_goi"
+msgstr "包装キャンセル"
+
+msgid "huy_giao_va_cho_nhan"
+msgstr "配達をキャンセルしたが受け取るのを待っている"
+
+msgid "huy_giao_va_da_nhan"
+msgstr "配達をキャンセルしたが受け取った"
+
+msgid "thong_tin_don_van"
+msgstr "配送情報"
+
+msgid "ma_don_van"
+msgstr "注文番後"
+
+msgid "ma_hoa_don"
+msgstr "領収書番号"
+
+msgid "tinh_trang_giao_hang"
+msgstr "配送状況"
+
+msgid "phuong_thuc"
+msgstr "方法"
+
+msgid "tien_thu_ho_cod"
+msgstr "収納代行(COD)"
+
+msgid "phi_tinh_cho_khach"
+msgstr "お客様の料金"
+
+msgid "phi_tra_dtgh"
+msgstr "輸送会社に支払う料金"
+
+msgid "trong_luong"
+msgstr "重さ"
+
+msgid "kich_thuoc"
+msgstr "サイズ"
+
+msgid "dai"
+msgstr "長さ"
+
+msgid "rong"
+msgstr "広さ"
+
+msgid "cao"
+msgstr "高さ"
+
+msgid "thong_tin_nguoi_nhan"
+msgstr "受取人の情報"
+
+msgid "nguoi_nhan"
+msgstr "受取人"
+
+msgid "thong_tin_san_pham"
+msgstr "商品の情報"
+
+msgid "ma"
+msgstr "コード"
+
+msgid "ten_san_pham"
+msgstr "商品名"
+
+msgid "chiet_khau"
+msgstr "割引"
+
+msgid "thue"
+msgstr "税金"
+
+msgid "thanh_tien"
+msgstr "合計"
+
+msgid "phi_van_chuyen"
+msgstr "送料"
+
+msgid "khach_phai_tra"
+msgstr "お客様が支払う料金"
+
+msgid "nhan_tai_cua_hang"
+msgstr "店舗で受け取り"
+
+msgid "van_chuyen_thong_thuong"
+msgstr "通常配送"
+
+msgid "hang_van_chuyen"
+msgstr "配送業者"
+
+msgid "chi_tiet_don_van"
+msgstr "配送注文情報"
+
+msgid "thong_tin_chi_nhanh"
+msgstr "支店情報"
+
+msgid "ten_chi_nhanh"
+msgstr "支店名"
+
+msgid "ten_nguoi_dai_dien"
+msgstr "代表者名"
+
+msgid "ma_chi_nhanh"
+msgstr "支店コード"
+
+msgid "ma_buu_dien"
+msgstr "郵便番号"
+
+msgid "so_dien_thoai_chi_nhanh"
+msgstr "支店の電話番号"
+
+msgid "dia_chi_chi_nhanh"
+msgstr "支店の住所"
+
+msgid "chi_nhanh_mac_dinh"
+msgstr "デフォルト支店"
+
+msgid "maps"
+msgstr "地図"
+
+msgid "mo_ta_chi_nhanh"
+msgstr "支店の説明"
+
+msgid "them_chi_nhanh"
+msgstr "支店を追加する"
+
+msgid "chi_nhanh"
+msgstr "支店"
+
+msgid "chi_tiet_chi_nhanh"
+msgstr "支店の情報"
+
+msgid "tong_quan"
+msgstr "概要"
+
+msgid "giao_dien"
+msgstr "インターフェイス"
+
+msgid "cau_hinh"
+msgstr "構成"
+
+msgid "xin_chao"
+msgstr "こんにちは"
+
+msgid "quan_ly_giao_dien"
+msgstr "インターフェイス管理"
+
+msgid "thiet_lap_giao_dien"
+msgstr "インターフェース設定"
+
+msgid "danh_sach_giao_dien"
+msgstr "インターフェイスのリスト"
+
+msgid "quan_ly_va_thiet_lap_giao_dien_mac_dinh"
+msgstr "デフォルトのインターフェースを管理および設定する"
+
+msgid "cai_dat_va_thiet_lap_giao_dien"
+msgstr "インターフェイスのインストールとセットアップ"
+
+msgid "chinh_sua_file_giao_dien_goc"
+msgstr "元のインターフェイスファイルを編集する"
+
+msgid "tuy_chinh_css_cho_website"
+msgstr "サイトのcssをカスタマイズする"
+
+msgid "tuy_chinh_javascript_cho website"
+msgstr "サイトのjavascriptをカスタマイズする"
+
+msgid "thiet_lap_block"
+msgstr "ブロックを設立する"
+
+msgid "danh_sach_block"
+msgstr "ブロックリスト"
+
+msgid "quan_ly_cac_block_cua_website"
+msgstr "ウェブサイトのブロックを管理する"
+
+msgid "them_block"
+msgstr "ブロックを追加する"
+
+msgid "them_block_moi_cho_website"
+msgstr "ウェブサイトのブロックを新しく追加する"
+
+msgid "thiet_lap_khac"
+msgstr "その他の設定"
+
+msgid "menu"
+msgstr "メニュー"
+
+msgid "quan_ly_thong_tin_menu"
+msgstr "メニューの情報を管理する"
+
+msgid "quan_ly_ma_nhung"
+msgstr "埋め込みコードを管理する"
+
+msgid "thiet_lap_thong_tin_website"
+msgstr "ウェブサイトの情報を設立する"
+
+msgid "thiet_lap_cau_hinh_seo"
+msgstr "SEOの構成を設立する"
+
+msgid "thiet_lap_duong_dan_tinh"
+msgstr "パーマリンクを設立する"
+
+msgid "thiet_lap_cau_hinh_email"
+msgstr "メールの構成を設立する"
+
+msgid "thiet_lap_ngon_ngu_website"
+msgstr "ウェブサイトの言語を設立する"
+
+msgid "thiet_lap_cau_hinh_mau_in"
+msgstr "印刷サンプルの構成を設立する"
+
+msgid "cai_dat_cua_hang"
+msgstr "店舗の設定"
+
+msgid "nguon_ban_hang"
+msgstr "サプライヤー"
+
+msgid "them_va_quan_ly_nguon_tao_ra_don_hang"
+msgstr "注文の作成を追加と管理する"
+
+msgid "thiet_lap_tai_khoan"
+msgstr "アカウントの設立"
+
+msgid "thiet_lap_nhom_quyen"
+msgstr "権限グループを設立する"
+
+msgid "thiet_lap_phan_quyen"
+msgstr "権限を設定する"
+
+msgid "cau_hinh_san_pham"
+msgstr "製品構成"
+
+msgid "thiet_lap_cau_hinh_san_pham"
+msgstr "製品構成の設立"
+
+msgid "kiem_tra_so_luong_san_pham_truoc_khi_them_vao_gio_hang"
+msgstr "カートに追加する前に商品の数量を確認してください"
+
+msgid "xoa_bo_nho_luu_tru_tam_thoi_cua_website"
+msgstr "ウェブサイトの書き替え可能なメモリーを削除する"
+
+msgid "bao_mat_cua_website"
+msgstr "ウェブサイトのセキュリティ"
+
+msgid "van_don"
+msgstr "注文"
+
+msgid "tao_don_hang"
+msgstr "注文を作成する"
+
+msgid "danh_sach_don_hang"
+msgstr "注文のリスト"
+
+msgid "khach_tra_hang"
+msgstr "お客様が返品"
+
+msgid "khach_tra_hang"
+msgstr "お客様が返品"
+
+msgid "dat_hang"
+msgstr "注文"
+
+msgid "duyet_don"
+msgstr "注文受付"
+
+msgid "thong_tin_don_hang"
+msgstr "注文内容"
+
+msgid "nguon_don_hang"
+msgstr "サプライヤー先"
+
+msgid "tao_moi_don"
+msgstr "注文を新しく作成する"
+
+msgid "nhan_vien"
+msgstr "スタッフ"
+
+msgid "thong_tin_khach_hang"
+msgstr "お客さ情報"
+
+msgid "tim_kiem_khach_hang_f4"
+msgstr "お客さんを探す(F4)"
+
+msgid "tim_kiem_san_pham_f3"
+msgstr "商品を探す(F3)"
+
+msgid "thanh_toan_don_hang"
+msgstr "注文を清算する"
+
+msgid "dong_goi_va_giao_hang"
+msgstr "包装と配送"
+
+msgid "xac_nhan_thanh_toan"
+msgstr "決済確認"
+
+msgid "dong_goi_cho_van_chuyen"
+msgstr "包装して、配送を待っている"
+
+msgid "hinh_thuc_thanh_toan"
+msgstr "支払い方法"
+
+msgid "tien_mat"
+msgstr "現金"
+
+msgid "chuyen_khoan"
+msgstr "銀行振り込み"
+
+msgid "quet_the"
+msgstr "クレジットカードで支払い"
+
+msgid "cod"
+msgstr "収納代行COD"
+
+msgid "so_tien_thanh_toan"
+msgstr "支払い金額"
+
+msgid "so_tien_thanh_toan_khong_duoc_lon_hon_gia_tri_don_hang"
+msgstr "お支払い金額は注文金額を超えることはできません"
+
+msgid "ma_tham_chieu"
+msgstr "参照コード"
+
+msgid "ngay_thanh_toan"
+msgstr "支払日"
+
+msgid "phi_van_chuyen_thu_khach_hang"
+msgstr "お客様が徴収する配送料"
+
+msgid "tu_van_chuyen"
+msgstr "自己配送"
+
+msgid "khach_hang_se_den_cua_hang_cua_ban_de_lay_hang"
+msgstr "お客さんが直接に店舗に受け取りに来る"
+
+msgid "ban_hay_them_khach_hang_de_su_dung_dich_vu_giao_hang"
+msgstr "配送サービスを利用するために顧客を追加してください"
+
+msgid "cap_nhat_tai_day"
+msgstr "ここでアップデート"
+
+msgid "tao_don_va_duyet"
+msgstr "注文作成と確認"
+
+msgid "them_moi_khach_hang"
+msgstr "新しい顧客を追加する"
+
+msgid "them_moi_san_pham"
+msgstr "新商品を追加する"
+
+msgid "ly_do"
+msgstr "理由"
+
+msgid "tao_don_hang_moi"
+msgstr "新しい注文を作成する"
+
+msgid "dia_chi_giao_hang"
+msgstr "配送先の住所"
+
+msgid "don_hang_da_duoc_thanh_toan_toan_bo"
+msgstr "注文は全額支払われました"
+
+msgid "da_thanh_toan"
+msgstr "清算済"
+
+msgid "giao_hang"
+msgstr "配送"
+
+msgid "dong"
+msgstr "閉じる"
+
+msgid "huy_don"
+msgstr "注文キャンセル"
+
+msgid "sua_thong_tin"
+msgstr "情報を修正する"
+
+msgid "dang_xuat"
+msgstr "Đăng xuất"
+
+msgid "chiet_khau_don_hang"
+msgstr "注文の割引"
+
+msgid "chi_tiet_don_hang"
+msgstr "注文内容"
+
+msgid "ngay_lap_don"
+msgstr "作成日"
+
+msgid "phuong_thuc_van_chuyen_khong_hop_le"
+msgstr "配送方法が無効です"
+
+msgid "vui_long_nhap_so_dien_thoai_khach_hang"
+msgstr "お客様の電話番号を入力してください"
+
+msgid "thong_tin_quoc_gia_chua_chinh_xac"
+msgstr "国の情報が正確ではありません"
+
+msgid "vui_long_chon_thong_tin_tinh_thanh"
+msgstr "都市情報を選択してください"
+
+msgid "vui_long_chon_thong_tin_quan_huyen"
+msgstr "地区情報を選択してください"
+
+msgid "luu_thong_tin_don_hang_khong_thanh_cong"
+msgstr "注文情報の保存が不成功"
+
+msgid "cap_nhat_ma_don_hang_khong_thanh_cong"
+msgstr "注文コードの更新が不成功"
+
+msgid "luu_thong_tin_thanh_toan_khong_thanh_cong"
+msgstr "支払い情報の保存が不成功"
+
+msgid "luu_thong_tin_van_chuyen_khong_thanh_cong"
+msgstr "配送情報の保存が不成功"
+
+msgid "loai_don_khong_hop_le"
+msgstr "無効な注文タイプ"
+
+msgid "khong_lay_duoc_thong_tin_hoa_don_lien_quan"
+msgstr "関連する請求書の情報を取得できません"
+
+msgid "trang_thai_khong_hop_le"
+msgstr "無効なステータス"
+
+msgid "vui_long_chon_san_pham"
+msgstr "商品をお選びください"
+
+msgid "id_san_pham_khong_hop_le"
+msgstr "無効な商品ID"
+
+msgid "loai_phieu_thanh_toan_khong_hop_le"
+msgstr "無効なバウチャータイプ"
+
+msgid "doi_tuong_thanh_toan_khong_hop_le"
+msgstr "無効な支払人"
+
+msgid "so_tien_thanh_toan_khong_hop_le"
+msgstr "お支払い金額が無効です"
+
+msgid "phuong_thuc_thanh_toan_khong_hop_le"
+msgstr "無効な支払い方法"
+
+msgid "upload_thanh_cong"
+msgstr "アップロード成功"
+
+msgid "danh_sach_don_tra_hang"
+msgstr "返品リクエストのリスト"
+
+msgid "tao_don_tra_hang"
+msgstr "返品リクエストを作成する"
+
+msgid "danh_sach_don_hang_thanh_cong"
+msgstr "注文リストの作成が完了"
+
+msgid "thanh_cong"
+msgstr "成功"
+
+msgid "trang_thai_thanh_toan"
+msgstr "支払い状況"
+
+msgid "thanh_toan_thanh_cong"
+msgstr "支払い完了"
+
+msgid "phuong_thuc_thanh_toan"
+msgstr "支払い方法"
+
+msgid "thanh_toan_tien_mat"
+msgstr "現金で支払い"
+
+msgid "ma_phieu_thanh_toan"
+msgstr "請求書番号"
+
+msgid "tat_ca_san_pham_da_duoc_giao"
+msgstr "全ての商品が配送完了"
+
+msgid "hoan_tra_hang_da_giao"
+msgstr "配達された商品を返却する"
+
+msgid "phuong_thuc_van_chuyen"
+msgstr "配送方法"
+
+msgid "tien_thu_ho"
+msgstr "収納代行の料金"
+
+msgid "phi_van_chuyen_thu_cua_khach"
+msgstr "お客様から徴収する配送料"
+
+msgid "hoan_tra"
+msgstr "返却"
+
+msgid "ngay_tra_hang"
+msgstr "返却日"
+
+msgid "tra_hang"
+msgstr "返品"
+
+msgid "so_luong_tra"
+msgstr "返品数量"
+
+msgid "so_luong_mua"
+msgstr "購入数量"
+
+msgid "so_luong_san_pham"
+msgstr "商品の数"
+
+msgid "tong_tien_tra_khach"
+msgstr "支払い合計額"
+
+msgid "hoan_tien"
+msgstr "返金"
+
+msgid "nhan_hang"
+msgstr "受け取る"
+
+msgid "da_nhan_hang_tra_lai"
+msgstr "返品を受け取った"
+
+msgid "don_hang_nay_da_hoan_tra_het_khong_the_tiep_tuc_thuc_hien"
+msgstr "この注文は全額返金されており、処理できません"
+
+msgid "khong_lay_duoc_thong_tin_san_pham_trong_don_hang"
+msgstr "注文リストで商品の情報を取得できません"
+
+msgid "ngay_nhan_hang"
+msgstr "商品の受付日"
+
+msgid "duoc_tra_tu_don_hang"
+msgstr "注文から返品する"
+
+msgid "xem_chi_tiet"
+msgstr "詳細を見る"
+
+msgid "xem"
+msgstr "見る"
+
+msgid "don_hang_da_duoc_hoan_tien_toan_bo"
+msgstr "全額返金されました"
+
+msgid "con_phai_tra"
+msgstr "まだ支払う必要がある"
+
+msgid "don_tra_hang_da_nhan_duoc_hang"
+msgstr "返品注文を受け付けました"
+
+msgid "thanh_toan"
+msgstr "支払い"
+
+msgid "nhan_hang_hoan_lai"
+msgstr "返品を受ける"
+
+msgid "xac_nhan_da_nhan_lai_hang_hoan_cua_khach_hang"
+msgstr "お客様の受け取った返品の確認"
+
+msgid "cap_nhat_thong_tin_khach_hang"
+msgstr "顧客の情報を更新する"
+
+msgid "da_tra_hang_hang_toan_bo"
+msgstr "全ての商品が返却された"
+
+msgid "ban_co_chac_chan_chan_xuat_kho_don_giao_hang_nay_khong"
+msgstr "この注文を発送してもよろしいですか"
+
+msgid "xac_nhan_huy_don_hang"
+msgstr "キャンセル確認"
+
+msgid "ban_chac_chan_muon_huy_don_hang"
+msgstr "この注文をキャンセルしてもよろしいですか"
+
+msgid "thao_tac_nay_khong_the_khoi_phuc_va_se_tac_dong_den"
+msgstr "このアクションは元に戻せず、影響を与えます"
+
+msgid "thay_doi_so_luong_san_pham"
+msgstr "商品の数量を変更する"
+
+msgid "thay_doi_trang_thai_va_thong_tin_cua_don_hang"
+msgstr "注文ステータスと情報の変更"
+
+msgid "huy_phieu_giao_van_va_thu_chi_don_hang"
+msgstr "商品の配送や収支をキャンセルする"
+
+msgid "tao_don_moi"
+msgstr "新しい注文を作成する"
+
+msgid "thanh_toan_loi"
+msgstr "支払いエラー"
+
+msgid "xac_nhan_thanh_toan"
+msgstr "支払い確認"
+
+msgid "cho_thu_ho"
+msgstr "収納代行を待つ"
+
+msgid "dang_cho_xac_nhan"
+msgstr "確認を待つ"
+
+msgid "dang_cho_duyet"
+msgstr "検閲を待っている"
+
+msgid "thanh_toan_chuyen_khoan"
+msgstr "振り込みで支払い"
+
+msgid "thanh_toan_quet_the"
+msgstr "クレジットカードで支払い"
+
+msgid "thanh_toan_qua_cong_thanh_toan"
+msgstr "ペイメントゲートウェイで支払い"
+
+msgid "thanh_toan_bang_voucher"
+msgstr "バウチャーで支払い"
+
+msgid "thanh_toan_thu_ho"
+msgstr "収納代行で支払い"
+
+msgid "cho_nhan_hang"
+msgstr "受け取りを待つ"
+
+msgid "da_nhan_hang"
+msgstr "商品受け取り完了"
+
+msgid "gui_qua_hang_van_chuyen"
+msgstr "配達業務に送る"
+
+msgid "huy_giao_hang"
+msgstr "配送をキャンセルする"
+
+msgid "huy_giao_va_nhan_lai_hang"
+msgstr "配達をキャンセルして、それを取り戻します"
+
+msgid "thay_doi_dia_chi"
+msgstr "住所を変更する"
+
+msgid "them_dia_chi_moi"
+msgstr "新しい住所を追加する"
+
+msgid "phi_van_chuyen_phai_chi_cho_nhan_vien_van_chuyen_hoac_hang_van_chuyen"
+msgstr "配送料は運送スタッフまたは運送業者に支払う必要があります"
+
+msgid "khoi_luong"
+msgstr "重さ"
+
+msgid "chieu_dai"
+msgstr "長さ"
+
+msgid "chieu_rong"
+msgstr "広さ"
+
+msgid "chieu_cao"
+msgstr "高さ"
+
+msgid "ban_hay_them_san_pham_vao_don_hang_de_su_dung_dich_vu_giao_hang"
+msgstr "配送サービスを利用するには、ご注文に商品を追加してください"
+
+msgid "thay_doi_dia_chi_giao_hang"
+msgstr "配送先の住所を変更する"
+
+msgid "khong_cho_phep_xoa_nguon_don_hang_nay"
+msgstr "この注文由来は削除できません"
+
+msgid "thong_tin_don_hang_khong_hop_le"
+msgstr "注文情報が無効です"
+
+msgid "cap_nhat_don_hang"
+msgstr "注文を更新する"
+
+msgid "khong_tim_thay_thong_tin_don_hang"
+msgstr "注文情報が見つかりません"
+
+msgid "so_tien_thanh_toan_vuot_qua_so_tien_can_thanh_toan"
+msgstr "お支払い金額が必要な支払い金額を超えています"
+
+msgid "khong_tim_thay_thong_tin_van_chuyen"
+msgstr "配送情報が見つかりません"
+
+msgid "don_hang_khach_tra"
+msgstr "お客さんの返品リスト"
+
+msgid "chi_tiet_don_tra_hang"
+msgstr "返品リスト内容"
+
+msgid "vui_long_chon_san_pham_vao_don_tra_hang"
+msgstr "商品を返品リストに入れてください"
+
+msgid "nhan_lai_hang_hoan_thanh_cong"
+msgstr "返品の受け取るが完了"
+
+msgid "trang_thuong"
+msgstr "通常のページ"
+
+msgid "trang_bo_cuc"
+msgstr "レイアウトページ"
+
+msgid "trang_chu"
+msgstr "トップページ"
+
+msgid "danh_sach_san_pham"
+msgstr "商品リスト"
+
+msgid "san_pham"
+msgstr "商品"
+
+msgid "chi_tiet_san_pham"
+msgstr "商品の内容"
+
+msgid "bai_viet"
+msgstr "投稿"
+
+msgid "chi_tiet_bai_viet"
+msgstr "投稿の内容"
+
+msgid "youtube"
+msgstr "ユーチューブ"
+
+msgid "phan_tich_bai_viet_va_tu_khoa"
+msgstr "投稿とキーワードの分析"
+
+msgid "cap_nhat_san_pham"
+msgstr "商品を更新する"
+
+msgid "cap_nhat_thong_tin"
+msgstr "情報を更新する"
+
+msgid "gia_va_so_luong_san_pham"
+msgstr "商品の価格を数量"
+
+msgid "chon_thuoc_tinh_san_pham"
+msgstr "商品の特徴を選択する"
+
+msgid "gia_va_phien_ban_san_pham"
+msgstr "商品のバージョンと価格"
+
+msgid "chon_thuoc_tinh"
+msgstr "特徴を選択する"
+
+msgid "anh_san_pham"
+msgstr "商品写真"
+
+msgid "san_co"
+msgstr "在庫がある"
+
+msgid "bo_san_pham_day_du"
+msgstr "フルセット"
+
+msgid "thay_doi_thuoc_tinh"
+msgstr "プロパティを変更する"
+
+msgid "cac_thanh_phan_gom_trong_bo_san_pham_nay"
+msgstr "このセットに含まれる成分"
+
+msgid "gia_ban_le_san_pham_cho_chuong_trinh_khuyen_mai"
+msgstr "プロモーションの小売価格"
+
+msgid "gia_khuyen_mai"
+msgstr "セール価格"
+
+msgid "sao_chep_thong_tin_phien_ban_dau_tien_cho_cac_phien_ban_con_lai"
+msgstr "最初のバージョン情報を残りのバージョンにコピーします"
+
+msgid "sao_chep_so_luong_phien_ban_dau_tien_cho_cac_phien_ban_con_lai"
+msgstr "最初のバージョンの数を残りのバージョンにコピーする"
+
+msgid "sao_chep_gia_phien_ban_dau_tien_cho_cac_phien_ban_con_lai"
+msgstr "最初のバージョンを残りのバージョンにコピーする"
+
+msgid "xoa_thong_tin_tat_ca_phien_ban"
+msgstr "すべてのバージョン情報を削除する"
+
+msgid "ap_dung_thuoc_tinh"
+msgstr "プロパティを適用する"
+
+msgid "chọn_thuoc_tinh"
+msgstr "特徴を選択する"
+
+msgid "them_phien_ban_san_pham"
+msgstr "商品バージョンを追加する"
+
+msgid "mo_ta_san_pham"
+msgstr "商品の説明"
+
+msgid "duong_dan_video"
+msgstr "ビデオリンク"
+
+msgid "chon_tep"
+msgstr "フォルダーを選択する"
+
+msgid "seo"
+msgstr "SEO"
+
+msgid "tu_khoa"
+msgstr "キーワード"
+
+msgid "tot"
+msgstr "良い"
+
+msgid "binh_thuong"
+msgstr "通常"
+
+msgid "chua_dat"
+msgstr "達成しない"
+
+msgid "chua_co"
+msgstr "まだない"
+
+msgid "code"
+msgstr "コード"
+
+msgid "tac_gia"
+msgstr "著者"
+
+msgid "version"
+msgstr "バージョン"
+
+msgid "kich_hoat_giao_dien"
+msgstr "インターフェイスを有効にする"
+
+msgid "dang_kich_hoat"
+msgstr "アクティブ中"
+
+msgid "cho_kich_hoat"
+msgstr "アクティベーションを待っている"
+
+msgid "them_giao_dien_moi"
+msgstr "新しいインターフェースを追加する"
+
+msgid "them_va_quan_ly_chi_nhanh"
+msgstr "支店の追加と管理"
+
+msgid "loai_block"
+msgstr "ブロックタイプ"
+
+msgid "ten_block"
+msgstr "ブロック名"
+
+msgid "ten_block"
+msgstr "ブロック名"
+
+msgid "cap_nhat_block"
+msgstr "ブロックを更新する"
+
+msgid "cau_hinh_chung"
+msgstr "一般的な構成"
+
+msgid "du_lieu_mo_rong"
+msgstr "拡張データ"
+
+msgid "sua_giao_dien"
+msgstr "インターフェースを編集する"
+
+msgid "lich_su_thay_doi"
+msgstr "変更履歴"
+
+msgid "nhung_class_se_duoc_dat_o_the_bao_ngoai_cua_block"
+msgstr "これらのクラスはブロックの外側のタグに配置される"
+
+msgid "lay_du_lieu_theo"
+msgstr "によってデータを取得する"
+
+msgid "tu_dong_theo_trang"
+msgstr "ページごとに自動"
+
+msgid "lay_tu_dong_theo_duong_dan"
+msgstr "パスで自動的に取得"
+
+msgid "luu_cau_hinh"
+msgstr "構成を保存する"
+
+msgid "tim_hieu_ve_json"
+msgstr "JSONについて調べる"
+
+msgid "du_lieu_mo_rong_se_duoc_luu_duoi_dang_json_va_block_co_the_doc_duoc_du_lieu_nay_de_hien_thi_ra_ngoai"
+msgstr "拡張データはJSONとして保存され、ブロックはこのデータを読み取って表示できます"
+
+msgid "so_ban_ghi_hien_thi"
+msgstr "表示されたレコードの数"
+
+msgid "so_luong_ban_ghi_se_hien_thi_trong_block"
+msgstr "ブロックに表示するレコードの数"
+
+msgid "su_dung_phan_trang"
+msgstr "ページ付けを使用する"
+
+msgid "neu_su_dung_phan_trang_thi_cau_hinh_so_san_pham_se_duoc_bo_qua"
+msgstr "ページ付けが使用されている場合、商品番号の構成は無視される"
+
+msgid "sap_xep_theo"
+msgstr "並べ替え"
+
+msgid "luot_xem"
+msgstr "閲覧数"
+
+msgid "luot_thich"
+msgstr "いいねの数"
+
+msgid "luot_binh_luan"
+msgstr "コメントの数"
+
+msgid "noi_bat"
+msgstr "注目"
+
+msgid "ngay_cap_nhat"
+msgstr "更新日"
+
+msgid "giam_dan"
+msgstr "減る順"
+
+msgid "tang_dan"
+msgstr "増える順"
+
+msgid "luu_thong_tin"
+msgstr "情報を保存する"
+
+msgid "media"
+msgstr "メディア"
+
+msgid "thanh_toan_truc_tiep"
+msgstr "直接に支払い"
+
+msgid "thanh_toan_paypal"
+msgstr "Paypalで支払い"
+
+msgid "thanh_toan_bao_kim"
+msgstr "Bảo Kimで支払い"
+
+msgid "thanh_toan_onepay"
+msgstr "Onepayで支払い"
+
+msgid "thanh_toan_onepay_noi_dia"
+msgstr "国内Onepayで支払い"
+
+msgid "thanh_toan_onepay_quoc_te"
+msgstr "国際Onepayで支払い"
+
+msgid "thanh_toan_alepay"
+msgstr "Alepayで支払い"
+
+msgid "thanh_toan_vnpay"
+msgstr "Vnpayで支払い"
+
+msgid "thanh_toan_momo"
+msgstr "Momoで支払い"
+
+msgid "dang_hoat_dong"
+msgstr "アクティブ"
+
+msgid "dang_phat_trien"
+msgstr "発展中"
+
+msgid "ten_phuong_thuc"
+msgstr "方法名"
+
+msgid "huong_dan_cau_hinh"
+msgstr "構成ガイド"
+
+msgid "cau_hinh_tai_khoan_ngan_hang"
+msgstr "銀行口座の構成"
+
+msgid "thong_tin_cau_hinh"
+msgstr "構成情報"
+
+msgid "mo_ta"
+msgstr "説明"
+
+msgid "ten_ngan_hang"
+msgstr "銀行名"
+
+msgid "chu_tai_khoan"
+msgstr "口座名義人"
+
+msgid "so_tai_khoan"
+msgstr "口座番号"
+
+msgid "them_moi_tai_khoan"
+msgstr "新しいアカウントを追加する"
+
+msgid "token_key"
+msgstr "トークンキー"
+
+msgid "checksum_key"
+msgstr "チェックサムキー"
+
+msgid "encrypt_key"
+msgstr "暗号化キー"
+
+msgid "environment"
+msgstr "環境"
+
+msgid "ma_giao_dich"
+msgstr "取引コード"
+
+msgid "chi_tiet_giao_dich"
+msgstr "取引の詳細"
+
+msgid "loai_phieu"
+msgstr "用紙の種類"
+
+msgid "phieu_thu"
+msgstr "収入用紙"
+
+msgid "phieu_chi"
+msgstr "支出用紙"
+
+msgid "doi_tuong_nop"
+msgstr "提出者"
+
+msgid "doi_tuong_nhan"
+msgstr "受信者"
+
+msgid "ten_nguoi_nop"
+msgstr "提出者の名前"
+
+msgid "ten_nguoi_nhan"
+msgstr "受信者の名前"
+
+msgid "so_tien"
+msgstr "値段"
+
+msgid "hach_toan_ket_qua_kinh_doanh"
+msgstr "業績の会計処理"
+
+msgid "binh_luan"
+msgstr "コメント"
+
+msgid "binh_luan_danh_gia"
+msgstr "コメント/評価"
+
+msgid "cho_duyet"
+msgstr "検閲中"
+
+msgid "khong_duyet_binh_luan"
+msgstr "コメントを承認しない"
+
+msgid "duyet_binh_luan"
+msgstr "コメントを承認する"
+
+msgid "da_duyet"
+msgstr "検閲完了"
+
+msgid "nhap_binh_luan"
+msgstr "コメントを入力する"
+
+msgid "ngay_truoc"
+msgstr "先日"
+
+msgid "ua_thich"
+msgstr "お気に入り"
+
+msgid "quan_tri"
+msgstr "管理"
+
+msgid "tai_lai_danh_sach"
+msgstr "リストをリロードする"
+
+msgid "danh_sach_binh_luan"
+msgstr "コメントリスト"
+
+msgid "thong_tin_binh_luan"
+msgstr "コメント情報"
+
+msgid "dia_chi_ip"
+msgstr "IPアドレス"
+
+msgid "xoa_binh_luan"
+msgstr "コメントを削除する"
+
+msgid "xem_tai_day"
+msgstr "こちらをご覧ください"
+
+msgid "xoa_cache_thanh_cong"
+msgstr "キャッシュ削除完了"
+
+msgid "thuoc_tinh_mo_rong"
+msgstr "拡張プロパティ"
+
+msgid "tuy_chinh_cac_thuoc_tinh_mo_rong_cua_san_pham_va_bai_viet"
+msgstr "商品や記事の拡張プロパティをカスタマイズする"
+
+msgid "xoa_du_lieu_thuoc_tinh_mo_rong"
+msgstr "拡張プロパティデータを削除する"
+
+msgid "xoa_du_lieu_lien_he_tu_khach_hang"
+msgstr "カスタマーの連絡先データを削除する"
+
+msgid "form_lien_he"
+msgstr "連絡フォーム"
+
+msgid "quan_ly_thong_tin_form_lien_he"
+msgstr "お問い合わせフォーム情報を管理する"
+
+msgid "mang_xa_hoi"
+msgstr "ソーシャルネットワーク"
+
+msgid "cau_hinh_cac_thong_tin_lien_quan_den_cac_trang_mang_xa_hoi"
+msgstr "ソーシャルネットワーキングサイトに関連する情報の構成"
+
+msgid "{0}_su_dung_de_cau_hinh_ham_khoi_tao_cho_cac_ung_dung_cua_facebook_nhung_vao_website"
+msgstr "{0}は、ウェブサイトに埋め込まれたフェイスブックのコンストラクターを構成するために使用されます"
+
+msgid "tai_thu_vien_facebook"
+msgstr "フェイスブックギャラリーをダウンロードする"
+
+msgid "tai_thu_vien_google"
+msgstr "グーグルライブラリをダウンロードする"
+
+msgid "thoi_gian_cho_tai_thu_vien"
+msgstr "ライブラリの読み込みタイムアウト"
+
+msgid "tuy_chinh_thoi_gian_tai_thu_vien_phu_hop_giup_website_cua_ban_rut_ngan_thoi_gian_tai_ban_dau"
+msgstr "適切なライブラリの読み込み時間をカスタマイズして、ウェブサイトの初期読み込み時間を短縮できるようにする"
+
+msgid "tien_te"
+msgstr "通貨"
+
+msgid "thiet_lap_tien_te_cua_he_thong"
+msgstr "システムの通貨を設定する"
+
+msgid "chua_cai_dat_don_vi_tien_te_mac_dinh_cua_website"
+msgstr "ウェブサイトのデフォルト通貨が設定されていません"
+
+msgid "doi_che_do"
+msgstr "モードの変更"
+
+msgid "chua_tao"
+msgstr "まだ作成されていません"
+
+msgid "thay_doi_che_do_website"
+msgstr "ウェブサイトモードを変更する"
+
+msgid "thong_tin_bao_mat"
+msgstr "セキュリティ情報"
+
+msgid "cau_hinh_thong_tin_bao_mat_cua_website"
+msgstr "ウェブサイトのセキュリティ情報の構成"
+
+msgid "chong_spam_va_bao_ve_thong_tin_du_lieu"
+msgstr "スパム対策とデータ情報の保護"
+
+msgid "chon_anh_giao_dien"
+msgstr "インターフェイスイメージを選択する"
+
+msgid "chon_anh_tu_cdn"
+msgstr "CDNからの画像を選択する"
+
+msgid "nguoi_nhan_nop"
+msgstr "受信者は支払い"
+
+msgid "da_huy"
+msgstr "キャンセル完了"
+
+msgid "cho_xet_duyet"
+msgstr "承認待ち"
+
+msgid "tim_kiem_theo_ghi_chu"
+msgstr "メモで検索"
+
+msgid "con_no"
+msgstr "支払いがまだ残っている"
+
+msgid "thanh_toan_hoan_tat"
+msgstr "支払い完了"
+
+msgid "lien_he_cua_khach_hang"
+msgstr "顧客からの連絡"
+
+msgid "danh_gia"
+msgstr "評価"
+
+msgid "danh_sach_media"
+msgstr "メディアリスト"
+
+msgid "danh_sach_plugin"
+msgstr "プラグインのリスト"
+
+msgid "su_dung_cache"
+msgstr "キャッシュの使用"
+
+msgid "nhung_class_cau_hinh_se_duoc_dat_o_the_bao_ngoai_cua_block"
+msgstr "構成クラスはブロックの外部タグに配置される"
+
+msgid "logo_cong_ty"
+msgstr "会社のロゴ"
+
+msgid "vui_long_nhap_ten_dia_chi"
+msgstr "住所を入力してください"
+
+msgid "ten_dia_chi_nay_da_duoc_su_dung_vui_long_chon_mot_ten_khac"
+msgstr "このアドレス名はすでに使用されていて、別の名前を選択してください"
+
+msgid "khong_lay_duoc_thong_tin_dia_chi"
+msgstr "住所情報が取得できません"
+
+msgid "ban_khong_the_xoa_dia_chi_mac_dinh"
+msgstr "デフォルトのアドレスは削除できません"
+
+msgid "vui_long_chon_khach_hang"
+msgstr "お客様をお選びください"
+
+msgid "vui_long_nhap_ten_giao_dien"
+msgstr "インターフェイス名を入力してください"
+
+msgid "vui_long_nhap_ma_giao_dien"
+msgstr "インターフェースのコードを入力してください"
+
+msgid "vui_long_nhap_ten_tac_gia_giao_dien"
+msgstr "インターフェイスの作成者の名前を入力してください"
+
+msgid "thu_muc_chua_giao_dien_mau_khong_ton_tai"
+msgstr "インターフェイステンプレートを含むディレクトリが存在しません"
+
+msgid "khong_doc_duoc_tep_du_lieu_cua_giao_dien"
+msgstr "インターフェイスデータファイルを読み取れません"
+
+msgid "khong_the_khoi_tao_thu_muc_chua_giao_dien"
+msgstr "インターフェイスを含むディレクトリを初期化できません"
+
+msgid "nhan_ban_giao_dien_mau_khong_thanh_cong"
+msgstr "サンプルインターフェイスのクローン作成に失敗しました"
+
+msgid "khong_doc_duoc_tep_cau_hinh_cua_giao_dien"
+msgstr "インターフェイス構成ファイルを読み取れません"
+
+msgid "nen_thu_muc_giao_dien_khong_thanh_cong"
+msgstr "インターフェイスフォルダの圧縮に失敗しました"
+
+msgid "giai_nen_thu_muc_giao_dien_khong_thanh_cong"
+msgstr "インターフェイスフォルダの解凍に失敗しました"
+
+msgid "xuat_giao_dien_mau_thanh_cong"
+msgstr "インターフェイステンプレートをエクスポート完了"
+
+msgid "tep_khoi_tao_cua_giao_dien_khong_hop_le"
+msgstr "無効なインターフェイス初期化ファイル"
+
+msgid "tai_xuong_tep_khoi_tao_cua_giao_dien_khong_thanh_cong"
+msgstr "インターフェイス初期化ファイルのダウンロードに失敗"
+
+msgid "giai_nen_tep_khoi_tao_cua_giao_dien_khong_thanh_cong"
+msgstr "インターフェイスの初期化ファイルの解凍に失敗"
+
+msgid "khong_tim_thay_tep_cau_hinh_cua_giao_dien"
+msgstr "インターフェイスの構成ファイルが見つかりませんでした"
+
+msgid "khong_tim_thay_tep_du_lieu_cua_giao_dien"
+msgstr "インターフェイスデータファイルが見つかりません"
+
+msgid "thong_tin_cau_hinh_cua_giao_dien_khong_hop_le"
+msgstr "無効なインターフェイス構成情報"
+
+msgid "khong_doc_duoc_thong_tin_du_lieu_giao_dien"
+msgstr "インターフェイスデータ情報を読み取れません"
+
+msgid "cai_dat_giao_dien_thanh_cong"
+msgstr "インターフェイスのインストールが成功"
+
+msgid "xoa_giao_dien_thanh_cong"
+msgstr "インターフェイスの削除に成功"
+
+msgid "khong_tim_thay_thong_tin_bai_viet"
+msgstr "投稿情報が見つかりません"
+
+msgid "nhan_ban_du_lieu_thanh_cong"
+msgstr "データのクローン作成に成功"
+
+msgid "phien_ban_san_pham"
+msgstr "商品のバージョン"
+
+msgid "them_thuoc_tinh"
+msgstr "プロパティを追加する"
+
+msgid "cap_nhat_thuoc_tinh"
+msgstr "プロパティを更新する"
+
+msgid "ten_thuoc_tinh_khong_hop_le"
+msgstr "無効なプロパティ名"
+
+msgid "vui_long_nhap_ten_thuoc_tinh"
+msgstr "プロパティ名を入力してください"
+
+msgid "ten_thuoc_tinh_da_ton_tai_tren_he_thong"
+msgstr "プロパティ名はすでにシステムに存在します"
+
+msgid "vui_long_nhap_loai_thuoc_tinh"
+msgstr "プロパティタイプを入力してください"
+
+msgid "vui_long_nhap_loai_input_thuoc_tinh"
+msgstr "プロパティインプットタイプを入力してください"
+
+msgid "kieu_input_{0}_chi_ap_dung_voi_loai_thuoc_tinh_phien_ban_san_pham"
+msgstr "入力タイプ{0}は商品バージョンのプロパティタイプにのみ適用されます"
+
+msgid "vui_long_nhap_ma_thuoc_tinh"
+msgstr "プロパティコードを入力してください"
+
+msgid "ma_thuoc_tinh_da_ton_tai_tren_he_thong"
+msgstr "プロパティコードはすでにシステムに存在します"
+
+msgid "ma_thuoc_tinh_khong_hop_le"
+msgstr "無効なプロパティコード"
+
+msgid "khong_lay_duoc_thong_tin_thuoc_tinh"
+msgstr "プロパティ情報を取得できませんでした"
+
+msgid "tuy_chon_cua_thuoc_tinh"
+msgstr "プロパティオプション"
+
+msgid "them_tuy_chon_thuoc_tinh"
+msgstr "プロパティオプションを追加する"
+
+msgid "cap_nhat_tuy_chon"
+msgstr "オプションを更新する"
+
+msgid "khong_lay_duoc_thong_tin_tuy_chon"
+msgstr "オプション情報を取得できませんでした"
+
+msgid "vui_long_nhap_ten_chi_nhanh"
+msgstr "支店名を入力してください"
+
+msgid "vui_long_nhap_ten_nguoi_dai_dien"
+msgstr "代表者の名前を入力してください"
+
+msgid "ten_thuong_hieu_da_ton_tai_tren_he_thong"
+msgstr "ブランド名はすでにシステムに存在します"
+
+msgid "khong_tim_thay_thong_tin_danh_muc"
+msgstr "カテゴリ情報が見つかりません"
+
+msgid "khong_lay_duoc_thong_tin_binh_luan"
+msgstr "コメント情報を取得できません"
+
+msgid "gui_binh_luan_thanh_cong"
+msgstr "コメントを送信済"
+
+msgid "khong_tim_thay_thong_tin"
+msgstr "情報が見つかりません"
+
+msgid "thong_tin_lien_he"
+msgstr "連絡情報"
+
+msgid "them_form_lien_he"
+msgstr "お問い合わせフォームを追加"
+
+msgid "cap_nhat_form_lien_he"
+msgstr "お問い合わせフォームを更新"
+
+msgid "ten_form"
+msgstr "フォーム名"
+
+msgid "vui_long_nhap_ten_form"
+msgstr "フォーム名を入力してください"
+
+msgid "vui_long_nhap_day_du_cac_truong_thong_tin"
+msgstr "ここにすべてのフィールドを入力してください"
+
+msgid "khong_tim_thay_thong_tin_form"
+msgstr "フォーム情報が見つかりませんでした"
+
+msgid "them_tien_te"
+msgstr "通貨を追加する"
+
+msgid "khong_the_xoa_loai_tien_te_mac_dinh"
+msgstr "デフォルトの通貨は削除できません"
+
+msgid "khong_tim_thay_thong_tin_ban_ghi"
+msgstr "ログ情報が見つかりません"
+
+msgid "khong_lay_duoc_thong_tin_khach_hang"
+msgstr "顧客情報を取得できません"
+
+msgid "khong_tim_thay_thong_tin_ghi_chu"
+msgstr "メモが見つかりませんでした"
+
+msgid "tong_quan_he_thong"
+msgstr "システム概要"
+
+msgid "vui_long_nhap_chon_mau_email"
+msgstr "メールテンプレートを選択してください"
+
+msgid "khong_ton_tai_file_mau_email"
+msgstr "メールテンプレートファイルが存在しません"
+
+msgid "khong_lay_duoc_thong_tin_mau_email"
+msgstr "メールテンプレート情報を取得できません"
+
+msgid "vui_long_nhap_tieu_de_email"
+msgstr "メールの件名を入力してください"
+
+msgid "vui_long_nhap_email_gui_thu"
+msgstr "テストするためのメールを入力してください"
+
+msgid "vui_long_nhap_noi_dung_gui_thu"
+msgstr "テストするための提出テキストを入力"
+
+msgid "nhap_id_cua_ban_ghi_can_gui_thu"
+msgstr "テストのための提出必要レコードのIDを入力"
+
+msgid "vui_long_nhap_dia_chi_email"
+msgstr "メールアドレスを入力してください"
+
+msgid "vui_long_cau_hinh_email_ung_dung"
+msgstr "電子メールを構成してください"
+
+msgid "vui_long_nhap_id_ban_ghi_gui_thu"
+msgstr "テストレコードIDを入力してください"
+
+msgid "gui_email_khong_thanh_cong"
+msgstr "メール送信に失敗"
+
+msgid "gui_email_thanh_cong"
+msgstr "電子メールを送信に成功"
+
+msgid "khong_lay_duoc_thong_tin_lien_he_cua_don_hang"
+msgstr "注文の連絡先情報を取得できません"
+
+msgid "nhap_hang"
+msgstr "商品を購入する"
+
+msgid "tao_don_nhap_hang"
+msgstr "発注書を作成する"
+
+msgid "cap_nhat_don_nhap_hang"
+msgstr "発注書を更新する"
+
+msgid "khong_lay_duoc_thong_tin_cua_giao_dich"
+msgstr "取引情報を取得できません"
+
+msgid "khong_the_cap_nhat_trang_thai_cua_giao_dich_nay"
+msgstr "このトランザクションのステータスを更新できませんでした"
+
+msgid "khong_tim_thay_thong_tin_cong_thanh_toan"
+msgstr "支払いゲートウェイ情報が見つかりません"
+
+msgid "vui_long_nhap_ten_san_pham"
+msgstr "商品名を入力してください"
+
+msgid "khong_lay_duoc_thong_tin_phien_ban_san_pham"
+msgstr "商品の情報を取得できませんでした"
+
+msgid "ma_phien_ban_san_pham_khong_the_trung_nhau_vui_long_dieu_chinh_lai"
+msgstr "商品のコードを複製することはできません。修正してください"
+
+msgid "gia_dac_biet_cua_san_pham_phai_nho_hon_gia_ban"
+msgstr 商品の特別価格は販売価格より低くなければなりません"
+
+msgid "gia_tri_thuoc_tinh_cua_phien_ban_san_pham_bi_trung_lap_vui_long_chon_lai"
+msgstr "商品のプロパティ値が重複しています。もう一度選択してください"
+
+msgid "xoa_san_pham_thanh_cong"
+msgstr "商品を削除に成功"
+
+msgid "khong_tim_thay_thong_tin_san_pham"
+msgstr "商品情報が見つかりません"
+
+msgid "cap_nhat_trang_thai_san_pham_thanh_cong"
+msgstr "商品ステータスを更新に成功"
+
+msgid "gia_san_pham_khong_duoc_nho_hon_gia_dac_biet"
+msgstr "商品価格は特別価格より低くすることはできません"
+
+msgid "gia_san_pham_hien_dang_de_trong"
+msgstr "商品価格は現在空白です"
+
+msgid "ten_nhom_quyen_da_ton_tai_tren_he_thong"
+msgstr "権限グループ名はすでにシステムに存在します"
+
+msgid "tai_tep_len_thanh_cong"
+msgstr "ファイルのアップロードに成功しました"
+
+msgid "xoa_du_lieu"
+msgstr "データを削除する"
+
+msgid "chua_chon_muc_xoa_du_lieu"
+msgstr "データを削除する項目が選択されていません"
+
+msgid "doi_che_do_website"
+msgstr "ウェブサイトモードを変更する"
+
+msgid "nha_cung_cap"
+msgstr "サプライヤー"
+
+msgid "them_nha_cung_cap"
+msgstr "サプライヤーを追加する"
+
+msgid "cap_nhat_nha_cung_cap"
+msgstr "サプライヤーを更新する"
+
+msgid "vui_long_nhap_ten_nha_cung_cap"
+msgstr "サプライヤー名を入力してください"
+
+msgid "ten_nha_cung_cap_da_ton_tai_tren_he_thong"
+msgstr "サプライヤー名はすでにシステムに存在します"
+
+msgid "khong_lay_duoc_thong_tin_nha_cung_cap"
+msgstr "サプライヤー情報を取得できません"
+
+msgid "khong_lay_duoc_thong_tin_block"
+msgstr "ブロック情報を取得できません"
+
+msgid "khong_tim_thay_duong_dan_file_cua_block"
+msgstr "ブロックのファイルパスが見つかりませんでした"
+
+msgid "khong_co_quyen_ghi_file"
+msgstr "ファイルを書き込む権限がありません"
+
+msgid "tao_file_khong_thanh_cong"
+msgstr "ファイルの作成に失敗しました"
+
+msgid "xoa_giao_dien_khong_thanh_cong"
+msgstr "インターフェイスの削除に失敗しました"
+
+msgid "vui_long_chon_tep_giao_dien"
+msgstr "インターフェイスファイルを選択してください"
+
+msgid "khong_lay_duoc_thong_tin_trang"
+msgstr "ページ情報を取得できません"
+
+msgid "trang_cau_hinh_khong_duoc_de_trang"
+msgstr "コンフィグページを空白にしないでください"
+
+msgid "khong_tim_thay_thong_tin_trang"
+msgstr "コンフィグ情報が見つかりません"
+
+msgid "da_ton_tai_trang_nay_tren_he_thong"
+msgstr "このページはすでにシステムに存在します"
+
+msgid "duong_dan_khong_hop_le"
+msgstr "無効なパス"
+
+msgid "duong_dan_da_ton_tai_vui_long_nhap_lai"
+msgstr "リンクはすでに存在しています。再入力してください"
+
+msgid "khong_the_nhan_ban_trang_chu"
+msgstr "ホームページを複製できません"
+
+msgid "khong_doc_duoc_noi_dung_tep"
+msgstr "ファイルの内容を読み取れません"
+
+msgid "tep_nay_khong_ton_tai"
+msgstr "このファイルは存在しません"
+
+msgid "khong_doc_duoc_tep_nay"
+msgstr "このファイルを読み取ることができません"
+
+msgid "tai_khoan_thanh_vien"
+msgstr "メンバーアカウント"
+
+msgid "tai_khoan_hoac_mat_khau_khong_dung"
+msgstr "アカウントまたはパスワードが正しくありません"
+
+msgid "dang_nhap_thanh_cong"
+msgstr "ログインに成功"
+
+msgid "trang"
+msgstr "ページ"
+
+msgid "khong_duyet"
+msgstr "承認しない"
+
+msgid "duyet"
+msgstr "承認"
+
+msgid "thuc_te"
+msgstr "現実"
+
+msgid "thu_nghiem"
+msgstr "実験"
+
+msgid "don_moi"
+msgstr "新しい注文"
+
+msgid "don_huy"
+msgstr "キャンセル注文"
+
+msgid "website"
+msgstr "ウェブサイト"
+
+msgid "doi_tac_van_chuyen"
+msgstr "配送パートナー"
+
+msgid "doi_tuong_khac"
+msgstr "他の対象"
+
+msgid "moi_nhat"
+msgstr "最新"
+
+msgid "chua_co_danh_muc_duoc_kich_hoat"
+msgstr "まだアクティブ項目がありません"
+
+msgid "xoa_anh"
+msgstr "写真を削除する"
+
+msgid "loai_thuoc_tinh"
+msgstr "プロパティタイプ"
+
+msgid "loai_input"
+msgstr "インプットタイプ"
+
+msgid "thong_tin_thuoc_tinh"
+msgstr "プロパティ情報"
+
+msgid "ma_thuoc_tinh"
+msgstr "プロパティコード"
+
+msgid "ma_thuoc_tinh_viet_thuong_va_khong_chua_ky_tu_dac_biet"
+msgstr "プロパティコードは小文字で、特殊文字は含まれていません"
+
+msgid "ap_dung_anh_dai_dien_cho_thuoc_tinh_nay"
+msgstr "このプロパティのプロフィール写真を適用します"
+
+msgid "tuy_chon_nay_chi_1_thuoc_tinh_duy_nhat_duoc_ap_dung"
+msgstr "このオプションは1つのプロパティのみが適用されます"
+
+msgid "bat_buoc"
+msgstr "必須"
+
+msgid "quay_lai_quan_ly_thuoc_tinh"
+msgstr "プロパティマネジメントに戻る"
+
+msgid "thuoc_tinh"
+msgstr "プロパティ"
+
+msgid "thong_tin_tuy_chon"
+msgstr "オプションの情報"
+
+msgid "ten_tuy_chon"
+msgstr "オプションの名前"
+
+msgid "ma_tuy_chon"
+msgstr "オプションのコード"
+
+msgid "ban_do"
+msgstr "マップ"
+
+msgid "ngay_nhan"
+msgstr "受付日"
+
+msgid "thong_tin_form"
+msgstr "フォーム情報"
+
+msgid "vui_long_nhap_thong_tin"
+msgstr "情報を入力してください"
+
+msgid "them_form_lien_he_moi"
+msgstr "新しい連絡フォームを追加する"
+
+msgid "ma_form"
+msgstr "フォーム番号"
+
+msgid "ma_form_se_duoc_su_dung_de_nhung_ngoai_website"
+msgstr "フォームコードは、ウェブサイトの外部に埋め込むために使用されます"
+
+msgid "nhan_email_khi_lien_he"
+msgstr "連絡するときにメールを受信する"
+
+msgid "cau_hinh_cac_truong_thong_tin"
+msgstr "情報フィールドの構成"
+
+msgid "them_truong_moi"
+msgstr "新しいフィールドを追加する"
+
+msgid "ten_tien_te"
+msgstr "通貨名"
+
+msgid "ma_tien_te"
+msgstr "通貨コード"
+
+msgid "don_vi"
+msgstr "単位"
+
+msgid "ti_le_chuyen_doi"
+msgstr "換算レート"
+
+msgid "ti_le_chuyen_doi_cua_tien_te_hien_tai_so_voi_tien_te_mac_dinh"
+msgstr "現在の通貨からデフォルトの通貨への換算率"
+
+msgid "nguoi_them"
+msgstr "追加する人"
+
+msgid "han_su_dung"
+msgstr "有効期限"
+
+msgid "lien_he_gia_han"
+msgstr "延長するために連絡"
+
+msgid "thoi_gian_ket_thuc"
+msgstr "終了時間"
+
+msgid "thoi_gian_con_lai"
+msgstr "残り時間"
+
+msgid "dung_luong"
+msgstr "容量"
+
+msgid "tong_dung_luong"
+msgstr "総容量"
+
+msgid "tong_bai_viet"
+msgstr "投稿数"
+
+msgid "anh"
+msgstr "写真"
+
+msgid "tai_lieu"
+msgstr "資料"
+
+msgid "bai_viet_chuan_seo"
+msgstr "Seo標準の投稿"
+
+msgid "tong_san_pham"
+msgstr "合計の商品"
+
+msgid "san_pham_chuan_seo"
+msgstr "Seo標準の商品"
+
+msgid "tong_don_hang"
+msgstr "全ての注文"
+
+msgid "che_do"
+msgstr "モード"
+
+msgid "giao_dien_duoc_chon"
+msgstr "選択したインターフェース"
+
+msgid "chua_duoc_thiet_lap"
+msgstr "まだ設定されていません"
+
+msgid "thong_ke_khach_hang"
+msgstr "顧客統計"
+
+msgid "tong_binh_luan"
+msgstr "コメント総数"
+
+msgid "tong_danh_gia"
+msgstr "総合評価"
+
+msgid "cap_nhat_dia_chi"
+msgstr "住所の更新"
+
+msgid "nha_rieng_co_quan"
+msgstr "自宅、オフィス"
+
+msgid "gia_ban"
+msgstr "価格"
+
+msgid "them_moi_nha_cung_cap"
+msgstr "新しいサプライヤーを追加する"
+
+msgid "ten_nha_cung_cap"
+msgstr "サプライヤー名"
+
+msgid "ma_nha_cung_cap"
+msgstr "サプライヤーコード"
+
+msgid "don_gia"
+msgstr "単価"
+
+msgid "cau_hinh_mau_email"
+msgstr "メールテンプレートの構成"
+
+msgid "chinh_sua_mau_email"
+msgstr "メールテンプレートを編集する"
+
+msgid "ten_email"
+msgstr "メール件名"
+
+msgid "noi_dung_gui_thu"
+msgstr "メール内容"
+
+msgid "them_nguon_don_hang"
+msgstr "注文の生産地を追加"
+
+msgid "cap_nhat_nguon_don_hang"
+msgstr "注文の生産地を更新"
+
+msgid "ten_nguon_hang"
+msgstr "注文由来の名前"
+
+msgid "ma_nguon_don_hang"
+msgstr "注文由来のコード"
+
+msgid "khach_hang_chua_xac_nhan"
+msgstr "お客さんがまだ確認していない"
+
+msgid "ban_hay_them_khu_vuc_quan_huyen_cua_khach_hang_de_su_dung_dich_vu_giao_hang"
+msgstr "配送サービスを利用するには、お客様の地区エリアを追加してください"
+
+msgid "dong_goi_va_giao_hang"
+msgstr "梱包と配送"
+
+msgid "sua"
+msgstr "編集"
+
+msgid "thong_tin_don_nhap_hang"
+msgstr "注文情報"
+
+msgid "ma_don_nhap_hang"
+msgstr "注文コード"
+
+msgid "thong_tin_nha_cung_cap"
+msgstr "サプライヤー情報"
+
+msgid "tim_kiem_nha_cung_cap_f4"
+msgstr "サプライヤーを探す (f4)"
+
+msgid "thanh_toan_voi_nha_cung_cap"
+msgstr "サプライヤーとの支払い"
+
+msgid "nhap_kho"
+msgstr "入庫"
+
+msgid "nhap_hang_vao_kho"
+msgstr "倉庫に商品を輸入する"
+
+msgid "da_hoan_tien"
+msgstr "返金完了"
+
+msgid "xac_nhan_thanh_cong"
+msgstr "確認完了"
+
+msgid "xac_nhan_huy_giao_dich"
+msgstr "取引のキャンセルを確認する"
+
+msgid "ban_chac_chan_muon_huy_giao_dich"
+msgstr "取引をキャンセルしてもよろしいですか"
+
+msgid "xac_nhan_giao_hang_thanh_cong"
+msgstr "配送完了"
+
+msgid "ban_chac_chan_muon_xac_nhan_giao_dich"
+msgstr "この取引を承認してもよろしいですか"
+
+msgid "mo_ta_cong_thanh_toan"
+msgstr "支払いゲートウェイの説明"
+
+msgid "ma_website"
+msgstr "ウェブサイトコード"
+
+msgid "chuoi_tao_checksum"
+msgstr "チェックサムを生成する系列"
+
+msgid "server_thanh_toan"
+msgstr "支払いサーバー"
+
+msgid "luu_nhap"
+msgstr "下書きを保存"
+
+msgid "them_san_pham_moi"
+msgstr "新商品を追加する"
+
+msgid "ten_phien_ban"
+msgstr "バージョン名"
+
+msgid "chuc_nang_dang_duoc_phat_trien"
+msgstr "開発中の機能"
+
+msgid "thong_tin_nhom_quyen"
+msgstr "権限グループ情報"
+
+msgid "che_do_danh_cho_nha_phat_trien"
+msgstr "開発者のための匿名モード"
+
+msgid "o_che_do_nay_he_thong_se_vo_hieu_hoa_viec_tao_cache_html_va_bo_nen_tai_nguyen_duoc_tai"
+msgstr "このモードでは、システムはHTMLキャッシュを無効にし、リソースコンプレッサーがロードされます"
+
+msgid "che_do_hoan_thien"
+msgstr "仕上げモード"
+
+msgid "giup_website_tang_toc_do_tai_va_hien_thi"
+msgstr "ウェブサイトの読み込みと表示を高速化するのが役に立つ"
+
+msgid "muc_luc"
+msgstr "目次"
+
+msgid "xoa_du_lieu_danh_muc_san_pham"
+msgstr "商品の項目データを削除する"
+
+msgid "xoa_du_lieu_danh_muc_bai_viet"
+msgstr "投稿の項目データを削除する"
+
+msgid "xoa_du_lieu_bai_viet"
+msgstr "商品の投稿を削除する"
+
+msgid "xoa_du_lieu_san_pham"
+msgstr "商品データを削除する"
+
+msgid "xoa_du_lieu_khach_hang"
+msgstr "カスタマーデータを削除する"
+
+msgid "xoa_du_lieu_don_hang_bao_gom_don_hang_payment_va_van_chuyen"
+msgstr "支払いと配送を含む注文データを削除する"
+
+msgid "chuc_nang_nay_hien_dang_duoc_phat_trien"
+msgstr "この機能は現在開発中です"
+
+msgid "su_dung"
+msgstr "使用"
+
+msgid "tao_recaptcha_moi_tai_day"
+msgstr "ここで新しいreCaptchaを作成します"
+
+msgid "thong_tin_seo_cua_trang"
+msgstr "ページのSeo情報"
+
+msgid "luu_cau_hinh_seo"
+msgstr "Seo構成を保存する"
+
+msgid "neu_khong_nhap_he_thong_se_tu_dong_sinh_ra_ma_nha_cung_cap"
+msgstr "入力しない場合、システムは自動的にサプライヤーコードを生成します"
+
+msgid "gioi_thieu"
+msgstr "イントロ"
+
+msgid "thong_tin_dia_chi"
+msgstr "住所"
+
+msgid "nha_cung_cap_chua_co_dia_chi"
+msgstr "販売の住所がない"
+
+msgid "luu_giao_dien"
+msgstr "インターフェースを保存する"
+
+msgid "desktop"
+msgstr "デスクトップ"
+
+msgid "mobile"
+msgstr "モバイル"
+
+msgid "sua_cau_hinh_trang"
+msgstr "サイト構成を編集する"
+
+msgid "hanh_dong"
+msgstr "行動"
+
+msgid "them_trang_moi"
+msgstr "新しいページを追加する"
+
+msgid "them_trang_bo_cuc"
+msgstr "レイアウトページを追加する"
+
+msgid "nhan_ban_trang_nay"
+msgstr "このページを複製する"
+
+msgid "xoa_cau_hinh_trang"
+msgstr "サイト構成を削除する"
+
+msgid "xoa_trang"
+msgstr "ページを削除する"
+
+msgid "tim_kiem_block"
+msgstr "ブロックを検索する"
+
+msgid "hay_keo_block_vao_trong_cot_ma_ban_muon"
+msgstr "お気に入りコラムにブロックをドラッグしてください"
+
+msgid "chua_co_block_nao_duoc_tao_tren_he_thong"
+msgstr "システム上にブロックはまだ作成されていません"
+
+msgid "tao_block_moi"
+msgstr "新しいブロックを作成する"
+
+msgid "chua_co_giao_dien_nao_duoc_kich_hoat"
+msgstr "アクティブインターフェースまだありません"
+
+msgid "thong_tin_trang"
+msgstr "ページ情報"
+
+msgid "thong_tin_trang_bo_cuc"
+msgstr "レイアウトページ情報"
+
+msgid "thong_tin_block"
+msgstr "ブロック情報"
+
+msgid "xuat_giao_dien"
+msgstr "エクスポートインターフェイス"
+
+msgid "xoa_giao_dien"
+msgstr "インターフェイスを削除する"
+
+msgid "danh_muc_ap_dung"
+msgstr "該当リスト"
+
+msgid "tat_ca_ban_ghi_hoac_danh_muc_thuoc_danh_muc_da_chon_se_ap_dung_cau_hinh_cua_trang_nay"
+msgstr "選択したカテゴリのすべてのレコードまたはカテゴリは、このサイトの構成を適用します"
+
+msgid "cai_dat_giao_dien_moi"
+msgstr "新しいスキンをインストールします"
+
+msgid "dat_lam_mac_dinh"
+msgstr "デフォルトとして設定"
+
+msgid "thiet_lap_so_cot"
+msgstr "コラムの数を設定する"
+
+msgid "chon_so_cot"
+msgstr "コラムの数を選択する"
+
+msgid "cot"
+msgstr "コラム"
+
+msgid "thiet_lap_thong_tin_cua_dong"
+msgstr "線の情報を設定する"
+
+msgid "toan_man_hinh"
+msgstr "全画面"
+
+msgid "rong_toan_man_hinh"
+msgstr "全画面表示"
+
+msgid "len_tren"
+msgstr "上"
+
+msgid "xuong_duoi"
+msgstr "下"
+
+msgid "chon_cot"
+msgstr "コラムを選択する"
+
+msgid "thiet_lap"
+msgstr "設定"
+
+msgid "ten_giao_dien"
+msgstr "インターフェイス名"
+
+msgid "ma_giao_dien"
+msgstr "インターフェースコード"
+
+msgid "anh_dai_dien"
+msgstr "アバター"
+
+msgid "loai_trang"
+msgstr "ページタイプ"
+
+msgid "ten_trang"
+msgstr "ページ名"
+
+msgid "su_dung_trang_bo_cuc"
+msgstr "レイアウトページを使用する"
+
+msgid "dang_su_dung_trang_bo_cuc"
+msgstr "レイアウトページ使用中"
+
+msgid "loai_trang_dong_tinh_tuy_bien_cao"
+msgstr "高度にカスタマイズ可能な動的ページタイプ"
+
+msgid "loai_trang_he_thong"
+msgstr "システムページタイプ"
+
+msgid "dau_trang"
+msgstr "ページの上部"
+
+msgid "giua_trang"
+msgstr "ページの真ん中"
+
+msgid "cuoi_trang"
+msgstr "ページの下部"
+
+msgid "dong_mo"
+msgstr "開閉"
+
+msgid "them_dong_moi"
+msgstr "新しい線を追加する"
+
+msgid "giao_dien_block"
+msgstr "ブロックインターフェース"
+
+msgid "luu_cau_hinh"
+msgstr "構成を保存する"
+
+msgid "luu_du_lieu"
+msgstr "データを保存する"
+
+msgid "giai_thich"
+msgstr "説明"
+
+msgid "block_se_duoc_hien_binh_thuong_khi_trang_web_duoc_tai"
+msgstr "ウェブページが読み込まれると、ブロックが正常に表示されます"
+
+msgid "thoi_gian_cho"
+msgstr "待ち時間"
+
+msgid "block_se_duoc_hien_sau_khi_trang_web_da_duoc_tai_thanh_cong"
+msgstr "ウェブサイトが正常に読み込まれると、ブロックが表示されます"
+
+msgid "la_khoang_thoi_gian_tu_khi_trang_da_tai_xong_den_khi_block_duoc_hien_thi"
+msgstr "ページの読み込みが完了してからブロックが表示されるまでの時間です"
+
+msgid "khoang_cach"
+msgstr "距離"
+
+msgid "block_se_duoc_hien_sau_khi_con_tro_chuot_keo_den_vi_tri_cua_no"
+msgstr "マウスポインタをその位置にドラッグすると、ブロックが表示されます"
+
+msgid "la_khoang_cach_cua_block_den_vi_tri_ma_block_se_bat_dau_hien_thi_khi_con_tro_chuot_den_do"
+msgstr "マウスポインタがそこに移動したときにブロックが表示を開始する位置までのブロックの距離です"
+
+msgid "so_bai_viet_hien_thi"
+msgstr "表示する投稿の数"
+
+msgid "neu_su_dung_phan_trang_thi_cau_hinh_so_bai_viet_se_la_so_san_pham_tren_1_trang"
+msgstr "ページ付けを使用する場合は、投稿の数は１ページあたりの総計の商品の数です"
+
+msgid "tu_dong_theo_duong_dan"
+msgstr "パスを自動的にたどる"
+
+msgid "neu_cau_hinh_lay_du_lieu_tu_dong_theo_duong_dan_thi_hay_tat_cau_hinh_su_dung_cache_cua_block"
+msgstr "パスによる自動データ取得を構成する場合は、ブロックのキャッシュ使用をオフにしてください"
+
+msgid "so_binh_luan_hien_thi"
+msgstr "表示されるコメントの数"
+
+msgid "so_luong_binh_luan_hien_thi_trong_1_trang"
+msgstr "1ページに表示されるコメントの数"
+
+msgid "yeu_cau_dang_nhap"
+msgstr "ログインを求める"
+
+msgid "cho_quan_tri_phe_duyet"
+msgstr "アドミンの承認を待つ"
+
+msgid "them_menu"
+msgstr "メニューを追加する"
+
+msgid "so_san_pham_hien_thi"
+msgstr "表示される商品の数"
+
+msgid "neu_su_dung_phan_trang_thi_cau_hinh_so_san_pham_se_la_so_san_pham_tren_1_trang"
+msgstr "ページ付けを使用する場合は、商品の数は1ページあたりの商品の数です"
+
+msgid "so_danh_gia_hien_thi"
+msgstr "表示される評価の数"
+
+msgid "so_luong_danh_gia_hien_thi_trong_1_trang"
+msgstr "1ページに表示される評価の数"
+
+msgid "them_slider"
+msgstr "スライダーを追加"
+
+msgid "luu_y"
+msgstr "注意"
+
+msgid "he_thong_su_dung_thu_vien_{0}"
+msgstr "ライブラリ{0}を使用するシステム"
+
+msgid "thong_tin_cau_hinh_cua_slider_se_duoc_luu_ben_du_lieu_mo_rong"
+msgstr "スライダーの構成情報は拡張データ内に保存される"
+
+msgid "tham_khao_cau_hinh_mac_dinh"
+msgstr "デフォルト設定を参照してください"
+
+msgid "xem_cau_hinh"
+msgstr "構成を表示する"
+
+msgid "cau_hinh_tham_khao"
+msgstr "参照構成"
+
+msgid "huong_dan"
+msgstr "案内"
+
+msgid "thong_tin_cau_hinh_duoc_viet_duoi_dang_json_va_chi_nhan_cac_gia_tri_nam_trong_key_config"
+msgstr "構成情報はjsonで記述され、コンフィグキーの値のみを取得します"
+
+msgid "du_lieu_tuy_bien"
+msgstr "カスタムデータ"
+
+msgid "loai_menu"
+msgstr "メニューの種類"
+
+msgid "loai_menu"
+msgstr "メニューの種類"
+
+msgid "mo_duong_dan_tren_tab_moi"
+msgstr "新しいタブでリンクを開く"
+
+msgid "chon_anh_slider"
+msgstr "画像スライダーを選択"
+
+msgid "su_dung_menu_phu"
+msgstr "サブメニューの使用"
+
+msgid "giao_dien_menu_phu"
+msgstr "サブメニューインターフェース"
+
+msgid "du_lieu_menu_phu"
+msgstr "サブメニューデータ"
+
+msgid "chon_danh_muc"
+msgstr "カテゴリーを選ぶ"
+
+msgid "chon_san_pham"
+msgstr "商品を選択する"
+
+msgid "nhap_ten_va_chon_san_pham"
+msgstr "名前を入力して商品を選択します"
+
+msgid "san_pham_da_chon"
+msgstr "選択した商品"
+
+msgid "chon_bai_viet"
+msgstr "投稿を選択する"
+
+msgid "nhap_ten_va_chon_bai_viet"
+msgstr "名前を入力して投稿を選択する"
+
+msgid "bai_viet_da_chon"
+msgstr "選択した投稿"
+
+msgid "loc_du_lieu"
+msgstr "データをフィルタリングする"
+
+msgid "tat_ca"
+msgstr "全部"
+
+msgid "thong_tin_lich_su_thay_doi"
+msgstr "履歴情報の変更"
+
+msgid "quay_lai_phien_ban_nay"
+msgstr "このバージョンに戻る"
+
+msgid "them_giao_dien_block"
+msgstr "ブロックインターフェースを追加する"
+
+msgid "khong_doc_duoc_noi_dung_cua_tep"
+msgstr "ファイルの内容を読み取ることができません"
+
+msgid "avatar"
+msgstr "アバター"
+
+msgid "dang_nhap_quan_tri"
+msgstr "アドミンログイン"
+
+msgid "ghi_nho_tai_khoan"
+msgstr "アカウントを覚える"
+
+msgid "quen_mat_khau"
+msgstr "パスワードを忘れ"
+
+msgid "dang_nhap"
+msgstr "ログイン"
+
+msgid "khong_lay_duoc_thong_tin_tep_khoi_tao"
+msgstr "初期化ファイル情報の取得に失敗"
+
+msgid "tep_khoi_tao_cau_truc_co_so_du_lieu_khong_hop_le"
+msgstr "データベース構造初期化ファイルが無効です"
+
+msgid "khong_doc_duoc_noi_dung_tep_khoi_tao_cau_truc_co_so_du_lieu"
+msgstr "データベース構造初期化ファイルの内容が読み取れない"
+
+msgid "cai_dat_cau_truc_co_so_du_lieu_thanh_cong"
+msgstr "データベース構造インストール完了"
+
+msgid "tep_khoi_tao_du_lieu_ban_dau_khong_hop_le"
+msgstr "無効な初期化データのファイル"
+
+msgid "khong_doc_duoc_noi_dung_tep_khoi_tao_du_lieu_ban_dau"
+msgstr "初期化データのファイルの内容を読み取ることができませんでした"
+
+msgid "cai_dat_du_lieu_ban_dau_thanh_cong"
+msgstr "初期のデータを設定することに成功"
+
+msgid "mo_ta_bai_viet"
+msgstr "投稿の詳細"
+
+msgid "cap_nhat_thong_tin_san_pham_thanh_cong"
+msgstr "商品情報が更新されました"
+
+msgid "cho_phep_gui_ma_xac_nhan_khi_dang_ky"
+msgstr "登録時に確認コードの送信を許可する"
+
+msgid "cau_hinh_khach_hang"
+msgstr "カスタマーのコンフィグ"
+
+msgid "thiet_lap_cau_hinh_khach_hang"
+msgstr "カスタマーのコンフィグをセットアップする"
+
+msgid "khong_lay_duoc_ma_xac_nhan_cho_email"
+msgstr "メールの確認コードを取得できません"
+
+msgid "loai_binh_luan"
+msgstr "コメントタイプ"
+
+msgid "bai_viet_noi_bat"
+msgstr "ハイライト投稿"
+
+msgid "khong_noi_bat"
+msgstr "目立たない"
+
+msgid "co_noi_bat"
+msgstr "ハイライトがある"
+
+msgid "co_video"
+msgstr "ビデオあり"
+
+msgid "co_album"
+msgstr "アルバムあり"
+
+msgid "co_tep_dinh_kem"
+msgstr "添付ファイルあり"
+
+msgid "don_khach_tra"
+msgstr "物品返却書"
+
+msgid "so_luot_xem"
+msgstr "閲覧数"
+
+msgid "so_luot_thich"
+msgstr "いいねの数"
+
+msgid "so_luong_binh_luan"
+msgstr "コメントの数"
+
+msgid "so_luong_danh_gia"
+msgstr "評価の数"
+
+msgid "diem_seo"
+msgstr "SEOの点数"
+
+msgid "diem_tu_khoa"
+msgstr "キーワードの点数"
+
+msgid "so_luong_san_co"
+msgstr "在庫の数"
+
+msgid "anh_bai_viet"
+msgstr "投稿の写真"
+
+msgid "da_phuong_tien"
+msgstr "マルチメディア"
+
+msgid "noi_dung_lien_he"
+msgstr "連絡内容"
+
+msgid "ma_truong"
+msgstr "フィールドコード"
+
+msgid "ten_truong"
+msgstr "フィールド名"
+
+msgid "thong_tin_bai_viet"
+msgstr "投稿の情報"
+
+msgid "da_doc"
+msgstr "既読"
+
+msgid "chua_doc"
+msgstr "未読"
+
+msgid "chon_loai"
+msgstr "タイプを選択する"
+
+msgid "gui_thu_noi_dung"
+msgstr "メールの内容を送る"
+
+msgid "gui_thu_mau_email"
+msgstr "メールのテンプレートを送る"
+
+msgid "chi_tiet_thuong_hieu"
+msgstr "ブランドの詳細"
+
+msgid "thong_tin_thuong_hieu"
+msgstr "ブランド情報"
+
+msgid "ma_thuong_hieu"
+msgstr "ブランドのコード"
+
+msgid "khong_tim_thay_thong_tin_thuong_hieu"
+msgstr "ブランド情報が見つかりません"
+
+msgid "khong_tim_thay_thong_tin_danh_muc"
+msgstr "項目の情報を見つかりません"
+
+msgid "chon_tat_ca"
+msgstr "全て選択"
+
+msgid "binh_luan_lien_quan"
+msgstr "関連コメント"
+
+msgid "cap_nhat_the_bai_viet"
+msgstr "投稿タグを更新する"
+
+msgid "mo_ta_the_bai_viet"
+msgstr "投稿タグの詳細"
+
+msgid "cau_hinh_sitemap"
+msgstr "サイトマップのコンフィグ"
+
+msgid "xem_tep_robots"
+msgstr "robotsファイルを見る"
+
+msgid "vui_long_nhap_day_du_thong_tin"
+msgstr "全ての情報を入力してください"
+
+msgid "xac_nhan_mat_khau_khong_chinh_xac"
+msgstr "パスワードが正しくありません"
+
+msgid "khong_lay_duoc_thong_tin_tai_khoan"
+msgstr "アカウント情報を取得できません"
+
+msgid "mat_khau_cu_nhap_khong_chinh_xac"
+msgstr "以前に使用したパスワードが正しくありません"
+
+msgid "mat_khau_thay_doi_khong_the_giong_mat_khau_cu"
+msgstr "新規パスワードを以前に使用したパスワードと同じにすることはできません"
+
+msgid "thay_doi_mat_khau"
+msgstr "パスワードを変更する"
+
+msgid "mat_khau_moi"
+msgstr "新しいパスワード"
+
+msgid "nhap_lai_mat_khau_moi"
+msgstr "新しいパスワードを再入力してください"
+
+msgid "chua_xac_nhan"
+msgstr "承認していない"
+
+msgid "san_pham_giam_gia"
+msgstr "割引商品"
+
+msgid "san_pham_giam_gia"
+msgstr "割引商品"
+
+msgid "tinh_trang"
+msgstr "状態"
+
+msgid "het_hang"
+msgstr "在庫切れ"
+
+msgid "con_hang"
+msgstr "在庫あり"
+
+msgid "chua_co_anh"
+msgstr "画像がない"
+
+msgid "nhap_lai_mat_khau"
+msgstr "パスワードをもう一度入力してください"
+
+msgid "chua_xac_dinh"
+msgstr "未確定"
+
+msgid "chua_xac_dinh"
+msgstr "未確定"
+
+msgid "co_phan_nhom"
+msgstr "サブグループあり"
+
+msgid "khong_phan_nhom"
+msgstr "サブグループなし"
+
+msgid "co_chia"
+msgstr "分けあり"
+
+msgid "khong_chia"
+msgstr "分けなし"
+
+msgid "co_bat_chuyen_huong"
+msgstr "リダイレクトオン"
+
+msgid "khong_bat_chuyen_huong"
+msgstr "リダイレクトオフ"
+
+msgid "da_tai_len"
+msgstr "アップロード"
+
+msgid "chua_tai_len"
+msgstr "まだアップロードされていません"
+
+msgid "duong_dan_cdn"
+msgstr "CDNパス"
+
+msgid "het_han"
+msgstr "期限切れ"
+
+msgid "trong_ngay_hom_nay"
+msgstr "今日中"
+
+msgid "thang_label"
+msgstr "月"
+
+msgid "nam_label"
+msgstr "年"
+
+msgid "xem_cau_hinh_thuc_te"
+msgstr "実際の構成を見る"
+
+msgid "xem_cau_hinh_thuc_te"
+msgstr "実際の構成を見る"
+
+msgid "don_tra_hang"
+msgstr "物品返却書"
+
+msgid "ma_bao_mat"
+msgstr "セキュリティコード"
+
+msgid "thiet_lap_thong_tin_api"
+msgstr "API情報を設定する"
+
+msgid "su_dung_ma_nhung"
+msgstr "埋め込みコードを使用する"
+
+msgid "thoi_gian_cho_tai_ma_nhung"
+msgstr "埋め込みコードの読み込み時間"
+
+msgid "tuy_chinh_thoi_gian_tai_ma_nhung_phu_hop_giup_website_cua_ban_rut_ngan_thoi_gian_tai_ban_dau"
+msgstr "適切な埋め込み時間をカスタマイズすれば、ウェブサイトが初期読み込み時間を短縮できます"
+
+msgid "chua_nhap"
+msgstr "まだ入力されていない"
+
+msgid "duong_dan_the"
+msgstr "カードのパス"
+
+msgid "thay_doi_duong_dan_the_bai_viet"
+msgstr "投稿タグのパスを変更する"
+
+msgid "tien_to_tieu_de_seo"
+msgstr "SEOタイトルのプレフィックス"
+
+msgid "hau_to_tieu_de_seo"
+msgstr "SEOタイトルのサフィックス"
+
+msgid "them_tien_to_vao_tieu_de_seo_cua_the"
+msgstr "タグのSEOタイトルにプレフィックスを追加する"
+
+msgid "nhap"
+msgstr "入力"
+
+msgid "ket_qua"
+msgstr "結果"
+
+msgid "them_hau_to_vao_tieu_de_seo_cua_the"
+msgstr "タグのSEOタイトルにサフィックスを追加します"
+
+msgid "luu_cau_hinh_the_bai_viet"
+msgstr "投稿タグ設定を保存する"
+
+msgid "xem_bai_viet"
+msgstr "投稿を見る"
+
+msgid "xem_san_pham"
+msgstr "商品を見る"
+
+msgid "xem_danh_muc"
+msgstr "項目を見る"
+
+msgid "ap_dung_anh_dai_dien"
+msgstr "プロファイル写真を適用する"
+
+msgid "khong_ap_dung"
+msgstr "適用されていない"
+
+msgid "co_ap_dung"
+msgstr "適用されます"
+
+msgid "co_bat_buoc"
+msgstr "必須"
+
+msgid "khong_bat_buoc"
+msgstr "必須ではない"
+
+msgid "cap_nhat_hinh_anh"
+msgstr "画像を更新する"
+
+msgid "ten_form"
+msgstr "フォーム名"
+
+msgid "mobile_app"
+msgstr "モバイルアプリ"
+
+msgid "cai_dat_mobile_app"
+msgstr "モバイルアプリをインストールする"
+
+msgid "giao_dien_mobile_app"
+msgstr "モバイルアプリのインターフェース"
+
+msgid "block_mobile_app"
+msgstr "モバイルアプリのブロック"
+
+msgid "cai_dat_thong_tin_mobile_app"
+msgstr "モバイルアプリ情報の設定"
+
+msgid "cai_dat_giao_dien_mobile_app"
+msgstr "モバイルアプリのインターフェースをインストールする"
+
+msgid "khong_lay_duoc_thong_tin_giao_dien_mac_dinh"
+msgstr "デフォルトのインターフェース情報を取得できません"
+
+msgid "san_pham_da_xem"
+msgstr "閲覧した商品"
+
+msgid "bai_viet_da_xem"
+msgstr "閲覧した投稿"
+
+msgid "san_pham_da_them_vao_yeu_thich"
+msgstr "お気に入りに追加された商品"
+
+msgid "san_pham_da_them_vao_so_sanh"
+msgstr "比べに追加された商品"
+
+msgid "bai_viet_yeu_thich"
+msgstr "お気に入り投稿"
+
+msgid "duyet_bai_viet"
+msgstr "投稿を承認する"
+
+msgid "thiet_lap_quyen_duyet_bai_viet"
+msgstr "投稿を承認する許可を設立する"
+
+msgid "kich_hoat_duyet_bai_viet"
+msgstr "投稿の承認を有効にする"
+
+msgid "kich_hoat_duyet_san_pham"
+msgstr "商品の承認を有効にする"
+
+msgid "quyen_duoc_duyet_bai"
+msgstr "投稿を承認許可"
+
+msgid "khi_kich_hoat_duyet_bai_viet_thi_nhung_tai_khoan_khong_nam_trong_nhom_quyen_duoc_duyet_bai_khi_cap_nhat_bai_viet_trang_thai_cua_bai_viet_se_chuyen_ve_cho_duyet"
+msgstr "投稿を承認する許可を有効にすると、権限のグループに含まれていないアカウントは投稿を更新するとき、投稿のステータスが承認待ちに変わります"
+
+msgid "duyet_san_pham"
+msgstr "商品を承認する"
+
+msgid "cai_dat_thong_tin_app"
+msgstr "アプリ情報を設定する"
+
+msgid "thiet_lap_giao_dien_app"
+msgstr "アプリのインターフェースを設立する"
+
+msgid "cai_dat_cac_cau_hinh_chung_cua_giao_dien"
+msgstr "一般インターフェース構成を設定する"
+
+msgid "thu_vien_anh"
+msgstr "フォトライブラリ"
+
+msgid "thu_vien_anh_danh_cho_app"
+msgstr "アプリのギャラリー"
+
+msgid "quan_ly_cac_block_cua_app"
+msgstr "アプリブロックを管理する"
+
+msgid "them_block_moi_cho_app"
+msgstr "アプリの新しいブロックを追加する"
+
+msgid "cau_hinh_mau_sac"
+msgstr "カラーコンフィグ"
+
+msgid "color_main"
+msgstr "メインカラー"
+
+msgid "color_hightlight"
+msgstr "ハイライトカラー"
+
+msgid "color_text"
+msgstr "テキストの色"
+
+msgid "anh_template"
+msgstr "写真テンプレート"
+
+msgid "them_anh"
+msgstr "写真を追加する"
+
+msgid "sua_thong_tin_trang"
+msgstr "ページ情報を編集する"
+
+msgid "white"
+msgstr "ホワイト"
+
+msgid "black"
+msgstr "ブラック"
+
+msgid "red"
+msgstr "レッド"
+
+msgid "green"
+msgstr "グリーン"
+
+msgid "yellow"
+msgstr "イエロー"
+
+msgid "light"
+msgstr "ライト"
+
+msgid "blue"
+msgstr "ブルー"
+
+msgid "purple"
+msgstr "紫"
+
+msgid "pink"
+msgstr "ピンク"
+
+msgid "indigo"
+msgstr "インディゴ"
+
+msgid "teal"
+msgstr "青緑"
+
+msgid "orange"
+msgstr "オレンジ"
+
+msgid "cyan"
+msgstr "シアン"
+
+msgid "gray"
+msgstr "グレー"
+
+msgid "khong_ton_tai_thong_tin_app"
+msgstr "アプリ情報が存在しない"
+
+msgid "cau_hinh_thong_tin_app"
+msgstr "アプリ情報の構成"
+
+msgid "ten_app"
+msgstr "アプリ名"
+
+msgid "app_key"
+msgstr "アプリキー"
+
+msgid "cau_hinh_vphone"
+msgstr "Vphone構成"
+
+msgid "ten_hotline"
+msgstr "ホットライン名"
+
+msgid "ten_mien"
+msgstr "ドメイン"
+
+msgid "cong"
+msgstr "ゲート"
+
+msgid "chon_anh_template"
+msgstr "テンプレート画像を選択"
+
+msgid "nhan_giao_dien"
+msgstr "インターフェイスラベル"
+
+msgid "quan_ly_tat_ca_cac_nhan_cua_giao_dien"
+msgstr "インターフェイスのすべてのラベルを管理します"
+
+msgid "them_nhan_moi"
+msgstr "新しいラベルを追加する"
+
+msgid "cap_nhat_nhan_giao_dien"
+msgstr "インターフェイスラベルを更新します"
+
+msgid "cau_hinh_du_lieu"
+msgstr "データ構成"
+
+msgid "chuyen_huong"
+msgstr "リダイレクト"
+
+msgid "font_size"
+msgstr "フォントサイズ"
+
+msgid "can_chinh"
+msgstr "整列"
+
+msgid "mau_chu"
+msgstr "テキストの色"
+
+msgid "mau_nen"
+msgstr "背景色"
+
+msgid "chieu_cao_block"
+msgstr "ブロックの高さ"
+
+msgid "cau_hinh_giao_dien"
+msgstr "インターフェイス構成"
+
+msgid "tieu_de_hien_thi"
+msgstr "タイトルを表示する"
+
+msgid "so_luong_tren_dong"
+msgstr "1行あたりの数量"
+
+msgid "ti_le_chieu_cao_anh"
+msgstr "画像の高さの比率"
+
+msgid "ti_le_chieu_rong_anh"
+msgstr "画像の幅の比率"
+
+msgid "dinh_dang"
+msgstr "フォーマット"
+
+msgid "da_dung"
+msgstr "使用した"
+
+msgid "kiem_tra_dung_luong"
+msgstr "容量を確認する"
+
+msgid "tong_khach_hang"
+msgstr "合計の顧客"
+
+msgid "cau_hinh_danh_sach_san_pham"
+msgstr "商品リストの構成"
+
+msgid "cau_hinh_binh_luan"
+msgstr "コメントの構成"
+
+msgid "social_login"
+msgstr "ソーシャルログイン"
+
+msgid "google_client_id"
+msgstr "クライアントのグーグルID"
+
+msgid "facebook_app_id"
+msgstr "フェイスブックのID"
+
+msgid "bo_loc_nang_cao"
+msgstr "高度なフィルター"
+
+msgid "bo_loc_nang_cao"
+msgstr "高度なフィルター"
+
+msgid "gioi_han_dang_tai_anh"
+msgstr "写真のアップロード制限"
+
+msgid "danh_sach_ma_coupon"
+msgstr "クーポンコード一覧"
+
+msgid "them_ma_thu_cong"
+msgstr "手動でコードを追加する"
+
+msgid "them_ma_ngau_nhien"
+msgstr "ランダムなコードを追加する"
+
+msgid "them_ma_khac"
+msgstr "その他のコードを追加する"
+
+msgid "them_ma"
+msgstr "コードを追加する"
+
+msgid "so_lan_su_dung"
+msgstr "使用回数"
+
+msgid "khong_gioi_han"
+msgstr "無制限"
+
+msgid "so_lan"
+msgstr "回数"
+
+msgid "toi_da_6_ky_tu"
+msgstr "最大6文字"
+
+msgid "ma_coupon_cho_chuong_trinh"
+msgstr "プログラムのクーポンコード"
+
+msgid "so_luong_ma"
+msgstr "コードの数"
+
+msgid "toi_da_1000_ma"
+msgstr "最大1000コード"
+
+msgid "tien_to"
+msgstr "プレフィックス"
+
+msgid "so_ky_tu_ngau_nhien"
+msgstr "ランダムな文字数"
+
+msgid "hau_to"
+msgstr "サフィックス"
+
+msgid "ma_cua_ban_se_co_dinh_dang"
+msgstr "コードの形式は次のとおりです"
+
+msgid "voi_x_la_so_ky_tu_ngau_nhien"
+msgstr "ここで、Xはランダムな文字の数です"
+
+msgid "chuong_trinh"
+msgstr "プログラム"
+
+msgid "da_su_dung"
+msgstr "使用済"
+
+msgid "loai_chiet_khau"
+msgstr "割引タイプ"
+
+msgid "chiet_khau_don_hang"
+msgstr "注文の割引"
+
+msgid "chiet_khau_san_pham"
+msgstr "商品の割引"
+
+msgid "mien_phi_van_chuyen"
+msgstr "送料無料"
+
+msgid "tang_san_pham"
+msgstr "ギフト商品"
+
+msgid "thiet_lap_cau_hinh_khuyen_mai"
+msgstr "プロモーション構成をセットアップする"
+
+msgid "tich_diem"
+msgstr "ポイントを貯める"
+
+msgid "thiet_lap_cau_hinh_tich_diem"
+msgstr "ポイント累積の構成"
+
+msgid "ty_le_quy_doi_diem"
+msgstr "ポイント換算率"
+
+msgid "ty_le_quy_diem_ra_tien"
+msgstr "ポイントからお金への変換率"
+
+msgid "diem"
+msgstr "ポイント"
+
+msgid "dieu_kien_don_hang"
+msgstr "注文条件"
+
+msgid "cau_hinh_tich_diem"
+msgstr "ポイントを貯める構成"
+
+msgid "cau_hinh_diem_danh"
+msgstr "出席の構成"
+
+msgid "quy_dinh_diem"
+msgstr "ポイントの規制"
+
+msgid "cau_hinh_bo_loc_nang_cao"
+msgstr "高度なフィルターの構成"
+
+msgid "tim_kiem_tu_khoa"
+msgstr "キーワード検索"
+
+msgid "tim_kiem_khoang_gia"
+msgstr "価格帯を検索"
+
+msgid "chon_trang_thai"
+msgstr "ステータスを選択"
+
+msgid "chon_thuong_hieu"
+msgstr "ブランドを選択してください"
+
+msgid "giam_gia"
+msgstr "割引"
+
+msgid "bai_viet_dang_tab"
+msgstr "タグ形の投稿"
+
+msgid "bai_viet_dang_tab_chi_tra_ve_du_lieu_cac_danh_muc_duoc_chon"
+msgstr "タグ形式の投稿は選択したカテゴリのデータに戻す"
+
+msgid "so_ngay"
+msgstr "日の数"
+
+msgid "them_chuong_trinh_khuyen_mai"
+msgstr "プロモーションプログラムを追加する"
+
+msgid "ten_chuong_trinh_khuyen_mai"
+msgstr "プロモーションの名前"
+
+msgid "ma_chuong_trinh"
+msgstr "プログラムコード"
+
+msgid "ma_chuong_trinh_se_duoc_coi_nhu_1_ma_coupon_mac_dinh"
+msgstr "プログラムコードはデフォルトのクーポンコードと見なされます"
+
+msgid "cau_hinh_chuong_trinh_khuyen_mai"
+msgstr "プロモーションプログラムの構成"
+
+msgid "thoi_gian_ap_dung"
+msgstr "適用される時間"
+
+msgid "loai_khuyen_mai"
+msgstr "プロモーションタイプ"
+
+msgid "ap_dung_voi_don_hang"
+msgstr "注文に適用する"
+
+msgid "them_dieu_kien_ap_dung"
+msgstr "適用条件を追加する"
+
+msgid "gia_tri_toi_thieu"
+msgstr "最小値"
+
+msgid "gia_tri_toi_da"
+msgstr "最大値"
+
+msgid "so_luong_san_pham_mua_toi_thieu"
+msgstr "最小購入数量"
+
+msgid "ap_dung_voi_san_pham"
+msgstr "製品に適用されます"
+
+msgid "ap_dung_cho"
+msgstr "に適用する"
+
+msgid "ap_dung_voi_tinh_thanh"
+msgstr "県に適用する"
+
+msgid "tinh_thanh_ap_dung"
+msgstr "適用される県府"
+
+msgid "tim_kiem_tinh_thanh"
+msgstr "県府を検索する"
+
+msgid "tinh_thanh_da_chon"
+msgstr "選択した県府"
+
+msgid "gia_tri_chiet_khau"
+msgstr "割引価格"
+
+msgid "gia_tri_chiet_khau_toi_da"
+msgstr "最大割引額"
+
+msgid "gia_tri_mien_phi_toi_da"
+msgstr "最大無料価値"
+
+msgid "thay_doi_dieu_kien_mua"
+msgstr "購入条件を変更する"
+
+msgid "tim_kiem_san_pham"
+msgstr "商品を検索する"
+
+msgid "thay_doi_san_pham_tang"
+msgstr "ギフト商品を変更する"
+
+msgid "san_pham_mua"
+msgstr "買う商品"
+
+msgid "san_pham_duoc_tang"
+msgstr "ギフト商品"
+
+msgid "them_dieu_kien"
+msgstr "条件を追加する"
+
+msgid "thoi_han_diem_tang"
+msgstr "贈与の有効期限"
+
+msgid "thiet_lap_gia_tri_tien_tuong_ung_voi_1_diem_dung_de_thanh_toan_bang_diem_hoac_doi_hang"
+msgstr "1ポイントに相当する金額を設定し、ポイントで支払いか商品の交換に使用する"
+
+msgid "khach_hang_tich_diem"
+msgstr "カスタマーがポイントを貯める"
+
+msgid "dieu_chinh_diem"
+msgstr "ポイントを調整する"
+
+msgid "diem_nap"
+msgstr "付けるポイント"
+
+msgid "diem_khuyen_mai"
+msgstr "プロモーションポイント"
+
+msgid "thoi_han_diem"
+msgstr "ポイントの有効期限"
+
+msgid "lich_su_khach_hang_tich_diem"
+msgstr "カスタマーのポイント獲得履歴"
+
+msgid "chi_tiet_diem_khach_hang"
+msgstr "カスタマーのポイントの詳細"
+
+msgid "lich_su_tich_diem"
+msgstr "ポイント獲得履歴"
+
+msgid "so_diem"
+msgstr "ポイント"
+
+msgid "thoi_gian_het_han"
+msgstr "有効期限"
+
+msgid "so_diem"
+msgstr "ポイント"
+
+msgid "cong_tru"
+msgstr "プラス・マイナス"
+
+msgid "cong_diem"
+msgstr "点数をプラスする"
+
+msgid "tru_diem"
+msgstr "点数をマイナスする"
+
+msgid "action_type"
+msgstr "ポイントを貯める"
+
+msgid "diem_danh"
+msgstr "出欠を取る"
+
+msgid "diem_hien_tai"
+msgstr "現在のポイント"
+
+msgid "thoi_gian_su_dung_den"
+msgstr "有効期限"
+
+msgid "diem_danh_tich_tiem"
+msgstr "ポイントを貯めるため出欠を取る"
+
+msgid "mua_hang_tich_diem"
+msgstr "ポイントを貯めるため買い物する"
+
+msgid "ngay_ghi_nhan"
+msgstr "記録日"
+
+msgid "diem_thay_doi"
+msgstr "変更ポイント"
+
+msgid "diem_sau_thay_doi"
+msgstr "変更後のポイント"
+
+msgid "nhan_vien_xet_duyet"
+msgstr "承認するスタッフ"
+
+msgid "them_tab"
+msgstr "タブを追加する"
+
+msgid "mau_chinh"
+msgstr "メインカラー"
+
+msgid "mau_nut"
+msgstr "ボタンの色"
+
+msgid "mau_chu"
+msgstr "文字の色"
+
+msgid "mau_noi_bat"
+msgstr "ハイライトカラー"
+
+msgid "app_id"
+msgstr "アプリID"
+
+msgid "thay_doi_password"
+msgstr "パスワードを変更する"
+
+msgid "thay_doi_trang_thai_tai_khoan"
+msgstr "アカウントの状態を変更する"
+
+msgid "thay_doi"
+msgstr "変更"
+
+msgid "cau_hinh_vfone"
+msgstr "Vfoneの構成"
+
+msgid "dem_nguoc_thoi_gian"
+msgstr "カウントダウンタイマー"
+
+msgid "hien_thi_khong_co_ban_ghi_nao"
+msgstr "表示するレコードがない"
+
+msgid "thiet_lap_cho_trang_he_thong"
+msgstr "システムのページを設定する"
+
+msgid "tab_san_pham"
+msgstr "商品のタブ"
+
+msgid "tab_bai_viet"
+msgstr "投稿のタブ"
+
+msgid "giao_dien_tab_child"
+msgstr "子供タブのインターフェース"
+
+msgid "giao_dien_cua_block_san_pham"
+msgstr "商品ブロックのインターフェース"

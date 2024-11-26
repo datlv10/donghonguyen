@@ -1,0 +1,302 @@
+msgid "phuong_thuc_khong_hop_le"
+msgstr "Invalid method"
+
+msgid "du_lieu_khong_hop_le"
+msgstr "Invalid data"
+
+msgid "xu_ly_thanh_cong"
+msgstr "Successfully processed"
+
+msgid "xu_ly_khong_thanh_cong"
+msgstr "Unsuccessfully processed"
+
+msgid "khong_tim_thay_thu_muc_{0}"
+msgstr "Don't find folder {0}"
+
+msgid "nhap_ten_tep"
+msgstr "Enter file name"
+
+msgid "tat_ca"
+msgstr "All"
+
+msgid "ten_tep"
+msgstr "File name"
+
+msgid "loai_tep"
+msgstr "File type"
+
+msgid "dung_luong"
+msgstr "Storage"
+
+msgid "ngay_tao"
+msgstr "Creation date"
+
+msgid "khong_lay_duoc_thong_tin_duong_dan"
+msgstr "Couldn't get path info"
+
+msgid "vui_long_nhap_ten_thu_muc"
+msgstr "Please enter a folder name"
+
+msgid "vui_long_nhap_ten_tep"
+msgstr "Please enter file name"
+
+msgid "ten_thu_muc_khong_hop_le"
+msgstr "Invalid folder name"
+
+msgid "tao_thu_muc_khong_thanh_cong"
+msgstr "Folder creation failed"
+
+msgid "tao_thu_muc_thumb_khong_thanh_cong"
+msgstr "THUMB folder creation failed"
+
+msgid "tao_anh_thumb_khong_thanh_cong"
+msgstr "THUMB image creation failed"
+
+msgid "tao_thu_muc_thanh_cong"
+msgstr "Folder creation successful"
+
+msgid "thu_muc_da_duoc_tao"
+msgstr "Folder has been created"
+
+msgid "thu_muc_khong_ton_tai"
+msgstr "Folder does not exist"
+
+msgid "tep_khong_ton_tai"
+msgstr "File does not exist"
+
+msgid "doi_ten_thu_muc_thanh_cong"
+msgstr "Successfully renamed folder"
+
+msgid "doi_ten_thu_muc_khong_thanh_cong"
+msgstr "Folder rename failed"
+
+msgid "ten_tep_khong_hop_le"
+msgstr "Invalid file name"
+
+msgid "doi_ten_tep_khong_thanh_cong"
+msgstr "File rename failed"
+
+msgid "xoa_tep_khong_thanh_cong"
+msgstr "File deletion failed"
+
+msgid "xoa_thu_muc_khong_thanh_cong"
+msgstr "Folder deletion failed"
+
+msgid "xoa_tep_thanh_cong"
+msgstr "File deletion successful"
+
+msgid "dan_thu_muc_thanh_cong"
+msgstr "Folder paste successful"
+
+msgid "dan_thu_muc_khong_thanh_cong"
+msgstr "Folder paste failed"
+
+msgid "dan_tep_khong_thanh_cong"
+msgstr "File paste failed"
+
+msgid "dan_tep_thanh_cong"
+msgstr "File paste successful"
+
+msgid "khong_the_dan_thu_muc_nguon_vao_thu_muc_con"
+msgstr "Can't paste source folder into subfolder"
+
+msgid "dung_luong_tep_dang_tai_qua_lon_{0}"
+msgstr "Upload file size is too large {0}"
+
+msgid "tep_dang_tai_khong_hop_le"
+msgstr "Invalid upload file"
+
+msgid "tep_dang_tai_hop_le"
+msgstr "Valid upload file"
+
+msgid "dang_tai_tep_thanh_cong"
+msgstr "File upload successful"
+
+msgid "dang_tai_tep_khong_thanh_cong"
+msgstr "File upload failed"
+
+msgid "khong_lay_duoc_ma_bao_mat"
+msgstr "Can't get the security code"
+
+msgid "ma_bao_mat_khong_hop_le"
+msgstr "Invalid security code"
+
+msgid "khong_the_truy_cap_he_thong"
+msgstr "Unable to access the system"
+
+msgid "{0}_da_tao_thu_muc_{1}"
+msgstr "{0} created folder {1}"
+
+msgid "{0}_da_doi_ten_tep_{1}"
+msgstr "{0} renamed the file {1}"
+
+msgid "{0}_da_doi_ten_thu_muc_{1}"
+msgstr "{0} renamed the folder {1}"
+
+msgid "{0}_da_doi_ten_thu_muc_tu_{1}_sang_{2}"
+msgstr "{0} renamed the folder from {1} to {2}"
+
+msgid "{0}_da_doi_ten_tep_tu_{1}_sang_{2}"
+msgstr "{0} renamed the file from {1} to {2}"
+
+msgid "{0}_da_sao_chep_tep_{1}_den_{2}"
+msgstr "{0} copied files from {1} to {2}"
+
+msgid "{0}_da_sao_chep_thu_muc_{1}_den_{2}"
+msgstr "{0} copied folders from {1} to {2}"
+
+msgid "{0}_da_cat_thu_muc_tu_{1}_den_{2}"
+msgstr "{0} cut folders from {1} to {2}"
+
+msgid "{0}_da_cat_tep_tu_{1}_den_{2}"
+msgstr "{0} cut files from {1} to {2}"
+
+msgid "{0}_da_xoa_thu_muc_{1}"
+msgstr "{0} deleted folder {1}"
+
+msgid "{0}_da_xoa_tep_{1}"
+msgstr "{0} deleted file {1}"
+
+msgid "{0}_da_dang_tai_tep_{1}"
+msgstr "{0} uploaded file {1}"
+
+msgid "tao_thu_muc"
+msgstr "Create folder"
+
+msgid "tai_len"
+msgstr "Upload"
+
+msgid "tai_lai"
+msgstr "Reload"
+
+msgid "xem_chi_tiet"
+msgstr "See details"
+
+msgid "xem_dang_luoi"
+msgstr "Grid view"
+
+msgid "xem_dang_danh_sach"
+msgstr "List view"
+
+msgid "hinh_anh"
+msgstr "Image"
+
+msgid "tep_tin"
+msgstr "File"
+
+msgid "video"
+msgstr "Video"
+
+msgid "am_thanh"
+msgstr "Sound"
+
+msgid "file_nen"
+msgstr "Compressed file"
+
+msgid "tai_trang"
+msgstr "Load page"
+
+msgid "lich_su_cap_nhat"
+msgstr "Update history"
+
+msgid "sap_xep"
+msgstr "Arrange"
+
+msgid "dung_luong_cdn_da_vuot_qua_han_muc_{0}"
+msgstr "CDN capacity exceeded the limit {0}"
+
+msgid "chon"
+msgstr "Select"
+
+msgid "chon_tat_ca"
+msgstr "Select all"
+
+msgid "bo_chon_tat_ca"
+msgstr "Unselect all"
+
+msgid "tai_lieu"
+msgstr "Document"
+
+msgid "tep_dang_tai_da_bi_doi_duoi_mo_rong_vui_long_dang_tai_tep_goc"
+msgstr "The uploaded file has been changed to the extension. Please upload the original file"
+
+msgid "tep_tai_len_gioi_han"
+msgstr "File upload limit"
+
+msgid "anh_tai_len_gioi_han"
+msgstr "Limited photo uploads"
+
+msgid "luu_y"
+msgstr "Noted"
+
+msgid "anh_tai_len_gioi_han_khong_duoc_qua"
+msgstr "Uploaded photos are limited in size to no more than"
+
+msgid "tep_tai_len_tru_dinh_dang_anh_gioi_han_khong_duoc_qua"
+msgstr "Uploaded file size limit (except for photo) no more than"
+
+msgid "phim_tat"
+msgstr "Shortcut keys"
+
+msgid "nhan_to_hop_phim"
+msgstr "Press key combination"
+
+msgid "de_thuc_hien_thao_tac"
+msgstr "To perform that operation"
+
+msgid "chon_tat_ca_tep_trong_thu_muc"
+msgstr "Select all file(s) in the folder"
+
+msgid "tai_file_ve_may"
+msgstr "Download this file"
+
+msgid "sao_chep_tep"
+msgstr "Copy"
+
+msgid "cat_tep"
+msgstr "Cut the file"
+
+msgid "dan_tep"
+msgstr "Paste"
+
+msgid "doi_ten_tep"
+msgstr "Rename file"
+
+msgid "hoac"
+msgstr "or"
+
+msgid "xoa_tep"
+msgstr "Delete"
+
+msgid "duong_dan_tep"
+msgstr "File path"
+
+msgid "dinh_dang_tep_tin_tai_len"
+msgstr "Uploaded file format"
+
+msgid "duoi_image"
+msgstr "Image suffix"
+
+msgid "duoi_video"
+msgstr "Video suffix"
+
+msgid "duoi_am_thanh"
+msgstr "Sound file suffix"
+
+msgid "duoi_file_nen"
+msgstr "Compressed file suffix"
+
+msgid "duoi_file"
+msgstr "File suffix"
+
+msgid "anh"
+msgstr "Image"
+
+msgid "tep"
+msgstr "File"
+
+msgid "su_dung"
+msgstr "Use"
+
+msgid "ap_dung"
+msgstr "Apply"

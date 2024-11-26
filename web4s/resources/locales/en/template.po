@@ -1,0 +1,2224 @@
+msgid "danh_sach"
+msgstr "List"
+
+msgid "tao_moi_tai_khoan"
+msgstr "Create Account"
+
+msgid "dong"
+msgstr "Close"
+
+msgid "so_luong_san_pham_{0}_hien_khong_con_du_so_luong_de_dat_hang"
+msgstr "Amount of product "{0}" is not enough to order"
+
+msgid "tai_khoan_hoac_email"
+msgstr "Account or email"
+
+msgid "mat_khau"
+msgstr "Password"
+
+msgid "dang_nhap"
+msgstr "Log in"
+
+msgid "quen_mat_khau"
+msgstr "Forget password"
+
+msgid "dang_ky_tai_khoan_moi"
+msgstr "Sign up new account"
+
+msgid "thoat"
+msgstr "Exit"
+
+msgid "noi_bat"
+msgstr "Outstanding"
+
+msgid "tai_khoan_cua_toi"
+msgstr "My account"
+
+msgid "giam_gia"
+msgstr "Discount"
+
+msgid "con_hang"
+msgstr "Stock in"
+
+msgid "het_hang"
+msgstr "Out of stock"
+
+msgid "them_gio_hang"
+msgstr "Add to cart"
+
+msgid "xem_nhanh"
+msgstr "Quick view"
+
+msgid "xem_chi_tiet"
+msgstr "See details"
+
+msgid "chon_thuoc_tinh"
+msgstr "Select attribute"
+
+msgid "san_pham_het_hang"
+msgstr "Product is out of stock"
+
+msgid "uu_thich"
+msgstr "Favorite"
+
+msgid "so_sanh"
+msgstr "Compare"
+
+msgid "danh_muc"
+msgstr "Category"
+
+msgid "mau_sac"
+msgstr "Color"
+
+msgid "size"
+msgstr "Size"
+
+msgid "xoa"
+msgstr "Delete"
+
+msgid "luu"
+msgstr "Save"
+
+msgid "chia_se"
+msgstr "Share"
+
+msgid "tong_cong"
+msgstr "Total"
+
+msgid "thong_tin_gio_hang"
+msgstr "Cart Information"
+
+msgid "gio_hang"
+msgstr "Cart"
+
+msgid "tim_kiem"
+msgstr "Search"
+
+msgid "tai_khoan"
+msgstr "Account"
+
+msgid "ban_can_them_mot_so_san_pham_vao_gio_hang_cua_minh"
+msgstr "You need to add some products to your cart"
+
+msgid "vui_long_them_mot_so_san_pham_vao_gio_hang_cua_minh_vui_long_truy_cap_trang_chu_va_tim_san_pham_cua_ban"
+msgstr "Please visit "Home" and find your product"
+
+msgid "xin_loi_da_co_loi_he_thong_xay_ra_ban_vui_long_quay_lai_gio_hang_va_tien_hanh_thanh_toan"
+msgstr "Sorry, a system error has occurred. Please return to the cart and proceed to checkout"
+
+msgid "thong_tin_dang_nhap"
+msgstr "Login information"
+
+msgid "de_gui_binh_luan_vui_long_cung_cap_ten_hien_thi_va_dia_chi_email_lien_he"
+msgstr "To post a comment, please provide your display name and contact email address"
+
+msgid "email_hoac_so_dien_thoai_se_khong_hien_thi_va_se_chi_duoc_ban_bien_tap_su_dung_de_lien_he_voi_ban_trong_truong_hop_can_thiet"
+msgstr "Email or phone number will not be displayed and will only be used by the editor to contact you in case of need."
+
+msgid "ho_va_ten"
+msgstr "First and last name"
+
+msgid "so_dien_thoai"
+msgstr "Phone number"
+
+msgid "tieu_de"
+msgstr "Title"
+
+msgid "noi_dung"
+msgstr "Content"
+
+msgid "gui_yeu_cau"
+msgstr "Send request"
+
+msgid "gui_tin_nhan"
+msgstr "Send Message"
+
+msgid "trang_chu"
+msgstr "Home page"
+
+msgid "dang_ky"
+msgstr "Register"
+
+msgid "email"
+msgstr "Email"
+
+msgid "tinh_thanh"
+msgstr "Province"
+
+msgid "quan_huyen"
+msgstr "District"
+
+msgid "phuong_xa"
+msgstr "Ward"
+
+msgid "zip_code"
+msgstr "Zipcode"
+
+msgid "dia_chi"
+msgstr "Address"
+
+msgid "xac_nhan_mat_khau"
+msgstr "Confirm password"
+
+msgid "tong_quan"
+msgstr "Overview"
+
+msgid "quan_ly_don_hang"
+msgstr "Order management"
+
+msgid "so_dia_chi"
+msgstr "Address Book"
+
+msgid "khong_lay_duoc_thong_tin_dia_chi"
+msgstr "Can't get address information"
+
+msgid "khong_lay_duoc_thong_tin_dich_vu"
+msgstr "Can't get service information"
+
+msgid "thong_tin_tai_khoan"
+msgstr "Account information"
+
+msgid "thay_doi_mat_khau"
+msgstr "Change the password"
+
+msgid "dang_xuat"
+msgstr "Log out"
+
+msgid "thong_tin_ca_nhan"
+msgstr "Personal information"
+
+msgid "dia_chi_mac_dinh"
+msgstr "Default address"
+
+msgid "ten_tai_khoan"
+msgstr "Account name"
+
+msgid "gioi_tinh"
+msgstr "Gender"
+
+msgid "ngay_sinh"
+msgstr "Date of birth"
+
+msgid "ten"
+msgstr "Name"
+
+msgid "dien_thoai"
+msgstr "Phone"
+
+msgid "don_hang_gan_day"
+msgstr "Recent orders"
+
+msgid "ma_don_hang"
+msgstr "Order code"
+
+msgid "tien"
+msgstr "Money"
+
+msgid "ngay_dat_hang"
+msgstr "Order date"
+
+msgid "trang_thai"
+msgstr "Status"
+
+msgid "nam"
+msgstr "Male"
+
+msgid "nu"
+msgstr "Female"
+
+msgid "khac"
+msgstr "Other"
+
+msgid "mat_khau"
+msgstr "Password"
+
+msgid "mat_khau_moi"
+msgstr "New password"
+
+msgid "nhap_lai_mat_khau_moi"
+msgstr "Enter a new password"
+
+msgid "cap_nhat"
+msgstr "Update"
+
+msgid "thong_tin_san_pham"
+msgstr "Product information"
+
+msgid "san_pham"
+msgstr "Product"
+
+msgid "so_luong"
+msgstr "Quantity"
+
+msgid "gia"
+msgstr "Price"
+
+msgid "van_chuyen"
+msgstr "Shipping"
+
+msgid "coupon"
+msgstr "Coupon"
+
+msgid "tong_tien"
+msgstr "Total amount"
+
+msgid "mac_dinh"
+msgstr "Default"
+
+msgid "sua"
+msgstr "Edit"
+
+msgid "them_dia_chi"
+msgstr "Add address"
+
+msgid "don_hang"
+msgstr "Order"
+
+msgid "ghi_chu"
+msgstr "Note"
+
+msgid "phuong_thuc"
+msgstr "Method"
+
+msgid "phuong_thuc_thanh_toan"
+msgstr "Payment methods"
+
+msgid "chua_xac_nhan"
+msgstr "Unconfimred"
+
+msgid "don_moi"
+msgstr "New order"
+
+msgid "dang_chuyen"
+msgstr "Shipping"
+
+msgid "xac_nhan"
+msgstr "Confirm"
+
+msgid "da_dong_goi"
+msgstr "Packed"
+
+msgid "xuat_kho"
+msgstr "deliver"
+
+msgid "thanh_cong"
+msgstr "Successful"
+
+msgid "da_huy"
+msgstr "Cancelled"
+
+msgid "cho_nhan_hang"
+msgstr "Waiting to receive the goods"
+
+msgid "da_nhan_hang"
+msgstr "Has received the goods"
+
+msgid "tu_ngay"
+msgstr "From date"
+
+msgid "den_ngay"
+msgstr "To date"
+
+msgid "huy_don"
+msgstr "Cancel order"
+
+msgid "xac_nhan_huy_don_hang"
+msgstr "Confirm to cancel order"
+
+msgid "truoc_khi_huy_don_hang_vui_long_doc_ky_dieu_kien_duoi_day"
+msgstr "Before canceling your order, please read the terms and conditions below carefully"
+
+msgid "dieu_kien_huy_don_hang"
+msgstr "Conditions of order cancellation"
+
+msgid "ly_do_huy_don"
+msgstr "Reason for cancellation"
+
+
+msgid "huy_don_hang_khong_thanh_cong"
+msgstr "Unsuccessful order cancellation"
+
+msgid "toi_da_doc_va_dong_y_voi_chinh_sach"
+msgstr "I have read and agree to the policy"
+
+msgid "dong_y"
+msgstr "Agree"
+
+msgid "ma_khach_hang"
+msgstr "Customer number"
+
+msgid "mat_khau"
+msgstr "Password"
+
+msgid "hien_chua_co_don_hang"
+msgstr "No orders yet"
+
+msgid "ban_chua_dong_y_voi_dieu_khoan"
+msgstr "You do not agree to the terms"
+
+msgid "cap_nhat_thanh_cong"
+msgstr "Update successful"
+
+msgid "cap_nhat_dia_chi"
+msgstr "Update address"
+
+msgid "that_tiec_trang_cua_ban_yeu_cau_khong_ton_tai"
+msgstr "Unfortunately the page you requested does not exist"
+
+msgid "vui_long_thu_mot_trang_khac_hoac_lien_he_truc_tiep_voi_web4s_nhe"
+msgstr "Please try another page or contact web4s directly"
+
+msgid "khong_lay_duoc_thong_tin_don_hang"
+msgstr "Can't get order information"
+
+msgid "thong_tin_don_hang"
+msgstr "Order information"
+
+msgid "binh_luan"
+msgstr "Comment"
+
+msgid "thay_doi"
+msgstr "Change"
+
+msgid "moi_ban_de_lai_binh_luan"
+msgstr "Please leave a comment"
+
+msgid "gui_binh_luan"
+msgstr "Post a comment"
+
+msgid "de_gui_binh_luan_ban_vui_long_cung_cap_them_thong_tin_lien_he"
+msgstr "To post a comment, please provide more contact information"
+
+msgid "thong_tin_nguoi_gui"
+msgstr "Sender Information"
+
+msgid "ten_hien_thi"
+msgstr "Display name"
+
+msgid "phut_truoc"
+msgstr "minute ago"
+
+msgid "gio_truoc"
+msgstr "hour ago"
+
+msgid "ngay_truoc"
+msgstr "days ago"
+
+msgid "thang"
+msgstr "month"
+
+msgid "luc"
+msgstr "moment"
+
+msgid "thang_truoc"
+msgstr "last month"
+
+msgid "nam_truoc"
+msgstr "last year"
+
+msgid "vua_xong"
+msgstr "barely"
+
+msgid "gia_san_pham"
+msgstr "Product price"
+
+msgid "thuong_hieu"
+msgstr "Trademark"
+
+msgid "sap_xep"
+msgstr "Arrange"
+
+msgid "sap_xep_theo_ten"
+msgstr "Sort by name"
+
+msgid "gia_tu_thap_den_cao"
+msgstr "Price from low to high"
+
+msgid "gia_tu_cao_den_thap"
+msgstr "Price from high to low"
+
+msgid "hien_thi"
+msgstr "Display"
+
+msgid "duoi"
+msgstr "below"
+
+msgid "trieu_vnd"
+msgstr "million VND"
+
+msgid "trieu"
+msgstr "million"
+
+msgid "tu"
+msgstr "from"
+
+msgid "den"
+msgstr "to"
+
+msgid "tren"
+msgstr "above"
+
+msgid "dia_chi_giao_hang"
+msgstr "Delivery address"
+
+msgid "gui_don_sang_hang_van_chuyen_khong_thanh_cong"
+msgstr "Sending the order to the carrier failed"
+
+msgid "chuc_mung_quy_khach_da_dat_hang_thanh_cong"
+msgstr "Congratulations on your successful order"
+
+msgid "don_hang_thanh_cong"
+msgstr "Successful order"
+
+msgid "da_het_phien_lam_viec_vui_long_chon_lai_san_pham"
+msgstr "The session is over, please choose the product again"
+
+msgid "san_pham_chua_duoc_them_vao_gio_hang"
+msgstr "The product has not been added to the cart"
+
+msgid "cap_nhat_gio_hang"
+msgstr "Update cart"
+
+msgid "xac_nhan_gio_hang"
+msgstr "Confirm cart"
+
+msgid "ban_da_co_ma_coupon"
+msgstr "You already have Coupon code"
+
+msgid "click_de_nhap_ma"
+msgstr "Click to enter the code"
+
+msgid "neu_ban_da_co_tai_khoan_hay_dang_nhap_tai_day"
+msgstr "If you already have an account please login here"
+
+msgid "ban_da_co_tai_khoan"
+msgstr "Already have an account?"
+
+msgid "ma_coupon"
+msgstr "Coupon code"
+
+msgid "ap_dung_ma"
+msgstr "Apply code"
+
+msgid "thong_tin_khach_hang"
+msgstr "Customer information"
+
+msgid "thong_tin_dat_hang"
+msgstr "Order information"
+
+msgid "dia_chi_chi_tiet"
+msgstr "Detailed address"
+
+msgid "tong_tien_san_pham"
+msgstr "Total amount of product"
+
+msgid "thanh_toan"
+msgstr "Pay"
+
+msgid "thanh_tien"
+msgstr "Total"
+
+msgid "them_thong_tin"
+msgstr "More information"
+
+msgid "so_nha_ngo_duong"
+msgstr "Address no. and street"
+
+msgid "thanh_toan_ngay"
+msgstr "Pay now"
+
+msgid "thanh_toan_don_hang"
+msgstr "Pay the order"
+
+msgid "don_hang_nay_da_duoc_thanh_toan"
+msgstr "This order has been paid"
+
+msgid "don_hang_nay_da_xac_nhan_thanh_toan"
+msgstr "This order has confirmed payment"
+
+msgid "phuong_thuc_khong_hop_le"
+msgstr "Invalid method"
+
+msgid "du_lieu_khong_hop_le"
+msgstr "Invalid data"
+
+msgid "tao_don_hang_thanh_cong"
+msgstr "Create order successfully"
+
+msgid "thong_tin_cau_hinh_chua_hop_le"
+msgstr "Invalid configuration information"
+
+msgid "khong_lay_duoc_thong_tin_hang_van_chuyen"
+msgstr "Can't get carrier information"
+
+msgid "phuong_thuc"
+msgstr "Method"
+
+msgid "giao_thuong"
+msgstr "Standard Delivery"
+
+msgid "giao_nhanh"
+msgstr "Fast delivery"
+
+msgid "khong_ket_noi_duoc_den_api_{0}"
+msgstr "Unable to connect to API {0}"
+
+msgid "khong_lay_duoc_thong_tin_cong_thanh_toan"
+msgstr "Can't get payment gateway information"
+
+msgid "khong_cap_nhat_duoc_thong_tin_don_hang"
+msgstr "Unable to update order information"
+
+msgid "xu_ly_thanh_toan_don_hang_thanh_cong"
+msgstr "Process order payment successfully"
+
+msgid "chua_co_san_pham_nao_trong_gio_hang"
+msgstr "There are no products in the cart"
+
+msgid "chua_co_cong_thanh_toan_nao_duoc_cau_hinh"
+msgstr "No payment gateway configured yet"
+
+msgid "mua_hang"
+msgstr "Purchase"
+
+msgid "xem_them"
+msgstr "See more"
+
+msgid "chia_se"
+msgstr "Share"
+
+msgid "mo_ta"
+msgstr "Describe"
+
+msgid "ma_san_pham"
+msgstr "Product code"
+
+msgid "chua_co_binh_luan_nao"
+msgstr "No comments yet"
+
+msgid "khach_hang_da_binh_luan"
+msgstr "comment"
+
+msgid "cac_truong_bat_buoc_khong_duoc_de_trong"
+msgstr "Required fields cannot be left blank"
+
+msgid "cac_truong_bat_buoc_khong_duoc_de_trong"
+msgstr "Required fields cannot be left blank"
+
+msgid "co_anh"
+msgstr "With images"
+
+msgid "co_video"
+msgstr "With videos"
+
+msgid "co_tai_lieu"
+msgstr "With documents"
+
+msgid "tai_xuong"
+msgstr "Download"
+
+msgid "khong_co_du_lieu"
+msgstr "No data"
+
+msgid "gui_binh_luan_thanh_cong"
+msgstr "Send comment successfully"
+
+msgid "trang_dau_tien"
+msgstr "First page"
+
+msgid "trang_tiep"
+msgstr "Next page"
+
+msgid "trang_cuoi"
+msgstr "Last page"
+
+msgid "khong_lay_duoc_thong_tin_giao_dich"
+msgstr "Can't get transaction information"
+
+msgid "giao_dich_da_duoc_thuc_hien"
+msgstr "The transaction has been completed"
+
+msgid "xu_ly_thong_tin_giao_dich_thanh_cong"
+msgstr "Process transaction information successfully"
+
+msgid "khong_lay_duoc_thong_tin_email_nhan"
+msgstr "Can't get email information received"
+
+msgid "khong_lay_duoc_thong_tin_mau_email"
+msgstr "Can't get email template information"
+
+msgid "vui_long_cau_hinh_email_ung_dung"
+msgstr "Please configure the application email"
+
+msgid "he_thong_khong_cau_hinh_su_dung_recaptcha"
+msgstr "The system is not configured to use reCaptcha"
+
+msgid "khong_lay_duoc_thong_tin_ma_bao_mat_recaptcha"
+msgstr "Unable to get reCaptcha security code information"
+
+msgid "khong_nhan_duoc_thong_tin_ma_xac_nhan_recaptcha"
+msgstr "ReCaptcha confirmation code not received"
+
+msgid "khong_xac_nhan_duoc_thong_tin_recaptcha"
+msgstr "Unable to confirm reCaptcha information"
+
+msgid "xac_nhan_recaptcha_thanh_cong"
+msgstr "Confirm reCaptcha successfully"
+
+msgid "cap_nhat_khong_thanh_cong"
+msgstr "Update failed"
+
+msgid "tep_dang_tai_khong_hop_le"
+msgstr "Invalid loading file"
+
+msgid "tep_dang_tai_co_dung_luong_qua_lon"
+msgstr "The file being loaded is too large"
+
+msgid "khong_lay_duoc_ma_dang_tai_cdn"
+msgstr "Can't get code loading CDN"
+
+msgid "dang_tai_tep_khong_thanh_cong"
+msgstr "File upload failed"
+
+msgid "dang_tai_tep_thanh_cong"
+msgstr "File upload successful"
+
+msgid "khong_lay_duoc_thong_tin_giao_dien"
+msgstr "Unable to get interface information"
+
+msgid "khong_lay_duoc_thong_tin_ngon_ngu_cua_website"
+msgstr "Can't get the website's language information"
+
+msgid "chua_cai_dat_don_vi_tien_te_mac_dinh_cua_website"
+msgstr "Website's default currency is not set"
+
+msgid "xu_ly_du_lieu_khong_thanh_cong"
+msgstr "Data processing failed"
+
+msgid "khong_tim_thay_thong_tin_san_pham"
+msgstr "No product information found"
+
+msgid "cap_nhat_gio_hang_thanh_cong"
+msgstr "Update cart successful"
+
+msgid "khong_tim_thay_thong_tin_gio_hang"
+msgstr "Cart not found"
+
+msgid "vui_long_nhap_ten_nguoi_binh_luan"
+msgstr "Please enter the commenter's name"
+
+msgid "vui_long_nhap_noi_dung_binh_luan"
+msgstr "Please enter comment text"
+
+msgid "khong_lay_duoc_thong_tin_duong_dan"
+msgstr "Couldn't get path info"
+
+msgid "khong_lay_duoc_thong_tin_binh_luan"
+msgstr "Can't get comment information"
+
+msgid "loai_binh_luan_khong_hop_le"
+msgstr "Invalid comment type"
+
+msgid "vui_long_chon_so_sao_danh_gia"
+msgstr "Please choose the number of stars to rate"
+
+msgid "vui_long_cau_hinh_ma_form"
+msgstr "Please configure the form code"
+
+msgid "ma_form_duoc_cau_hinh_khong_ton_tai_tren_he_thong"
+msgstr "The configured form code does not exist on the system"
+
+msgid "vui_long_cau_hinh_cac_truong_cua_form"
+msgstr "Please configure the form fields"
+
+msgid "gui_thong_tin_lien_he_thanh_cong"
+msgstr "Sending contact information successfully"
+
+msgid "xu_ly_du_lieu_thanh_cong"
+msgstr "Process data successful"
+
+msgid "het_phien_lam_viec_vui_long_dang_nhap_lai_tai_khoan"
+msgstr "End of session, please re-login your account"
+
+msgid "vui_long_nhap_tai_khoan_va_mat_khau_de_dang_nhap"
+msgstr "Please enter your account and password to login"
+
+msgid "tai_khoan_hoac_mat_khau_khong_dung"
+msgstr "Account or password  is incorrect"
+
+msgid "tai_khoan_cua_ban_hien_dang_bi_khoa"
+msgstr "Your account is currently locked"
+
+msgid "tai_khoan_cua_ban_chua_duoc_kich_hoat"
+msgstr "Your account has not been activated"
+
+msgid "khong_lay_duoc_thong_tin_tai_khoan"
+msgstr "Can't get account information"
+
+msgid "dang_nhap_thanh_cong"
+msgstr "Logged in successfully"
+
+msgid "dang_ky_tai_khoan"
+msgstr "Sign up for an account"
+
+msgid "vui_long_nhap_tai_khoan_dang_ky"
+msgstr "Please enter your registered account"
+
+msgid "vui_long_nhap_mat_khau"
+msgstr "Please enter a password"
+
+msgid "vui_long_nhap_xac_nhan_mat_khau"
+msgstr "Please enter password confirmation"
+
+msgid "xac_nhan_mat_khau_khong_chinh_xac"
+msgstr "Confirm password is incorrect"
+
+msgid "vui_long_nhap_so_dien_thoai"
+msgstr "Please enter the phone number"
+
+msgid "tai_khoan_da_duoc_dang_ky"
+msgstr "Account is registered"
+
+msgid "tai_khoan_cua_ban_da_duoc_dang_ky_thanh_cong"
+msgstr "Your account has been successfully registered"
+
+msgid "quan_ly_tai_khoan"
+msgstr "Account Management"
+
+msgid "vui_long_nhap_day_du_thong_tin"
+msgstr "Please enter full information"
+
+msgid "mat_khau_cu_nhap_khong_chinh_xac"
+msgstr "Old password entered is incorrect"
+
+msgid "mat_khau_thay_doi_khong_the_giong_mat_khau_cu"
+msgstr "The changed password cannot be the same as the old password"
+
+msgid "vui_long_nhap_ma_khach_hang"
+msgstr "Please enter customer code"
+
+msgid "vui_long_nhap_so_diem"
+msgstr "Please enter the score"
+
+msgid "don_hang_cua_ban"
+msgstr "Your order"
+
+msgid "chu_ky_khong_hop_le"
+msgstr "Invalid signature"
+
+msgid "giao_dich_khong_thanh_cong"
+msgstr "Transaction failed"
+
+msgid "giao_dich_thanh_cong"
+msgstr "Successful transaction"
+
+msgid "khong_lay_duoc_du_lieu_tra_ve_tu_webhooks"
+msgstr "Failed to get return data from Webhooks"
+
+msgid "khong_tim_thay_thong_tin_giao_dich"
+msgstr "No transaction information found"
+
+msgid "giao_dich_nay_da_thanh_cong"
+msgstr "This transaction was successful"
+
+msgid "gia_tri_giao_dich_khong_chinh_xac"
+msgstr "Incorrect transaction value"
+
+msgid "loi_khi_cap_nhap_thong_tin_giao_dich"
+msgstr "Error when updating transaction information"
+
+msgid "loi_khi_cap_nhap_thong_tin_don_hang"
+msgstr "Error when updating order information"
+
+msgid "vui_long_nhap_noi_dung_gui_thu"
+msgstr "Please enter your message"
+
+msgid "the_bai_viet"
+msgstr "Post tags"
+
+msgid "khong_co_du_lieu_file"
+msgstr "No file data"
+
+msgid "khong_co_du_lieu_anh"
+msgstr "No image data"
+
+msgid "khong_co_du_lieu_video"
+msgstr "No video data"
+
+msgid "trang_truoc"
+msgstr "Previous page"
+
+msgid "hien_chua_co_dia_chi_nao"
+msgstr "There are currently no addresses"
+
+msgid "xin_loi_da_co_loi_he_thong_xay_ra_ban_vui_long_quay_lai_trang_chu"
+msgstr "Sorry, there was a system error, please go back to the homepage"
+
+msgid "kich_thuoc"
+msgstr "Size"
+
+msgid "tin_tuc"
+msgstr "News"
+
+msgid "tu_khoa_tim_kiem"
+msgstr "Search keyword"
+
+msgid "khach_hang_danh_gia"
+msgstr "Customer rating"
+
+msgid "chia_se_nhan_xet_ve_san_pham"
+msgstr "Share product reviews"
+
+msgid "danh_gia_va_nhan_xet"
+msgstr "Rate and comment"
+
+msgid "gui_nhan_xet_cua_ban"
+msgstr "Send your comment"
+
+msgid "danh_gia_cua_ban_ve_san_pham_nay"
+msgstr "Your review for this product"
+
+msgid "viet_nhan_xet_cua_ban_vao_ben_duoi"
+msgstr "Write your review below"
+
+msgid "nhan_xet_cua_ban_ve_san_pham_nay"
+msgstr "Your review for this product"
+
+msgid "thong_tin_ca_nhan_cua_ban"
+msgstr "Your personal information"
+
+msgid "thong_tin_ca_nhan_cua_ban"
+msgstr "Your personal information"
+
+msgid "hinh_anh"
+msgstr "Image"
+
+msgid "gui_danh_gia"
+msgstr "Submit a review"
+
+msgid "thao_luan"
+msgstr "Discuss"
+
+msgid "xem_them_thao_luan"
+msgstr "See more discussions"
+
+msgid "danh_gia"
+msgstr "Evaluate"
+
+msgid "tai_xuong_tap_tin_dinh_kem"
+msgstr "Download attachment"
+
+msgid "dat_lai"
+msgstr "Order again"
+
+msgid "muc_luc_noi_dung"
+msgstr "Table of Contents"
+
+msgid "tai_khoan_ngan_hang"
+msgstr "Bank account"
+
+msgid "ten_ngan_hang"
+msgstr "Bank name"
+
+msgid "chi_nhanh"
+msgstr "Branch"
+
+msgid "chu_tai_khoan"
+msgstr "Account holder"
+
+msgid "so_tai_khoan"
+msgstr "Account number"
+
+msgid "ma_giao_dich"
+msgstr "Transaction code"
+
+msgid "can_nang"
+msgstr "Weight"
+
+msgid "chieu_dai"
+msgstr "Length"
+
+msgid "chieu_rong"
+msgstr "Width"
+
+msgid "chieu_cao"
+msgstr "Height"
+
+msgid "chao_khach_hang"
+msgstr "Hello customer"
+
+msgid "chao_ban"
+msgstr "Hi"
+
+msgid "cam_on_ban_da_mua_sam_tren_website_cua_chung_toi_hy_vong_ban_se_hai_long_voi_nhung_san_pham_da_mua"
+msgstr "Thank you for shopping on our website. Hope you will be satisfied with the products purchased."
+
+msgid "cua_ban_hien_dang_xu_ly_va_se_thong_bao_cho_ban_ngay_khi_hang_duoc_xuat_kho"
+msgstr "của bạn hiện đang được xử lý và sẽ thông báo cho bạn ngay khi hàng được xuất kho."
+
+msgid "don_gia"
+msgstr "Unit price"
+
+msgid "chiet_khau"
+msgstr "Discount"
+
+msgid "phi_van_chuyen"
+msgstr "Shipping fee"
+
+msgid "xac_nhan_thay_doi_mat_khau"
+msgstr "Confirm password change"
+
+msgid "vui_long_click_vao_dia_chi_ben_duoi_de_thay_doi_mat_khau"
+msgstr "Please click on the address below to change your password"
+
+msgid "thong_tin_dang_ky"
+msgstr "Registration information"
+
+msgid "ban_hoac_ai_do_da_su_dung_email_nay_de_dang_ky_tai_khoan_tai_website_voi_thong_tin_sau"
+msgstr "You or someone else used this email to register an account at the website with the following information"
+
+msgid "de_xac_nhan_viec_dang_ky_nay_la_hop_le_ban_vui_long_truy_cap_vao"
+msgstr "To confirm this registration is valid, please visit"
+
+msgid "email_dang_ky"
+msgstr "Email registration"
+
+msgid "ten_truy_cap"
+msgstr "Username"
+
+msgid "thong_tin_lien_he"
+msgstr "Contact information"
+
+msgid "dang_ky_thanh_cong"
+msgstr "Sign Up Success"
+
+msgid "chuc_mung_ban_da_dang_ky_thanh_cong_vui_long_kiem_tra_email_de_nhan_thong_tin_kich_hoat"
+msgstr "Congratulations on your successful registration. Please check your email for activation information"
+
+msgid "chuc_mung_ban_da_dang_ky_thanh_cong_tai_khoan_tai"
+msgstr "Congratulations, you have successfully registered an account at"
+
+msgid "voi_thong_tin_sau"
+msgstr "with the following information"
+
+msgid "duong_dan"
+msgstr " path "
+
+msgid "nay_de_kich_hoat_tai_khoan"
+msgstr "this to activate the account"
+
+msgid "gui_lai_ma_xac_nhan"
+msgstr "Resend verification code"
+
+msgid "ma_xac_nhan"
+msgstr "Verification code"
+
+msgid "ma_xac_nhan_cua_ban_la"
+msgstr "Your verification code is"
+
+msgid "thoi_gian_giua_hai_lan_gui_la_mot_phut"
+msgstr "The time between two submissions is one minute"
+
+msgid "thong_tin_kich_hoat_khong_ton_tai"
+msgstr "Activation information does not exist"
+
+msgid "ban_da_kich_hoat_thanh_cong_tai_khoan"
+msgstr "You have successfully activated your account"
+
+msgid "gui_ma_xac_nhan_thanh_cong"
+msgstr "Sent verification code successfully"
+
+msgid "kich_hoat_tai_khoan"
+msgstr "Active account"
+
+msgid "neu_nhu_ban_khong_dang_ky_thong_tin_voi_tai_khoan"
+msgstr "If you do not register information with the account"
+
+msgid "vui_long_bo_qua_va_xoa_email_nay"
+msgstr "please ignore and delete this email"
+
+msgid "xin_cam_on"
+msgstr "Thank you"
+
+msgid "sau_khi_nhap_dia_chi_email_vui_long_kiem_tra_hom_thu_dien_tu_de_lay_ma_xac_nhan_thay_doi_mat_khau"
+msgstr "After entering the email address, please check your email to get the password change confirmation code"
+
+msgid "thong_tin_tai_khoan_khong_ton_tai"
+msgstr "Account information does not exist"
+
+msgid "thay_doi_mat_khau_thanh_cong"
+msgstr "Change password successfully"
+
+msgid "thong_tin_khong_chinh_xac_hoac_ma_xac_nhan_da_het_han"
+msgstr "The information is incorrect or the verification code has expired"
+
+msgid "de_xac_nhan_viec_thay_doi_mat_khau_nay_la_hop_le_ban_vui_long_truy_cap_vao"
+msgstr "To confirm this password change is valid, please visit"
+
+msgid "neu_nhu_ban_khong_thay_doi_mat_khau_voi_tai_khoan"
+msgstr "If you do not change the password with the account"
+
+msgid "khach_hang_de_lai_thong_tin_lien_he"
+msgstr "Customers leave contact information"
+
+msgid "thong_tin_khach_hang_khong_hop_le"
+msgstr "Invalid customer information"
+
+msgid "nhan_vao"
+msgstr "Click"
+
+msgid "nay_de_chuyen_toi_trang_kich_hoat_tai_khoan"
+msgstr "this to go to the account activation page"
+
+msgid "neu_nhu_ban_khong_yeu_cau_gui_lai_ma_xac_nhan_vui_long_bo_qua_va_xoa_email_nay"
+msgstr "If you did not ask to resend the confirmation code, please ignore and delete this email"
+
+msgid "khong_the_kich_hoat_tai_khoan_nay"
+msgstr "Unable to activate this account"
+
+msgid "kich_hoat_tai_khoan_thanh_cong"
+msgstr "Account activation successful"
+
+msgid "chon_dia_chi_khac"
+msgstr "Choose another address"
+
+msgid "ban_da_danh_gia_san_pham_nay_roi"
+msgstr "You already rated this product"
+
+msgid "vui_long_dang_nhap_tai_khoan_de_su_dung_chuc_nang_nay"
+msgstr "Please login to use this function"
+
+msgid "cho_van_chuyen"
+msgstr "Waiting for shipping"
+
+msgid "da_xac_nhan"
+msgstr "Confirmed"
+
+msgid "thao_tac"
+msgstr "Operation"
+
+msgid "anh_dai_dien"
+msgstr "Avatar"
+
+msgid "thong_tin_san_pham_khong_ton_tai"
+msgstr "Product information does not exist"
+
+msgid "san_pham_ngung_kinh_doanh"
+msgstr "Products discontinued"
+
+msgid "quay_lai"
+msgstr "Back"
+
+msgid "dia_chi_nhan_hang"
+msgstr "Delivery address"
+
+msgid "ten_dia_chi"
+msgstr "Address name"
+
+msgid "khong_gui_duoc_email"
+msgstr "Can't send email"
+
+msgid "vui_long_nhap_ma_xac_nhan"
+msgstr "Please enter the confirmation code"
+
+msgid "ban_chua_co_tai_khoan_he_thong"
+msgstr "Don't have a system account yet?"
+
+msgid "quay_lai_gio_hang"
+msgstr "Back to cart"
+
+msgid "vui_long_nhap_dia_chi_email"
+msgstr "Please enter your email address"
+
+msgid "so_dien_thoai_da_duoc_dang_ky"
+msgstr "Registered phone number"
+
+msgid "yeu_thich"
+msgstr "Favourite"
+
+msgid "khong_lay_duoc_thong_tin_yeu_thich"
+msgstr "Failed to get favorite information"
+
+msgid "them_thanh_cong_san_pham_yeu_thich"
+msgstr "Successfully added a favorite product"
+
+msgid "them_thanh_cong_bai_viet_yeu_thich"
+msgstr "Successfully added a favorite article"
+
+msgid "xoa_thanh_cong_san_pham_yeu_thich"
+msgstr "Successfully deleted favorite product"
+
+msgid "xoa_thanh_cong_bai_viet_yeu_thich"
+msgstr "Successfully deleted favorite article"
+
+msgid "bai_viet"
+msgstr "Article"
+
+msgid "anh"
+msgstr "Image"
+
+msgid "gio_hang_cua_ban"
+msgstr "Your cart"
+
+msgid "xem_gio_hang"
+msgstr "View cart"
+
+msgid "thanh_toan"
+msgstr "Pay"
+
+msgid "gia_tam"
+msgstr "Temporary price"
+
+msgid "mota_cart"
+msgstr "17 people are adding the same product as you to their cart. Buy now before these products run out of stock!"
+
+msgid "mo_ta_cart"
+msgstr "Your order is eligible for free shipping"
+
+msgid "tom_tat_san_pham"
+msgstr "Product summary"
+ 
+msgid "tom_tat_don_hang"
+msgstr "Order summary"
+
+msgid "chung_toi_chap_nhan"
+msgstr "We Accept"
+
+msgid "van_chuyen"
+msgstr "Shipping"
+
+msgid "dia_chi_nhan_hang"
+msgstr "Delivery address"
+
+msgid "tai_khoan"
+msgstr "Bank Account/Card"
+
+msgid "vi_lien_ket"
+msgstr "Linked wallet"
+
+msgid "phieu_giam_gia"
+msgstr "Coupons"
+
+msgid "vi_dago"
+msgstr "Dago Wallet"
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "dieu_khoan_cua_dago"
+msgstr "Terms of Dago"
+
+msgid "tieu_chuan"
+msgstr "Community standards"
+
+msgid "gioi_thieu_dago"
+msgstr "About Dago"
+
+msgid "yeu_cau_xoa_tai_khoan"
+msgstr "Request to delete account"
+
+msgid "ho_tro"
+msgstr "Customer support"
+
+msgid "ngon_ngu"
+msgstr "Language"
+
+msgid "ho_so_cua_toi"
+msgstr "My profile"
+
+msgid "quan_ly_thong_tin_ho_so_de_bao_mat_tai_khoan"
+msgstr "Manage profile information for account security"
+
+msgid "tai_khoan_mang_xa_hoi"
+msgstr "Social media accounts"
+
+msgid "sua_thong_tin"
+msgstr "Edit information"
+
+msgid "ho_tro_khach_hang"
+msgstr "Customer support"
+
+msgid "khong_lay_duoc_thong_tin_khach_hang"
+msgstr "Can't get customer information"
+
+msgid "khong_lay_duoc_thong_tin_nguoi_nhan"
+msgstr "Can't get recipient information"
+
+msgid "ma_khach_hang_khong_hop_le"
+msgstr "Invalid customer code"
+
+msgid "dieu_khoan"
+msgstr "Terms"
+
+msgid "gioi_thieu"
+msgstr "Introduce"
+
+msgid "diem_danh_nhan_qua"
+msgstr "Take attendance for gifts"
+
+msgid "ban_co"
+msgstr "You have"
+
+msgid "diem"
+msgstr "Point"
+
+msgid "don"
+msgstr "Order"
+
+msgid "ghi_chu_diem"
+msgstr "(Each point is equal to 1,000 VND) Log in continuously for 7 days, to receive surprise gifts"
+
+msgid "diem_khuyen_mai"
+msgstr "Promotion points"
+
+msgid "diem_danh"
+msgstr "Attendance"
+msgid "phieu_giam_gia_cua_ban"
+msgstr "Your Coupons"
+
+msgid "ap_dung"
+msgstr "Apply"
+
+msgid "xoa_coupon"
+msgstr "Delete coupon"
+
+msgid "vi_kha_dung"
+msgstr "Available wallets"
+
+msgid "the_giam_gia"
+msgstr "Discount card"
+
+msgid "so_du_vi"
+msgstr "Wallet balance"
+
+msgid "vui_long_nhap_ma_coupon"
+msgstr "Please enter coupon code"
+
+msgid "ma_coupon_khong_duoc_ap_dung"
+msgstr "Coupon code is not applicable"
+
+msgid "xac_minh_ma_coupon_thanh_cong"
+msgstr "Coupon code verification successful"
+
+msgid "phieu_giam_gia_va_diem_thuong_duoc_su_dung_buoc_tiep_theo"
+msgstr "Coupons and bonus points are used next step"
+
+msgid "thong_bao"
+msgstr "Notification"
+
+msgid "chua_den_ngay_diem_danh"
+msgstr "The attendance date has not yet arrived"
+
+msgid "ban_dan_gianh_duoc"
+msgstr "You got"
+
+msgid "hay_quay_lai_vao_ngay_hom_sau"
+msgstr "Come back the next day"
+
+msgid "moi_diem_tuong_ung_bang"
+msgstr "Each point is equal to"
+
+msgid "dong_vnd"
+msgstr "dong"
+
+msgid "thoi_han_su_dung_diem_den_ngay"
+msgstr "Expiration date"
+
+msgid "hom_nay"
+msgstr "Today"
+
+msgid "so_diem"
+msgstr "Point"
+
+msgid "tat_ca"
+msgstr "All"
+
+msgid "so_diem_trong_vi_khong_du_de_su_dung"
+msgstr "The number of points in the wallet is not enough to use"
+
+msgid "so_diem_thuong_vi_khong_du_de_su_dung"
+msgstr "There are not enough bonus points in the wallet to use"
+
+msgid "khong_ap_dung_diem_voi_don_hang_nay"
+msgstr "Points are not applicable for this order"
+
+msgid "diem_thuong_da_het_han_su_dung"
+msgstr "Bonus points have expired"
+
+msgid "diem_danh_tich_diem"
+msgstr "Take attendance for collecting point"
+
+msgid "ngay_diem_danh_khong_hop_le"
+msgstr "Invalid attendance date"
+
+msgid "vi_cua_ban"
+msgstr "Your wallet"
+
+msgid "diem_dang_co"
+msgstr "Points are available"
+
+msgid "diem_khuyen_mai_se_het_han_vao"
+msgstr "Promotion points will expire on"
+
+msgid "nap_tien"
+msgstr "Add fund"
+
+msgid "nap_diem"
+msgstr "Top up points"
+
+msgid "nap_diem_vao_vi"
+msgstr "Top up points into your wallet"
+
+msgid "chuyen_tien"
+msgstr "Transfer money"
+
+msgid "diem_tang"
+msgstr "Bonus points"
+
+msgid "su_dung"
+msgstr "Use"
+
+msgid "so_diem_hien_co"
+msgstr "Available points"
+
+msgid "han_dung"
+msgstr "Expiry date"
+
+msgid "nhap_phieu_giam_gia"
+msgstr "Enter coupons"
+
+msgid "danh_muc_san_pham"
+msgstr "Product category"
+
+msgid "lay_phieu_giam_gia"
+msgstr "Get coupons"
+
+msgid "diem_vi"
+msgstr "Wallet points"
+
+msgid "huy_ap_dung_diem"
+msgstr "Cancel applying points"
+
+msgid "dang_nhap_de_su_dung_chuc_nang"
+msgstr "Login to use the function"
+
+msgid "thong_tin_cong_azpay_01"
+msgstr "Paying Nhan Hoa Onepay"
+
+msgid "thong_tin_cong_azpay_04"
+msgstr "Paying Nhan Hoa Momo"
+
+msgid "tat_ca_lich_su"
+msgstr "All history"
+
+msgid "da_nhan"
+msgstr "Received"
+
+msgid "da_dung"
+msgstr "Used"
+
+msgid "tang_diem"
+msgstr "Give points"
+
+msgid "ma_nguoi_nhan"
+msgstr "Recipient code"
+
+msgid "diem_vi"
+msgstr "Wallet points"
+
+msgid "diem_thuong"
+msgstr "Reward points"
+
+msgid "thoi_han_su_dung"
+msgstr "Expiry date"
+
+msgid "so_diem_phai_nho_hon_diem_trong_vi"
+msgstr "The number of points must be less than the points in the wallet"
+
+msgid "dat_lam_dia_chi_mac_dinh"
+msgstr "Set as default address"
+
+msgid "sua_dia_chi"
+msgstr "Edit address"
+
+msgid "dang_nhap_google"
+msgstr "Sign in to Google"
+
+msgid "dang_nhap_facebook"
+msgstr "Log in Facebook"
+
+msgid "hoac_tai_khoan"
+msgstr "Or account"
+
+msgid "ghi_nho_toi"
+msgstr "Remember me"
+
+msgid "ban_chua_co_tai_khoan"
+msgstr "Do not have an account?"
+
+msgid "dang_ky_ngay"
+msgstr "Sign up now"
+
+msgid "huy_phieu_giam_gia"
+msgstr "Cancel coupon"
+
+msgid "cong_diem_thuong_khi_diem_danh"
+msgstr "Plus bonus points when taking attendance"
+
+msgid "cong_diem_thuong_khi_mua_hang"
+msgstr "Plus bonus points when purchasing"
+
+msgid "tru_diem_thuong_khi_mua_hang"
+msgstr "Deduct bonus points when purchasing"
+
+msgid "dieu_chinh_diem_tu_he_thong"
+msgstr "Adjust points from the system"
+
+msgid "tru_diem_vi_khi_mua_hang"
+msgstr "Deduct wallet points when purchasing"
+
+msgid "cong_diem_vi_khi_mua_hang"
+msgstr "Plus wallet points when purchasing"
+
+msgid "tang_diem_trong_vi"
+msgstr "Give points in your wallet"
+
+msgid "dung_diem_thuong_khi_mua_hang"
+msgstr "Use bonus points when purchasing"
+
+msgid "nap_diem_vi"
+msgstr "Top up wallet points"
+
+msgid "nap_diem_thanh_cong"
+msgstr "Top up points successfully"
+
+msgid "ban_da_nap_thanh_cong"
+msgstr "You have topped-up successfully"
+
+msgid "diem_vao_vi"
+msgstr "point to wallet"
+
+msgid "giao_dich_moi"
+msgstr "New transaction"
+
+msgid "ma_nap"
+msgstr "Top-up code"
+
+msgid "so_diem_nap"
+msgstr "Number of top-up point"
+
+msgid "cong_thanh_toan"
+msgstr "Payment gateway"
+
+msgid "hien_khong_co_phieu_giam_gia_nao_duoc_ap_dung"
+msgstr "There are currently no coupons available"
+
+msgid "xac_nhan_tai_khoan"
+msgstr "Account confirmation"
+
+msgid "buoc_tiep_theo"
+msgstr "Next step"
+
+msgid "ban_chua_nhan_duoc_ma"
+msgstr "You have not received the code"
+
+msgid "khoi_phuc_mat_khau_qua_email"
+msgstr "Recover password via email"
+
+msgid "ma_se_gui_qua_email_ban_dang_ky_de_thay_doi_mat_khau"
+msgstr "The code will be sent to the email you registered to change your password"
+
+msgid "ap_dung_voi_san_pham_{0}"
+msgstr "Apply to product "{0}""
+
+msgid "ap_dung_voi_danh_muc_{0}"
+msgstr "Apply to the category "{0}""
+
+msgid "ap_dung_voi_thuong_hieu_{0}"
+msgstr "Apply with brand "{0}""
+
+msgid "ap_dung_voi_don_hang_tu_{0}"
+msgstr "Apply to orders from "{0}""
+
+msgid "ap_dung_voi_don_hang_duoi_{0}"
+msgstr "Apply to orders below "{0}""
+
+msgid "ap_dung_khi_mua_tren_{0}_san_pham"
+msgstr "Apply when buying above "{0}" product"
+
+msgid "ap_dung_voi_don_tai_{0}"
+msgstr "Apply to order at "{0}""
+
+msgid "ap_dung_voi_tat_ca_san_pham"
+msgstr "Apply to all products"
+
+msgid "ma"
+msgstr "Code"
+
+msgid "giam_toi_da"
+msgstr "Maximum discount"
+
+msgid "so_tien_nap"
+msgstr "Amount of top-up"
+
+msgid "quy_doi"
+msgstr "Exchange"
+
+msgid "lay_ma_xac_nhan_qua_email"
+msgstr "Get the verification code via email"
+
+msgid "ma_se_gui_qua_email_ban_dang_ky_de_thay_doi"
+msgstr "The code will be sent to the email you registered to change"
+
+msgid "lay_ma_xac_nhan_qua_dien_thoai"
+msgstr "Get the confirmation code via phone number"
+
+msgid "ma_se_gui_qua_so_dien_thoai_ban_dang_ky_de_thay_doi"
+msgstr "The code will be sent to the email you registered to change"
+
+msgid "thay_doi_so_dien_thoai"
+msgstr "Change phone number"
+
+msgid "nhan_ma"
+msgstr "Get code"
+
+msgid "so_dien_thoai_moi"
+msgstr "New phone number"
+
+msgid "su_dung_diem"
+msgstr "Use points"
+
+msgid "cho_thanh_toan"
+msgstr "Pending payment"
+
+msgid "dang_xu_ly"
+msgstr "Processing"
+
+msgid "vi_du"
+msgstr "Example"
+
+msgid "chinh_sua"
+msgstr "Edit"
+
+msgid "ma_xac_nhan_se_gui_qua_email_cua_ban"
+msgstr "Verification code will be sent to your email"
+
+msgid "ma_xac_nhan_se_gui_qua_so_dien_thoai_cua_ban"
+msgstr "Verification code will be sent to your phone number"
+
+msgid "thay_doi_email"
+msgstr "Change email"
+
+msgid "email_moi"
+msgstr "New email"
+
+msgid "xac_nhan_thay_doi_thong_tin_tai"
+msgstr "Confirm information changes at"
+
+msgid "trang_thai_khong_hoat_dong"
+msgstr "Inactive status"
+
+msgid "khong_lay_duoc_ma_xac_nhan"
+msgstr "Can't get the verification code"
+
+msgid "ma_xac_nhan_la_{0}"
+msgstr "Verification code is {0}"
+
+msgid "ma_xac_thuc_otp_cua_quy_khach_la_{0}"
+msgstr "Your OTP verification code is: {0}"
+
+msgid "gui_ma_thanh_cong"
+msgstr "Code sent successfully"
+
+msgid "vui_long_chon_hinh_thuc_nhan_ma_xac_nhan"
+msgstr "Please choose the method to receive the verification code"
+
+msgid "khong_lay_duoc_thong_tin_so_dien_thoai"
+msgstr "Can't get phone number information"
+
+msgid "khong_lay_duoc_thong_tin_email"
+msgstr "Can't get email information"
+
+msgid "khong_lay_duoc_loai_thong_tin_thay_doi"
+msgstr "Unable to get the changed information type"
+
+msgid "vui_long_nhap_thong_tin"
+msgstr "Please enter information"
+
+msgid "email_da_duoc_dang_ky"
+msgstr "Email was registered"
+
+msgid "ma_otp_hop_le"
+msgstr "Valid OTP code"
+
+msgid "vui_long_nhap_ten"
+msgstr "Please enter name"
+
+msgid "mat_khau_tai_khoan_cua_ban_la_{0}"
+msgstr "Your account password is: {0}"
+
+msgid "tim_kiem_tu_khoa"
+msgstr "Keyword search"
+
+msgid "tinh_trang"
+msgstr "Status"
+
+msgid "so_dien_thoai_chua_chinh_xac"
+msgstr "Incorrect phone number"
+
+msgid "san_pham_khong_co_mo_ta"
+msgstr "Product has no description"
+
+msgid "day_la_email_tu_dong_quy_khach_vui_long_khong_tra_loi_email_nay"
+msgstr "This is an automatic email, please do not reply to this email"
+
+msgid "gia_va_phien_ban_san_pham"
+msgstr "Price and product version"
+
+msgid "anh_san_pham"
+msgstr "Product image"
+
+msgid "so_luong_san_co"
+msgstr "Quantity available"
+
+msgid "phuong_thuc_van_chuyen"
+msgstr "Shipping method"
+
+msgid "mua_ngay_bang_diem"
+msgstr "Buy now with points"
+
+msgid "vui_long_nhap_diem"
+msgstr "Please enter points"
+
+msgid "chuyen_diem"
+msgstr "Transfer point"
+msgid "lien_ket_doi_tac"
+msgstr "Link partner"
+
+msgid "giao_dich"
+msgstr "Transaction"
+
+msgid "lien_ket_ngan_hang"
+msgstr "Link bank"
+
+msgid "rut_tien"
+msgstr "Withdrawal"
+
+msgid "kich_hoat_tai_khoan_doi_tac"
+msgstr "Activate partner account"
+
+msgid "khong_co_phuong_thuc_nao_duoc_ap_dung"
+msgstr "No method is applicable"
+
+msgid "gia_tang_thu_nhap_ca_nhan"
+msgstr "Increase personal income"
+
+msgid "hoa_hong_theo_cap_bac"
+msgstr "Commissions by rank"
+
+msgid "thanh_toan_theo_dinh_ky"
+msgstr "Recurring payment"
+
+msgid "gioi_thieu_khach_hang_mua_san_pham_su_dung_ma_gioi_thieu_ban_duoc_cung_cap_ban_se_nhan_duoc_%_gia_tri_don_hang"
+msgstr "Refer customers to buy products. Using the referral code you provided, you will receive % of the order value."
+
+msgid "khi_doanh_thu_dat_den_muc_nhat_dinh_ban_se_duoc_huong_%_hoa_hong_theo_muc_dat_duoc_voi_tat_ca_don_hang_trong_thang"
+msgstr "When the revenue reaches a certain level, you will be entitled to a % of the commission achieved with all orders for the month."
+
+msgid "ngay_15_hang_thang_chung_toi_se_tu_dong_thanh_toan_%_hoa_hong_den_tai_khoan_ban_cung_cap"
+msgstr "On the 15th of every month we will automatically pay the commission % to the account you provide."
+
+msgid "ban_hang_cung_chung_toi"
+msgstr "Sell with us"
+
+msgid "ban_hang_cung_chung_toi"
+msgstr "Sell with us"
+
+msgid "ban_hien_dang_la_doi_tac_cua_chung_toi"
+msgstr "You are currently our partner"
+
+msgid "chua_co_thong_tin"
+msgstr "No information"
+
+msgid "cap_nhat"
+msgstr "Update"
+
+msgid "thong_bao_cua_ban"
+msgstr "Your notification"
+
+msgid "ban_chua_co_thong_bao_nao"
+msgstr "You don't have any notifications yet"
+
+msgid "loai_hinh_tiep_thi_lien_ket_cua_ban"
+msgstr "Your type of affiliate marketing"
+
+msgid "huy_dang_ky"
+msgstr "Cancel registration"
+
+msgid "vi_cua_toi"
+msgstr "My wallet"
+
+msgid "qua_tang"
+msgstr "Gift"
+
+msgid "tai_khoan_doi_tac"
+msgstr "Partner account"
+
+msgid "lich_su_rut_tien"
+msgstr "Withdrawal history"
+
+msgid "don_gioi_thieu"
+msgstr "Introductory form"
+
+msgid "thu_hang"
+msgstr "Rank"
+
+msgid "don_hang_hoan_thanh"
+msgstr "Order completed"
+
+msgid "don_hang_that_bai"
+msgstr "Order failed"
+
+msgid "hien_tai_cua_ban"
+msgstr "Your current"
+
+msgid "tong_hoa_hong_dat"
+msgstr "Total commission achieved"
+
+msgid "du_lieu_thang"
+msgstr "Monthly data"
+
+msgid "tong_don"
+msgstr "Total order"
+
+msgid "don_hang_that_bai"
+msgstr "Order failed"
+
+msgid "hoa_hong"
+msgstr "Commission"
+
+msgid "tam_tinh"
+msgstr "Provisional"
+
+msgid "bieu_do_thang"
+msgstr "Monthly chart"
+
+msgid "thang_1"
+msgstr "January"
+
+msgid "thang_2"
+msgstr "February"
+
+msgid "thang_3"
+msgstr "March"
+
+msgid "thang_4"
+msgstr "April"
+
+msgid "thang_5"
+msgstr "May"
+
+msgid "thang_6"
+msgstr "June"
+
+msgid "thang_7"
+msgstr "July"
+
+msgid "thang_8"
+msgstr "August"
+
+msgid "thang_9"
+msgstr "September"
+
+msgid "thang_10"
+msgstr "October"
+
+msgid "thang_11"
+msgstr "November"
+
+msgid "thang_12"
+msgstr "December"
+
+msgid "trong_nam"
+msgstr "In year"
+
+msgid "thoi_gian"
+msgstr "Time"
+
+msgid "ma_gioi_thieu"
+msgstr "Referral code"
+
+msgid "nhap_ma_gioi_thieu"
+msgstr "Enter referral code"
+
+msgid "huy_ap_dung_ma_gioi_thieu"
+msgstr "Cancel the application of the referral code"
+
+msgid "quy_doi_diem"
+msgstr "Redeem points"
+
+msgid "ngan_hang"
+msgstr "Bank"
+
+msgid "so_diem_co_the_rut"
+msgstr "Points that can be withdrawn"
+
+msgid "them_ngan_hang"
+msgstr "Add a bank"
+
+msgid "%_hoa_hong"
+msgstr "% commission"
+
+msgid "ngay"
+msgstr "Day"
+
+msgid "cho_xet_duyet"
+msgstr "Waiting for approval"
+
+msgid "ngay_tao_yeu_cau"
+msgstr "Date of request creation"
+
+msgid "so_tien_rut"
+msgstr "Withdrawal amount"
+
+msgid "su_dung_diem_tang"
+msgstr "Use bonus points"
+
+msgid "su_dung_diem_vi"
+msgstr "Use wallet points"
+
+msgid "tong_tien_don_hang"
+msgstr "Total order amount"
+
+msgid "diem_hoa_hong"
+msgstr "Commission point"
+
+msgid "so_diem_rut"
+msgstr "Number of withdrawal points"
+
+msgid "thu_hang"
+msgstr "Rank"
+
+msgid "ngay_cap"
+msgstr "Issue date"
+
+msgid "vui_long_nhap_so_cmnd_cccd"
+msgstr "Please enter your ID number"
+
+msgid "vui_long_nhap_ngay_cap_cmnd_cccd"
+msgstr "Please enter the date of issue of ID card"
+
+msgid "hien_chua_co_ngan_hang_nao_duoc_lien_ket"
+msgstr "There are currently no linked banks"
+
+msgid "vui_long_nhap_ten_ngan_hang"
+msgstr "Please enter bank name"
+
+msgid "vui_long_nhap_chi_nhanh"
+msgstr "Please enter branch"
+
+msgid "vui_long_nhap_ten_chu_tai_khoan"
+msgstr "Please enter the account holder's name"
+
+msgid "vui_long_nhap_so_tai_khoan"
+msgstr "Please enter account number"
+
+msgid "khong_lay_duoc_thong_tin_ngan_hang"
+msgstr "Can't get bank information"
+
+msgid "cap_nhat_tai_khoan_ngan_hang_thanh_cong"
+msgstr "Bank account update successful"
+
+msgid "ban_khong_the_xoa_ngan_hang_mac_dinh"
+msgstr "You cannot delete the default bank"
+
+msgid "xoa_lien_ket_ngan_hang_thanh_cong"
+msgstr "Bank link removed successfully"
+
+msgid "dang_cho_quan_tri_xet_duyet"
+msgstr "Waiting for admin to approve"
+
+msgid "tru_diem_tu_yeu_cau_rut_tien"
+msgstr "Deduct points from withdrawal request"
+
+msgid "ban_da_tro_thanh_doi_tac"
+msgstr "You have become a partner"
+
+msgid "khoi_tao_tai_khoan_doi_tac_thanh_cong"
+msgstr "Create partner account successfully"
+
+msgid "vui_long_cap_nhat_ho_va_ten"
+msgstr "Please update first and last name"
+
+msgid "vui_long_cap_nhat_so_dien_thoai"
+msgstr "Please update phone number"
+
+msgid "vui_long_cap_nhat_email"
+msgstr "Please update your email"
+
+msgid "vui_long_cap_nhat_tinh_thanh"
+msgstr "Please update the province"
+
+msgid "vui_long_cap_nhat_quan_huyen"
+msgstr "Please update the district"
+
+msgid "vui_long_cap_nhat_phuong_xa"
+msgstr "Please update ward"
+
+msgid "thoi_gian_dat"
+msgstr "Order time"
+
+msgid "chi_tiet_don_gioi_thieu"
+msgstr "Details of the referral order"
+
+msgid "da_duyet"
+msgstr "Approved"
+
+msgid "huy_xet_duyet"
+msgstr "Cancel approval"
+
+msgid "rut_tien_truoc_ky_han"
+msgstr "Withdrawal before maturity"
+
+msgid "rut_tien_theo_ky_han"
+msgstr "Withdrawal by term"
+
+msgid "doi_tac"
+msgstr "Partner"
+
+msgid "quan_tri"
+msgstr "Administration"
+
+msgid "vuot_qua_so_luong_yeu_cau_trong_ngay"
+msgstr "Exceeded the number of requests per day"
+
+msgid "chua_co_yeu_cau_rut_tien"
+msgstr "No withdrawal request yet"
+
+msgid "thong_tin_cmnd_cccd"
+msgstr "ID card information"
+
+msgid "thong_tin_ngan_hang"
+msgstr "Bank information"
+
+msgid "ho_va_ten_cmnd_cccd"
+msgstr "First and last name on ID card"
+
+msgid "vui_long_nhap_ho_va_ten_trong_cmnd_cccd"
+msgstr "Please enter first and last name on ID card"
+
+msgid "noi_cap"
+msgstr "Place of issue"
+
+msgid "dat_hang_thanh_cong"
+msgstr "Order successfully"
+
+msgid "don_hang_{0}_cua_ban_da_dat_hang_thanh_cong_chung_toi_se_xac_nhan_va_gui_hang_den_cho_quy_khach_trong_thoi_gian_som_nhat"
+msgstr "Order {0} is placed successfully, we will confirm and send the order to you as soon as possible"
+
+msgid "tiep_thi_lien_ket"
+msgstr "Affiliate marketing"
+
+msgid "mua_hang_tich_diem"
+msgstr "Buy goods to earn points"
+
+msgid "diem_danh_tich_tiem"
+msgstr "Take attendance to earn points"
+
+msgid "nhan_diem_tang"
+msgstr "Get bonus points"
+
+msgid "tang_diem_vi"
+msgstr "Give wallet points"
+
+msgid "dung_diem_vi_khi_mua_hang"
+msgstr "Use wallet points when making purchases"
+
+msgid "chuong_trinh_khuyen_mai"
+msgstr "Promotion"
+
+msgid "thong_tin_nguoi_tang"
+msgstr "Giver information"
+
+msgid "thong_tin_nguoi_nhan"
+msgstr "Thông tin người nhận"
+
+msgid "ten_khach_hang"
+msgstr "Customer name"
+
+msgid "phuong_thuc_van_chuyen_da_thay_doi_vui_long_tai_lai_trang_de_cap_nhap_lai_phuong_thuc_van_chuyen"
+msgstr "Shipping method has changed please reload the page to update shipping method again"
+
+msgid "thanh_toan_bang_diem_khuyen_mai"
+msgstr "Pay with promotional points"
+
+msgid "thanh_toan_bang_diem_vi"
+msgstr "Pay with wallet points"
+
+msgid "con_phai_thanh_toan"
+msgstr "Still have to pay"
+
+msgid "ma_gioi_thieu_khong_ton_tai"
+msgstr "Referral code does not exist"
+
+msgid "ban_da_diem_danh_trong_ngay_hom_nay"
+msgstr "You took attendance today"
+
+msgid "khong_lay_duoc_thong_tin_cau_hinh_diem_danh"
+msgstr "Unable to get attendance configuration information"
+
+msgid "luu_thong_tin_diem_khong_thanh_cong"
+msgstr "Saving point information failed"
+
+msgid "xoa_ma_coupon_thanh_cong"
+msgstr "Successfully deleted coupon code"
+
+msgid "xac_minh_ma_gioi_thieu_thanh_cong"
+msgstr "Referral code verification successful"
+
+msgid "vui_long_nhap_ma_gioi_thieu"
+msgstr "Please enter referral code"
+
+msgid "khong_lay_duoc_thong_tin_gio_hang"
+msgstr "Can't get cart information"
+
+msgid "khong_lay_duoc_thong_tin_doi_tac"
+msgstr "Can't get partner information"
+
+msgid "vui_long_chon_ngan_hang"
+msgstr "Please select a bank"
+
+msgid "so_diem_khong_du_dieu_kien_de_rut"
+msgstr "Points are not eligible for withdrawal"
+
+msgid "so_diem_khong_du_de_rut"
+msgstr "Points are not enough to withdraw"
+
+msgid "chua_thiet_lap_ti_le_quy_doi"
+msgstr "The conversion rate has not been set"
+
+msgid "gui_yeu_cau_thanh_cong"
+msgstr "Submit request successfully"
+
+msgid "ho_va_ten_khach_hang"
+msgstr "Customer's first and last name"
+
+msgid "email_khach_hang"
+msgstr "Customer email"
+
+msgid "so_dien_thoai_khach_hang"
+msgstr "Customer phone number"
+
+msgid "so_luong_ao_muon_in"
+msgstr "Number of shirts you want to print"
+
+msgid "mau_ao_muon_in"
+msgstr "The shirt you want to print"
+
+msgid "da_thanh_toan"
+msgstr "Paid"
+
+msgid "lien_he"
+msgstr "Contact"
+
+msgid "co_thong_tin_lien_he_tu"
+msgstr "Có thông tin liên hệ từ"
+
+msgid "co_don_hang_moi"
+msgstr "Got a new order"
+
+msgid "cac_dich_vu_dang_ky_qua_website"
+msgstr "Services registered through the website"
+
+msgid "so_tien"
+msgstr "Amount of money"
+
+msgid "dang_nhap_mang_xa_hoi"
+msgstr "Login to social network"
+
+msgid "khong_lay_duoc_thong_tin_tra_ve"
+msgstr "Couldn't get the return information"
+
+msgid "khong_lay_duoc_thong_tin_token"
+msgstr "Token information could not be obtained"
+
+msgid "mua_ngay"
+msgstr "Buy now"
+
+msgid "xoa_thuoc_tinh"
+msgstr "Remove attribute"
+
+msgid "gui_nhan_tin"
+msgstr "Send and receive messages"
+
+msgid "gia_dac_biet"
+msgstr "Special price"
+
+msgid "ngay_khuyen_mai"
+msgstr "Promotion Day"
+
+msgid "so_sanh_san_pham"
+msgstr "Compare products"
+
+msgid "ban_co_muon_xoa_san_pham_ra_khoi_danh_sach_so_sanh"
+msgstr "Do you want to remove the product from the comparison list"
+
+msgid "loc"
+msgstr "Filter"
+
+msgid "dia_chi"
+msgstr "Address"
+
+msgid "tac_gia"
+msgstr "Author"
+
+msgid "nhap_so_dien_thoai"
+msgstr "Enter your phone number"
+
+msgid "nhap_email"
+msgstr "Enter email"
+
+msgid "tim_kiem_san_pham"
+msgstr "Search product"
+
+msgid "theo_ten"
+msgstr "By name"
+
+msgid "theo_luot_xem"
+msgstr "By views"
+
+msgid "co"
+msgstr "Yes"
+
+msgid "khong"
+msgstr "No"
+
+msgid "that_te"
+msgstr "Very bad"
+
+msgid "hoi_te"
+msgstr "Poor"
+
+msgid "kha"
+msgstr "Fair"
+
+msgid "kha_tot"
+msgstr "Good"
+
+msgid "tuyet_voi"
+msgstr "Excellent"
+
+msgid "binh_chon"
+msgstr "Rate"
+
+msgid "gui_danh_gia_khong_thanh_cong"
+msgstr "Submit rating failed"
+
+msgid "gui_danh_gia_thanh_cong"
+msgstr "Submit rating successfully"
+
+msgid "khong_lay_duoc_thong_tin_block"
+msgstr "Block information could not be obtained"
+
+msgid "bo_loc"
+msgstr "Filter"

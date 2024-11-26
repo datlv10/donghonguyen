@@ -1,0 +1,6212 @@
+msgid "tim_kiem"
+msgstr "Search"
+
+msgid "danh_sach"
+msgstr "List"
+
+msgid "da_chon"
+msgstr "Selected"
+
+msgid "nhan_ban"
+msgstr "Replication"
+
+msgid "ban_ghi"
+msgstr "Record"
+
+msgid "trang_thai"
+msgstr "Status"
+
+msgid "hoat_dong"
+msgstr "Active"
+
+msgid "khong_hoat_dong"
+msgstr "Inactive"
+
+msgid "ngung_hoat_dong"
+msgstr "Suspend"
+
+msgid "xoa"
+msgstr "Delete"
+
+msgid "xoa_tat_ca"
+msgstr "Delete all"
+
+msgid "quay_lai"
+msgstr "Back"
+
+msgid "them_moi"
+msgstr "Add"
+
+msgid "cap_nhat"
+msgstr "Update"
+
+msgid "cap_nhat_moi_nhat"
+msgstr "Newest update"
+
+msgid "chi_tiet_danh_muc"
+msgstr "Category details"
+
+msgid "chi_tiet_tai_khoan"
+msgstr "Account details"
+
+msgid "chi_tiet_nhom_quyen"
+msgstr "Permission group details"
+
+msgid "vui_long_them_quyen_tai_khoan_truoc_khi_cai_dat"
+msgstr "Please add account permissions before installation"
+
+msgid "ban_khong_co_quyen_truy_cap_vao_trang_nay"
+msgstr "You do not have permission to access this page"
+
+msgid "ban_khong_co_quyen_thuc_hien_hanh_dong_nay"
+msgstr "You are not authorized to perform this action"
+
+msgid "khong_co_quyen_truy_cap"
+msgstr "Not have access"
+
+msgid "quay_lai_danh_sach"
+msgstr "Back to list"
+
+msgid "danh_muc_cha"
+msgstr "Parent directory"
+
+msgid "ten_danh_muc"
+msgstr "Category name"
+
+msgid "ngay_tao"
+msgstr "Date created"
+
+msgid "chi_tiet"
+msgstr "Details"
+
+msgid "luu_&_tiep_tuc"
+msgstr "Save &amp; continue"
+
+msgid "luu_&_them_moi"
+msgstr "Save &amp; Add"
+
+msgid "luu_&_quay_lai"
+msgstr "Save &amp; back"
+
+msgid "thay_doi_trang_thai"
+msgstr "Change status"
+
+msgid "lua_chon"
+msgstr "Select"
+
+msgid "cai_dat"
+msgstr "Setting"
+
+msgid "giao_dien_website"
+msgstr "Website interface"
+
+msgid "cai_dat_giao_dien"
+msgstr "Interface setting"
+
+msgid "quan_ly_module"
+msgstr "Module management"
+
+msgid "quan_ly_menu"
+msgstr "Menu management"
+
+msgid "tuy_chinh_giao_dien"
+msgstr "Customize interface"
+
+msgid "tuy_chinh_css"
+msgstr "Customize Css"
+
+msgid "tuy_chinh_javascript"
+msgstr "Customize Javascript"
+
+msgid "tuy_chinh_javascript_cho_website"
+msgstr "Customize Javascript for website"
+
+msgid "ma_nhung"
+msgstr "Embed Code"
+
+msgid "khong_lay_duoc_thong_tin_giao_dien"
+msgstr "Unable to get interface information"
+
+msgid "ban_hang"
+msgstr "Sell"
+
+msgid "thuong_mai_dien_tu"
+msgstr "Ecommerce"
+
+msgid "san_pham"
+msgstr "Product"
+
+msgid "giao_dich"
+msgstr "Transaction"
+
+msgid "lien_he"
+msgstr "Contact"
+
+msgid "bao_cao"
+msgstr "Report"
+
+msgid "them_san_pham"
+msgstr "Add product"
+
+msgid "danh_muc_san_pham"
+msgstr "Product category"
+
+msgid "danh_sach_tinh_thanh_thanh_pho"
+msgstr "State/city list"
+
+msgid "danh_sach_quan_huyen"
+msgstr "District list"
+
+msgid "danh_sach_phuong_xa"
+msgstr "Ward/ Commune list"
+
+msgid "thay_doi_vi_tri"
+msgstr "Change position"
+
+msgid "danh_muc_bai_viet"
+msgstr "List of articles"
+
+msgid "danh_muc_san_pham"
+msgstr "Product category"
+
+msgid "thiet_lap_cho_danh_muc_san_pham"
+msgstr "Setting for product category"
+
+msgid "danh_muc"
+msgstr "Category"
+
+msgid "them_danh_muc"
+msgstr "Add category"
+
+msgid "them_danh_muc_san_pham"
+msgstr "Add product category"
+
+msgid "them_danh_muc_bai_viet"
+msgstr "Add article category"
+
+msgid "thuong_hieu"
+msgstr "Brand"
+
+msgid "them_thuong_hieu"
+msgstr "Add brand"
+
+msgid "cap_nhat_thuong_hieu"
+msgstr "Update brand"
+
+msgid "xoa_du_lieu_thuong_hieu"
+msgstr "Delete brand data"
+
+msgid "khuyen_mai"
+msgstr "Promotion"
+
+msgid "them_khuyen_mai"
+msgstr "Add promotion"
+
+msgid "chuong_trinh_khuyen_mai"
+msgstr "Promotion program"
+
+msgid "ap_dung_khuyen_mai"
+msgstr "Apply promotion"
+
+msgid "ngung_ap_dung"
+msgstr "Stop applying"
+
+msgid "ten_chuong_trinh"
+msgstr "Program name"
+
+msgid "chuong_trinh_coupon"
+msgstr "Coupon program"
+
+msgid "khong_tim_thay_chuong_trinh_khuyen_mai_phu_hop"
+msgstr "No matching promotion found"
+
+msgid "hien_thi_chuong_trinh_trong_danh_sach_khuyen_mai_cua_khach_hang"
+msgstr "Show program in customer's promotion list"
+
+msgid "ma_coupon"
+msgstr "Coupon Code"
+
+msgid "don_hang"
+msgstr "Order"
+
+msgid "them_don_hang"
+msgstr "Add order"
+
+msgid "giao_dich_thanh_toan"
+msgstr "Payment transaction"
+
+msgid "khong_lay_duoc_thong_tin_giao_dich"
+msgstr "Can't get transaction information"
+
+msgid "ap_dung_phi_van_chuyen_cho_khach_hang"
+msgstr "Shipping charges apply to customer"
+
+msgid "yeu_cau"
+msgstr "Request"
+
+msgid "cho_thu_hang"
+msgstr "Allowed to try on"
+
+msgid "cho_xem_hang_khong_thu"
+msgstr "Allowed to check on, not try on"
+
+msgid "khong_cho_xem_hang"
+msgstr "Not allowed to check on"
+
+msgid "dich_vu"
+msgstr "Service"
+
+msgid "phi_du_kien"
+msgstr "Estimated fee"
+
+msgid "giao_nhanh"
+msgstr "Express shipping"
+
+msgid "giao_thuong"
+msgstr "Standard shipping"
+
+msgid "da_ton_tai_van_don_cho_don_hang_nay"
+msgstr "A bill of lading already exists for this order"
+
+msgid "tham_so_api_chua_hop_le"
+msgstr "Invalid API parameter"
+
+msgid "khong_lay_duoc_thong_tin_van_don"
+msgstr "Can't get bill of lading information"
+
+msgid "gui_don_sang_hang_van_chuyen_thanh_cong"
+msgstr "Send order to shipping company successfully"
+
+msgid "gui_don_sang_hang_van_chuyen_khong_thanh_cong"
+msgstr "Send order to shipping company unsuccessfully"
+
+msgid "huy_don_ben_hang_van_chuyen_khong_thanh_cong"
+msgstr "Cancel the order from the shipping company unsuccessfully"
+
+msgid "cap_nhat_phuong_thuc_van_chuyen"
+msgstr "Update shipping method"
+
+msgid "chua_gui_don_sang_hang_van_chuyen"
+msgstr "Haven't sent the order to the shipping company"
+
+msgid "phi_tra_doi_tac_van_chuyen"
+msgstr "Shipping partner fee"
+
+msgid "khong_ket_noi_duoc_den_api_{0}"
+msgstr "Unable to connect to API {0}"
+
+msgid "thong_tin_cau_hinh_chua_hop_le"
+msgstr "Invalid configuration information"
+
+msgid "gui_hang_van_chuyen"
+msgstr "Send shipping company"
+
+msgid "ma_don_hang_van_chuyen"
+msgstr "Shipping company order code"
+
+msgid "ban_giao_van_chuyen"
+msgstr "Shipping handover"
+
+msgid "bao_cao_don_hang"
+msgstr "Order report"
+
+msgid "theo_ngay_thang"
+msgstr "By date"
+
+msgid "theo_tinh_thanh"
+msgstr "By province"
+
+msgid "theo_gia_tri"
+msgstr "By value"
+
+msgid "theo_nguon_don"
+msgstr "Based on order originally"
+
+msgid "tai_khoan"
+msgstr "Account"
+
+msgid "danh_sach_tai_khoan"
+msgstr "Account list"
+
+msgid "tao_tai_khoan"
+msgstr "Creating account"
+
+msgid "them_tai_khoan"
+msgstr "Add account"
+
+msgid "cap_nhat_tai_khoan"
+msgstr "Update Account"
+
+msgid "thong_tin_tai_khoan"
+msgstr "Account information"
+
+msgid "thong_tin_ca_nhan"
+msgstr "Personal information"
+
+msgid "doi_mat_khau"
+msgstr "Change password"
+
+msgid "ten_dang_nhap"
+msgstr "User name"
+
+msgid "mat_khau"
+msgstr "Password"
+
+msgid "xac_nhan_mat_khau"
+msgstr "Confirm password"
+
+msgid "ho_va_ten"
+msgstr "First and Last name"
+
+msgid "ho_ten_day_du"
+msgstr "Full name"
+
+msgid "so_dien_thoai"
+msgstr "Phone number"
+
+msgid "email"
+msgstr "Email"
+
+msgid "dia_chi"
+msgstr "Address"
+
+msgid "ngay_sinh"
+msgstr "Date of birth"
+
+msgid "gioi_tinh"
+msgstr "Gender"
+
+msgid "nam"
+msgstr "Male"
+
+msgid "nu"
+msgstr "Female"
+
+msgid "khac"
+msgstr "Others"
+
+msgid "nhom_quyen"
+msgstr "Permission group"
+
+msgid "them_nhom_quyen"
+msgstr "Add permission group"
+
+msgid "cap_nhat_nhom_quyen"
+msgstr "Update permission group"
+
+msgid "thong_tin_nhom quyen"
+msgstr "Permission group information"
+
+msgid "mo_ta_ngan"
+msgstr "Short description"
+
+msgid "phan_quyen"
+msgstr "Assign roles"
+
+msgid "khach_hang"
+msgstr "Customer"
+
+msgid "them_khach_hang"
+msgstr "Add Customer"
+
+msgid "diem_khach_hang"
+msgstr "Customer score"
+
+msgid "thiet_lap_cau_hinh_diem_khach_hang"
+msgstr "Setting customer score configuration"
+
+msgid "su_dung_diem"
+msgstr "Using score"
+
+msgid "quan_ly_bai_viet"
+msgstr "Article management"
+
+msgid "danh_sach_bai_viet"
+msgstr "Article list"
+
+msgid "them_bai_viet"
+msgstr "Add article"
+
+msgid "cap_nhat_bai_viet"
+msgstr "Update article"
+
+msgid "thong_tin_chinh"
+msgstr "Main information"
+
+msgid "tieu_de"
+msgstr "Title"
+
+msgid "mo_ta_ngan"
+msgstr "Brief description"
+
+msgid "noi_dung"
+msgstr "Content"
+
+msgid "duong_dan"
+msgstr "URLs"
+
+msgid "duong_dan_den"
+msgstr "URL forwarding"
+
+msgid "duong_dan_chuyen_huong"
+msgstr "Redirecting URL"
+
+msgid "thong_tin_khac"
+msgstr "Other information"
+
+msgid "mo_ta_seo"
+msgstr "SEO description"
+
+msgid "tu_khoa_seo"
+msgstr "SEO Keyword"
+
+msgid "tieu_de_seo"
+msgstr "SEO Title"
+
+msgid "anh_seo"
+msgstr "SEO Image"
+
+msgid "tu_khoa_seo"
+msgstr "SEO Keyword"
+
+msgid "the_bai_viet"
+msgstr "Article tags"
+
+msgid "xoa_du_lieu_the_bai_viet"
+msgstr "Delete article tag data"
+
+msgid "site_map"
+msgstr "Site Map"
+
+msgid "chuyen_huong_301"
+msgstr "301 Redirect"
+
+msgid "chuyen_huong_https"
+msgstr "HTTPS Redirect"
+
+msgid "ten_the"
+msgstr "Tag name"
+
+msgid "danh_sach_the_bai_viet"
+msgstr "List of article tags"
+
+msgid "vui_long_nhap_ten_the"
+msgstr "Please enter the tag name"
+
+msgid "ten_the_da_ton_tai_tren_he_thong"
+msgstr "The tag name already exists on the system"
+
+msgid "ngon_ngu_khong_hop_le"
+msgstr "Invalid language"
+
+msgid "khong_lay_duoc_thong_tin_ngon_ngu_cua_website"
+msgstr "Can't get the website's language information"
+
+msgid "chi_ho_tro_{0}_the_va_do_dai_moi_the_khong_qua_{1}_ky_tu"
+msgstr "Only support {0} tag and tag length is no more than {1} character"
+
+msgid "chi_ho_tro_{0}_tu_khoa_va_do_dai_moi_tu_khoa_khong_qua_{1}_ky_tu"
+msgstr "Only support {0} keyword and each keyword is no more than {1} character"
+
+msgid "anh_chinh"
+msgstr "Main image"
+
+msgid "album"
+msgstr "Album"
+
+msgid "video"
+msgstr "Video"
+
+msgid "cong_thanh_toan"
+msgstr "Payment gateway"
+
+msgid "thiet_lap_cong_thanh_toan"
+msgstr "Setting payment gateway"
+
+msgid "thiet_lap_hang_van_chuyen"
+msgstr "Setting shipping company"
+
+msgid "cau_hinh_don_hang"
+msgstr "Configure order"
+
+msgid "thiet_lap_cau_hinh_don_hang"
+msgstr "Setting order configuration"
+
+msgid "ap_dung_tru_so_luong_san_pham_sau_khi_tao_don_hang"
+msgstr "Apply minus the number of products after creating the order"
+
+msgid "dieu_kien_ap_dung_tru_so_luong_san_pham"
+msgstr "Condition of applying minus the number of products"
+
+msgid "sau_khi_tao_don_hang_moi"
+msgstr "After creating new order"
+
+msgid "sau_khi_xac_nhan_don_hang"
+msgstr "After confirming order"
+
+msgid "sau_khi_xuat_kho"
+msgstr "After goods issue"
+
+msgid "danh_sach_giao_dich"
+msgstr "List transaction"
+
+msgid "cai_dat_chung"
+msgstr "General settings"
+
+msgid "thong_tin_website"
+msgstr "Website information"
+
+msgid "thiet_lap_website"
+msgstr "Setting Website"
+
+msgid "thiet_lap_seo"
+msgstr "Setting Seo"
+
+msgid "phat_trien"
+msgstr "Develop"
+
+msgid "da_thiet_lap"
+msgstr "Already set up"
+
+msgid "ngon_ngu"
+msgstr "Language"
+
+msgid "vi_tri"
+msgstr "Location"
+
+msgid "van_chuyen"
+msgstr "Shipping"
+
+msgid "hang_van_chuyen"
+msgstr "Shipping company"
+
+msgid "cau_hinh_gia_va_phuong_thuc_van_chuyen"
+msgstr "Configure the price and shipping method"
+
+msgid "cau_hinh_van_chuyen"
+msgstr "Configure shipping"
+
+msgid "phi_van_chuyen_chung"
+msgstr "General shipping fee"
+
+msgid "lay_gia_van_chuyen"
+msgstr "Get shipping fee"
+
+msgid "theo_phi_chung"
+msgstr "By general fee"
+
+msgid "theo_cau_hinh_rieng"
+msgstr "According to individual configuration"
+
+msgid "theo_hang_van_chuyen"
+msgstr "According to shipping company"
+
+msgid "danh_sach_cua_hang"
+msgstr "Store list"
+
+msgid "chua_co_cua_hang_nao"
+msgstr "No store yet"
+
+msgid "dong_bo_cua_hang_tu_giao_hang_nhanh"
+msgstr "Sync store from Giao Hang Nhanh"
+
+msgid "dong_bo_cua_hang_tu_giao_hang_tiet_kiem"
+msgstr "Sync store from Giao Hang Tiet Kiem"
+
+msgid "dong_bo_du_lieu_tinh_thanh"
+msgstr "Sync province data"
+
+msgid "dong_bo_du_lieu"
+msgstr "Sync data"
+
+msgid "da_dong_bo"
+msgstr "Synced"
+
+msgid "chua_dong_bo"
+msgstr "Not synced yet"
+
+msgid "thuc_hien"
+msgstr "Implement"
+
+msgid "dong_bo_tinh_thanh"
+msgstr "Sync province"
+
+msgid "dong_bo_quan_huyen"
+msgstr "Sync district"
+
+msgid "dong_bo_phuong_xa"
+msgstr "Sync ward"
+
+msgid "giao_hang_nhanh"
+msgstr "Giao Hang Nhanh"
+
+msgid "giao_hang_tiet_kiem"
+msgstr "Giao Hang Tiet Kiem"
+
+msgid "cau_hinh_rieng_theo_gia_tri_don_hang"
+msgstr "Individual configuration according to order value"
+
+msgid "them_gia_tri_don_hang"
+msgstr "Add order value"
+
+msgid "gia_tri_don_hang"
+msgstr "Order value"
+
+msgid "mau_in"
+msgstr "Printed form"
+
+msgid "in_thu"
+msgstr "Print test"
+
+msgid "tinh_thanh"
+msgstr "Province"
+
+msgid "he_thong"
+msgstr "System"
+
+msgid "xoa_cache"
+msgstr "Delete Cache"
+
+msgid "bao_mat"
+msgstr "Security"
+
+msgid "ho_tro"
+msgstr "Support"
+
+msgid "ho_tro_khach_hang"
+msgstr "Customer support"
+
+msgid "huong_dan_su_dung"
+msgstr "User manual"
+
+msgid "phan_hoi"
+msgstr "Response"
+
+msgid "thong_tin_goi_website"
+msgstr "Website package information"
+
+msgid "cap_nhat_thanh_cong"
+msgstr "Update successfully"
+
+msgid "cap_nhat_khong_thanh_cong"
+msgstr "Update failed"
+
+msgid "xoa_du_lieu_thanh_cong"
+msgstr "Delete data successfully"
+
+msgid "xu_ly_du_lieu_thanh_cong"
+msgstr "Successful data processing"
+
+msgid "loi_xu_ly_du_lieu"
+msgstr "Data processing error"
+
+msgid "phuong_thuc_khong_hop_le"
+msgstr "Invalid method"
+
+msgid "du_lieu_khong_hop_le"
+msgstr "Invalid data"
+
+msgid "khong_lay_duoc_thong_tin_ban_ghi"
+msgstr "Can't get log information"
+
+msgid "ten_dang_nhap_da_ton_tai_tren_he_thong"
+msgstr "Username already exists on the system"
+
+msgid "email_da_ton_tai_tren_he_thong"
+msgstr "Email already exists on the system"
+
+msgid "chua_dung_dinh_dang_ngay_thang"
+msgstr "Incorrect date format"
+
+msgid "vui_long_chon_ngon_ngu"
+msgstr "Please select language"
+
+msgid "vui_long_nhap_tieu_de"
+msgstr "Please enter a title"
+
+msgid "vui_long_nhap_duong_dan"
+msgstr "Please enter the URL"
+
+msgid "duong_dan_da_ton_tai_tren_he_thong"
+msgstr "URL already exists on the system"
+
+msgid "co_the_su_dung_duong_dan_nay"
+msgstr "Can use this URL"
+
+msgid "ten_thuong_hieu"
+msgstr "Brand name"
+
+msgid "thong_tin_cap_nhat"
+msgstr "Update information"
+
+msgid "ngon_ngu_hien_tai"
+msgstr "Current language"
+
+msgid "sua_ban_dich"
+msgstr "Edit translation"
+
+msgid "nguoi_tao"
+msgstr "Creator"
+
+msgid "thoi_gian_tao"
+msgstr "Creation time"
+
+msgid "cap_nhat_moi"
+msgstr "New update"
+
+msgid "bai_noi_bat"
+msgstr "Featured article"
+
+msgid "album_anh"
+msgstr "Album"
+
+msgid "chon_anh_album"
+msgstr "Select album"
+
+msgid "chon_video"
+msgstr "Select video"
+
+msgid "xoa_tep"
+msgstr "Delete files"
+
+msgid "quan_ly_danh_muc"
+msgstr "Manage categories"
+
+msgid "tep_dinh_kem"
+msgstr "Attachment"
+
+msgid "chon_tep_dinh_kem"
+msgstr "Select attachment"
+
+msgid "voi_kieu_video_youtube_url_chi_dien_ma_video"
+msgstr "With Youtube video, only fill video code"
+
+msgid "ten_cong_ty"
+msgstr "Company name"
+
+msgid "ten_cong_ty"
+msgstr "Company name"
+
+msgid "favicon"
+msgstr "Favicon"
+
+msgid "logo"
+msgstr "Logo"
+
+msgid "hotline"
+msgstr "Hotline"
+
+msgid "luu_lai"
+msgstr "Save"
+
+msgid "copyright"
+msgstr "Copyright"
+
+msgid "ten_co_so"
+msgstr "Company name"
+
+msgid "ten_website"
+msgstr "Website name"
+
+msgid "them_moi_chi_nhanh"
+msgstr "Add new branch"
+
+msgid "co"
+msgstr "Yes"
+
+msgid "khong"
+msgstr "No"
+
+msgid "thong_tin_seo"
+msgstr "SEO information"
+
+msgid "tai_tep_robots"
+msgstr "Load the robots file"
+
+msgid "cau_hinh_seo"
+msgstr "Configure SEO"
+
+msgid "cau_hinh_seo"
+msgstr "Configure SEO"
+
+msgid "luu_cau_hinh_sitemap"
+msgstr "Save SITEMAP configuration"
+
+msgid "phan_nhom_sitemap"
+msgstr "Subgroup SITEMAP"
+
+msgid "chia_sitemap_theo_nam"
+msgstr "Split SITEMAP by year"
+
+msgid "chia_sitemap_thanh_cac_nhom_nho_giup_viec_hien_thi_sitemap_nhanh_va_de_dang_hon"
+msgstr "Split SITEMAP into small groups to make SITEMAP display faster and easier"
+
+msgid "chung_toi_khuyen_khich_su_dung_chuc_nang_nay_voi_cac_website_co_tu_500_duong_dan_tro_len"
+msgstr "We recommend using this function with Websites with 500 or more links"
+
+msgid "khi_website_cua_ban_hoat_dong_lau_nam_va_da_co_qua_nhieu_duong_dan_thi_ban_nen_chia_sitemap_theo_cac_nam_de_dam_bao_sitemap_luon_duoc_hien_thi_tot_nhat"
+msgstr "When your Website has been operating for a long time and has too many links, you should split SITEMAP by years to ensure that SITEMAP is always displayed at its best."
+
+msgid "chi_hoat_dong_khi_sitemap_duoc_cau_hinh_phan_theo_nhom"
+msgstr "Only works when SITEMAP is configured in groups"
+
+msgid "tai_len"
+msgstr "Upload"
+
+msgid "tai_len_tat_ca"
+msgstr "Upload all"
+
+msgid "chi_ho_tro_dinh_dang_tep_txt"
+msgstr "Only .txt file format supported"
+
+msgid "chi_ho_tro_dinh_dang_file_txt"
+msgstr "Only .txt file format supported"
+
+msgid "chi_ho_tro_dinh_dang_file_xml"
+msgstr "Only .xml file format supported"
+
+msgid "chon_tep_robots"
+msgstr "Select file robots.txt"
+
+msgid "ten_tep_khong_chinh_xac"
+msgstr "Incorrect file name"
+
+msgid "tep_tin_khong_hop_le"
+msgstr "Invalid file"
+
+msgid "sai_dinh_dang"
+msgstr "Incorrect format"
+
+msgid "nhap_file_robots"
+msgstr "Import file robots"
+
+msgid "tai_xuong_file_robots"
+msgstr "Download file robots"
+
+msgid "chua_co_file_robots"
+msgstr "No robots file yet"
+
+msgid "duong_dan_tinh"
+msgstr "Static path"
+
+msgid "cai_dat_co_ban"
+msgstr "Basic settings"
+
+msgid "co_ban"
+msgstr "Basic"
+
+msgid "nang_cao"
+msgstr "Advanced"
+
+msgid "mac_dinh"
+msgstr "Default"
+
+msgid "ngon_ngu_va_ten_bai_viet"
+msgstr "Language and article title"
+
+msgid "danh_muc_va_ten_bai_viet"
+msgstr "Category and article title"
+
+msgid "tieu_de_bai_viet"
+msgstr "Article title"
+
+msgid "tuy_bien"
+msgstr "Customization"
+
+msgid "file_htaccess"
+msgstr "file .htaccess"
+
+msgid "htaccess"
+msgstr ".htaccess"
+
+msgid "id"
+msgstr "ID"
+
+msgid "tieu-de"
+msgstr "Title"
+
+msgid "danh-muc"
+msgstr "Category"
+
+msgid "nam_year"
+msgstr "Year"
+
+msgid "thang"
+msgstr "Month"
+
+msgid "ngay"
+msgstr "Date"
+
+msgid "gio"
+msgstr "hour"
+
+msgid "luc"
+msgstr "At"
+
+msgid "cau_hinh_email"
+msgstr "Email Configuration"
+
+msgid "template_email"
+msgstr "Template email"
+
+msgid "gui_thu"
+msgstr "Send Email"
+
+msgid "email_ung_dung"
+msgstr "Email app"
+
+msgid "mat_khau_ung_dung"
+msgstr "App password"
+
+msgid "email_host"
+msgstr "Email host"
+
+msgid "quan_tri_nhan_thong_bao"
+msgstr "Admin receive notifications"
+
+msgid "email_quan_tri"
+msgstr "Admin email"
+
+msgid "mau_email"
+msgstr "Email templates"
+
+msgid "tieu_de_email_gui"
+msgstr "Email subject sent"
+
+msgid "email_gui_kem_cc"
+msgstr "Email attached (CC)"
+
+msgid "email_gui_kem_an_danh_bcc"
+msgstr "Email attached (incognito - BCC)"
+
+msgid "mau_template"
+msgstr "Template"
+
+msgid "mau_dung_san_khong_phep_sua"
+msgstr "Pre-built templates (no editing allowed)"
+
+msgid "tu_thiet_ke"
+msgstr "Self-designed"
+
+msgid "luu_mau_email"
+msgstr "Save email template"
+
+msgid "email_nhan"
+msgstr "Receive Email"
+
+msgid "gui_email"
+msgstr "Send email"
+
+msgid "gmail"
+msgstr "Gmail"
+
+msgid "yahoo_mail"
+msgstr "Yahoo Mail"
+
+msgid "hotmail_live"
+msgstr "Hotmail, Live mail"
+
+msgid "khac"
+msgstr "Other"
+
+msgid "khong_duoc_thay_doi_mau_email_mac_dinh"
+msgstr "Do not change the default email template"
+
+msgid "luu_lai_css"
+msgstr "Save css"
+
+msgid "luu_lai_javascript"
+msgstr "Save javascript"
+
+msgid "chon_anh"
+msgstr "Select image"
+
+msgid "ma_nhung_trong_the_head"
+msgstr "Embed code in the head tag"
+
+msgid "ma_nhung_phia_tren_the_body"
+msgstr "Embed code above the body tag"
+
+msgid "ma_nhung_phia_duoi_the_body"
+msgstr "Embed code below the body tag"
+
+msgid "chinh_sua_giao_dien"
+msgstr "Edit interface"
+
+msgid "danh_sach_thu_muc"
+msgstr "Directory List"
+
+msgid "noi_dung_file_chinh_sua"
+msgstr "Edited file content"
+
+msgid "chi_ho_tro_dinh_dang_file"
+msgstr "Only file formats are supported"
+
+msgid "them_file"
+msgstr "Add file"
+
+msgid "tai_len"
+msgstr "Upload"
+
+msgid "tai_file_len"
+msgstr "Upload file"
+
+msgid "khong_cho_phep_doc_file_này"
+msgstr "This file is not allowed to read"
+
+msgid "khong_cho_phep_luu_file_voi_dinh_dang_nay"
+msgstr "It is not allowed to save file with this format"
+
+msgid "file_nay_khong_ton_tai"
+msgstr "This file does not exist"
+
+msgid "ten_chua_duoc_thay_doi"
+msgstr "Name has not been changed"
+
+msgid "doi_ten_thanh_cong"
+msgstr "Rename successful"
+
+msgid "file_khong_ton_tai"
+msgstr "File does not exist"
+
+msgid "file_da_duoc_xoa"
+msgstr "File has been deleted"
+
+msgid "folder_da_duoc_xoa"
+msgstr "Folder has been deleted"
+
+msgid "kich_thuoc_tep_tin_qua_lon"
+msgstr "File size too large"
+
+msgid "hien_thi"
+msgstr "Display"
+
+msgid "khong_hien_thi"
+msgstr "Not displayed"
+
+msgid "ngung_kinh_doanh"
+msgstr "Stop business"
+
+msgid "hien_thi_muc_luc"
+msgstr "Show table of contents"
+
+msgid "ban_luu_nhap"
+msgstr "Draft version"
+
+msgid "chon"
+msgstr "Select"
+
+msgid "tu"
+msgstr "From"
+
+msgid "den"
+msgstr "To"
+
+msgid "khong_co_anh"
+msgstr "No image"
+
+msgid "co_anh"
+msgstr "have image"
+
+msgid "cua_hang"
+msgstr "Store"
+
+msgid "ten_cua_hang"
+msgstr "name of the store"
+
+msgid "danh_dau"
+msgstr "Tick"
+
+msgid "san_pham_noi_bat"
+msgstr "Featured products"
+
+msgid "hinh_anh"
+msgstr "Image"
+
+msgid "hien_thi_ngoai_website"
+msgstr "Outside display of website"
+
+msgid "ma_san_pham"
+msgstr "Product code"
+
+msgid "gia"
+msgstr "Price"
+
+msgid "muc_gia"
+msgstr "Price level"
+
+msgid "ngay_khuyen_mai"
+msgstr "Promotion Day"
+
+msgid "gia_dac_biet"
+msgstr "Special price"
+
+msgid "can_nang"
+msgstr "Weight"
+
+msgid "chieu_dai"
+msgstr "Length"
+
+msgid "chieu_rong"
+msgstr "Width"
+
+msgid "chieu_cao"
+msgstr "Height"
+
+msgid "so_luong"
+msgstr "Quantity"
+
+msgid "phien_ban"
+msgstr "Version"
+
+msgid "dong_y"
+msgstr "Agree"
+
+msgid "huy_bo"
+msgstr "Cancel"
+
+msgid "gia_khong_nho_hon_gia_dac_biet"
+msgstr "The price is not less than the special price"
+
+msgid "chua_dien_gia"
+msgstr "Price has not been entered"
+
+msgid "ghi_chu"
+msgstr "Note"
+
+msgid "ma_khach_hang"
+msgstr "Customer ID"
+
+msgid "neu_khong_nhap_he_thong_se_tu_dong_sinh_ra_ma"
+msgstr "If you do not enter the code, the system will automatically generate the code"
+
+msgid "ten"
+msgstr "Name"
+
+msgid "them_moi_dia_chi"
+msgstr "Add new address"
+
+msgid "them_moi_ghi_chu"
+msgstr "Add new note"
+
+msgid "zip_code"
+msgstr "Zip code"
+
+msgid "cap_nhat_khach_hang"
+msgstr "Customer Update"
+
+msgid "ten_khach_hang"
+msgstr "Customer Name"
+
+msgid "ten_da_ton_tai_tren_he_thong"
+msgstr "The name already exists on the system"
+
+msgid "vui_long_nhap_ten_khach_hang"
+msgstr "Please enter customer name"
+
+msgid "email_da_duoc_dang_ky"
+msgstr "The Email was registered"
+
+msgid "so_dien_thoai_da_duoc_dang_ky"
+msgstr "The phone number was registered"
+
+msgid "ngay_sinh_chua_dung_dinh_dang_ngay_thang"
+msgstr "The date of birth is not in the correct date format"
+
+msgid "khong_xoa_duoc_dia_chi_mac_dinh"
+msgstr "Default address cannot be deleted"
+
+msgid "nhan_vien_cham_soc"
+msgstr "Customer Service staff"
+
+msgid "tinh_thanh_thanh_pho"
+msgstr "Province/City"
+
+msgid "quan_huyen"
+msgstr "District"
+
+msgid "phuong_xa"
+msgstr "Ward"
+
+msgid "neu_khong_nhap_he_thong_se_tu_dong_sinh_ra_ma_khach_hang"
+msgstr "If you do not enter, the system will automatically generate a customer code"
+
+msgid "thong_tin_co_ban"
+msgstr "Basic information"
+
+msgid "chi_tiet_khach_hang"
+msgstr "Customer details"
+
+msgid "don_hang_cua_toi"
+msgstr "My order"
+
+msgid "so_dia_chi"
+msgstr "Address"
+
+msgid "ma_don_hang"
+msgstr "Order number"
+
+msgid "tong_tien"
+msgstr "Total amount"
+
+msgid "ten_dia_chi"
+msgstr "Address name"
+
+msgid "them_dia_chi"
+msgstr "Add address"
+
+msgid "don_hang_moi"
+msgstr "New order"
+
+msgid "xac_nhan"
+msgstr "Confirm"
+
+msgid "dong_goi"
+msgstr "Packing"
+
+msgid "xuat_kho"
+msgstr "Goods Issue"
+
+msgid "hoan_thanh"
+msgstr "Complete"
+
+msgid "huy"
+msgstr "Cancel"
+
+msgid "chinh_sua"
+msgstr "Edit"
+
+msgid "danh_sach_don_van"
+msgstr "List of bills of lading"
+
+msgid "chi_tiet_don_van"
+msgstr "Bill of lading details"
+
+msgid "cho_lay_hang"
+msgstr "Waiting for the goods"
+
+msgid "dang_giao_hang"
+msgstr "Delivery in progress"
+
+msgid "da_giao_hang"
+msgstr "Delivered"
+
+msgid "huy_dong_goi"
+msgstr "Cancellation of packing"
+
+msgid "huy_giao_va_cho_nhan"
+msgstr "Cancel delivery and wait to receive"
+
+msgid "huy_giao_va_da_nhan"
+msgstr "Canceled delivery and received"
+
+msgid "thong_tin_don_van"
+msgstr "Bill of lading information"
+
+msgid "ma_don_van"
+msgstr "Bill of lading number"
+
+msgid "ma_hoa_don"
+msgstr "Invoice code"
+
+msgid "tinh_trang_giao_hang"
+msgstr "Delivery status"
+
+msgid "phuong_thuc"
+msgstr "Method"
+
+msgid "tien_thu_ho_cod"
+msgstr "Cash on Delivery (COD)"
+
+msgid "phi_tinh_cho_khach"
+msgstr "Fees for guests"
+
+msgid "phi_tra_dtgh"
+msgstr "Fees for ĐTGH"
+
+msgid "trong_luong"
+msgstr "Weight"
+
+msgid "kich_thuoc"
+msgstr "Size"
+
+msgid "dai"
+msgstr "Long"
+
+msgid "rong"
+msgstr "Wide"
+
+msgid "cao"
+msgstr "High"
+
+msgid "thong_tin_nguoi_nhan"
+msgstr "Recipient Information"
+
+msgid "nguoi_nhan"
+msgstr "Recipient"
+
+msgid "thong_tin_san_pham"
+msgstr "Product information"
+
+msgid "ma"
+msgstr "Code"
+
+msgid "ten_san_pham"
+msgstr "Product's name"
+
+msgid "chiet_khau"
+msgstr "Discount"
+
+msgid "thue"
+msgstr "Tax"
+
+msgid "thanh_tien"
+msgstr "Amount"
+
+msgid "phi_van_chuyen"
+msgstr "Shipping fee"
+
+msgid "khach_phai_tra"
+msgstr "Customer pay"
+
+msgid "nhan_tai_cua_hang"
+msgstr "Pick up at the store"
+
+msgid "van_chuyen_thong_thuong"
+msgstr "Normal shipping"
+
+msgid "hang_van_chuyen"
+msgstr "Carriers"
+
+msgid "khong_lay_duoc_thong_tin_hang_van_chuyen"
+msgstr "Can't get carrier information"
+
+msgid "chi_tiet_don_van"
+msgstr "Bill of lading details"
+
+msgid "thong_tin_chi_nhanh"
+msgstr "Branch information"
+
+msgid "ten_chi_nhanh"
+msgstr "Branch name"
+
+msgid "ten_nguoi_dai_dien"
+msgstr "Representative"
+
+msgid "ma_chi_nhanh"
+msgstr "Branch code"
+
+msgid "ma_buu_dien"
+msgstr "ZIP code"
+
+msgid "so_dien_thoai_chi_nhanh"
+msgstr "Branch phone number"
+
+msgid "dia_chi_chi_nhanh"
+msgstr "Branch address"
+
+msgid "chi_nhanh_mac_dinh"
+msgstr "Default branch"
+
+msgid "maps"
+msgstr "Maps"
+
+msgid "mo_ta_chi_nhanh"
+msgstr "Branch description"
+
+msgid "them_chi_nhanh"
+msgstr "Add branch"
+
+msgid "chi_nhanh"
+msgstr "Branch"
+
+msgid "chi_tiet_chi_nhanh"
+msgstr "Branch details"
+
+msgid "tong_quan"
+msgstr "Overview"
+
+msgid "giao_dien"
+msgstr "Interface"
+
+msgid "cau_hinh"
+msgstr "Configuration"
+
+msgid "xin_chao"
+msgstr "Hello"
+
+msgid "quan_ly_giao_dien"
+msgstr "Interface management"
+
+msgid "thiet_lap_giao_dien"
+msgstr "Interface settings"
+
+msgid "danh_sach_giao_dien"
+msgstr "List of interfaces"
+
+msgid "quan_ly_va_thiet_lap_giao_dien_mac_dinh"
+msgstr "Manage and set default interface"
+
+msgid "cai_dat_va_thiet_lap_giao_dien"
+msgstr "Install and set up the interface"
+
+msgid "chinh_sua_file_giao_dien_goc"
+msgstr "Edit the original interface file"
+
+msgid "tuy_chinh_css_cho_website"
+msgstr "Customize css for website"
+
+msgid "tuy_chinh_javascript_cho website"
+msgstr "Customize javascript for website"
+
+msgid "thiet_lap_block"
+msgstr "Set up blocks"
+
+msgid "danh_sach_block"
+msgstr "Block list"
+
+msgid "quan_ly_cac_block_cua_website"
+msgstr "Manage website blocks"
+
+msgid "them_block"
+msgstr "Add block"
+
+msgid "them_block_moi_cho_website"
+msgstr "Add new block for website"
+
+msgid "thiet_lap_khac"
+msgstr "Other settings"
+
+msgid "menu"
+msgstr "Menu"
+
+msgid "quan_ly_thong_tin_menu"
+msgstr "Manage menu information"
+
+msgid "quan_ly_ma_nhung"
+msgstr "Manage Embed Code"
+
+msgid "thiet_lap_thong_tin_website"
+msgstr "Set up website information"
+
+msgid "thiet_lap_cau_hinh_seo"
+msgstr "Set up SEO configuration"
+
+msgid "thiet_lap_duong_dan_tinh"
+msgstr "Set up a static path"
+
+msgid "thiet_lap_cau_hinh_email"
+msgstr "Email configuration settings"
+
+msgid "thiet_lap_ngon_ngu_website"
+msgstr "Set website language"
+
+msgid "thiet_lap_cau_hinh_mau_in"
+msgstr "Configuring the print pattern"
+
+msgid "cai_dat_cua_hang"
+msgstr "Store settings"
+
+msgid "nguon_ban_hang"
+msgstr "Sales source"
+
+msgid "them_va_quan_ly_nguon_tao_ra_don_hang"
+msgstr "Add and manage order generation sources"
+
+msgid "thiet_lap_tai_khoan"
+msgstr "Account settings"
+
+msgid "thiet_lap_nhom_quyen"
+msgstr "Set up permission groups"
+
+msgid "thiet_lap_phan_quyen"
+msgstr "Set permissions"
+
+msgid "cau_hinh_san_pham"
+msgstr "Product configuration"
+
+msgid "thiet_lap_cau_hinh_san_pham"
+msgstr "Product Configuration"
+
+msgid "kiem_tra_so_luong_san_pham_truoc_khi_them_vao_gio_hang"
+msgstr "Check product quantity before adding to cart"
+
+msgid "xoa_bo_nho_luu_tru_tam_thoi_cua_website"
+msgstr "Clear the website's temporary storage"
+
+msgid "bao_mat_cua_website"
+msgstr "Website security"
+
+msgid "van_don"
+msgstr "Bill of lading"
+
+msgid "tao_don_hang"
+msgstr "Create order"
+
+msgid "danh_sach_don_hang"
+msgstr "Order List"
+
+msgid "khach_tra_hang"
+msgstr "Customer return"
+
+msgid "khach_tra_hang"
+msgstr "Customer return"
+
+msgid "dat_hang"
+msgstr "Place Order"
+
+msgid "duyet_don"
+msgstr "Approve order"
+
+msgid "thong_tin_don_hang"
+msgstr "Order information"
+
+msgid "nguon_don_hang"
+msgstr "Order source"
+
+msgid "tao_moi_don"
+msgstr "Create a new order"
+
+msgid "khong_lay_duoc_thong_tin_don_hang"
+msgstr "Can't get order information"
+
+msgid "trang_thai_don_hang_khong_hop_le"
+msgstr "Invalid order status"
+
+msgid "nhan_vien"
+msgstr "Staff"
+
+msgid "thong_tin_khach_hang"
+msgstr "Customer information"
+
+msgid "tim_kiem_danh_muc_san_pham"
+msgstr "Search the product catalog"
+
+msgid "tim_kiem_khach_hang"
+msgstr "Search for customers"
+
+msgid "tim_kiem_khach_hang_f4"
+msgstr "Search for customers (F4)"
+
+msgid "tim_kiem_san_pham_f3"
+msgstr "Search product (F3)"
+
+msgid "thanh_toan_don_hang"
+msgstr "Payment order"
+
+msgid "dong_goi_va_giao_hang"
+msgstr "Packing and delivery"
+
+msgid "xac_nhan_thanh_toan"
+msgstr "Payment confirmation"
+
+msgid "dong_goi_cho_van_chuyen"
+msgstr "Packed for shipping"
+
+msgid "hinh_thuc_thanh_toan"
+msgstr "Payment method"
+
+msgid "tien_mat"
+msgstr "Cash"
+
+msgid "chuyen_khoan"
+msgstr "Transfer"
+
+msgid "quet_the"
+msgstr "Swipe card"
+
+msgid "cod"
+msgstr "COD"
+
+msgid "so_tien_thanh_toan"
+msgstr "payment amount"
+
+msgid "so_tien_thanh_toan_khong_duoc_lon_hon_gia_tri_don_hang"
+msgstr "The payment amount cannot be greater than the order value"
+
+msgid "ma_tham_chieu"
+msgstr "Reference code"
+
+msgid "ngay_thanh_toan"
+msgstr "Date of payment"
+
+msgid "phi_van_chuyen_thu_khach_hang"
+msgstr "Shipping fee collected by customer"
+
+msgid "tu_van_chuyen"
+msgstr "Self shipping"
+
+msgid "khach_hang_se_den_cua_hang_cua_ban_de_lay_hang"
+msgstr "Customers will come to your store to pick up goods"
+
+msgid "ban_hay_them_khach_hang_de_su_dung_dich_vu_giao_hang"
+msgstr "Please add customers to use the delivery service"
+
+msgid "cap_nhat_tai_day"
+msgstr "Update here"
+
+msgid "tao_don_va_duyet"
+msgstr "Create order and approve"
+
+msgid "them_moi_khach_hang"
+msgstr "Add new customer"
+
+msgid "them_moi_san_pham"
+msgstr "Add new products"
+
+msgid "ly_do"
+msgstr "Reason"
+
+msgid "tao_don_hang_moi"
+msgstr "Create a new order"
+
+msgid "dia_chi_giao_hang"
+msgstr "Delivery address"
+
+msgid "don_hang_da_duoc_thanh_toan_toan_bo"
+msgstr "The order has been paid in full"
+
+msgid "da_thanh_toan"
+msgstr "Paid"
+
+msgid "giao_hang"
+msgstr "Delivery"
+
+msgid "dong"
+msgstr "Close"
+
+msgid "huy_don"
+msgstr "Cancel order"
+
+msgid "sua_thong_tin"
+msgstr "Edit information"
+
+msgid "dang_xuat"
+msgstr "Log out"
+
+msgid "chiet_khau_don_hang"
+msgstr "Order discount"
+
+msgid "chi_tiet_don_hang"
+msgstr "Order details"
+
+msgid "ngay_lap_don"
+msgstr "Application date"
+
+msgid "phuong_thuc_van_chuyen_khong_hop_le"
+msgstr "Invalid shipping method"
+
+msgid "vui_long_nhap_so_dien_thoai_khach_hang"
+msgstr "Please enter customer phone number"
+
+msgid "thong_tin_quoc_gia_chua_chinh_xac"
+msgstr "Country information is not accurate"
+
+msgid "vui_long_chon_thong_tin_tinh_thanh"
+msgstr "Please select city information"
+
+msgid "vui_long_chon_thong_tin_quan_huyen"
+msgstr "Please select district information"
+
+msgid "luu_thong_tin_don_hang_khong_thanh_cong"
+msgstr "Saving order information failed"
+
+msgid "cap_nhat_ma_don_hang_khong_thanh_cong"
+msgstr "Order number update failed"
+
+msgid "luu_thong_tin_thanh_toan_khong_thanh_cong"
+msgstr "Saving payment information failed"
+
+msgid "luu_thong_tin_van_chuyen_khong_thanh_cong"
+msgstr "Saving shipping information failed"
+
+msgid "loai_don_khong_hop_le"
+msgstr "Invalid application type"
+
+msgid "khong_lay_duoc_thong_tin_hoa_don_lien_quan"
+msgstr "Can't get related invoice information"
+
+msgid "trang_thai_khong_hop_le"
+msgstr "Invalid status"
+
+msgid "vui_long_chon_san_pham"
+msgstr "Please choose a product"
+
+msgid "id_san_pham_khong_hop_le"
+msgstr "Invalid product ID"
+
+msgid "loai_phieu_thanh_toan_khong_hop_le"
+msgstr "Invalid voucher type"
+
+msgid "doi_tuong_thanh_toan_khong_hop_le"
+msgstr "Invalid payer"
+
+msgid "so_tien_thanh_toan_khong_hop_le"
+msgstr "Invalid payment amount"
+
+msgid "phuong_thuc_thanh_toan_khong_hop_le"
+msgstr "Invalid payment method"
+
+msgid "upload_thanh_cong"
+msgstr "Upload successfully"
+
+msgid "danh_sach_don_tra_hang"
+msgstr "List of return orders"
+
+msgid "tao_don_tra_hang"
+msgstr "Create a return order"
+
+msgid "danh_sach_don_hang_thanh_cong"
+msgstr "List of successful orders"
+
+msgid "thanh_cong"
+msgstr "Successfully"
+
+msgid "trang_thai_thanh_toan"
+msgstr "Payment status"
+
+msgid "thanh_toan_thanh_cong"
+msgstr "Payment success"
+
+msgid "phuong_thuc_thanh_toan"
+msgstr "Payment method"
+
+msgid "thanh_toan_tien_mat"
+msgstr "Cash payment"
+
+msgid "ma_phieu_thanh_toan"
+msgstr "Payment voucher code"
+
+msgid "tat_ca_san_pham_da_duoc_giao"
+msgstr "All products have been delivered"
+
+msgid "hoan_tra_hang_da_giao"
+msgstr "Refund of delivered goods"
+
+msgid "phuong_thuc_van_chuyen"
+msgstr "Shipping method"
+
+msgid "mo_ta_phuong_thuc"
+msgstr "Method description"
+
+msgid "tien_thu_ho"
+msgstr "Collected money"
+
+msgid "phi_van_chuyen_thu_cua_khach"
+msgstr "Shipping fee collected from the customer"
+
+msgid "hoan_tra"
+msgstr "Return"
+
+msgid "ngay_tra_hang"
+msgstr "Return date"
+
+msgid "tra_hang"
+msgstr "Return"
+
+msgid "so_luong_tra"
+msgstr "Amount of return"
+
+msgid "so_luong_mua"
+msgstr "Amount of purchase"
+
+msgid "so_luong_san_pham"
+msgstr "The number of products"
+
+msgid "tong_tien_tra_khach"
+msgstr "Total payment for customer"
+
+msgid "hoan_tien"
+msgstr "Refund"
+
+msgid "nhan_hang"
+msgstr "Receive"
+
+msgid "da_nhan_hang_tra_lai"
+msgstr "Returns received"
+
+msgid "don_hang_nay_da_hoan_tra_het_khong_the_tiep_tuc_thuc_hien"
+msgstr "This order has been fully refunded and cannot be processed"
+
+msgid "khong_lay_duoc_thong_tin_san_pham_trong_don_hang"
+msgstr "Can't get product information in order"
+
+msgid "ngay_nhan_hang"
+msgstr "Date of receipt of goods"
+
+msgid "duoc_tra_tu_don_hang"
+msgstr "Paid from the order"
+
+msgid "xem_chi_tiet"
+msgstr "See details"
+
+msgid "xem"
+msgstr "See"
+
+msgid "don_hang_da_duoc_hoan_tien_toan_bo"
+msgstr "The order has been fully refunded"
+
+msgid "con_phai_tra"
+msgstr "Still have to pay"
+
+msgid "don_tra_hang_da_nhan_duoc_hang"
+msgstr "Return order has been received"
+
+msgid "thanh_toan"
+msgstr "Pay"
+
+msgid "nhan_hang_hoan_lai"
+msgstr "Get refunds"
+
+msgid "xac_nhan_da_nhan_lai_hang_hoan_cua_khach_hang"
+msgstr "Confirm receipt of customer's return"
+
+msgid "cap_nhat_thong_tin_khach_hang"
+msgstr "Update customer information"
+
+msgid "da_tra_hang_hang_toan_bo"
+msgstr "Return good to Carrier in full" 
+
+msgid "ban_co_chac_chan_chan_xuat_kho_don_giao_hang_nay_khong"
+msgstr "Are you sure to ship this delivery order" 
+
+msgid "xac_nhan_huy_don_hang"
+msgstr "Order Cancellation Confirmation" 
+
+msgid "ban_chac_chan_muon_huy_don_hang"
+msgstr "You definitely want to cancel your order"
+
+msgid "thao_tac_nay_khong_the_khoi_phuc_va_se_tac_dong_den"
+msgstr "This action cannot be undone and will affect"
+
+msgid "thay_doi_so_luong_san_pham"
+msgstr "Change product quantity"
+
+msgid "thay_doi_trang_thai_va_thong_tin_cua_don_hang"
+msgstr "Change order status and information"
+
+msgid "huy_phieu_giao_van_va_thu_chi_don_hang"
+msgstr "Cancel the delivery note and the order receipt"
+
+msgid "tao_don_moi"
+msgstr "Create new order"
+
+msgid "thanh_toan_loi"
+msgstr "Error payment"
+
+msgid "xac_nhan_thanh_toan"
+msgstr "Payment confirmation"
+
+msgid "cho_thu_ho"
+msgstr "Waiting for collection"
+
+msgid "dang_cho_xac_nhan"
+msgstr "Waiting for confirmation"
+
+msgid "dang_cho_duyet"
+msgstr "Waiting for approval"
+
+msgid "thanh_toan_chuyen_khoan"
+msgstr "Transfer payments"
+
+msgid "thanh_toan_quet_the"
+msgstr "Card payment"
+
+msgid "thanh_toan_qua_cong_thanh_toan"
+msgstr "Payment via payment gateway"
+
+msgid "thanh_toan_bang_voucher"
+msgstr "Payment by voucher"
+
+msgid "thanh_toan_thu_ho"
+msgstr "Payment for collection"
+
+msgid "cho_nhan_hang"
+msgstr "Waiting to receive the goods"
+
+msgid "da_nhan_hang"
+msgstr "Item received"
+
+msgid "gui_qua_hang_van_chuyen"
+msgstr "Send to carrier"
+
+msgid "huy_giao_hang"
+msgstr "Cancellation of delivery"
+
+msgid "huy_giao_va_nhan_lai_hang"
+msgstr "Cancel delivery and return the goods"
+
+msgid "thay_doi_dia_chi"
+msgstr "Change address"
+
+msgid "them_dia_chi_moi"
+msgstr "Add new address"
+
+msgid "phi_van_chuyen_phai_chi_cho_nhan_vien_van_chuyen_hoac_hang_van_chuyen"
+msgstr "Shipping fees must be paid to the shipper or the carrier"
+
+msgid "khoi_luong"
+msgstr "Volume"
+
+msgid "chieu_dai"
+msgstr "Length"
+
+msgid "chieu_rong"
+msgstr "Width"
+
+msgid "chieu_cao"
+msgstr "Height"
+
+msgid "ban_hay_them_san_pham_vao_don_hang_de_su_dung_dich_vu_giao_hang"
+msgstr "Please add products to your order to use the delivery service"
+
+msgid "thay_doi_dia_chi_giao_hang"
+msgstr "Change of delivery address"
+
+msgid "khong_cho_phep_xoa_nguon_don_hang_nay"
+msgstr "This order source cannot be deleted"
+
+msgid "thong_tin_don_hang_khong_hop_le"
+msgstr "Invalid order information"
+
+msgid "cap_nhat_don_hang"
+msgstr "Update order"
+
+msgid "khong_tim_thay_thong_tin_don_hang"
+msgstr "Order information could not be found"
+
+msgid "so_tien_thanh_toan_vuot_qua_so_tien_can_thanh_toan"
+msgstr "The payment amount exceeds the amount to be paid"
+
+msgid "khong_tim_thay_thong_tin_van_chuyen"
+msgstr "No shipping information found"
+
+msgid "don_hang_khach_tra"
+msgstr "Orders paid by customers"
+
+msgid "chi_tiet_don_tra_hang"
+msgstr "Payment order details"
+
+msgid "vui_long_chon_san_pham_vao_don_tra_hang"
+msgstr "Please select product to the return order"
+
+msgid "nhan_lai_hang_hoan_thanh_cong"
+msgstr "Receive the return order successfully"
+
+msgid "trang_thuong"
+msgstr "Regular page"
+
+msgid "trang_bo_cuc"
+msgstr "Layout page"
+
+msgid "trang_chu"
+msgstr "Home page"
+
+msgid "danh_sach_san_pham"
+msgstr "List of products"
+
+msgid "san_pham"
+msgstr "Product"
+
+msgid "chi_tiet_san_pham"
+msgstr "Product details"
+
+msgid "bai_viet"
+msgstr "Articles"
+
+msgid "chi_tiet_bai_viet"
+msgstr "Article details"
+
+msgid "youtube"
+msgstr "Youtube"
+
+msgid "phan_tich_bai_viet_va_tu_khoa"
+msgstr "Analyze articles and keywords"
+
+msgid "cap_nhat_san_pham"
+msgstr "Update product"
+
+msgid "cap_nhat_thong_tin"
+msgstr "Update information"
+
+msgid "gia_va_so_luong_san_pham"
+msgstr "Price and quantity of products"
+
+msgid "chon_thuoc_tinh_san_pham"
+msgstr "Select product attributes"
+
+msgid "gia_va_phien_ban_san_pham"
+msgstr "Price and version of products"
+
+msgid "chon_thuoc_tinh"
+msgstr "Select attributes"
+
+msgid "anh_san_pham"
+msgstr "Product image"
+
+msgid "san_co"
+msgstr "Available"
+
+msgid "bo_san_pham_day_du"
+msgstr "Full set of products"
+
+msgid "thay_doi_thuoc_tinh"
+msgstr "Change attributes"
+
+msgid "cac_thanh_phan_gom_trong_bo_san_pham_nay"
+msgstr "Components included in this kit"
+
+msgid "gia_ban_le_san_pham_cho_chuong_trinh_khuyen_mai"
+msgstr "Retail price of products for promotions"
+
+msgid "gia_khuyen_mai"
+msgstr "Promotional price"
+
+msgid "sao_chep_thong_tin_phien_ban_dau_tien_cho_cac_phien_ban_con_lai"
+msgstr "Copy first version information for remaining versions"
+
+msgid "sao_chep_so_luong_phien_ban_dau_tien_cho_cac_phien_ban_con_lai"
+msgstr "Copy the first version number for the remaining versions"
+
+msgid "sao_chep_gia_phien_ban_dau_tien_cho_cac_phien_ban_con_lai"
+msgstr "Copy the first version price for the remaining versions"
+
+msgid "xoa_thong_tin_tat_ca_phien_ban"
+msgstr "Delete all version information"
+
+msgid "ap_dung_thuoc_tinh"
+msgstr "Apply attributes"
+
+msgid "chọn_thuoc_tinh"
+msgstr "Select attributes"
+
+msgid "them_phien_ban_san_pham"
+msgstr "Add product version"
+
+msgid "mo_ta_san_pham"
+msgstr "Product Description"
+
+msgid "duong_dan_video"
+msgstr "Video link"
+
+msgid "chon_tep"
+msgstr "Select file"
+
+msgid "seo"
+msgstr "SEO"
+
+msgid "tu_khoa"
+msgstr "Key word"
+
+msgid "tot"
+msgstr "Good"
+
+msgid "binh_thuong"
+msgstr "Normal"
+
+msgid "chua_dat"
+msgstr "Not yet reached"
+
+msgid "chua_co"
+msgstr "Not yet available"
+
+msgid "code"
+msgstr "Code"
+
+msgid "tac_gia"
+msgstr "Author"
+
+msgid "version"
+msgstr "Version"
+
+msgid "kich_hoat_giao_dien"
+msgstr "Enable interface"
+
+msgid "dang_kich_hoat"
+msgstr "Active"
+
+msgid "cho_kich_hoat"
+msgstr "Waiting for activation"
+
+msgid "them_giao_dien_moi"
+msgstr "Add new interface"
+
+msgid "them_va_quan_ly_chi_nhanh"
+msgstr "Add and manage branches"
+
+msgid "loai_block"
+msgstr "Block type"
+
+msgid "ten_block"
+msgstr "Block name"
+
+msgid "ten_block"
+msgstr "Block name"
+
+msgid "cap_nhat_block"
+msgstr "Update block"
+
+msgid "cau_hinh_chung"
+msgstr "General configuration"
+
+msgid "du_lieu_mo_rong"
+msgstr "Extended data"
+
+msgid "sua_giao_dien"
+msgstr "Edit interface"
+
+msgid "lich_su_thay_doi"
+msgstr "History of change"
+
+msgid "nhung_class_se_duoc_dat_o_the_bao_ngoai_cua_block"
+msgstr "Classes will be placed in the outer tag of the block"
+
+msgid "lay_du_lieu_theo"
+msgstr "Get data by"
+
+msgid "tu_dong_theo_trang"
+msgstr "Auto by page"
+
+msgid "lay_tu_dong_theo_duong_dan"
+msgstr "Get it automatically by the path"
+
+msgid "luu_cau_hinh"
+msgstr "Save configuration"
+
+msgid "tim_hieu_ve_json"
+msgstr "Learn about JSON"
+
+msgid "du_lieu_mo_rong_se_duoc_luu_duoi_dang_json_va_block_co_the_doc_duoc_du_lieu_nay_de_hien_thi_ra_ngoai"
+msgstr "The extended data will be saved as JSON and the block can read this data for display"
+
+msgid "so_ban_ghi_hien_thi"
+msgstr "Number of records displayed"
+
+msgid "so_luong_ban_ghi_se_hien_thi_trong_block"
+msgstr "Number of records to show in block"
+
+msgid "su_dung_phan_trang"
+msgstr "Use pagination"
+
+msgid "neu_su_dung_phan_trang_thi_cau_hinh_so_san_pham_se_duoc_bo_qua"
+msgstr "If pagination is used, the product number configuration will be ignored"
+
+msgid "sap_xep_theo"
+msgstr "Sorted by"
+
+msgid "luot_xem"
+msgstr "View"
+
+msgid "luot_thich"
+msgstr "Likes"
+
+msgid "luot_binh_luan"
+msgstr "Comments"
+
+msgid "noi_bat"
+msgstr "Outstanding"
+
+msgid "ngay_cap_nhat"
+msgstr "Update day"
+
+msgid "giam_dan"
+msgstr "Decreasing"
+
+msgid "tang_dan"
+msgstr "Increasing"
+
+msgid "luu_thong_tin"
+msgstr "Save information"
+
+msgid "media"
+msgstr "Media"
+
+msgid "thanh_toan_truc_tiep"
+msgstr "Direct payment"
+
+msgid "thanh_toan_paypal"
+msgstr "Paypal Payment"
+
+msgid "thanh_toan_bao_kim"
+msgstr "Bao Kim Payment"
+
+msgid "thanh_toan_vnptpay"
+msgstr "VNPTPAY Payment"
+
+msgid "thanh_toan_onepay"
+msgstr "Onepay Payment"
+
+msgid "thanh_toan_onepay_noi_dia"
+msgstr "Domestic Onepay payment"
+
+msgid "thanh_toan_onepay_quoc_te"
+msgstr "International Onepay payment"
+
+msgid "thanh_toan_onepay_tra_gop"
+msgstr "Onepay installment payment"
+
+msgid "thanh_toan_alepay"
+msgstr "Alepay Payment"
+
+msgid "thanh_toan_vnpay"
+msgstr "Vnpay Payment"
+
+msgid "thanh_toan_momo"
+msgstr "Momo Payment"
+
+msgid "nhan_hoa_azpay"
+msgstr "AzPay Payment"
+
+msgid "dang_hoat_dong"
+msgstr "Active"
+
+msgid "dang_phat_trien"
+msgstr "Developing"
+
+msgid "ten_phuong_thuc"
+msgstr "Method name"
+
+msgid "huong_dan_cau_hinh"
+msgstr "Configuration guide"
+
+msgid "cau_hinh_tai_khoan_ngan_hang"
+msgstr "Configure bank account"
+
+msgid "thong_tin_cau_hinh"
+msgstr "Configuration information"
+
+msgid "mo_ta"
+msgstr "Description"
+
+msgid "ten_ngan_hang"
+msgstr "Bank name"
+
+msgid "chu_tai_khoan"
+msgstr "Account holder"
+
+msgid "so_tai_khoan"
+msgstr "Account number"
+
+msgid "them_moi_tai_khoan"
+msgstr "Add new account"
+
+msgid "token_key"
+msgstr "Token key"
+
+msgid "checksum_key"
+msgstr "Checksum key"
+
+msgid "encrypt_key"
+msgstr "Encrypt key"
+
+msgid "environment"
+msgstr "Environment"
+
+msgid "ma_giao_dich"
+msgstr "Transaction code"
+
+msgid "chi_tiet_giao_dich"
+msgstr "Transaction details"
+
+msgid "loai_phieu"
+msgstr "Kinds of receipt"
+
+msgid "phieu_thu"
+msgstr "Receipt"
+
+msgid "phieu_chi"
+msgstr "Payment"
+
+msgid "doi_tuong_nop"
+msgstr "Payer"
+
+msgid "doi_tuong_nhan"
+msgstr "Receiver"
+
+msgid "ten_nguoi_nop"
+msgstr "Name of Payer"
+
+msgid "ten_nguoi_nhan"
+msgstr "Name of Receiver"
+
+msgid "so_tien"
+msgstr "Amount"
+
+msgid "hach_toan_ket_qua_kinh_doanh"
+msgstr "Accounting for business results"
+
+msgid "binh_luan"
+msgstr "Comment"
+
+msgid "binh_luan_danh_gia"
+msgstr "Comment/Rate"
+
+msgid "cho_duyet"
+msgstr "Waiting for approval"
+
+msgid "khong_duyet_binh_luan"
+msgstr "Do not browse comment"
+
+msgid "duyet_binh_luan"
+msgstr "Browse comments"
+
+msgid "da_duyet"
+msgstr "Browsed"
+
+msgid "nhap_binh_luan"
+msgstr "Enter a comment"
+
+msgid "ngay_truoc"
+msgstr "The day before"
+
+msgid "ua_thich"
+msgstr "Favorite"
+
+msgid "quan_tri"
+msgstr "Administration"
+
+msgid "tai_lai_danh_sach"
+msgstr "Reload the list"
+
+msgid "danh_sach_binh_luan"
+msgstr "Comments List"
+
+msgid "thong_tin_binh_luan"
+msgstr "Comment information"
+
+msgid "dia_chi_ip"
+msgstr "IP address"
+
+msgid "xoa_binh_luan"
+msgstr "Delete comment"
+
+msgid "xem_tai_day"
+msgstr "See here"
+
+msgid "xoa_cache_thanh_cong"
+msgstr "Clear cache successfully"
+
+msgid "thuoc_tinh_mo_rong"
+msgstr "Extended Attributes"
+
+msgid "tuy_chinh_cac_thuoc_tinh_mo_rong_cua_san_pham_va_bai_viet"
+msgstr "Customize extended attributes of products and articles"
+
+msgid "xoa_du_lieu_thuoc_tinh_mo_rong"
+msgstr "Delete extended attribute data"
+
+msgid "xoa_du_lieu_lien_he_tu_khach_hang"
+msgstr "Delete contact data from customers"
+
+msgid "form_lien_he"
+msgstr "Contact form"
+
+msgid "quan_ly_thong_tin_form_lien_he"
+msgstr "Manage contact form information"
+
+msgid "mang_xa_hoi"
+msgstr "Social network"
+
+msgid "cau_hinh_cac_thong_tin_lien_quan_den_cac_trang_mang_xa_hoi"
+msgstr "Configure information related to social networking sites"
+
+msgid "{0}_su_dung_de_cau_hinh_ham_khoi_tao_cho_cac_ung_dung_cua_facebook_nhung_vao_website"
+msgstr "{0} used to configure the constructor for Facebook applications embedded in the Website"
+
+msgid "tai_thu_vien_facebook"
+msgstr "Loading Facebook gallery"
+
+msgid "tai_thu_vien_google"
+msgstr "Loading Google gallery"
+
+msgid "thoi_gian_cho_tai_thu_vien"
+msgstr "Waiting time for loading gallery"
+
+msgid "tuy_chinh_thoi_gian_tai_thu_vien_phu_hop_giup_website_cua_ban_rut_ngan_thoi_gian_tai_ban_dau"
+msgstr "Customize the appropriate library loading time to help your Website shorten the initial loading time"
+
+msgid "tien_te"
+msgstr "Currency"
+
+msgid "thiet_lap_tien_te_cua_he_thong"
+msgstr "Set the system currency"
+
+msgid "chua_cai_dat_don_vi_tien_te_mac_dinh_cua_website"
+msgstr "The website's default currency is not set"
+
+msgid "doi_che_do"
+msgstr "Change mode"
+
+msgid "chua_tao"
+msgstr "Not created yet"
+
+msgid "thay_doi_che_do_website"
+msgstr "Change website mode"
+
+msgid "thong_tin_bao_mat"
+msgstr "Security information"
+
+msgid "cau_hinh_thong_tin_bao_mat_cua_website"
+msgstr "Configure website security information"
+
+msgid "chong_spam_va_bao_ve_thong_tin_du_lieu"
+msgstr "Anti-spam and protect data information"
+
+msgid "chon_anh_giao_dien"
+msgstr "Select interface image"
+
+msgid "chon_anh_tu_cdn"
+msgstr "Select image from CDN"
+
+msgid "nguoi_nhan_nop"
+msgstr "Recipients pay"
+
+msgid "da_huy"
+msgstr "Cancelled"
+
+msgid "cho_xet_duyet"
+msgstr "Waiting for approval"
+
+msgid "tim_kiem_theo_ghi_chu"
+msgstr "Search by notes"
+
+msgid "con_no"
+msgstr "Still owed"
+
+msgid "thanh_toan_hoan_tat"
+msgstr "Payment completed"
+
+msgid "lien_he_cua_khach_hang"
+msgstr "Customer contact"
+
+msgid "danh_gia"
+msgstr "Rate"
+
+msgid "danh_sach_media"
+msgstr "Media list"
+
+msgid "danh_sach_plugin"
+msgstr "Plugin list"
+
+msgid "su_dung_cache"
+msgstr "Use Cache"
+
+msgid "nhung_class_cau_hinh_se_duoc_dat_o_the_bao_ngoai_cua_block"
+msgstr "The configuration classes will be placed in the outer tag of the block"
+
+msgid "logo_cong_ty"
+msgstr "Company's logo"
+
+msgid "vui_long_nhap_ten_dia_chi"
+msgstr "Please enter address"
+
+msgid "ten_dia_chi_nay_da_duoc_su_dung_vui_long_chon_mot_ten_khac"
+msgstr "This address name is already in use, please choose another name"
+
+msgid "khong_lay_duoc_thong_tin_dia_chi"
+msgstr "Can't get address information"
+
+msgid "ban_khong_the_xoa_dia_chi_mac_dinh"
+msgstr "You cannot delete the default address"
+
+msgid "vui_long_chon_khach_hang"
+msgstr "Please choose customer"
+
+msgid "vui_long_nhap_ten_giao_dien"
+msgstr "Please enter the interface name"
+
+msgid "vui_long_nhap_ma_giao_dien"
+msgstr "Please enter the interface code"
+
+msgid "vui_long_nhap_ten_tac_gia_giao_dien"
+msgstr "Please enter the interface author's name"
+
+msgid "thu_muc_chua_giao_dien_mau_khong_ton_tai"
+msgstr "The directory containing the template interface does not exist"
+
+msgid "khong_doc_duoc_tep_du_lieu_cua_giao_dien"
+msgstr "Unable to read interface data file"
+
+msgid "khong_the_khoi_tao_thu_muc_chua_giao_dien"
+msgstr "Unable to initialize directory containing the interface"
+
+msgid "nhan_ban_giao_dien_mau_khong_thanh_cong"
+msgstr "Cloning of the sample interface failed"
+
+msgid "khong_doc_duoc_tep_cau_hinh_cua_giao_dien"
+msgstr "Unable to read interface configuration file"
+
+msgid "nen_thu_muc_giao_dien_khong_thanh_cong"
+msgstr "Interface folder compression failed"
+
+msgid "giai_nen_thu_muc_giao_dien_khong_thanh_cong"
+msgstr "Interface folder decompression failed"
+
+msgid "xuat_giao_dien_mau_thanh_cong"
+msgstr "Exporting the sample interface successfully"
+
+msgid "tep_khoi_tao_cua_giao_dien_khong_hop_le"
+msgstr "Invalid interface initialization file"
+
+msgid "tai_xuong_tep_khoi_tao_cua_giao_dien_khong_thanh_cong"
+msgstr "Download file interface initialization failed"
+
+msgid "giai_nen_tep_khoi_tao_cua_giao_dien_khong_thanh_cong"
+msgstr "Decompression of the interface's initialization file failed"
+
+msgid "khong_tim_thay_tep_cau_hinh_cua_giao_dien"
+msgstr "The interface's configuration file could not be found"
+
+msgid "khong_tim_thay_tep_du_lieu_cua_giao_dien"
+msgstr "Interface data file not found"
+
+msgid "thong_tin_cau_hinh_cua_giao_dien_khong_hop_le"
+msgstr "Invalid interface configuration information"
+
+msgid "khong_doc_duoc_thong_tin_du_lieu_giao_dien"
+msgstr "Unable to read interface data information"
+
+msgid "cai_dat_giao_dien_thanh_cong"
+msgstr "Interface installation successful"
+
+msgid "xoa_giao_dien_thanh_cong"
+msgstr "Successful interface removal"
+
+msgid "khong_tim_thay_thong_tin_bai_viet"
+msgstr "Article information not found"
+
+msgid "nhan_ban_du_lieu_thanh_cong"
+msgstr "Successful data cloning"
+
+msgid "phien_ban_san_pham"
+msgstr "Product version"
+
+msgid "them_thuoc_tinh"
+msgstr "Add attributes"
+
+msgid "cap_nhat_thuoc_tinh"
+msgstr "Attribute update"
+
+msgid "ten_thuoc_tinh_khong_hop_le"
+msgstr "Invalid attribute name"
+
+msgid "vui_long_nhap_ten_thuoc_tinh"
+msgstr "Please enter an attribute name"
+
+msgid "ten_thuoc_tinh_da_ton_tai_tren_he_thong"
+msgstr "Attribute name already exists on system"
+
+msgid "vui_long_nhap_loai_thuoc_tinh"
+msgstr "Please enter attribute type"
+
+msgid "vui_long_nhap_loai_input_thuoc_tinh"
+msgstr "Please enter attribute input type"
+
+msgid "kieu_input_{0}_chi_ap_dung_voi_loai_thuoc_tinh_phien_ban_san_pham"
+msgstr "Input type {0} only applies to product version attribute type"
+
+msgid "vui_long_nhap_ma_thuoc_tinh"
+msgstr "Please enter attribute code"
+
+msgid "ma_thuoc_tinh_da_ton_tai_tren_he_thong"
+msgstr "The attribute code already exists on the system"
+
+msgid "ma_thuoc_tinh_khong_hop_le"
+msgstr "Invalid attribute code"
+
+msgid "khong_lay_duoc_thong_tin_thuoc_tinh"
+msgstr "Can't get attribute information"
+
+msgid "tuy_chon_cua_thuoc_tinh"
+msgstr "Attribute options"
+
+msgid "them_tuy_chon_thuoc_tinh"
+msgstr "More attribute options"
+
+msgid "cap_nhat_tuy_chon"
+msgstr "Update options"
+
+msgid "khong_lay_duoc_thong_tin_tuy_chon"
+msgstr "Can't get optional information"
+
+msgid "vui_long_nhap_ten_chi_nhanh"
+msgstr "Please enter branch name"
+
+msgid "vui_long_nhap_ten_nguoi_dai_dien"
+msgstr "Please enter the name of the representative"
+
+msgid "ten_thuong_hieu_da_ton_tai_tren_he_thong"
+msgstr "The brand name already exists on the system"
+
+msgid "khong_tim_thay_thong_tin_danh_muc"
+msgstr "Category information not found"
+
+msgid "khong_lay_duoc_thong_tin_binh_luan"
+msgstr "Can't get comment information"
+
+msgid "gui_binh_luan_thanh_cong"
+msgstr "Comment successfully sent"
+
+msgid "khong_tim_thay_thong_tin"
+msgstr "Information not found"
+
+msgid "thong_tin_lien_he"
+msgstr "Contact Information"
+
+msgid "them_form_lien_he"
+msgstr "Add contact form"
+
+msgid "cap_nhat_form_lien_he"
+msgstr "Update contact form"
+
+msgid "ten_form"
+msgstr "Form name"
+
+msgid "vui_long_nhap_ten_form"
+msgstr "Please enter form name"
+
+msgid "vui_long_nhap_day_du_cac_truong_thong_tin"
+msgstr "Please enter all the fields here"
+
+msgid "khong_tim_thay_thong_tin_form"
+msgstr "The form information could not be found"
+
+msgid "them_tien_te"
+msgstr "More currency"
+
+msgid "khong_the_xoa_loai_tien_te_mac_dinh"
+msgstr "Default currency cannot be deleted"
+
+msgid "khong_tim_thay_thong_tin_ban_ghi"
+msgstr "No record information found"
+
+msgid "khong_lay_duoc_thong_tin_khach_hang"
+msgstr "Can't get customer information"
+
+msgid "khong_tim_thay_thong_tin_ghi_chu"
+msgstr "Notes could not be found"
+
+msgid "tong_quan_he_thong"
+msgstr "System overview"
+
+msgid "vui_long_nhap_chon_mau_email"
+msgstr "Please select email template"
+
+msgid "khong_ton_tai_file_mau_email"
+msgstr "The email template file does not exist"
+
+msgid "khong_lay_duoc_thong_tin_mau_email"
+msgstr "Can't get email template information"
+
+msgid "vui_long_nhap_tieu_de_email"
+msgstr "Please enter email subject"
+
+msgid "vui_long_nhap_email_gui_thu"
+msgstr "Please enter test email"
+
+msgid "vui_long_nhap_noi_dung_gui_thu"
+msgstr "Please enter test content"
+
+msgid "nhap_id_cua_ban_ghi_can_gui_thu"
+msgstr "Enter the ID of the record you want to test"
+
+msgid "vui_long_nhap_dia_chi_email"
+msgstr "Please enter email address"
+
+msgid "vui_long_cau_hinh_email_ung_dung"
+msgstr "Please configure the application email"
+
+msgid "vui_long_nhap_id_ban_ghi_gui_thu"
+msgstr "Please enter test record ID"
+
+msgid "gui_email_khong_thanh_cong"
+msgstr "Email sending failed"
+
+msgid "gui_email_thanh_cong"
+msgstr "Email sent successfully"
+
+msgid "khong_lay_duoc_thong_tin_lien_he_cua_don_hang"
+msgstr "Can't get the contact information of the order"
+
+msgid "nhap_hang"
+msgstr "Stock Receiving"
+
+msgid "tao_don_nhap_hang"
+msgstr "Create purchase order"
+
+msgid "cap_nhat_don_nhap_hang"
+msgstr "Updating purchase order"
+
+msgid "khong_lay_duoc_thong_tin_cua_giao_dich"
+msgstr "Can't get transaction information"
+
+msgid "khong_the_cap_nhat_trang_thai_cua_giao_dich_nay"
+msgstr "The status of this transaction could not be updated"
+
+msgid "khong_tim_thay_thong_tin_cong_thanh_toan"
+msgstr "Payment gateway information not found"
+
+msgid "vui_long_nhap_ten_san_pham"
+msgstr "Please enter product name"
+
+msgid "khong_lay_duoc_thong_tin_phien_ban_san_pham"
+msgstr "Unable to get product version information"
+
+msgid "ma_phien_ban_san_pham_khong_the_trung_nhau_vui_long_dieu_chinh_lai"
+msgstr "Product version code cannot be duplicated, please re-correct"
+
+msgid "gia_dac_biet_cua_san_pham_phai_nho_hon_gia_ban"
+msgstr "The special price of the product must be less than the selling price"
+
+msgid "gia_tri_thuoc_tinh_cua_phien_ban_san_pham_bi_trung_lap_vui_long_chon_lai"
+msgstr "Attribute value of product version is duplicated, please choose again"
+
+msgid "xoa_san_pham_thanh_cong"
+msgstr "Delete product successfully"
+
+msgid "khong_tim_thay_thong_tin_san_pham"
+msgstr "No product information found"
+
+msgid "cap_nhat_trang_thai_san_pham_thanh_cong"
+msgstr "Product status update successful"
+
+msgid "gia_san_pham_khong_duoc_nho_hon_gia_dac_biet"
+msgstr "Product price must not be less than special price"
+
+msgid "gia_san_pham_hien_dang_de_trong"
+msgstr "Product price is currently blank"
+
+msgid "ten_nhom_quyen_da_ton_tai_tren_he_thong"
+msgstr "Permission group name already exists on the system"
+
+msgid "tai_tep_len_thanh_cong"
+msgstr "File upload successful"
+
+msgid "xoa_du_lieu"
+msgstr "Delete data"
+
+msgid "chua_chon_muc_xoa_du_lieu"
+msgstr "The item to delete data has not been selected"
+
+msgid "doi_che_do_website"
+msgstr "Change website mode"
+
+msgid "nha_cung_cap"
+msgstr "Supplier"
+
+msgid "them_nha_cung_cap"
+msgstr "Add suppliers"
+
+msgid "cap_nhat_nha_cung_cap"
+msgstr "Update suppliers"
+
+msgid "vui_long_nhap_ten_nha_cung_cap"
+msgstr "Please enter supplier name"
+
+msgid "ten_nha_cung_cap_da_ton_tai_tren_he_thong"
+msgstr "Supplier name already exists on the system"
+
+msgid "khong_lay_duoc_thong_tin_nha_cung_cap"
+msgstr "Can't get supplier information"
+
+msgid "khong_lay_duoc_thong_tin_block"
+msgstr "Can't get block information"
+
+msgid "khong_tim_thay_duong_dan_file_cua_block"
+msgstr "The file path of the block could not be found"
+
+msgid "khong_co_quyen_ghi_file"
+msgstr "No permission to write files"
+
+msgid "tao_file_khong_thanh_cong"
+msgstr "File creation failed"
+
+msgid "xoa_giao_dien_khong_thanh_cong"
+msgstr "Deleting interface failed"
+
+msgid "vui_long_chon_tep_giao_dien"
+msgstr "Please select the interface file"
+
+msgid "khong_lay_duoc_thong_tin_trang"
+msgstr "Can't get page information"
+
+msgid "trang_cau_hinh_khong_duoc_de_trang"
+msgstr "Configuration page should not be blank"
+
+msgid "khong_tim_thay_thong_tin_trang"
+msgstr "Page information not found"
+
+msgid "da_ton_tai_trang_nay_tren_he_thong"
+msgstr "This page already exists on the system"
+
+msgid "duong_dan_khong_hop_le"
+msgstr "Invalid path"
+
+msgid "duong_dan_da_ton_tai_vui_long_nhap_lai"
+msgstr "The link already exists, please re-enter it"
+
+msgid "khong_the_nhan_ban_trang_chu"
+msgstr "Unable to duplicate homepage"
+
+msgid "khong_doc_duoc_noi_dung_tep"
+msgstr "Can't read file contents"
+
+msgid "tep_nay_khong_ton_tai"
+msgstr "This file does not exist"
+
+msgid "khong_doc_duoc_tep_nay"
+msgstr "Can't read this file"
+
+msgid "tai_khoan_thanh_vien"
+msgstr "Member account"
+
+msgid "tai_khoan_hoac_mat_khau_khong_dung"
+msgstr "Account or password is incorrect"
+
+msgid "dang_nhap_thanh_cong"
+msgstr "Logged in successfully"
+
+msgid "trang"
+msgstr "Page"
+
+msgid "khong_duyet"
+msgstr "Not approve"
+
+msgid "duyet"
+msgstr "Approve"
+
+msgid "thuc_te"
+msgstr "Reality"
+
+msgid "thu_nghiem"
+msgstr "Experiment"
+
+msgid "don_moi"
+msgstr "New order"
+
+msgid "don_huy"
+msgstr "Canceled order"
+
+msgid "website"
+msgstr "Website"
+
+msgid "doi_tac_van_chuyen"
+msgstr "Shipping partner"
+
+msgid "doi_tuong_khac"
+msgstr "Other subjects"
+
+msgid "moi_nhat"
+msgstr "Latest"
+
+msgid "chua_co_danh_muc_duoc_kich_hoat"
+msgstr "No active categories yet"
+
+msgid "chua_co_thuong_hieu_duoc_kich_hoat"
+msgstr "No brand activated yet"
+
+msgid "xoa_anh"
+msgstr "Delete photos"
+
+msgid "loai_thuoc_tinh"
+msgstr "Attribute type"
+
+msgid "loai_input"
+msgstr "Input type"
+
+msgid "thong_tin_thuoc_tinh"
+msgstr "Attribute information"
+
+msgid "ma_thuoc_tinh"
+msgstr "Attribute code"
+
+msgid "ma_thuoc_tinh_viet_thuong_va_khong_chua_ky_tu_dac_biet"
+msgstr "Attribute code is lowercase and does not contain special characters"
+
+msgid "ap_dung_anh_dai_dien_cho_thuoc_tinh_nay"
+msgstr "Apply a profile picture for this attribute"
+
+msgid "tuy_chon_nay_chi_1_thuoc_tinh_duy_nhat_duoc_ap_dung"
+msgstr "This option only 1 attribute is applied"
+
+msgid "bat_buoc"
+msgstr "Obligatory"
+
+msgid "quay_lai_quan_ly_thuoc_tinh"
+msgstr "Back to attribute management"
+
+msgid "thuoc_tinh"
+msgstr "Attribute"
+
+msgid "thong_tin_tuy_chon"
+msgstr "Optional information"
+
+msgid "ten_tuy_chon"
+msgstr "Option name"
+
+msgid "ma_tuy_chon"
+msgstr "Option code"
+
+msgid "ban_do"
+msgstr "Map"
+
+msgid "ngay_nhan"
+msgstr "Received date"
+
+msgid "thong_tin_form"
+msgstr "Form information"
+
+msgid "vui_long_nhap_thong_tin"
+msgstr "Please enter information"
+
+msgid "them_form_lien_he_moi"
+msgstr "Add new contact form"
+
+msgid "ma_form"
+msgstr "Form code"
+
+msgid "ma_form_se_duoc_su_dung_de_nhung_ngoai_website"
+msgstr "The form code will be used to embed outside the website"
+
+msgid "nhan_email_khi_lien_he"
+msgstr "Receive email on contact"
+
+msgid "cau_hinh_cac_truong_thong_tin"
+msgstr "Configuring information fields"
+
+msgid "them_truong_moi"
+msgstr "Add a new field"
+
+msgid "ten_tien_te"
+msgstr "Currency name"
+
+msgid "ma_tien_te"
+msgstr "Currency code"
+
+msgid "don_vi"
+msgstr "Unit"
+
+msgid "ti_le_chuyen_doi"
+msgstr "Conversion rate"
+
+msgid "ti_le_chuyen_doi_cua_tien_te_hien_tai_so_voi_tien_te_mac_dinh"
+msgstr "Conversion rate of current currency to default currency"
+
+msgid "nguoi_them"
+msgstr "Extra person"
+
+msgid "han_su_dung"
+msgstr "Expiration"
+
+msgid "lien_he_gia_han"
+msgstr "Contact for renewal"
+
+msgid "thoi_gian_ket_thuc"
+msgstr "End time"
+
+msgid "thoi_gian_con_lai"
+msgstr "Remaining time"
+
+msgid "dung_luong"
+msgstr "Capacity"
+
+msgid "tong_dung_luong"
+msgstr "Total capacity"
+
+msgid "tong_bai_viet"
+msgstr "Total articles"
+
+msgid "anh"
+msgstr "Photos"
+
+msgid "tai_lieu"
+msgstr "Document"
+
+msgid "bai_viet_chuan_seo"
+msgstr "Standard articles for SEO"
+
+msgid "tong_san_pham"
+msgstr "Total product"
+
+msgid "san_pham_chuan_seo"
+msgstr "Standard products for SEO"
+
+msgid "tong_don_hang"
+msgstr "Total order"
+
+msgid "che_do"
+msgstr "Modes"
+
+msgid "giao_dien_duoc_chon"
+msgstr "Selected interface"
+
+msgid "chua_duoc_thiet_lap"
+msgstr "Not set up yet"
+
+msgid "thong_ke_khach_hang"
+msgstr "Customer statistics"
+
+msgid "tong_binh_luan"
+msgstr "Total comments"
+
+msgid "tong_danh_gia"
+msgstr "Total rating"
+
+msgid "cap_nhat_dia_chi"
+msgstr "Update address"
+
+msgid "nha_rieng_co_quan"
+msgstr "Private house, office"
+
+msgid "gia_ban"
+msgstr "Selling price"
+
+msgid "them_moi_nha_cung_cap"
+msgstr "Add new supplier"
+
+msgid "ten_nha_cung_cap"
+msgstr "Supplier name"
+
+msgid "ma_nha_cung_cap"
+msgstr "Supplier code"
+
+msgid "don_gia"
+msgstr "Unit price"
+
+msgid "cau_hinh_mau_email"
+msgstr "Configure email template"
+
+msgid "chinh_sua_mau_email"
+msgstr "Edit email templates"
+
+msgid "ten_email"
+msgstr "Email name"
+
+msgid "noi_dung_gui_thu"
+msgstr "testing content"
+
+msgid "them_nguon_don_hang"
+msgstr "Add order source"
+
+msgid "cap_nhat_nguon_don_hang"
+msgstr "Update order source"
+
+msgid "ten_nguon_hang"
+msgstr "Product source name"
+
+msgid "ma_nguon_don_hang"
+msgstr "Order source code"
+
+msgid "khach_hang_chua_xac_nhan"
+msgstr "The customer has not confirmed"
+
+msgid "ban_hay_them_khu_vuc_quan_huyen_cua_khach_hang_de_su_dung_dich_vu_giao_hang"
+msgstr "Please add the customer's district area to use the delivery service"
+
+msgid "ban_hay_them_khu_vuc_phuong_xa_cua_khach_hang_de_su_dung_dich_vu_hang_van_chuyen"
+msgstr "Please add the customer's commune area to use the carrier service"
+
+msgid "dong_goi_va_giao_hang"
+msgstr "Packing and shipping"
+
+msgid "sua"
+msgstr "Edit"
+
+msgid "thong_tin_don_nhap_hang"
+msgstr "Purchase order information"
+
+msgid "ma_don_nhap_hang"
+msgstr "Purchase order code"
+
+msgid "thong_tin_nha_cung_cap"
+msgstr "Supplier Information"
+
+msgid "tim_kiem_nha_cung_cap_f4"
+msgstr "Search supplier (f4)"
+
+msgid "thanh_toan_voi_nha_cung_cap"
+msgstr "Paying with suppliers"
+
+msgid "nhap_kho"
+msgstr "Warehouse"
+
+msgid "nhap_hang_vao_kho"
+msgstr "Import goods into warehouse"
+
+msgid "da_hoan_tien"
+msgstr "Refunded"
+
+msgid "xac_nhan_thanh_cong"
+msgstr "Successful confirmation"
+
+msgid "xac_nhan_huy_giao_dich"
+msgstr "Confirm transaction cancellation"
+
+msgid "ban_chac_chan_muon_huy_giao_dich"
+msgstr "Are you sure you want to cancel the transaction"
+
+msgid "xac_nhan_giao_hang_thanh_cong"
+msgstr "Successful delivery confirmation"
+
+msgid "ban_chac_chan_muon_xac_nhan_giao_dich"
+msgstr "You definitely want to confirm the transaction"
+
+msgid "mo_ta_cong_thanh_toan"
+msgstr "Description of payment gateway"
+
+msgid "ma_website"
+msgstr "Website code"
+
+msgid "chuoi_tao_checksum"
+msgstr "Checksum generation sequence"
+
+msgid "server_thanh_toan"
+msgstr "Payment server"
+
+msgid "luu_nhap"
+msgstr "Save draft"
+
+msgid "them_san_pham_moi"
+msgstr "More new products"
+
+msgid "ten_phien_ban"
+msgstr "Version name"
+
+msgid "chuc_nang_dang_duoc_phat_trien"
+msgstr "Functions under development"
+
+msgid "thong_tin_nhom_quyen"
+msgstr "Permission group information"
+
+msgid "che_do_danh_cho_nha_phat_trien"
+msgstr "Developer Mode"
+
+msgid "o_che_do_nay_he_thong_se_vo_hieu_hoa_viec_tao_cache_html_va_bo_nen_tai_nguyen_duoc_tai"
+msgstr "In this mode the system disables HTML caching and the resource compressor is loaded"
+
+msgid "che_do_hoan_thien"
+msgstr "Finishing mode"
+
+msgid "giup_website_tang_toc_do_tai_va_hien_thi"
+msgstr "Help website speed up loading and displaying"
+
+msgid "muc_luc"
+msgstr "Index"
+
+msgid "xoa_du_lieu_danh_muc_san_pham"
+msgstr "Clear product catalog data"
+
+msgid "xoa_du_lieu_danh_muc_bai_viet"
+msgstr "Delete the article category data"
+
+msgid "xoa_du_lieu_bai_viet"
+msgstr "Delete article data"
+
+msgid "xoa_du_lieu_san_pham"
+msgstr "Delete product data"
+
+msgid "xoa_du_lieu_khach_hang"
+msgstr "Delete customer data"
+
+msgid "xoa_du_lieu_don_hang_bao_gom_don_hang_payment_va_van_chuyen"
+msgstr "Delete order data including payment and shipping"
+
+msgid "chuc_nang_nay_hien_dang_duoc_phat_trien"
+msgstr "This function is currently under development"
+
+msgid "su_dung"
+msgstr "Usage"
+
+msgid "tao_recaptcha_moi_tai_day"
+msgstr "Create a new reCaptcha here"
+
+msgid "thong_tin_seo_cua_trang"
+msgstr "Site SEO information"
+
+msgid "luu_cau_hinh_seo"
+msgstr "Save SEO configuration"
+
+msgid "neu_khong_nhap_he_thong_se_tu_dong_sinh_ra_ma_nha_cung_cap"
+msgstr "If you do not enter, the system will automatically generate a supplier code"
+
+msgid "gioi_thieu"
+msgstr "Introduction"
+
+msgid "thong_tin_dia_chi"
+msgstr "Address information"
+
+msgid "nha_cung_cap_chua_co_dia_chi"
+msgstr "Supplier does not have an address"
+
+msgid "luu_giao_dien"
+msgstr "Save interface"
+
+msgid "desktop"
+msgstr "Desktop"
+
+msgid "mobile"
+msgstr "Mobile"
+
+msgid "sua_cau_hinh_trang"
+msgstr "Edit site configuration"
+
+msgid "hanh_dong"
+msgstr "Action"
+
+msgid "them_trang_moi"
+msgstr "Add new page"
+
+msgid "them_trang_bo_cuc"
+msgstr "Add page layout"
+
+msgid "nhan_ban_trang_nay"
+msgstr "Duplicate this page"
+
+msgid "xoa_cau_hinh_trang"
+msgstr "Delete site configuration"
+
+msgid "xoa_trang"
+msgstr "Delete the page"
+
+msgid "tim_kiem_block"
+msgstr "Search block"
+
+msgid "hay_keo_block_vao_trong_cot_ma_ban_muon"
+msgstr "Drag the block into the column you want"
+
+msgid "chua_co_block_nao_duoc_tao_tren_he_thong"
+msgstr "No blocks have been created on the system yet"
+
+msgid "tao_block_moi"
+msgstr "Create a new block"
+
+msgid "chua_co_giao_dien_nao_duoc_kich_hoat"
+msgstr "No interface activated yet"
+
+msgid "thong_tin_trang"
+msgstr "Page Information"
+
+msgid "thong_tin_trang_bo_cuc"
+msgstr "Layout page information"
+
+msgid "thong_tin_block"
+msgstr "Block information"
+
+msgid "xuat_giao_dien"
+msgstr "Export interface"
+
+msgid "xoa_giao_dien"
+msgstr "Remove interface"
+
+msgid "danh_muc_ap_dung"
+msgstr "Applicable list"
+
+msgid "tat_ca_ban_ghi_hoac_danh_muc_thuoc_danh_muc_da_chon_se_ap_dung_cau_hinh_cua_trang_nay"
+msgstr "All records or categories under the selected category will apply the configuration of this site"
+
+msgid "cai_dat_giao_dien_moi"
+msgstr "New interface settings"
+
+msgid "dat_lam_mac_dinh"
+msgstr "Set as default"
+
+msgid "thiet_lap_so_cot"
+msgstr "Set number of columns"
+
+msgid "chon_so_cot"
+msgstr "Select columns"
+
+msgid "cot"
+msgstr "Column"
+
+msgid "thiet_lap_thong_tin_cua_dong"
+msgstr "Set information of the line"
+
+msgid "toan_man_hinh"
+msgstr "Full screen"
+
+msgid "rong_toan_man_hinh"
+msgstr "Wide full screen"
+
+msgid "len_tren"
+msgstr "Go up"
+
+msgid "xuong_duoi"
+msgstr "Downwards"
+
+msgid "chon_cot"
+msgstr "Select column"
+
+msgid "thiet_lap"
+msgstr "Setting"
+
+msgid "ten_giao_dien"
+msgstr "Interface name"
+
+msgid "ma_giao_dien"
+msgstr "Interface code"
+
+msgid "anh_dai_dien"
+msgstr "Profile photo"
+
+msgid "loai_trang"
+msgstr "Page Type"
+
+msgid "ten_trang"
+msgstr "Page name"
+
+msgid "su_dung_trang_bo_cuc"
+msgstr "Use page layout"
+
+msgid "dang_su_dung_trang_bo_cuc"
+msgstr "Using page layout"
+
+msgid "loai_trang_dong_tinh_tuy_bien_cao"
+msgstr "Highly customizable dynamic page types"
+
+msgid "loai_trang_he_thong"
+msgstr "System page type"
+
+msgid "dau_trang"
+msgstr "Top of page"
+
+msgid "giua_trang"
+msgstr "Middle of page"
+
+msgid "cuoi_trang"
+msgstr "End of page"
+
+msgid "dong_mo"
+msgstr "Open and close"
+
+msgid "them_dong_moi"
+msgstr "Add new line"
+
+msgid "giao_dien_block"
+msgstr "Block interface"
+
+msgid "luu_cau_hinh"
+msgstr "Save configuration"
+
+msgid "luu_du_lieu"
+msgstr "Save data"
+
+msgid "giai_thich"
+msgstr "Explanation"
+
+msgid "block_se_duoc_hien_binh_thuong_khi_trang_web_duoc_tai"
+msgstr "Block will be displayed normally when the web page is loaded"
+
+msgid "thoi_gian_cho"
+msgstr "Waiting time"
+
+msgid "block_se_duoc_hien_sau_khi_trang_web_da_duoc_tai_thanh_cong"
+msgstr "Block will be displayed after the website has been successfully loaded"
+
+msgid "la_khoang_thoi_gian_tu_khi_trang_da_tai_xong_den_khi_block_duoc_hien_thi"
+msgstr "Is the time from when the page has finished loading until the block is displayed"
+
+msgid "khoang_cach"
+msgstr "Distance"
+
+msgid "block_se_duoc_hien_sau_khi_con_tro_chuot_keo_den_vi_tri_cua_no"
+msgstr "Block will be displayed after the mouse pointer drags to its position"
+
+msgid "la_khoang_cach_cua_block_den_vi_tri_ma_block_se_bat_dau_hien_thi_khi_con_tro_chuot_den_do"
+msgstr "Is the distance of the block to the position where the block will start to display when the mouse pointer gets there"
+
+msgid "so_bai_viet_hien_thi"
+msgstr "Number of articles displayed"
+
+msgid "neu_su_dung_phan_trang_thi_cau_hinh_so_bai_viet_se_la_so_san_pham_tren_1_trang"
+msgstr "If using pagination, configure the number of articles to be the number of products per page"
+
+msgid "tu_dong_theo_duong_dan"
+msgstr "Automatically follow the path"
+
+msgid "neu_cau_hinh_lay_du_lieu_tu_dong_theo_duong_dan_thi_hay_tat_cau_hinh_su_dung_cache_cua_block"
+msgstr "If the configuration is to get data automatically by the path, then turn off the configuration to use the block cache"
+
+msgid "so_binh_luan_hien_thi"
+msgstr "Number of comments displayed"
+
+msgid "so_luong_binh_luan_hien_thi_trong_1_trang"
+msgstr "Number of comments displayed in 1 page"
+
+msgid "yeu_cau_dang_nhap"
+msgstr "Requires login"
+
+msgid "cho_quan_tri_phe_duyet"
+msgstr "Wait for admin approval"
+
+msgid "them_menu"
+msgstr "Add menu"
+
+msgid "so_san_pham_hien_thi"
+msgstr "Number of products displayed"
+
+msgid "neu_su_dung_phan_trang_thi_cau_hinh_so_san_pham_se_la_so_san_pham_tren_1_trang"
+msgstr "If using pagination, configure the number of products to be the number of products per page"
+
+msgid "so_danh_gia_hien_thi"
+msgstr "Number of reviews displayed"
+
+msgid "so_luong_danh_gia_hien_thi_trong_1_trang"
+msgstr "Number of reviews displayed in 1 page"
+
+msgid "them_slider"
+msgstr "Add slider"
+
+msgid "luu_y"
+msgstr "Note"
+
+msgid "he_thong_su_dung_thu_vien_{0}"
+msgstr "System using the library {0}"
+
+msgid "thong_tin_cau_hinh_cua_slider_se_duoc_luu_ben_du_lieu_mo_rong"
+msgstr "The slider's configuration information will be saved inside the extension data"
+
+msgid "tham_khao_cau_hinh_mac_dinh"
+msgstr "Refer to default configuration"
+
+msgid "xem_cau_hinh"
+msgstr "View configuration"
+
+msgid "cau_hinh_tham_khao"
+msgstr "Reference configuration"
+
+msgid "huong_dan"
+msgstr "Instruction"
+
+msgid "thong_tin_cau_hinh_duoc_viet_duoi_dang_json_va_chi_nhan_cac_gia_tri_nam_trong_key_config"
+msgstr "The configuration information is written in json and only takes the values in the config key"
+
+msgid "du_lieu_tuy_bien"
+msgstr "Custom data"
+
+msgid "loai_menu"
+msgstr "Menu type"
+
+msgid "mo_duong_dan_tren_tab_moi"
+msgstr "Open link on new tab"
+
+msgid "chon_anh_slider"
+msgstr "Select image slider"
+
+msgid "su_dung_menu_phu"
+msgstr "Using the submenu"
+
+msgid "giao_dien_menu_phu"
+msgstr "Sub-menu interface"
+
+msgid "du_lieu_menu_phu"
+msgstr "Sub menu data"
+
+msgid "chon_danh_muc"
+msgstr "Select a category"
+
+msgid "chon_san_pham"
+msgstr "Select product"
+
+msgid "nhap_ten_va_chon_san_pham"
+msgstr "Enter a name and select a product"
+
+msgid "san_pham_da_chon"
+msgstr "Selected product"
+
+msgid "chon_bai_viet"
+msgstr "Select article"
+
+msgid "nhap_ten_va_chon_bai_viet"
+msgstr "Enter the name and select the article"
+
+msgid "bai_viet_da_chon"
+msgstr "Selected article"
+
+msgid "loc_du_lieu"
+msgstr "Filter the data"
+
+msgid "tat_ca"
+msgstr "All"
+
+msgid "thong_tin_lich_su_thay_doi"
+msgstr "Historical information changes"
+
+msgid "quay_lai_phien_ban_nay"
+msgstr "Back to this version"
+
+msgid "them_giao_dien_block"
+msgstr "Add block interface"
+
+msgid "khong_doc_duoc_noi_dung_cua_tep"
+msgstr "Unable to read the contents of the file"
+
+msgid "avatar"
+msgstr "Avatar"
+
+msgid "dang_nhap_quan_tri"
+msgstr "Admin login"
+
+msgid "ghi_nho_tai_khoan"
+msgstr "Remember account"
+
+msgid "quen_mat_khau"
+msgstr "Forgot password"
+
+msgid "dang_nhap"
+msgstr "Log in"
+
+msgid "khong_lay_duoc_thong_tin_tep_khoi_tao"
+msgstr "Failed to get initialization file information"
+
+msgid "tep_khoi_tao_cau_truc_co_so_du_lieu_khong_hop_le"
+msgstr "Invalid database structure initialization file"
+
+msgid "khong_doc_duoc_noi_dung_tep_khoi_tao_cau_truc_co_so_du_lieu"
+msgstr "The contents of the database structure initialization file could not be read"
+
+msgid "cai_dat_cau_truc_co_so_du_lieu_thanh_cong"
+msgstr "Install the database structure successfully"
+
+msgid "tep_khoi_tao_du_lieu_ban_dau_khong_hop_le"
+msgstr "Invalid initialization data file"
+
+msgid "khong_doc_duoc_noi_dung_tep_khoi_tao_du_lieu_ban_dau"
+msgstr "Initial data initialization file contents could not be read"
+
+msgid "cai_dat_du_lieu_ban_dau_thanh_cong"
+msgstr "Initial data setting successful"
+
+msgid "mo_ta_bai_viet"
+msgstr "Article description"
+
+msgid "cap_nhat_thong_tin_san_pham_thanh_cong"
+msgstr "Update product information successfully"
+
+msgid "cho_phep_gui_ma_xac_nhan_khi_dang_ky"
+msgstr "Allow sending confirmation code when registering"
+
+msgid "cau_hinh_khach_hang"
+msgstr "Client configuration"
+
+msgid "thiet_lap_cau_hinh_khach_hang"
+msgstr "Set up client configuration"
+
+msgid "khong_lay_duoc_ma_xac_nhan_cho_email"
+msgstr "Can't get confirmation code for email"
+
+msgid "loai_binh_luan"
+msgstr "Comment type"
+
+msgid "bai_viet_noi_bat"
+msgstr "Featured Articles"
+
+msgid "khong_noi_bat"
+msgstr "Not outstanding"
+
+msgid "co_noi_bat"
+msgstr "Outstanding"
+
+msgid "co_video"
+msgstr "With video"
+
+msgid "co_album"
+msgstr "With album"
+
+msgid "co_tep_dinh_kem"
+msgstr "With attachment"
+
+msgid "don_khach_tra"
+msgstr "Orders paid by customers"
+
+msgid "so_luot_xem"
+msgstr "Views"
+
+msgid "so_luot_thich"
+msgstr "Likes"
+
+msgid "so_luong_binh_luan"
+msgstr "Comments"
+
+msgid "so_luong_danh_gia"
+msgstr "Number of reviews"
+
+msgid "diem_seo"
+msgstr "SEO score"
+
+msgid "diem_tu_khoa"
+msgstr "Keyword score"
+
+msgid "so_luong_san_co"
+msgstr "Available quantity"
+
+msgid "anh_bai_viet"
+msgstr "Article photo"
+
+msgid "da_phuong_tien"
+msgstr "Multimedia"
+
+msgid "noi_dung_lien_he"
+msgstr "Contact content"
+
+msgid "ma_truong"
+msgstr "Field code"
+
+msgid "ten_truong"
+msgstr "Field name"
+
+msgid "thong_tin_bai_viet"
+msgstr "Article information"
+
+msgid "da_doc"
+msgstr "Seen"
+
+msgid "chua_doc"
+msgstr "Unread"
+
+msgid "chon_loai"
+msgstr "Select type"
+
+msgid "gui_thu_noi_dung"
+msgstr "Send test content"
+
+msgid "gui_thu_mau_email"
+msgstr "Send sample email"
+
+msgid "chi_tiet_thuong_hieu"
+msgstr "Brand details"
+
+msgid "thong_tin_thuong_hieu"
+msgstr "Brand information"
+
+msgid "ma_thuong_hieu"
+msgstr "Brand code"
+
+msgid "khong_tim_thay_thong_tin_thuong_hieu"
+msgstr "Brand information not found"
+
+msgid "khong_tim_thay_thong_tin_danh_muc"
+msgstr "Category information not found"
+
+msgid "chon_tat_ca"
+msgstr "Select all"
+
+msgid "binh_luan_lien_quan"
+msgstr "Related comments"
+
+msgid "cap_nhat_the_bai_viet"
+msgstr "Update article tag"
+
+msgid "mo_ta_the_bai_viet"
+msgstr "Article tag description"
+
+msgid "cau_hinh_sitemap"
+msgstr "Sitemap configuration"
+
+msgid "xem_tep_robots"
+msgstr "View the robots file"
+
+msgid "vui_long_nhap_day_du_thong_tin"
+msgstr "Please enter full information"
+
+msgid "xac_nhan_mat_khau_khong_chinh_xac"
+msgstr "Confirm password is incorrect"
+
+msgid "khong_lay_duoc_thong_tin_tai_khoan"
+msgstr "Can't get account information"
+
+msgid "mat_khau_cu_nhap_khong_chinh_xac"
+msgstr "Old password entered is incorrect"
+
+msgid "mat_khau_thay_doi_khong_the_giong_mat_khau_cu"
+msgstr "The changed password cannot be the same as the old password"
+
+msgid "thay_doi_mat_khau"
+msgstr "Change password"
+
+msgid "mat_khau_moi"
+msgstr "New password"
+
+msgid "nhap_lai_mat_khau_moi"
+msgstr "Enter a new password"
+
+msgid "chua_xac_nhan"
+msgstr "Unconfimred"
+
+msgid "san_pham_giam_gia"
+msgstr "Discount products"
+
+msgid "san_pham_giam_gia"
+msgstr "Discount products"
+
+msgid "tinh_trang"
+msgstr "Status"
+
+msgid "het_hang"
+msgstr "Out of stock"
+
+msgid "con_hang"
+msgstr "Availability"
+
+msgid "chua_co_anh"
+msgstr "No photos yet"
+
+msgid "nhap_lai_mat_khau"
+msgstr "Re-enter password"
+
+msgid "chua_xac_dinh"
+msgstr "Undefined"
+
+msgid "co_phan_nhom"
+msgstr "There are subgroups"
+
+msgid "khong_phan_nhom"
+msgstr "No grouping"
+
+msgid "co_chia"
+msgstr "There is share"
+
+msgid "khong_chia"
+msgstr "Don't share"
+
+msgid "co_bat_chuyen_huong"
+msgstr "With redirect enabled"
+
+msgid "khong_bat_chuyen_huong"
+msgstr "Don't enable redirects"
+
+msgid "da_tai_len"
+msgstr "Uploaded"
+
+msgid "chua_tai_len"
+msgstr "Not uploaded yet"
+
+msgid "duong_dan_cdn"
+msgstr "CDN path"
+
+msgid "het_han"
+msgstr "Expired"
+
+msgid "trong_ngay_hom_nay"
+msgstr "Today"
+
+msgid "thang_label"
+msgstr "Month"
+
+msgid "nam_label"
+msgstr "Year"
+
+msgid "xem_cau_hinh_thuc_te"
+msgstr "See actual configuration"
+
+msgid "don_tra_hang"
+msgstr "Return order"
+
+msgid "ma_bao_mat"
+msgstr "Security code"
+
+msgid "thiet_lap_thong_tin_api"
+msgstr "Set up API information"
+
+msgid "su_dung_ma_nhung"
+msgstr "Use embed code"
+
+msgid "thoi_gian_cho_tai_ma_nhung"
+msgstr "Time for embed code loading"
+
+msgid "tuy_chinh_thoi_gian_tai_ma_nhung_phu_hop_giup_website_cua_ban_rut_ngan_thoi_gian_tai_ban_dau"
+msgstr "Customize the embed load time accordingly to help your website shorten the initial load time"
+
+msgid "chua_nhap"
+msgstr "Not yet entered"
+
+msgid "duong_dan_the"
+msgstr "Card path"
+
+msgid "thay_doi_duong_dan_the_bai_viet"
+msgstr "Change the article tag path"
+
+msgid "tien_to_tieu_de_seo"
+msgstr "SEO title prefix"
+
+msgid "hau_to_tieu_de_seo"
+msgstr "SEO title suffix"
+
+msgid "them_tien_to_vao_tieu_de_seo_cua_the"
+msgstr "Add a prefix to the tag's SEO title"
+
+msgid "nhap"
+msgstr "Enter"
+
+msgid "ket_qua"
+msgstr "Result"
+
+msgid "them_hau_to_vao_tieu_de_seo_cua_the"
+msgstr "Add a suffix to the tag's SEO title"
+
+msgid "luu_cau_hinh_the_bai_viet"
+msgstr "Save article tag configuration"
+
+msgid "xem_bai_viet"
+msgstr "View Articles"
+
+msgid "xem_san_pham"
+msgstr "View products"
+
+msgid "xem_danh_muc"
+msgstr "View catalog"
+
+msgid "ap_dung_anh_dai_dien"
+msgstr "Apply avatar"
+
+msgid "khong_ap_dung"
+msgstr "Do not apply"
+
+msgid "co_ap_dung"
+msgstr "Applicable"
+
+msgid "co_bat_buoc"
+msgstr "Compulsory"
+
+msgid "khong_bat_buoc"
+msgstr "Optional"
+
+msgid "cap_nhat_hinh_anh"
+msgstr "Update images"
+
+msgid "ten_form"
+msgstr "Form name"
+
+msgid "mobile_app"
+msgstr "Mobile App"
+
+msgid "cai_dat_mobile_app"
+msgstr "Setting Mobile App"
+
+msgid "giao_dien_mobile_app"
+msgstr "Mobile App interface"
+
+msgid "block_mobile_app"
+msgstr "Block Mobile App"
+
+msgid "cai_dat_thong_tin_mobile_app"
+msgstr "Mobile App Information Settings"
+
+msgid "cai_dat_giao_dien_mobile_app"
+msgstr "Mobile App interface Settings"
+
+msgid "khong_lay_duoc_thong_tin_giao_dien_mac_dinh"
+msgstr "Unable to get default interface information"
+
+msgid "san_pham_da_xem"
+msgstr "viewed products"
+
+msgid "bai_viet_da_xem"
+msgstr "Articles viewed"
+
+msgid "san_pham_da_them_vao_yeu_thich"
+msgstr "Product added to favorites"
+
+msgid "san_pham_da_them_vao_so_sanh"
+msgstr "Products added to compare"
+
+msgid "bai_viet_yeu_thich"
+msgstr "Favorite articles"
+
+msgid "duyet_bai_viet"
+msgstr "Browse articles"
+
+msgid "thiet_lap_quyen_duyet_bai_viet"
+msgstr "Set permission to browse articles"
+
+msgid "kich_hoat_duyet_bai_viet"
+msgstr "Enable article browsing"
+
+msgid "kich_hoat_duyet_san_pham"
+msgstr "Enable product browsing"
+
+msgid "quyen_duoc_duyet_bai"
+msgstr "Permission to review articles"
+
+msgid "khi_kich_hoat_duyet_bai_viet_thi_nhung_tai_khoan_khong_nam_trong_nhom_quyen_duoc_duyet_bai_khi_cap_nhat_bai_viet_trang_thai_cua_bai_viet_se_chuyen_ve_cho_duyet"
+msgstr "After activating article browsing, when accounts that are not in the group of permission to review articles update articles, the status of the article will change to waiting for approval"
+
+msgid "duyet_san_pham"
+msgstr "Browse products"
+
+msgid "cai_dat_thong_tin_app"
+msgstr "Settings app information"
+
+msgid "thiet_lap_giao_dien_app"
+msgstr "Setting up the app interface"
+
+msgid "cai_dat_cac_cau_hinh_chung_cua_giao_dien"
+msgstr "Setting up the interface's general configurations"
+
+msgid "thu_vien_anh"
+msgstr "Photo library"
+
+msgid "thu_vien_anh_danh_cho_app"
+msgstr "Gallery for apps"
+
+msgid "quan_ly_cac_block_cua_app"
+msgstr "Manage app blocks"
+
+msgid "them_block_moi_cho_app"
+msgstr "Add new block for app"
+
+msgid "cau_hinh_mau_sac"
+msgstr "Color configuration"
+
+msgid "color_main"
+msgstr "Main color"
+
+msgid "color_hightlight"
+msgstr "Outstanding color"
+
+msgid "color_text"
+msgstr "Text color"
+
+msgid "anh_template"
+msgstr "Template photo"
+
+msgid "them_anh"
+msgstr "Add photo"
+
+msgid "sua_thong_tin_trang"
+msgstr "Edit page information"
+
+msgid "white"
+msgstr "White"
+
+msgid "black"
+msgstr "Black"
+
+msgid "red"
+msgstr "Red"
+
+msgid "green"
+msgstr "Green"
+
+msgid "yellow"
+msgstr "Yellow"
+
+msgid "light"
+msgstr "Light"
+
+msgid "blue"
+msgstr "Blue"
+
+msgid "purple"
+msgstr "Purple"
+
+msgid "pink"
+msgstr "Pink"
+
+msgid "indigo"
+msgstr "Indigo"
+
+msgid "teal"
+msgstr "Teal"
+
+msgid "orange"
+msgstr "Orange"
+
+msgid "cyan"
+msgstr "Cyan"
+
+msgid "gray"
+msgstr "Gray"
+
+msgid "khong_ton_tai_thong_tin_app"
+msgstr "App information does not exist"
+
+msgid "cau_hinh_thong_tin_app"
+msgstr "Configure app information"
+
+msgid "ten_app"
+msgstr "App name"
+
+msgid "app_key"
+msgstr "App key"
+
+msgid "cau_hinh_vphone"
+msgstr "Vphone configuration"
+
+msgid "ten_hotline"
+msgstr "Hotline name"
+
+msgid "ten_mien"
+msgstr "Domain"
+
+msgid "cong"
+msgstr "Portal"
+
+msgid "chon_anh_template"
+msgstr "Choose a template image"
+
+msgid "nhan_giao_dien"
+msgstr "Interface label"
+
+msgid "quan_ly_tat_ca_cac_nhan_cua_giao_dien"
+msgstr "Manage all the labels of the interface"
+
+msgid "them_nhan_moi"
+msgstr "Add new label"
+
+msgid "cap_nhat_nhan_giao_dien"
+msgstr "Update interface label"
+
+msgid "cau_hinh_du_lieu"
+msgstr "Data configuration"
+
+msgid "chuyen_huong"
+msgstr "Navigation"
+
+msgid "font_size"
+msgstr "font size"
+
+msgid "can_chinh"
+msgstr "Align"
+
+msgid "mau_chu"
+msgstr "Text color"
+
+msgid "mau_nen"
+msgstr "Background color"
+
+msgid "chieu_cao_block"
+msgstr "Block height"
+
+msgid "cau_hinh_giao_dien"
+msgstr "Interface configuration"
+
+msgid "tieu_de_hien_thi"
+msgstr "Display title"
+
+msgid "so_luong_tren_dong"
+msgstr "Quantity per line"
+
+msgid "ti_le_chieu_cao_anh"
+msgstr "Image height ratio"
+
+msgid "ti_le_chieu_rong_anh"
+msgstr "Image width ratio"
+
+msgid "dinh_dang"
+msgstr "Format"
+
+msgid "da_dung"
+msgstr "Already used"
+
+msgid "kiem_tra_dung_luong"
+msgstr "Check capacity"
+
+msgid "tong_khach_hang"
+msgstr "Total customers"
+
+msgid "cau_hinh_danh_sach_san_pham"
+msgstr "Configure product list"
+
+msgid "cau_hinh_binh_luan"
+msgstr "Configure comment"
+
+msgid "social_login"
+msgstr "Social login"
+
+msgid "google_client_id"
+msgstr "Google Client ID"
+
+msgid "facebook_app_id"
+msgstr "Facebook App ID"
+
+msgid "bo_loc_nang_cao"
+msgstr "Advanced Filters"
+
+msgid "bo_loc_nang_cao"
+msgstr "Advanced Filters"
+
+msgid "gioi_han_dang_tai_anh"
+msgstr "Photo upload limit"
+
+msgid "danh_sach_ma_coupon"
+msgstr "List of coupon codes"
+
+msgid "them_ma_thu_cong"
+msgstr "Manually add code"
+
+msgid "them_ma_ngau_nhien"
+msgstr "Add random code"
+
+msgid "them_ma_khac"
+msgstr "Add other codes"
+
+msgid "them_ma"
+msgstr "Add code"
+
+msgid "so_lan_su_dung"
+msgstr "Number of uses"
+
+msgid "khong_gio_han"
+msgstr "Unlimited"
+
+msgid "so_lan"
+msgstr "Times"
+
+msgid "toi_da_6_ky_tu"
+msgstr "Up to 6 characters"
+
+msgid "ma_coupon_cho_chuong_trinh"
+msgstr "Coupon code for the program"
+
+msgid "so_luong_ma"
+msgstr "Number of codes"
+
+msgid "toi_da"
+msgstr "maximum"
+
+msgid "toi_da_1000_ma"
+msgstr "Maximum 1000 codes"
+
+msgid "tien_to"
+msgstr "Prefix"
+
+msgid "so_ky_tu_ngau_nhien"
+msgstr "Random number of characters"
+
+msgid "hau_to"
+msgstr "Suffix"
+
+msgid "ma_cua_ban_se_co_dinh_dang"
+msgstr "Your code will have the format"
+
+msgid "voi_x_la_so_ky_tu_ngau_nhien"
+msgstr "Where X is the number of random characters"
+
+msgid "chuong_trinh"
+msgstr "Program"
+
+msgid "da_su_dung"
+msgstr "Already used"
+
+msgid "loai_chiet_khau"
+msgstr "Discount type"
+
+msgid "chiet_khau_don_hang"
+msgstr "Order discount"
+
+msgid "chiet_khau_san_pham"
+msgstr "Product discount"
+
+msgid "mien_phi_van_chuyen"
+msgstr "Free ship"
+
+msgid "tang_san_pham"
+msgstr "Give away products"
+
+msgid "thiet_lap_cau_hinh_khuyen_mai"
+msgstr "Set up promotion configuration"
+
+msgid "tich_diem"
+msgstr "Earning point"
+
+msgid "thiet_lap_cau_hinh_tich_diem"
+msgstr "Configuring points earning"
+
+msgid "ty_le_quy_doi_diem"
+msgstr "Points conversion rate"
+
+msgid "ty_le_quy_diem_ra_tien"
+msgstr "Points to money conversion rate"
+
+msgid "diem"
+msgstr "point"
+
+msgid "dieu_kien_don_hang"
+msgstr "Order conditions"
+
+msgid "cau_hinh_tich_diem"
+msgstr "Configuring points earning"
+
+msgid "cau_hinh_diem_danh"
+msgstr "Configuring attendance"
+
+msgid "quy_dinh_diem"
+msgstr "Regulation points"
+
+msgid "cau_hinh_bo_loc_nang_cao"
+msgstr "Advanced filter configuration"
+
+msgid "tim_kiem_tu_khoa"
+msgstr "Keyword search"
+
+msgid "tim_kiem_khoang_gia"
+msgstr "Search price range"
+
+msgid "chon_trang_thai"
+msgstr "Select status"
+
+msgid "chon_thuong_hieu"
+msgstr "Choose a brand"
+
+msgid "giam_gia"
+msgstr "Discount"
+
+msgid "bai_viet_dang_tab"
+msgstr "Tab articles"
+
+msgid "bai_viet_dang_tab_chi_tra_ve_du_lieu_cac_danh_muc_duoc_chon"
+msgstr "Tab articles only return data for selected categories"
+
+msgid "so_ngay"
+msgstr "Number of days"
+
+msgid "them_chuong_trinh_khuyen_mai"
+msgstr "More promotions"
+
+msgid "ten_chuong_trinh_khuyen_mai"
+msgstr "Name of promotion"
+
+msgid "ma_chuong_trinh"
+msgstr "Program code"
+
+msgid "ma_chuong_trinh_se_duoc_coi_nhu_1_ma_coupon_mac_dinh"
+msgstr "The program code will be considered as a default coupon code"
+
+msgid "cau_hinh_chuong_trinh_khuyen_mai"
+msgstr "Configuring the promotion program"
+
+msgid "thoi_gian_ap_dung"
+msgstr "Time application"
+
+msgid "loai_khuyen_mai"
+msgstr "Promotion Type"
+
+msgid "ap_dung_voi_don_hang"
+msgstr "Apply to orders"
+
+msgid "them_dieu_kien_ap_dung"
+msgstr "More conditions apply"
+
+msgid "gia_tri_toi_thieu"
+msgstr "Minimum value"
+
+msgid "gia_tri_toi_da"
+msgstr "Maximum value"
+
+msgid "so_luong_san_pham_mua_toi_thieu"
+msgstr "Minimum purchase quantity"
+
+msgid "ap_dung_voi_san_pham"
+msgstr "Apply to product"
+
+msgid "ap_dung_cho"
+msgstr "Apply for"
+
+msgid "ap_dung_voi_tinh_thanh"
+msgstr "Apply to province"
+
+msgid "tinh_thanh_ap_dung"
+msgstr "Applicable province"
+
+msgid "tim_kiem_tinh_thanh"
+msgstr "Searching for a province"
+
+msgid "tinh_thanh_da_chon"
+msgstr "Selected province"
+
+msgid "gia_tri_chiet_khau"
+msgstr "Discount value"
+
+msgid "gia_tri_chiet_khau_toi_da"
+msgstr "Maximum discount value"
+
+msgid "gia_tri_mien_phi_toi_da"
+msgstr "Maximum free value"
+
+msgid "thay_doi_dieu_kien_mua"
+msgstr "Change purchase conditions"
+
+msgid "tim_kiem_san_pham"
+msgstr "Search product"
+
+msgid "thay_doi_san_pham_tang"
+msgstr "Change gift products"
+
+msgid "san_pham_mua"
+msgstr "Products purchased"
+
+msgid "san_pham_duoc_tang"
+msgstr "Gifted products"
+
+msgid "them_dieu_kien"
+msgstr "More conditions"
+
+msgid "thoi_han_diem_tang"
+msgstr "Time limit for gifting"
+
+msgid "thiet_lap_gia_tri_tien_tuong_ung_voi_1_diem_dung_de_thanh_toan_bang_diem_hoac_doi_hang"
+msgstr "Set the value of money corresponding to 1 point, used to pay with points or exchange goods"
+
+msgid "khach_hang_tich_diem"
+msgstr "Customers accumulate points"
+
+msgid "dieu_chinh_diem"
+msgstr "Adjust points"
+
+msgid "diem_mac_dinh"
+msgstr "Default point"
+
+msgid "diem_thuong"
+msgstr "Reward Points"
+
+msgid "diem_nap"
+msgstr "Loading Points"
+
+msgid "diem_khuyen_mai"
+msgstr "Promotion points"
+
+msgid "thoi_han_diem"
+msgstr "Time limit for points"
+
+msgid "lich_su_khach_hang_tich_diem"
+msgstr "History of customers earning points"
+
+msgid "chi_tiet_diem_khach_hang"
+msgstr "Details of customer points"
+
+msgid "lich_su_tich_diem"
+msgstr "History of earning points"
+
+msgid "so_diem"
+msgstr "Points"
+
+msgid "thoi_gian_het_han"
+msgstr "Expired time"
+
+msgid "so_diem"
+msgstr "Points"
+
+msgid "cong_tru"
+msgstr "Plus/Minus"
+
+msgid "cong_diem"
+msgstr "Plus point"
+
+msgid "tru_diem"
+msgstr "Minus point"
+
+msgid "diem_danh"
+msgstr "Attendance"
+
+msgid "diem_hien_tai"
+msgstr "Current point"
+
+msgid "thoi_gian_su_dung_den"
+msgstr "Time to use up to"
+
+msgid "diem_danh_tich_tiem"
+msgstr "Earning point attendance"
+
+msgid "mua_hang_tich_diem"
+msgstr "Earning point purchasing"
+
+msgid "ngay_ghi_nhan"
+msgstr "Date of record"
+
+msgid "diem_thay_doi"
+msgstr "Changed point"
+
+msgid "diem_sau_thay_doi"
+msgstr "After changed point"
+
+msgid "nhan_vien_xet_duyet"
+msgstr "Reviewing staff"
+
+msgid "them_tab"
+msgstr "Add tab"
+
+msgid "mau_chinh"
+msgstr "Main color"
+
+msgid "mau_nut"
+msgstr "Button color"
+
+msgid "mau_chu"
+msgstr "Text color"
+
+msgid "mau_noi_bat"
+msgstr "Outstanding color"
+
+msgid "app_id"
+msgstr "App ID"
+
+msgid "thay_doi_password"
+msgstr "Change password"
+
+msgid "thay_doi_trang_thai_tai_khoan"
+msgstr "Change account status"
+
+msgid "thay_doi"
+msgstr "Change"
+
+msgid "cau_hinh_vfone"
+msgstr "Configure Vfone"
+
+msgid "dem_nguoc_thoi_gian"
+msgstr "Countdown"
+
+msgid "hien_thi_khong_co_ban_ghi_nao"
+msgstr "Showing no records"
+
+msgid "thiet_lap_cho_trang_he_thong"
+msgstr "System page settings"
+
+msgid "tab_san_pham"
+msgstr "Products tab"
+
+msgid "tab_bai_viet"
+msgstr "Articles tab"
+
+msgid "giao_dien_tab_child"
+msgstr "Child tab interface"
+
+msgid "giao_dien_cua_block_san_pham"
+msgstr "The interface of the product block"
+
+msgid "kich_hoat_duyet_dieu_chinh_diem"
+msgstr "Enable point adjustment browsing"
+
+msgid "cap_nhat_chuong_trinh_khuyen_mai"
+msgstr "Update promotion"
+
+msgid "san_pham_ap_dung"
+msgstr "Applicable products"
+
+msgid "ma_coupon_khong_hop_le"
+msgstr "Invalid coupon code"
+
+msgid "ma_khuyen_mai_khong_hop_le"
+msgstr "Invalid coupon code"
+
+msgid "ma_coupon_da_duoc_su_dung"
+msgstr "Coupon code already used"
+
+msgid "xac_minh_ma_coupon_thanh_cong"
+msgstr "Coupon code verification successful"
+
+msgid "ap_dung_tich_diem_don_hang"
+msgstr "Apply to earning points for orders"
+
+msgid "diem_tang_theo_moi_don_hang"
+msgstr "Bonus points for every order"
+
+msgid "ty_le_quy_doi_tu_tien_ra_diem"
+msgstr "Conversion rate from money to points"
+
+msgid "ty_le_quy_doi_tu_diem_ra_tien"
+msgstr "Conversion rate from points to money"
+
+msgid "thoi_han_su_dung_diem_tang_mac_dinh_la_30_ngay"
+msgstr "Validity of gift points (Default is 30 days)"
+
+msgid "so_diem_duoc_tang_theo_%_moi_don_hang"
+msgstr "Points are awarded as % of each order"
+
+msgid "so_diem_duoc_tang_theo_moi_don_hang"
+msgstr "Points are awarded for each order"
+
+msgid "mua_hang_bang_diem"
+msgstr "Buy with points"
+
+msgid "ma_thuoc_tinh_viet_thuong_va_cach_nhau_bang_dau_gach_duoi"
+msgstr "Attribute codes are lowercase and separated by underscores"
+
+msgid "ma_thuoc_tinh_viet_lien_khong_dau"
+msgstr "Unsigned attribute code"
+
+msgid "ma_trang"
+msgstr "Page code"
+
+msgid "tieu_de_trang"
+msgstr "Page title"
+
+msgid "lua_chon_doi_tac"
+msgstr "Select partner"
+
+msgid "sms_brandname"
+msgstr "Sms Brandname"
+
+msgid "thiet_lap_cau_hinh_sms_brandname"
+msgstr "Configure sms brandname"
+
+msgid "tim_kiem_ma_coupon"
+msgstr "Search for coupon code"
+
+msgid "tim_kiem_chuong_trinh"
+msgstr "Search for a program"
+
+msgid "khong_tim_thay_thong_tin_chuong_trinh"
+msgstr "No program information found"
+
+msgid "chuong_trinh_affiliate"
+msgstr "Affiliate program"
+
+msgid "affiliate"
+msgstr "Affiliate"
+
+msgid "thiet_lap_cau_hinh_affiliate"
+msgstr "Configure Affiliate"
+
+msgid "cau_hinh_chuong_trinh_affiliate"
+msgstr "Configure Affiliate program"
+
+msgid "kich_hoat_chuong_trinh_tiep_thi_lien_ket"
+msgstr "Activate the affiliate marketing program"
+
+msgid "hoa_hong"
+msgstr "Commission"
+
+msgid "thiet_lap_ty_le_hoa_hong"
+msgstr "Set commission rate"
+
+msgid "so_luot_ap_dung_lien_ket"
+msgstr "Number of Link applied"
+
+msgid "them_cap_moi"
+msgstr "Add new level"
+
+msgid "ten_cap"
+msgstr "Level name"
+
+msgid "so_luot_gioi_thieu"
+msgstr "Number of referrals"
+
+msgid "phan_tram_hoa_hong"
+msgstr "% commission"
+
+msgid "lien_ket_khach_hang"
+msgstr "Link customers"
+
+msgid "thong_bao"
+msgstr "Notification"
+
+msgid "loai_thong_bao"
+msgstr "Notification Type"
+
+msgid "danh_sach_thong_bao"
+msgstr "Notification list"
+
+msgid "tao_thong_bao_moi"
+msgstr "Create a new notification"
+
+msgid "cap_nhat_thong_bao"
+msgstr "Update notification"
+
+msgid "danh_sach_thiet_bi"
+msgstr "List of devices"
+
+msgid "danh_sach_thiet_bi_nhan_thong_bao"
+msgstr "List of devices that receive notifications"
+
+msgid "lich_su_gui_thong_bao"
+msgstr "Notification delivery history"
+
+msgid "lich_su_gui"
+msgstr "Sending History"
+
+msgid "gui_thong_bao"
+msgstr "Send notifications"
+
+msgid "thiet_lap_cau_hinh_gui_thong_bao"
+msgstr "Configure notification delivery"
+
+msgid "danh_sach_yeu_cau"
+msgstr "Request list"
+
+msgid "kich_hoat"
+msgstr "Activate"
+
+msgid "ngung_kich_hoat"
+msgstr "Deactivate"
+
+msgid "thong_ke"
+msgstr "Statistic"
+
+msgid "danh_sach_doi_tac"
+msgstr "Partner list"
+
+msgid "thiet_lap_chiet_khau_don_hang"
+msgstr "Set up order discount"
+
+msgid "chiet_khau_don_hang_ap_dung_ma_gioi_thieu"
+msgstr "Order discount with referral code"
+
+msgid "don_hang_doi_tac"
+msgstr "Partner orders"
+
+msgid "thong_tin_doi_tac"
+msgstr "Partner Information"
+
+msgid "du_lieu_thang"
+msgstr "Monthly data"
+
+msgid "tong_don"
+msgstr "Total order"
+
+msgid "don_hang_that_bai"
+msgstr "Order failed"
+
+msgid "tam_tinh"
+msgstr "Provisional"
+
+msgid "ma_gioi_thieu"
+msgstr "Referral code"
+
+msgid "thu_hang"
+msgstr "Rank"
+
+msgid "lich_su_thanh_toan"
+msgstr "Payment history"
+
+msgid "trang_thai_don_hang"
+msgstr "Order Status"
+
+msgid "thong_ke_doi_tac"
+msgstr "Partner statistics"
+
+msgid "tong_doi_tac"
+msgstr "Total partners"
+
+msgid "doi_tac_hoat_dong"
+msgstr "Active partner"
+
+msgid "doi_tac_cho_duyet"
+msgstr "Partner waiting for approval"
+
+msgid "doi_tac"
+msgstr "Partner"
+
+msgid "ty_le_hoa_hong"
+msgstr "Commission rate"
+
+msgid "chiet_khau_don_hang_ap_dung_ma_gioi_thieu_va_ma_khuyen_mai"
+msgstr "Discount on orders with referral code and promotion code"
+
+msgid "trang_thai_ap_dung_chiet_khau_voi_ma_khuyen_mai"
+msgstr "Status of applying discount with promo code"
+
+msgid "mac_dinh_chiet_khau_don_hang_se_la_chiet_khau_theo_ma_gio_thieu"
+msgstr "Default order discount will be discount by referral code"
+
+msgid "neu_trang_thai_hoat_dong_thi_se_ap_dung_chiet_khau_don_hang_theo_ma_gioi_thieu_va_ma_khuyen_mai"
+msgstr "If the status is active, then the order discount will be applied according to the referral code and promotion code"
+
+msgid "chiet_khau_cung_ma_khuyen_mai"
+msgstr "Discount with promo code"
+
+msgid "loai_giao_dich"
+msgstr "Transaction type"
+
+msgid "ngay_giao_dich"
+msgstr "Transaction date"
+
+msgid "diem_danh_tich_diem"
+msgstr "Earning point attandance"
+
+msgid "tang_diem"
+msgstr "Give points"
+
+msgid "nap_diem"
+msgstr "Load points"
+
+msgid "tiep_thi_lien_ket"
+msgstr "Affiliate marketing"
+
+msgid "tong_hoa_hong"
+msgstr "Total commission"
+
+msgid "hoa_hong_tam_tinh"
+msgstr "Temporary commission"
+
+msgid "yeu_cau_hop_tac"
+msgstr "Request for cooperation"
+
+msgid "yeu_cau_rut_tien"
+msgstr "Request Withdrawal"
+
+msgid "yeu_cau_rut_tien"
+msgstr "Request Withdrawal"
+
+msgid "vui_long_nhap_so_diem"
+msgstr "Please enter the point"
+
+msgid "vui_long_nhap_so_diem"
+msgstr "Please enter the point"
+
+msgid "so_diem_trong_vi_khong_du_de_su_dung"
+msgstr "The number of points in the wallet is not enough to use"
+
+msgid "dieu_chinh_diem_khong_thanh_cong"
+msgstr "Point adjustment failed"
+
+msgid "ngay_yeu_cau"
+msgstr "Request Date"
+
+msgid "ngay_duyet"
+msgstr "Approval date"
+
+msgid "them_ban_ghi"
+msgstr "Add record"
+
+msgid "lich_su_su_dung_diem"
+msgstr "History of using points"
+
+msgid "top_doi_tac"
+msgstr "Top partner"
+
+msgid "doanh_thu"
+msgstr "Revenue"
+
+msgid "luot_gioi_thieu"
+msgstr "Referrals"
+
+msgid "doi_tac_moi"
+msgstr "New partner"
+
+msgid "thang_1"
+msgstr "January"
+
+msgid "thang_2"
+msgstr "February"
+
+msgid "thang_3"
+msgstr "March"
+
+msgid "thang_4"
+msgstr "April"
+
+msgid "thang_5"
+msgstr "May"
+
+msgid "thang_6"
+msgstr "June"
+
+msgid "thang_7"
+msgstr "July"
+
+msgid "thang_8"
+msgstr "August"
+
+msgid "thang_9"
+msgstr "September"
+
+msgid "thang_10"
+msgstr "October"
+
+msgid "thang_11"
+msgstr "November"
+
+msgid "thang_12"
+msgstr "December"
+
+msgid "trong_nam"
+msgstr "In year"
+
+msgid "don_thanh_cong"
+msgstr "Successful order"
+
+msgid "don_that_bai"
+msgstr "Failed order"
+
+msgid "tai_khoan_ngan_hang"
+msgstr "Banh account"
+
+msgid "thong_tin_thanh_toan"
+msgstr "Payment information"
+
+msgid "tim_kiem_khach_hang"
+msgstr "Search customer"
+
+msgid "diem_mac_dinh"
+msgstr "Default point"
+
+msgid "diem_thuong"
+msgstr "Reward points"
+
+msgid "diem_vi"
+msgstr "Wallet points"
+
+msgid "diem_tuy_chinh"
+msgstr "Custom point"
+
+msgid "khach_hang_hien_tai_da_la_doi_tac"
+msgstr "Current customer is already partner"
+
+msgid "dang_ap_dung"
+msgstr "Applying"
+
+msgid "khach_da_tra"
+msgstr "Customer has paid"
+
+msgid "su_dung_diem_thuong"
+msgstr "Use reward points"
+
+msgid "su_dung_diem_vi"
+msgstr "Use wallet points"
+
+msgid "phuong_thuc_van_chuyen_da_chon"
+msgstr "Selected shipping method"
+
+msgid "yeu_cau_rut_tien_nay_da_duoc_thuc_hien"
+msgstr "This withdrawal request has been made"
+
+msgid "tao_yeu_cau"
+msgstr "Create request"
+
+msgid "tao_yeu_cau_rut_tien_theo_ky_han"
+msgstr "Create a withdrawal request by term"
+
+msgid "ho_ten"
+msgstr "Full name"
+
+msgid "ngan_hang"
+msgstr "Bank"
+
+msgid "chon_ngan_hang"
+msgstr "Select bank"
+
+msgid "so_diem_co_the_rut"
+msgstr "Points can be withdrawed"
+
+msgid "vui_long_chon_ngan_hang"
+msgstr "Please select bank"
+
+msgid "vui_long_nhap_so_diem_de_rut"
+msgstr "Please enter the points to withdraw"
+
+msgid "so_diem_khong_du_de_rut"
+msgstr "The point is not enough to withdraw"
+
+msgid "chua_thiet_lap_ti_le_quy_doi"
+msgstr "The point conversion rate has not been set"
+
+msgid "them_phuong_thuc_van_chuyen"
+msgstr "Add shipping method"
+
+msgid "khong_co_du_lieu"
+msgstr "No data"
+
+msgid "chuyen_huong_trang_error"
+msgstr "Redirect Error page"
+
+msgid "trang_dich"
+msgstr "Landing page"
+
+msgid "trang_404"
+msgstr "404 page"
+
+msgid "cau_hinh_mau_in"
+msgstr "Print pattern configuration"
+
+msgid "chinh_sua_mau_in"
+msgstr "Edit print pattern"
+
+msgid "ten_mau_in"
+msgstr "Print pattern name"
+
+msgid "mau_in"
+msgstr "Print pattern"
+
+msgid "vui_long_chon_mau_in"
+msgstr "Please select print pattern"
+
+msgid "khong_ton_tai_file_mau_in"
+msgstr "Print pattern file does not exists"
+
+msgid "khong_lay_duoc_thong_tin_mau_in"
+msgstr "Can't get print pattern information"
+
+msgid "vui_long_nhap_ten_mau_in"
+msgstr "Please enter print pattern name"
+
+msgid "tieu_de_mau_in"
+msgstr "Print pattern title"
+
+msgid "luu_mau_in"
+msgstr "Save print pattern"
+
+msgid "chuyen_huong_xem_them"
+msgstr "Redirect view more"
+
+msgid "duong_dan_chinh_sach"
+msgstr "Policy path"
+
+msgid "chinh_sach"
+msgstr "Policy"
+
+msgid "dieu_khoan_su_dung"
+msgstr "Terms of use"
+
+msgid "xoa_du_lieu_nguoi_dung"
+msgstr "Delete user data"
+
+msgid "theo_thoi_gian"
+msgstr "By the time"
+
+msgid "theo_san_pham"
+msgstr "By product"
+
+msgid "theo_nhan_vien"
+msgstr "By employee"
+
+msgid "theo_nguon_don_hang"
+msgstr "According to the source of the order"
+
+msgid "bao_cao_theo_thoi_gian"
+msgstr "Report from time to time"
+
+msgid "bao_cao_theo_san_pham"
+msgstr "Report by product"
+
+msgid "bao_cao_theo_nhan_vien"
+msgstr "Report by employee"
+
+msgid "bao_cao_theo_tinh_thanh"
+msgstr "Report by province"
+
+msgid "bao_cao_theo_nguon_don_hang"
+msgstr "Report by order source"
+
+msgid "chua_co_thong_tin"
+msgstr "No information yet"
+
+msgid "stt"
+msgstr "No."
+
+msgid "so_don"
+msgstr "Number of order"
+
+msgid "so_san_pham"
+msgstr "Number of product"
+
+msgid "doanh_thu_tck"
+msgstr "Revenue of TCK"
+
+msgid "so_luong_ban"
+msgstr "Quantity sold"
+
+msgid "tong"
+msgstr "Total"
+
+msgid "thoi_gian"
+msgstr "Time"
+
+msgid "cvr"
+msgstr "CVR"
+
+msgid "hien_thi_theo"
+msgstr "Display by"
+
+msgid "cau_hinh_lien_he"
+msgstr "Contact configuration"
+
+msgid "ngay_dang"
+msgstr "article date"
+
+msgid "da_ban"
+msgstr "Sold"
+
+msgid "top_10_san_pham_ban_chay"
+msgstr "Top 10 best selling products"
+
+msgid "so_thu_tu"
+msgstr "Numerical order"
+
+msgid "doanh_thu_truoc_chiet_khau"
+msgstr "Revenue before discount"
+
+msgid "ti_le_chuyen_doi_thanh_cong"
+msgstr "Successful conversion rate"
+
+msgid "trung_binh"
+msgstr "Medium"
+
+msgid "cong_thanh_toan_momo_app_to_app"
+msgstr "MoMo payment gateway app to app"
+
+msgid "danh_sach_thuoc_tinh"
+msgstr "Attribute list"
+
+msgid "quan_ly_tat_ca_thuoc_tinh_mo_rong"
+msgstr "Manage all extended properties"
+
+msgid "ma_nhung_thuoc_tinh"
+msgstr "Attribute embed code"
+
+msgid "them_ma_nhung_thuoc_tinh"
+msgstr "Add attribute embed code"
+
+msgid "ma_nhung_thuoc_tinh_bai_viet"
+msgstr "Article attribute embed code"
+
+msgid "them_ma_nhung_thuoc_tinh_vao_bai_viet"
+msgstr "Add attribute embed code to article"
+
+msgid "ma_nhung_thuoc_tinh_san_pham"
+msgstr "Product attribute embed code"
+
+msgid "them_ma_nhung_thuoc_tinh_vao_san_pham"
+msgstr "Add attribute embed code to product"
+
+msgid "cau_hinh_thuoc_tinh_mo_rong_duoc_phep_nhung_vao_noi_dung_bai_viet"
+msgstr "Configure extended attributes that are allowed to be embedded in article content"
+
+msgid "cau_hinh_thuoc_tinh_mo_rong_duoc_phep_nhung_vao_noi_dung_san_pham"
+msgstr "Configure extended attributes that are allowed to be embedded in product content"
+
+msgid "thuoc_tinh_ap_dung_theo_danh_muc"
+msgstr "Attributes apply by category"
+
+msgid "tuy_chinh_cac_thuoc_tinh_mo_rong_cho_tung_danh_muc_san_pham"
+msgstr "Tùy chỉnh các thuộc tính mở rộng cho từng danh mục sản phẩm"
+
+msgid "slb"
+msgstr "SLB"
+
+msgid "slsp"
+msgstr "SLSP"
+
+msgid "so_luong_san_pham"
+msgstr "Product quantity"
+
+msgid "giatb"
+msgstr "Average price"
+
+msgid "gia_trung_binh"
+msgstr "Average price"
+
+msgid "nguon_chua_xac_dinh"
+msgstr "Unknown source"
+
+msgid "so_luong_don_theo_tinh_thanh"
+msgstr "Order quantity by province"
+
+msgid "nhan_vien_suat_sac"
+msgstr "Excellent staff"
+
+msgid "tam_tinh_doanh_thu"
+msgstr "Temporary calculation of revenue"
+
+msgid "so_don_dat_hang"
+msgstr "Number of orders"
+
+msgid "tuan"
+msgstr "Week"
+
+msgid "doanh_thu_tam_tinh"
+msgstr "Provisional revenue"
+
+msgid "doanh_thu_theo_nguon_don_hang"
+msgstr "Revenue by order source"
+
+msgid "bao_gom_cac_don_hang_chua_thanh_cong"
+msgstr "Including unsuccessful orders"
+
+msgid "doanh_thu_thuc_te"
+msgstr "Actual revenue"
+
+msgid "tong_tien_don_huy"
+msgstr "Total cancellation fee"
+
+msgid "tong_tien_chua_thanh_toan"
+msgstr "Total amount unpaid"
+
+msgid "xuat_excel_trang_hien_tai"
+msgstr "Export current page in excel"
+
+msgid "xuat_excel_toan_bo_cac_trang"
+msgstr "Export all pages in excel"
+
+msgid "xuat_excel"
+msgstr "Export in excel"
+
+msgid "doanh_thu_theo_tinh_thanh"
+msgstr "Revenue by province"
+
+msgid "trang_thai_ap_dung_thuoc_tinh_theo_danh_muc"
+msgstr "Attribute application status by category"
+
+msgid "khi_kich_hoat_trang_thai_thi_nhung_danh_muc_khong_cau_hinh_thuoc_tinh_mo_rong_khi_them_moi_hoac_cap_nhat_se_khong_ap_dung_duoc_thuoc_tinh_mo_rong"
+msgstr ""
+
+msgid "import_san_pham_qua_excel"
+msgstr "Import products via excel"
+
+msgid "mau_file"
+msgstr "File Template"
+
+msgid "file_import"
+msgstr "File Import"
+
+msgid "tai_mau_file_excel_va_nhap_thong_tin_san_pham"
+msgstr "Download the excel file template and enter product information"
+
+msgid "thuong_hieu_ap_dung_theo_danh_muc"
+msgstr "Trademarks by category"
+
+msgid "tuy_chinh_thuong_hieu_cho_tung_danh_muc_san_pham"
+msgstr "Customize branding for each product category"
+
+msgid "khi_kich_hoat_trang_thai_thi_nhung_danh_muc_khong_cau_hinh_thuong_hieu_khi_them_moi_hoac_cap_nhat_se_khong_ap_dung_duoc_thuong_hieu"
+msgstr ""
+
+msgid "cau_hinh_gui_tin"
+msgstr "Sending Configuration"
+
+msgid "huong_dan_thiet_lap_slack"
+msgstr "Slack Setup Guide"
+
+msgid "huong_dan_cau_hinh_telegram_nicegram"
+msgstr "Telegram (Nicegram) Configuration Instructions"
+
+msgid "huong_dan_lay_webhook_url"
+msgstr "Instructions to get Webhook URL"
+
+msgid "tao_app_tren_slack"
+msgstr "Create an App on Slack"
+
+msgid "trong_trang_dashboard_cua_slack_chon_them_ung_dung_va_tim_incoming_webhooks"
+msgstr "In the Slack dashboard select add apps and look for Incoming WebHooks"
+
+msgid "lua_chon_channel_muon_gui_tin"
+msgstr "Select the Channel you want to send the message to"
+
+msgid "neu_chua_co_thi_tao_moi_channel"
+msgstr "If do not have, create a new Channel"
+
+msgid "thong_tin_webhook_url"
+msgstr "Webhook URL information"
+
+msgid "tai_ung_dung_nicegram_tren_iphone"
+msgstr "Download Nicegram app on Iphone"
+
+msgid "tren_ung_dung_nicegram_tim_kiem_botfather"
+msgstr "On the Nicegram app search for BotFather"
+
+msgid "khi_cua_so_tro_chuyen_voi_bot_duoc_mo_nhan_nut_start"
+msgstr "When the chat window with Bot is open, press the Start button"
+
+msgid "nhap_vao_newbot_va_nhap_ten_username_cho_bot"
+msgstr "Click on newbot and enter the name and username for the Bot"
+
+msgid "thong_tin_token_cua_bot"
+msgstr "Token Information of Bot"
+
+msgid "tao_nhom_va_them_bot_ban_vua_tao_vao_nhom_chat"
+msgstr "Create a group and add the Bot you just created to the chat group"
+
+msgid "lay_thong_tin_id_nhom_chat"
+msgstr "Get group chat ID information"
+
+msgid "ket_noi"
+msgstr "Connect"
+
+msgid "gui_tin_nhan"
+msgstr "Send message"
+
+msgid "thiet_lap_gui_tin_nhan"
+msgstr "Set up sending messages"
+
+msgid "ma_sp"
+msgstr "Product code"
+
+msgid "gia_km"
+msgstr "Promotion price"
+
+msgid "ngay_giam_gia"
+msgstr "Promotion date"
+
+msgid "ngay_ket_thuc_giam_gia"
+msgstr "Promotion end date"
+
+msgid "trang_thai_phien_ban"
+msgstr "Version state"
+
+msgid "thong_tin_phien_ban_san_pham"
+msgstr "Product version information"
+
+msgid "chuyen_huong_duong_dan_website"
+msgstr "Redirect website path"
+
+msgid "cau_hinh_chuyen_huong"
+msgstr "Configure redirects"
+
+msgid "thiet_lap_duong_dan_cdn"
+msgstr "Set up CDN path"
+
+msgid "cau_hinh_mang_xa_hoi"
+msgstr "Social network configuration"
+
+msgid "trang_thai_sp"
+msgstr "Product state"
+
+msgid "quoc_gia"
+msgstr "Country"
+
+msgid "them_quoc_gia"
+msgstr "Add country"
+
+msgid "cap_nhat_quoc_gia"
+msgstr "Update country"
+
+msgid "ten_quoc_gia"
+msgstr "Country name"
+
+msgid "ten_tinh_thanh"
+msgstr "Province name"
+
+msgid "cap_nhat_tinh_thanh"
+msgstr "Update province"
+
+msgid "ten_quan_huyen"
+msgstr "District name"
+
+msgid "cap_nhat_quan_huyen"
+msgstr "Update district"
+
+msgid "ten_phuong_xa"
+msgstr "Ward/ commune name"
+
+msgid "cap_nhat_phuong_xa"
+msgstr "Update ward/ commune"
+
+msgid "danh_sach_quoc_gia"
+msgstr "Country list"
+
+msgid "danh_sach_tinh_thanh"
+msgstr "Province list"
+
+msgid "danh_sach_phuong_xa"
+msgstr "Ward/ commune list"
+
+msgid "mau_block"
+msgstr "Block color"
+
+msgid "mau_item"
+msgstr "Item color"
+
+msgid "khoang_cach_block"
+msgstr "Block distance"
+
+msgid "khoang_cach_item"
+msgstr "Item distance"
+
+msgid "danh_muc_chinh"
+msgstr "Main category"
+
+msgid "nhan_da_ngon_ngu"
+msgstr "Mutilanguage lebel"
+
+msgid "dung_de_hien_thi_cac_du_lieu_theo_ngon_ngu"
+msgstr "Use for display data by languages"
+
+msgid "nhan_thuong"
+msgstr "Nomal label"
+
+msgid "dung_de_luu_cac_gia_tri_khong_thay_doi_voi_cac_ngon_ngu_khac_nhau"
+msgstr "Used to store values that do not change with different languages"
+
+msgid "gia_tri"
+msgstr "Value"
+
+msgid "duong_dan_he_thong"
+msgstr "System path"
+
+msgid "duong_dan_he_thong"
+msgstr "System path"
+
+msgid "plugins"
+msgstr "Plugins"
+
+msgid "quan_ly_va_thiet_lap_cac_tien_ich_cho_website"
+msgstr "Manage and set up widgets for the website"
+
+msgid "clear_data"
+msgstr "Clear data"
+
+msgid "xoa_bo_du_lieu_mau_tren_website"
+msgstr "Delete sample data on website"
+
+msgid "xoa_bo_du_lieu_mau_tren_website"
+msgstr "Delete sample data on website"
+
+msgid "cap_nhat_thong_tin_duong_dan_cdn"
+msgstr "Update CDN path information"
+
+msgid "export_du_lieu_mau"
+msgstr "Export sample data"
+
+msgid "export_du_lieu_mau_cho_website"
+msgstr "Export sample data for website"
+
+msgid "import_du_lieu_mau"
+msgstr "Import sample data"
+
+msgid "import_du_lieu_mau_cho_website"
+msgstr "Import sample data for website"
+
+msgid "migrate"
+msgstr "Migrate"
+
+msgid "migrate_thong_tin_du_lieu_cho_website"
+msgstr "Migrate data information for website"
+
+msgid "search_unicode"
+msgstr "Search unicode"
+
+msgid "cap_nhat_lai_thong_tin_search_unicode"
+msgstr "Update unicode search information"
+
+msgid "export_du_lieu_danh_muc_bai_viet"
+msgstr "Export article category data"
+
+msgid "export_du_lieu_bai_viet"
+msgstr "Export article data"
+
+msgid "export_du_lieu_the_tag_cua_bai_viet"
+msgstr "Export article tag data"
+
+msgid "export_du_lieu_thuoc_tinh_mo_rong_cua_bai_viet"
+msgstr "Export article extended attribute data"
+
+msgid "export_du_lieu_danh_muc_san_pham"
+msgstr "Export product category data"
+
+msgid "export_du_lieu_thuong_hieu"
+msgstr "Export brand data"
+
+msgid "export_du_lieu_san_pham"
+msgstr "Export product data"
+
+msgid "export_du_lieu_the_tag_cua_san_pham"
+msgstr "Export product tag data"
+
+msgid "export_du_lieu_thuoc_tinh_mo_rong_cua_san_pham"
+msgstr "Export product extended attribute data"
+
+msgid "export_du_lieu"
+msgstr "Export data"
+
+msgid "xoa_cache_website"
+msgstr "Delete cache Website"
+
+msgid "xoa_cache_trinh_duyet"
+msgstr "Clear browser cache"
+
+msgid "xem_cau_hinh_block"
+msgstr "Xem cấu hình Block"
+
+msgid "chao"
+msgstr "Hi"
+
+msgid "thuc_hien_cac_buoc_export_theo_dung_thu_tu"
+msgstr "Perform the export steps in the correct order"
+
+msgid "so_ban_ghi_can_export_cang_it_thi_export_du_lieu_cang_nhanh"
+msgstr "The fewer records you need to export, the faster you can export data"
+
+msgid "du_lieu_export_mau_duoc_luu_tam_trong_thu_muc_tmp_trong_qua_trinh_export_du_lieu_khong_duoc_xoa_cache_he_thong_de_tranh_xay_ra_loi_khi_export_du_lieu_mau"
+msgstr "Sample export data is temporarily stored in the tmp directory. During the data export process, the system cache must not be cleared to avoid errors when exporting sample data"
+
+msgid "so_ban_ghi"
+msgstr "Number of records"
+
+msgid "so_ban_ghi_export"
+msgstr "Number of export records"
+
+msgid "the_tag_bai_viet"
+msgstr "Article tags"
+
+msgid "thuoc_tinh_mo_rong_bai_viet"
+msgstr "Attributes of article expansion"
+
+msgid "thuoc_tinh_mo_rong_san_pham"
+msgstr "Attributes of product expansion"
+
+msgid "id_bat_dau"
+msgstr "Start ID"
+
+msgid "buoc_khoi_tao"
+msgstr "Initialization step"
+
+msgid "chuc_nang_he_thong"
+msgstr "System functions"
+
+msgid "import_du_lieu"
+msgstr "Import data"
+
+msgid "khoi_tao_moi_quy_trinh_export_du_lieu"
+msgstr "Initiate a new data export process"
+
+msgid "doc_thong_tin_du_lieu"
+msgstr "Read data information"
+
+msgid "cau_hinh_du_lieu_export"
+msgstr "Export data configuration"
+
+msgid "cau_hinh_id_bat_dau_cho_du_lieu"
+msgstr "Configure start ID for data"
+
+msgid "cau_hinh_thong_tin_cdn"
+msgstr "Configure CDN information"
+
+msgid "chon_ngon_ngu_cho_du_lieu_can_export"
+msgstr "Select the language for the data to be exported"
+
+msgid "cau_hinh_mo_rong"
+msgstr "Extended configuration"
+
+msgid "danh_sach_ngon_ngu"
+msgstr "List of languages"
+
+msgid "quan_ly_danh_sach_ngon_ngu_he_thong"
+msgstr "Manage system language list"
+
+msgid "dich_tu_dong"
+msgstr "Automatic translation"
+
+msgid "dich_tu_dong_khi_tao_moi_bai_viet"
+msgstr "Automatic translation when creating new articles"
+
+msgid "dich"
+msgstr "Translate"
+
+msgid "da_khoi_tao"
+msgstr "Initialized"
+
+msgid "da_khoi_tao"
+msgstr "Initialized"
+
+msgid "khong_the_khoi_tao_tep_du_lieu_{0}"
+msgstr "Unable to initialize data file {0}"
+
+msgid "khong_the_khoi_tao_tep_du_lieu_all_sql"
+msgstr "Unable to initialize data file all.sql"
+
+msgid "khong_the_khoi_tao_thu_muc_media"
+msgstr "Unable to initialize category media"
+
+msgid "khong_the_khoi_tao_thu_muc_thumbs"
+msgstr "Unable to initialize category thumbs"
+
+msgid "khoi_tao_thanh_cong"
+msgstr "Successful initialization"
+
+msgid "cap_nhat_file_migrate_json_khong_thanh_cong"
+msgstr "Update migrate.json file failed"
+
+msgid "khoi_tao_quy_trinh_thanh_cong"
+msgstr "Successful process initialization"
+
+msgid "doc_thong_tin_du_lieu_thanh_cong"
+msgstr "Read data information successfully"
+
+msgid "da_thuc_hien"
+msgstr "Implemented"
+
+msgid "thuoc_tinh_mo_rong_phien_ban_san_pham"
+msgstr "Product version extension attributes"
+
+msgid "export_du_lieu_thuoc_tinh_mo_rong_cua_phien_ban_san_pham"
+msgstr "Export product version extended attribute data"
+
+msgid "gui_yeu_cau"
+msgstr "Send request"
+
+msgid "gui_yeu_cau_thanh_cong"
+msgstr "Submit request successfully"
+
+msgid "{0}_da_nhan_duoc_yeu_cau_ho_tro_cua_ban_chung_toi_se_lien_he_va_phan_hoi_lai_ban_trong_thoi_gian_toi_da_24h_cam_on_ban_da_tham_gia_dong_gop"
+msgstr "{0} have received your support request. We will contact you and get back to you within 24 hours. Thank you for your contribution"
+
+msgid "goi_ngay"
+msgstr "Call now"
+
+msgid "gui_thong_tin_ho_tro"
+msgstr "Send support information"
+
+msgid "dung_luong_toi_da_{0}_va_so_luong_toi_da_{1}_tep_tin"
+msgstr "Maximum capacity {0} and maximum quantity {1} file(s)"
+
+msgid "hotline_ho_tro"
+msgstr "Hotline support"
+
+msgid "chua_co_thong_bao_nao"
+msgstr "No notification yet"
+
+msgid "thong_bao_cua_toi"
+msgstr "My notification"
+
+msgid "thong_bao_chung"
+msgstr "General notification"
+
+msgid "vua_xong"
+msgstr "Just finished"
+
+msgid "phut_truoc"
+msgstr "Minute ago"
+
+msgid "gio_truoc"
+msgstr "Hour ago"
+
+msgid "ngay_truoc"
+msgstr "Yesterday"
+
+msgid "thang_truoc"
+msgstr "Month ago"
+
+msgid "nam_truoc"
+msgstr "Year ago"
+
+msgid "xem_them"
+msgstr "See more"
+
+msgid "khong_tim_thay_thong_tin_ma_coupon"
+msgstr "Unable to get coupon information"
+
+msgid "so_ban_ghi_danh_muc_bai_viet_vuot_qua_du_lieu_hien_tai"
+msgstr "The number of article category records exceeds the current data"
+
+msgid "so_ban_ghi_danh_muc_san_pham_vuot_qua_du_lieu_hien_tai"
+msgstr "The number of product catalog records exceeds the current data"
+
+msgid "so_ban_ghi_bai_viet_vuot_qua_du_lieu_hien_tai"
+msgstr "The number of article records exceeds the current data"
+
+msgid "so_ban_ghi_san_pham_vuot_qua_du_lieu_hien_tai"
+msgstr "Number of product records exceeds current data"
+
+msgid "so_ban_ghi_tag_bai_viet_vuot_qua_du_lieu_hien_tai"
+msgstr "The number of records tagging the article exceeds the current data"
+
+msgid "so_ban_ghi_tag_san_pham_vuot_qua_du_lieu_hien_tai"
+msgstr "The number of product tag records exceeds the current data"
+
+msgid "so_ban_ghi_thuong_hieu_vuot_qua_du_lieu_hien_tai"
+msgstr "Number of brand records exceeds current data"
+
+msgid "cau_hinh_id_du_lieu"
+msgstr "Configure Data ID"
+
+msgid "luu_y_kiem_tra_id_trong_cac_bang_cua_database_sau_nay_se_import_du_lieu_dam_bao_rang_id_cau_hinh_cho_cac_bang_la_gia_tri_cao_nhat_hien_tai"
+msgstr "Note: Check the ID in the tables of the database that will import the data later, make sure that the configuration IDs for the tables are the current highest value."
+
+msgid "the_tag_san_pham"
+msgstr "Product tags"
+
+msgid "id_bat_dau_cua_danh_muc"
+msgstr "Category's start ID"
+
+msgid "id_bat_dau_cua_bai_viet"
+msgstr "The article's starting ID"
+
+msgid "id_bat_dau_cua_san_pham"
+msgstr "Product's start ID"
+
+msgid "id_bat_dau_cua_thuong_hieu"
+msgstr "Brand's start ID"
+
+msgid "id_bat_dau_cua_the_tag"
+msgstr "tag's start ID"
+
+msgid "id_bat_dau_cua_thuoc_tinh_mo_rong"
+msgstr "Extended attribute start ID"
+
+msgid "duong_dan_cdn_hien_tai"
+msgstr "Current CDN path"
+
+msgid "duong_dan_cdn_moi"
+msgstr "New CDN path"
+
+msgid "tiep_tuc"
+msgstr "Continue"
+
+msgid "mau_tieu_de"
+msgstr "Title color"
+
+msgid "chuyen_doi_danh_muc"
+msgstr "Switch categories"
+
+msgid "chuyen_doi_danh_muc_bai_viet"
+msgstr "Switch article categories"
+
+msgid "chuyen_doi_danh_muc_san_pham"
+msgstr "Switch product categories"
+
+msgid "tong_so_danh_muc"
+msgstr "Total number of categories"
+
+msgid "da_chuyen_doi"
+msgstr "Switched"
+
+msgid "chuyen_doi_du_lieu"
+msgstr "Data converting"
+
+msgid "quay_lai_buoc_truoc"
+msgstr "Go back to the previous step"
+
+msgid "sau_khi_thuc_hien_export_du_lieu_va_tai_file_export_du_lieu_thanh_cong_hay_xoa_cache_de_tranh_chiem_dung_luong_cua_website"
+msgstr "After performing the Data Export and downloading the Data Export File successfully, clear the Cache to avoid taking up space on the website"
+
+msgid "chua_co_cau_hinh"
+msgstr "No configuration yet"
+
+msgid "them_ma_nhung"
+msgstr "Add embed code"
+
+msgid "ten_ma_nhung"
+msgstr "Embed code name"
+
+msgid "chuyen_doi_thanh_cong"
+msgstr "Successful conversion"
+
+msgid "luu_cau_hinh_mo_rong_thanh_cong"
+msgstr "Save the extended configuration successfully"
+
+msgid "chuyen_doi_bai_viet"
+msgstr "Article converting"
+
+msgid "tong_so_bai_viet"
+msgstr "Total article"
+
+msgid "chuyen_doi_thuong_hieu"
+msgstr "Brand converting"
+
+msgid "tong_so_thuong_hieu"
+msgstr "Total brand"
+
+msgid "chuyen_doi_thuong_hieu_thanh_cong"
+msgstr "Successful brand converting"
+
+msgid "chuyen_doi_san_pham"
+msgstr "Product converting"
+
+msgid "tong_so_san_pham"
+msgstr "Total product"
+
+msgid "chuyen_doi_san_pham_thanh_cong"
+msgstr "Successful product converting"
+
+msgid "chuyen_doi_thuoc_tinh_mo_rong"
+msgstr "Extended attribute converting"
+
+msgid "tong_so_thuoc_tinh"
+msgstr "Total attribute"
+
+msgid "chuyen_doi_thuoc_tinh_thanh_cong"
+msgstr "Successful attribute converting"
+
+msgid "chuyen_doi_the_tags"
+msgstr "Tags converting"
+
+msgid "tong_so_the_tags"
+msgstr "Total Tags"
+
+msgid "hoan_thanh_chuyen_doi_du_lieu"
+msgstr "Complete data conversion"
+
+msgid "danh_muc_bai_viet_da_chuyen_doi"
+msgstr "List of converted articles"
+
+msgid "danh_muc_san_pham_da_chuyen_doi"
+msgstr "List of converted product"
+
+msgid "bai_viet_da_chuyen_doi"
+msgstr "Converted articles"
+
+msgid "san_pham_da_chuyen_doi"
+msgstr "Converted product"
+
+msgid "thuong_hieu_da_chuyen_doi"
+msgstr "Converted brand"
+
+msgid "thuoc_tinh_da_chuyen_doi"
+msgstr "Converted attribute"
+
+msgid "the_tag_da_chuyen_doi"
+msgstr "Converted tag"
+
+msgid "xuat_file_du_lieu"
+msgstr "Export data"
+
+msgid "tai_file_du_lieu"
+msgstr "Download data files"
+
+msgid "tai_media"
+msgstr "Download Media"
+
+msgid "tai_thumbs"
+msgstr "Download Thumbs"
+
+msgid "tai_thumbs"
+msgstr "Download Thumbs"
+
+msgid "thong_tin_danh_muc"
+msgstr "Catalog Information"
+
+msgid "nhap_du_lieu_excel_thanh_cong"
+msgstr "Import excel data successfully"
+
+msgid "san_pham_{0}_da_ton_tai_tren_he_thong_vui_long_nhap_dung_id_san_pham_de_cap_nhat_san_pham_nay"
+msgstr "Product {0} already exists on the system, please enter the product id to update this product"
+
+msgid "san_pham_{0}_khong_lay_duoc_thong_tin_ngon_ngu"
+msgstr "Product {0} did not get the language information"
+
+msgid "cap_nhat_thong_tin_san_pham_khong_thanh_cong"
+msgstr "Update product information failed"
+
+msgid "khong_tao_duoc_du_lieu"
+msgstr "Unable to create data"
+
+msgid "khong_lay_duoc_ten_thu_muc_excel"
+msgstr "Can't get excel folder name"
+
+msgid "khong_co_du_lieu_excel"
+msgstr "No excel data"
+
+msgid "khong_lay_duoc_thong_tin_san_pham_co_id_la_{0}"
+msgstr "Can't get product information with id {0}"
+
+msgid "thuong_hieu_ap_dung"
+msgstr "Applicable brand"
+
+msgid "thuong_hieu_da_chon"
+msgstr "Selected brand"
+
+msgid "tim_kiem_thuong_hieu"
+msgstr "Search brand"
+
+msgid "ap_dung"
+msgstr "Apply"
+
+msgid "giam_gia_hang_loat"
+msgstr "Bulk discount"
+
+msgid "ap_dung_giam_gia_hang_loat_doi_voi_cac_tuy_chon_duoi_day"
+msgstr "Apply bulk discount on the options below"
+
+msgid "phan_tram_giam_gia"
+msgstr "% promotion"
+
+msgid "ap_dung_voi_toan_bo_san_pham"
+msgstr "Applies to all product"
+
+msgid "ap_dung_voi_danh_muc"
+msgstr "Applies to category"
+
+msgid "ap_dung_voi_thuong_hieu"
+msgstr "Apply with brand"
+
+msgid "ban_vui_long_nhap_thong_tin_giam_gia"
+msgstr "Please enter discount information"
+
+msgid "gia_khuyen_mai_trong_khoang_1_den_100"
+msgstr "Promotion price in the range of 1 - 100"
+
+msgid "ban_vui_long_chon_thong_tin_ap_dung_giam_gia"
+msgstr "Please select the information to apply the discount"
+
+msgid "excel"
+msgstr "Excel"
+
+msgid "cau_hinh_duong_dan"
+msgstr "url configuration"
+
+msgid "bo_dinh_dang_unicode_cho_duong_dan"
+msgstr "Cancle unicode format for path"
+
+msgid "ngon_ngu_quan_tri_website"
+msgstr "Language of website administration"
+
+msgid "ngon_ngu_quan_tri"
+msgstr "Language of admin"
+
+msgid "tieng_viet"
+msgstr "Vietnamese"
+
+msgid "trang_thai_ap_dung_thuoc_tinh_theo_san_pham"
+msgstr "Attribute applied by product"
+
+msgid "trang_thai_ap_dung_thuoc_tinh_theo_bai_viet"
+msgstr "Attribute applied by article"
+
+msgid "thuoc_tinh_ap_dung_theo_danh_muc_san_pham"
+msgstr "Attribute applied by product category"
+
+msgid "huy_giao_dich"
+msgstr "Cancel transaction"
+
+msgid "block_giao_dien"
+msgstr "Block interface"
+
+msgid "xac_nhan_toi_khong_phai_nguoi_may"
+msgstr "Confirm I am not a robot"
+
+msgid "vui_long_xac_nhan_truoc_khi_dang_nhap"
+msgstr "Please confirm before logging in"
+
+msgid "ma_xac_nhan_khong_chinh_xac"
+msgstr "Confirmation code is incorrect"
+
+msgid "chi_chap_nhan_dinh_dang"
+msgstr "Only accept the format"
+
+msgid "chuyen_doi_sang_dinh_dang_{0}"
+msgstr "Convert to format {0}"
+
+msgid "chuyen_huong_{0}"
+msgstr "Redirect {0}"
+
+msgid "them_chuyen_huong_{0}"
+msgstr "Add redirect {0}"
+
+msgid "cap_nhat_chuyen_huong_{0}"
+msgstr "Update redirect {0}"
+
+msgid "vui_long_cau_hinh_chuyen_huong_{0}_truoc_khi_su_dung_chuc_nang_nay"
+msgstr "Please configure redirection {0} before using this function"
+
+msgid "phien_ban_ap_dung_theo_danh_muc_san_pham"
+msgstr "The version applies according to the product category"
+
+msgid "thuoc_tinh_ap_dung_theo_danh_muc_bai_viet"
+msgstr "The attribute applies according to the article category"
+
+msgid "thuoc_tinh_ap_dung_theo_danh_muc_san_pham"
+msgstr "Properties applied according to the product category"
+
+msgid "thuoc_tinh_theo_danh_muc"
+msgstr "Properties according to the category"
+
+msgid "cau_hinh_danh_sach_thuoc_tinh_theo_danh_muc"
+msgstr "Configure list of attributes according to the category"
+
+msgid "thuong_hieu_ap_dung_theo_danh_muc_san_pham"
+msgstr "Brand applies according to the product category"
+
+msgid "neu_khong_cau_hinh_danh_muc_con_thi_he_thong_se_mac_dinh_ap_dung_theo_danh_muc_cha"
+msgstr "if the subcategory is not set up the system will default to the parent category"
+
+msgid "duong_dan_cu"
+msgstr "Old Path"
+
+msgid "duong_dan_moi"
+msgstr "New Path"
+
+msgid "ten_ket_noi"
+msgstr "Connection name"
+
+msgid "phan_mem_quan_ly_ban_hang"
+msgstr "Sales management software"
+
+msgid "dong_bo_cua_hang_tu_kiotviet"
+msgstr "Synchronize stores from Kiotviet"
+
+msgid "tao_ma_qr_thanh_cong"
+msgstr "Successful QR code generation"
+
+msgid "tao_ma_qr_khong_thanh_cong"
+msgstr "QR code generation failed"
+
+msgid "tham_so_{0}_khong_hop_le"
+msgstr "Parameter {0} is not valid"
+
+msgid "tham_so_{0}_qua_dai_do_dai_cho_phep_la_{1}_ky_tu"
+msgstr "Parameter {0} is too long. Allowed length is {1} characters"
+
+msgid "cap_nhat_ton_kho"
+msgstr "Update inventory"
+
+msgid "dang_ky_webhook"
+msgstr "Register webhook"
+
+msgid "loai_webhook"
+msgstr "Type webhook"
+
+msgid "danh_sach_webhook"
+msgstr "List webhook"
+
+msgid "dong_bo_danh_sach_webhook"
+msgstr "List sync webhook"
+
+msgid "huy_webhook"
+msgstr "Cancel webhook"
+
+msgid "dang_ky"
+msgstr "Register"
+
+msgid "khong_co_thong_tin_webhook"
+msgstr "No information webhook"
+
+msgid "dang_ky_webhook_khong_thanh_cong"
+msgstr "Webhook registration failed"
+
+msgid "dang_ky_webhook_thanh_cong"
+msgstr "Webhook registration successful"
+
+msgid "xoa_webhook_thanh_cong"
+msgstr "successful deleted webhook"
+
+msgid "khong_lay_duoc_danh_sach_webhook"
+msgstr "Can't get webhooks list"
+
+msgid "lay_thong_tin_webhook_thanh_cong"
+msgstr "Retrieving webhook information successful"
+
+msgid "dong_bo_danh_sach_cua_hang_thanh_cong"
+msgstr "Synchronized store list successful"
+
+msgid "danh_sach_khach_hang"
+msgstr "List of customers"
+
+msgid "thoi_gian_tao_don"
+msgstr "Order creation time"
+
+msgid "ho_va_ten_khach_hang"
+msgstr "Customer's first and last name"
+
+msgid "kenh"
+msgstr "Channel"
+
+msgid "thong_tin_giao_dich"
+msgstr "Transaction information"
+
+msgid "loai_video"
+msgstr "Type of video"
+
+msgid "cau_hinh_ma_qr_giao_dich_don_hang"
+msgstr "Configure QR code for order transactions"
+
+msgid "tao_ma_qr"
+msgstr "Generate QR codes"
+
+msgid "ma_qr_thuong"
+msgstr "Regular QR code"
+
+msgid "tao_ma_qr_theo_loai"
+msgstr "Generate QR codes by type"
+
+msgid "khoang_cach_cac_dong"
+msgstr "Spacing of lines"
+
+msgid "mau_sac"
+msgstr "Color"
+
+msgid "xem_truoc"
+msgstr "Preview"
+
+msgid "mo_ta_giao_dich"
+msgstr "Transaction description"
+
+msgid "ma_qr"
+msgstr "QR Code"
+
+msgid "noi_dung_ma_qr"
+msgstr "QR code content"
+
+msgid "van_ban"
+msgstr "Document"
+
+msgid "nhap_noi_dung"
+msgstr "Import content"
+
+msgid "xem_va_tai_ma"
+msgstr "View and download code"
+
+msgid "ten_tai_khoan"
+msgstr "Account name"
+
+msgid "ma_san_pham_da_ton_tai_tren_he_thong"
+msgstr "The product code already exists on the system"
+
+msgid "thanh_toan_zalopay"
+msgstr "Payment Zalopay"
+
+msgid "ap_dung_tat_ca_so_luong"
+msgstr "Apply all quantity"
+
+msgid "tong_so_san_pham_tu_{0}"
+msgstr "Total number of products from {0}"
+
+msgid "khong_lay_duoc_thong_tin_san_pham"
+msgstr "Unable to get product information"
+
+msgid "dong_bo_tat_ca"
+msgstr "Sync all"
+
+msgid "dong_bo_ton_kho_{0}"
+msgstr "Sync inventory {0}"
+
+msgid "tong_so_san_pham_da_duoc_dong_bo"
+msgstr "Total number of products synchronized"
+
+msgid "dong_bo_thuoc_tinh_truoc_khi_dong_bo_san_pham"
+msgstr "Sync attributes before sync products"
+
+msgid "khong_lay_duoc_danh_sach_san_pham_{0}"
+msgstr "Could not get product list {0}"
+
+msgid "cap_nhat_san_pham_{0}_khong_thanh_cong"
+msgstr "Updating product code {0} failed"
+
+msgid "cap_nhat_san_pham_{0}_thanh_cong"
+msgstr "Product code update {0} successful"
+
+msgid "cap_nhat_so_luong_{0}_khong_thanh_cong"
+msgstr "Updating quantity {0} failed"
+
+msgid "cap_nhat_so_luong_{0}_thanh_cong"
+msgstr "Update count {0} successful"
+
+msgid "khong_lay_duoc_thong_tin_san_pham_{0}"
+msgstr "Unable to get product information {0}"
+
+msgid "ton_kho"
+msgstr "Inventory"
+
+msgid "dong_bo_don_hang_{0}_khong_thanh_cong"
+msgstr "Sync of order {0} failed"
+
+msgid "dong_bo_thuoc_tinh"
+msgstr "Attribute sync"
+
+msgid "lay_danh_sach_thuoc_tinh_{0}_thanh_cong"
+msgstr "Lấy danh sách thuộc tính {0} thành công"
+
+msgid "dong_bo_thuoc_tinh_san_pham_{0}_thanh_cong"
+msgstr "Product attribute {0} sync successful"
+
+msgid "dong_bo"
+msgstr "Sync"
+
+msgid "dong_bo_tat_ca_san_pham_{0}"
+msgstr "Sync all products {0}"
+
+msgid "khong_lay_duoc_danh_sach_san_pham_{0}"
+msgstr "Không lấy danh sách sản phẩm {0}"
+
+msgid "khong_lay_duoc_thong_tin_thuoc_tinh_{0}"
+msgstr "Không lấy được thông tin thuộc tính {0}"
+
+msgid "khong_lay_duoc_danh_sach_webhook_{0}"
+msgstr "Không lấy được danh sách webhook {0}"
+
+msgid "them_moi_{0}_{1}"
+msgstr "Add {0} {1}"
+
+msgid "cap_nhat_{0}_{1}"
+msgstr "Update {0} {1}"
+
+msgid "thay_doi_trang_thai_{0}_{1}}"
+msgstr "Change status {0} {1}"
+
+msgid "xoa_{0}_{1}"
+msgstr "Delete {0} {1}"
+
+msgid "kich_hoat_{0}_{1}"
+msgstr "Activate {0} {1}"
+
+msgid "ngung_hoat_dong_{0}_{1}"
+msgstr "Suspend {0} {1}"
+
+msgid "ngung_kinh_doanh_{0}_{1}"
+msgstr "Stop business {0} {1}"
+
+msgid "lich_su_cap_nhat"
+msgstr "Update history"
+
+msgid "lich_su_cap_nhat_cua_tai_khoan"
+msgstr "Account update history"
+
+msgid "loai"
+msgstr "Type"
+
+msgid "nguoi_thuc_hien"
+msgstr "Implementer"
+
+msgid "thay_doi_du_lieu"
+msgstr "Change data"
+
+msgid "sua_tep_giao_dien"
+msgstr "Chỉnh sửa tập tin giao diện"
+
+msgid "lich_su_thay_doi_cua_tep"
+msgstr "File change history"
+
+msgid "so_sanh"
+msgstr "Compare"
+
+msgid "ban_ghi_truoc"
+msgstr "Previous record"
+
+msgid "ban_ghi_hien_tai"
+msgstr "Current record"
+
+msgid "tao_moi"
+msgstr "Create new"
+
+msgid "cap_nhat_trang_thai"
+msgstr "Update status"
+
+msgid "phuc_hoi_cau_hinh"
+msgstr "Configuration recovery"
+
+msgid "link_webhook"
+msgstr "Link webhook"
+
+msgid "doi_tac_quan_ly_kho_hang"
+msgstr "Warehouse Management Partner"
+
+msgid "cau_hinh_thong_tin_phan_mem_quan_ly_kho_hang_cua_doi_tac"
+msgstr "Configure warehouse management software information of partner"
+
+msgid "khong_lay_duoc_thong_tin_cua_hang"
+msgstr "Can't get store information"
+
+msgid "xoa_webhook_khong_thanh_cong"
+msgstr "Failed to delete webhook"
+
+msgid "thoi_gian_giao_dich"
+msgstr "Transaction time"
+
+msgid "cau_hinh_ma_qr"
+msgstr "Configure QR code"
+
+msgid "ma_qr_giao_dich_don_hang"
+msgstr "QR code of Order transaction"
+
+msgid "cau_hinh_ma_qr_thuong"
+msgstr "Configure normal QR code"
+
+msgid "lay_danh_sach_san_pham_{0}_thanh_cong"
+msgstr "Get product list {0} successfully"
+
+msgid "lay_danh_sach_thuoc_tinh_{0}_thanh_cong"
+msgstr "Get properties list {0} successfully"
+
+msgid "khong_lay_duoc_danh_sach_san_pham_{0}"
+msgstr "Cannot get product {0} list"
+
+msgid "khong_lay_duoc_thong_tin_thuoc_tinh_{0}"
+msgstr "Cannot get  properties {0} information "
+
+msgid "khong_lay_duoc_danh_sach_webhook_{0}"
+msgstr "Cannot get webhook {0} list"
+
+msgid "ma_xac_nhan_khong_chinh_xac_hoac_da_het_han"	
+msgstr "Verification code is incorrect or has expired"
+
+msgid "dong_bo_san_pham_moi"	
+msgstr "New product sync"

@@ -1,0 +1,34 @@
+:root {
+    --color-highlight: #c0504d;
+    --color-main: #111c2d;
+    --color-text: #959595;
+    --color-top: #B27E3D;
+    --color-black: #252525;
+    --svg-hover:
+    invert(55%) sepia(7%) saturate(4312%) hue-rotate(328deg) brightness(106%) contrast(102%);
+    --svg-white:
+    invert(1);
+    --font-size-base: 1.4rem;
+    
+    --white: #fff;
+    --black: #000;
+    --red: #c33;
+    --green: #390;
+    --yellow: #d39e00;
+    --light: #f3f3f3;
+    --blue: #368FFF;
+    --blue-light: #6098DE;
+    --blue-black: #252984;
+    --purple: #7145BE;
+    --pink: #e83e8c;
+    --indigo: #6610f2;
+    --teal: #4AAEAE;
+    --orange: #fd7e14;
+    --cyan: #17a2b8;
+    --gray: #e1e1e1;
+    --gray-bold: #959595;
+
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+}

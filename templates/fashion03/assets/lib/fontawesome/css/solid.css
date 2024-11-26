@@ -1,0 +1,7 @@
+:root, :host {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Pro"; }
+
+.fas,
+.fa-solid {
+  font-family: 'Font Awesome 6 Pro';
+  font-weight: 900; }

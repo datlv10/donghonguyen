@@ -1,0 +1,1 @@
+<input name="{if !empty($code)}{$code}{/if}" id="{if !empty($code)}{$code}{/if}" value="{if !empty($value)}{$value}{/if}" type="text" class="form-control form-control-sm {if !empty($required)}required{/if} {$class}" message-required="{if !empty($required)}{__d('admin', 'vui_long_nhap_thong_tin')}{/if}" input-attribute="numeric">

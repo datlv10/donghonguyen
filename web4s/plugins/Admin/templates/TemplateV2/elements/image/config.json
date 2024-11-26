@@ -1,0 +1,116 @@
+{
+	"content": {
+		"image": [
+			"image",
+			"image_size",
+			"image_custom_dimension",
+			"align",
+			"caption_source",
+			"caption",
+			"link_to",
+			"link",
+			"open_lightbox"
+		]
+	},
+	"style": {
+		"image": [
+			"width",
+			"max_width",
+			"height",
+			"object_fit",
+			"image_effects",
+			"opacity",
+			"css_filter",
+			"background_hover_transition",
+			"hover_animation",
+			"hover_animation",
+			"image_border_border",
+			"image_border_width",
+			"image_border_color",
+			"image_border_radius",
+			"image_box_shadow_type"
+		],
+		"caption": [
+			"caption_align",
+			"text_color",
+			"caption_background_color",
+			"caption_typography",
+			"caption_text_shadow",
+			"caption_space"
+		]
+	},
+	"advanced": {
+		"advanced": [
+			"margin",
+			"padding",
+			"z_index",
+			"css_class",
+		],
+		"motion_effects": [
+			"animation"
+		],
+		"background": [
+			"background_tabs",
+			"background_type",
+			"background_color",
+			"background_color_stop",
+			"background_color_b",
+			"background_color_b_stop",
+			"background_gradient_type",
+			"background_gradient_angle",
+			"background_gradient_position",
+			"background_image",
+			"background_position",
+			"background_xpos",
+			"background_ypos",
+			"background_attachment",
+			"background_repeat",
+			"background_size",
+			"background_bg_width",
+			"background_hover_transition"
+		],
+		"border": [
+			"border_tabs",
+			"border_type",
+			"border_width",
+			"border_color",
+			"border_radius",
+			"box_shadow",
+			"border_hover_border",
+			"border_hover_width",
+			"border_hover_color",
+			"border_radius_hover",
+			"box_shadow_hover",
+			"border_hover_transition"
+		],
+		"mask": [
+			"mask_switch",
+			"mask_shape",
+			"mask_image",
+			"mask_notice",
+			"mask_size",
+			"mask_size_scale",
+			"mask_position",
+			"mask_position_x",
+			"mask_position_y",
+			"mask_repeat"
+		],
+		"position": [
+			"width",
+			"custom_width",
+			"vertical_align",
+			"offset_orientation_h",
+			"offset_x",
+			"offset_orientation_v",
+			"offset_y",
+			"offset_y_end"
+		],
+		"response": [
+			"hide_desktop",
+			"hide_tablet",
+			"hide_mobile"
+		],
+		"attributes": [],
+		"custom_css": []
+	}
+}

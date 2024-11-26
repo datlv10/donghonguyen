@@ -1,0 +1,6209 @@
+msgid "tim_kiem"
+msgstr "Tìm kiếm"
+
+msgid "danh_sach"
+msgstr "Danh sách"
+
+msgid "da_chon"
+msgstr "Đã chọn"
+
+msgid "nhan_ban"
+msgstr "Nhân bản"
+
+msgid "ban_ghi"
+msgstr "Bản ghi"
+
+msgid "trang_thai"
+msgstr "Trạng thái"
+
+msgid "hoat_dong"
+msgstr "Hoạt động"
+
+msgid "khong_hoat_dong"
+msgstr "Không hoạt động"
+
+msgid "ngung_hoat_dong"
+msgstr "Ngừng hoạt động"
+
+msgid "xoa"
+msgstr "Xóa"
+
+msgid "xoa_tat_ca"
+msgstr "Xóa tất cả"
+
+msgid "quay_lai"
+msgstr "Quay lại"
+
+msgid "them_moi"
+msgstr "Thêm mới"
+
+msgid "cap_nhat"
+msgstr "Cập nhật"
+
+msgid "cap_nhat_moi_nhat"
+msgstr "Cập nhật mới nhất"
+
+msgid "chi_tiet_danh_muc"
+msgstr "Chi tiết danh mục"
+
+msgid "chi_tiet_tai_khoan"
+msgstr "Chi tiết tài khoản"
+
+msgid "chi_tiet_nhom_quyen"
+msgstr "Chi tiết nhóm quyền"
+
+msgid "vui_long_them_quyen_tai_khoan_truoc_khi_cai_dat"
+msgstr "Vui lòng thêm quyền tài khoản trước khi cài đặt"
+
+msgid "ban_khong_co_quyen_truy_cap_vao_trang_nay"
+msgstr "Bạn không có quyền truy cập vào trang này"
+
+msgid "ban_khong_co_quyen_thuc_hien_hanh_dong_nay"
+msgstr "Bạn không có quyền thực hiện hành động này"
+
+msgid "khong_co_quyen_truy_cap"
+msgstr "Không có quyền truy cập"
+
+msgid "quay_lai_danh_sach"
+msgstr "Quay lại danh sách"
+
+msgid "danh_muc_cha"
+msgstr "Danh mục cha"
+
+msgid "ten_danh_muc"
+msgstr "Tên danh mục"
+
+msgid "ngay_tao"
+msgstr "Ngày tạo"
+
+msgid "chi_tiet"
+msgstr "Chi tiết"
+
+msgid "luu_&_tiep_tuc"
+msgstr "Lưu &amp; tiếp tục"
+
+msgid "luu_&_them_moi"
+msgstr "Lưu &amp; thêm mới"
+
+msgid "luu_&_quay_lai"
+msgstr "Lưu &amp; quay lại"
+
+msgid "thay_doi_trang_thai"
+msgstr "Thay đổi trạng thái"
+
+msgid "lua_chon"
+msgstr "Lựa chọn"
+
+msgid "cai_dat"
+msgstr "Cài đặt"
+
+msgid "giao_dien_website"
+msgstr "Giao diện Website"
+
+msgid "cai_dat_giao_dien"
+msgstr "Cài đặt giao diện"
+
+msgid "quan_ly_module"
+msgstr "Quản lý module"
+
+msgid "quan_ly_menu"
+msgstr "Quản lý Menu"
+
+msgid "tuy_chinh_giao_dien"
+msgstr "Tùy chỉnh giao diện"
+
+msgid "tuy_chinh_css"
+msgstr "Tùy chỉnh Css"
+
+msgid "tuy_chinh_javascript"
+msgstr "Tùy chỉnh Javascript"
+
+msgid "tuy_chinh_javascript_cho_website"
+msgstr "Tùy chỉnh Javascript cho website"
+
+msgid "ma_nhung"
+msgstr "Mã nhúng"
+
+msgid "khong_lay_duoc_thong_tin_giao_dien"
+msgstr "Không lấy được thông tin giao diện"
+
+msgid "ban_hang"
+msgstr "Bán hàng"
+
+msgid "thuong_mai_dien_tu"
+msgstr "Thương mại điện tử"
+
+msgid "san_pham"
+msgstr "Sản phẩm"
+
+msgid "giao_dich"
+msgstr "Giao dịch"
+
+msgid "lien_he"
+msgstr "Liên hệ"
+
+msgid "bao_cao"
+msgstr "Báo cáo"
+
+msgid "them_san_pham"
+msgstr "Thêm sản phẩm"
+
+msgid "danh_muc_san_pham"
+msgstr "Danh mục sản phẩm"
+
+msgid "danh_sach_tinh_thanh_thanh_pho"
+msgstr "Danh sách tỉnh thành/thành phố"
+
+msgid "danh_sach_quan_huyen"
+msgstr "Danh sách quận huyện"
+
+msgid "danh_sach_phuong_xa"
+msgstr "Danh sách phường xã"
+
+msgid "thay_doi_vi_tri"
+msgstr "Thay đổi vị trí"
+
+msgid "danh_muc_bai_viet"
+msgstr "Danh mục bài viết"
+
+msgid "danh_muc_san_pham"
+msgstr "Danh mục sản phẩm"
+
+msgid "thiet_lap_cho_danh_muc_san_pham"
+msgstr "Thiết lập cho danh mục sản phẩm"
+
+msgid "danh_muc"
+msgstr "Danh mục"
+
+msgid "them_danh_muc"
+msgstr "Thêm danh mục"
+
+msgid "them_danh_muc_san_pham"
+msgstr "Thêm danh mục sản phẩm"
+
+msgid "them_danh_muc_bai_viet"
+msgstr "Thêm danh mục bài viết"
+
+msgid "thuong_hieu"
+msgstr "Thương hiệu"
+
+msgid "them_thuong_hieu"
+msgstr "Thêm thương hiệu"
+
+msgid "cap_nhat_thuong_hieu"
+msgstr "Cập nhật thương hiệu"
+
+msgid "xoa_du_lieu_thuong_hieu"
+msgstr "Xóa dữ liệu thương hiệu"
+
+msgid "khuyen_mai"
+msgstr "Khuyến mãi"
+
+msgid "them_khuyen_mai"
+msgstr "Thêm khuyến mãi"
+
+msgid "chuong_trinh_khuyen_mai"
+msgstr "Chương trình khuyến mãi"
+
+msgid "ap_dung_khuyen_mai"
+msgstr "Áp dụng khuyến mãi"
+
+msgid "ngung_ap_dung"
+msgstr "Ngừng áp dụng"
+
+msgid "ten_chuong_trinh"
+msgstr "Tên chương trình"
+
+msgid "chuong_trinh_coupon"
+msgstr "Chương trình Coupon"
+
+msgid "khong_tim_thay_chuong_trinh_khuyen_mai_phu_hop"
+msgstr "Không tìm thấy chương trình khuyến mãi phù hợp"
+
+msgid "hien_thi_chuong_trinh_trong_danh_sach_khuyen_mai_cua_khach_hang"
+msgstr "Hiển thị chương trình trong danh sách khuyến mãi của khách hàng"
+
+msgid "ma_coupon"
+msgstr "Mã Coupon"
+
+msgid "don_hang"
+msgstr "Đơn hàng"
+
+msgid "them_don_hang"
+msgstr "Thêm đơn hàng"
+
+msgid "giao_dich_thanh_toan"
+msgstr "Giao dịch thanh toán"
+
+msgid "khong_lay_duoc_thong_tin_giao_dich"
+msgstr "Không lấy được thông tin giao dịch"
+
+msgid "ap_dung_phi_van_chuyen_cho_khach_hang"
+msgstr "Áp dụng phí vận chuyển cho khách hàng"
+
+msgid "yeu_cau"
+msgstr "Yêu cầu"
+
+msgid "cho_thu_hang"
+msgstr "Cho thử hàng"
+
+msgid "cho_xem_hang_khong_thu"
+msgstr "Cho xem hàng không thử"
+
+msgid "khong_cho_xem_hang"
+msgstr "Không cho xem hàng"
+
+msgid "dich_vu"
+msgstr "Dịch vụ"
+
+msgid "phi_du_kien"
+msgstr "Phí dự kiến"
+
+msgid "giao_nhanh"
+msgstr "Giao nhanh"
+
+msgid "giao_thuong"
+msgstr "Giao thường"
+
+msgid "da_ton_tai_van_don_cho_don_hang_nay"
+msgstr "Đã tồn tại vận đơn cho đơn hàng này"
+
+msgid "tham_so_api_chua_hop_le"
+msgstr "Tham số API chưa hợp lệ"
+
+msgid "khong_lay_duoc_thong_tin_van_don"
+msgstr "Không lấy được thông tin vận đơn"
+
+msgid "gui_don_sang_hang_van_chuyen_thanh_cong"
+msgstr "Gửi đơn sang hãng vận chuyển thành công"
+
+msgid "gui_don_sang_hang_van_chuyen_khong_thanh_cong"
+msgstr "Gửi đơn sang hãng vận chuyển không thành công"
+
+msgid "huy_don_ben_hang_van_chuyen_khong_thanh_cong"
+msgstr "Hủy đơn bên hãng vận chuyển không thành công"
+
+msgid "cap_nhat_phuong_thuc_van_chuyen"
+msgstr "Cập nhật phương thức vận chuyển"
+
+msgid "chua_gui_don_sang_hang_van_chuyen"
+msgstr "Chưa gửi đơn sang hãng vận chuyển"
+
+msgid "phi_tra_doi_tac_van_chuyen"
+msgstr "Phí trả đối tác vận chuyển"
+
+msgid "khong_ket_noi_duoc_den_api_{0}"
+msgstr "Không kết nối được đến API {0}"
+
+msgid "thong_tin_cau_hinh_chua_hop_le"
+msgstr "Thông tin cấu hình chưa hợp lệ"
+
+msgid "gui_hang_van_chuyen"
+msgstr "Gửi hãng vận chuyển"
+
+msgid "ma_don_hang_van_chuyen"
+msgstr "Mã đơn hãng vận chuyển"
+
+msgid "ban_giao_van_chuyen"
+msgstr "Bàn giao vận chuyển"
+
+msgid "bao_cao_don_hang"
+msgstr "Báo cáo đơn hàng"
+
+msgid "theo_ngay_thang"
+msgstr "Theo ngày tháng"
+
+msgid "theo_tinh_thanh"
+msgstr "Theo tỉnh thành"
+
+msgid "theo_gia_tri"
+msgstr "Theo giá trị"
+
+msgid "theo_nguon_don"
+msgstr "Theo nguồn đơn"
+
+msgid "tai_khoan"
+msgstr "Tài khoản"
+
+msgid "danh_sach_tai_khoan"
+msgstr "Danh sách tài khoản"
+
+msgid "tao_tai_khoan"
+msgstr "Tạo tài khoản"
+
+msgid "them_tai_khoan"
+msgstr "Thêm tài khoản"
+
+msgid "cap_nhat_tai_khoan"
+msgstr "Cập nhật tài khoản"
+
+msgid "thong_tin_tai_khoan"
+msgstr "Thông tin tài khoản"
+
+msgid "thong_tin_ca_nhan"
+msgstr "Thông tin cá nhân"
+
+msgid "doi_mat_khau"
+msgstr "Đổi mật khẩu"
+
+msgid "ten_dang_nhap"
+msgstr "Tên đăng nhập"
+
+msgid "mat_khau"
+msgstr "Mật khẩu"
+
+msgid "xac_nhan_mat_khau"
+msgstr "Xác nhận mật khẩu"
+
+msgid "ho_va_ten"
+msgstr "Họ và tên"
+
+msgid "ho_ten_day_du"
+msgstr "Họ tên đầy đủ"
+
+msgid "so_dien_thoai"
+msgstr "Số điện thoại"
+
+msgid "email"
+msgstr "Email"
+
+msgid "dia_chi"
+msgstr "Địa chỉ"
+
+msgid "ngay_sinh"
+msgstr "Ngày sinh"
+
+msgid "gioi_tinh"
+msgstr "Giới tính"
+
+msgid "nam"
+msgstr "Nam"
+
+msgid "nu"
+msgstr "Nữ"
+
+msgid "khac"
+msgstr "Khác"
+
+msgid "nhom_quyen"
+msgstr "Nhóm quyền"
+
+msgid "them_nhom_quyen"
+msgstr "Thêm nhóm quyền"
+
+msgid "cap_nhat_nhom_quyen"
+msgstr "Cập nhật nhóm quyền"
+
+msgid "thong_tin_nhom quyen"
+msgstr "Thông tin nhóm quyền"
+
+msgid "mo_ta_ngan"
+msgstr "Mô tả ngắn"
+
+msgid "phan_quyen"
+msgstr "Phân quyền"
+
+msgid "khach_hang"
+msgstr "Khách hàng"
+
+msgid "them_khach_hang"
+msgstr "Thêm khách hàng"
+
+msgid "diem_khach_hang"
+msgstr "Điểm khách hàng"
+
+msgid "thiet_lap_cau_hinh_diem_khach_hang"
+msgstr "Thiết lập cấu hình điểm khách hàng"
+
+msgid "su_dung_diem"
+msgstr "Sử dụng điểm"
+
+msgid "quan_ly_bai_viet"
+msgstr "Quản lý bài viết"
+
+msgid "bai_viet"
+msgstr "Bài viết"
+
+msgid "danh_sach_bai_viet"
+msgstr "Danh sách bài viết"
+
+msgid "them_bai_viet"
+msgstr "Thêm bài viết"
+
+msgid "cap_nhat_bai_viet"
+msgstr "Cập nhật bài viết"
+
+msgid "thong_tin_chinh"
+msgstr "Thông tin chính"
+
+msgid "tieu_de"
+msgstr "Tiêu đề"
+
+msgid "mo_ta_ngan"
+msgstr "Mô tả ngắn"
+
+msgid "noi_dung"
+msgstr "Nội dung"
+
+msgid "duong_dan"
+msgstr "Đường dẫn"
+
+msgid "duong_dan_den"
+msgstr "Đường dẫn đến"
+
+msgid "duong_dan_chuyen_huong"
+msgstr "Đường dẫn chuyển hướng"
+
+msgid "thong_tin_khac"
+msgstr "Thông tin khác"
+
+msgid "mo_ta_seo"
+msgstr "Mô tả SEO"
+
+msgid "tu_khoa_seo"
+msgstr "Từ khóa SEO"
+
+msgid "tieu_de_seo"
+msgstr "Tiêu đề SEO"
+
+msgid "anh_seo"
+msgstr "Ảnh SEO"
+
+msgid "tu_khoa_seo"
+msgstr "Từ khóa SEO"
+
+msgid "the_bai_viet"
+msgstr "Thẻ bài viết"
+
+msgid "xoa_du_lieu_the_bai_viet"
+msgstr "Xóa dữ liệu thẻ bài viết"
+
+msgid "site_map"
+msgstr "Site Map"
+
+msgid "chuyen_huong_301"
+msgstr "Chuyển hướng 301"
+
+msgid "chuyen_huong_https"
+msgstr "Chuyển hướng HTTPS"
+
+msgid "ten_the"
+msgstr "Tên thẻ"
+
+msgid "danh_sach_the_bai_viet"
+msgstr "Danh sách thẻ bài viết"
+
+msgid "vui_long_nhap_ten_the"
+msgstr "Vui lòng nhập tên thẻ"
+
+msgid "ten_the_da_ton_tai_tren_he_thong"
+msgstr "Tên thẻ đã tồn tại trên hệ thống"
+
+msgid "ngon_ngu_khong_hop_le"
+msgstr "Ngôn ngữ không hợp lệ"
+
+msgid "khong_lay_duoc_thong_tin_ngon_ngu_cua_website"
+msgstr "Không lấy được thông tin ngôn ngữ của website"
+
+msgid "chi_ho_tro_{0}_the_va_do_dai_moi_the_khong_qua_{1}_ky_tu"
+msgstr "Chỉ hỗ trợ {0} thẻ và độ dài mỗi thẻ không quá {1} ký tự"
+
+msgid "chi_ho_tro_{0}_tu_khoa_va_do_dai_moi_tu_khoa_khong_qua_{1}_ky_tu"
+msgstr "Chỉ hỗ trợ {0} từ khóa và độ dài mỗi từ khóa không quá {1} ký tự"
+
+msgid "anh_chinh"
+msgstr "Ảnh chính"
+
+msgid "album"
+msgstr "Album"
+
+msgid "video"
+msgstr "Video"
+
+msgid "cong_thanh_toan"
+msgstr "Cổng thanh toán"
+
+msgid "thiet_lap_cong_thanh_toan"
+msgstr "Thiết lập cổng thanh toán"
+
+msgid "thiet_lap_hang_van_chuyen"
+msgstr "Thiết lập hãng vận chuyển"
+
+msgid "cau_hinh_don_hang"
+msgstr "Cấu hình đơn hàng"
+
+msgid "thiet_lap_cau_hinh_don_hang"
+msgstr "Thiết lập cấu hình đơn hàng"
+
+msgid "ap_dung_tru_so_luong_san_pham_sau_khi_tao_don_hang"
+msgstr "Áp dụng trừ số lượng sản phẩm sau khi tạo đơn hàng"
+
+msgid "dieu_kien_ap_dung_tru_so_luong_san_pham"
+msgstr "Điều kiện áp dụng trừ số lượng sản phẩm"
+
+msgid "sau_khi_tao_don_hang_moi"
+msgstr "Sau khi tạo đơn hàng mới"
+
+msgid "sau_khi_xac_nhan_don_hang"
+msgstr "Sau khi xác nhận đơn hàng"
+
+msgid "sau_khi_xuat_kho"
+msgstr "Sau khi xuất kho"
+
+msgid "danh_sach_giao_dich"
+msgstr "Danh sách giao dịch"
+
+msgid "cai_dat_chung"
+msgstr "Cài đặt chung"
+
+msgid "thong_tin_website"
+msgstr "Thông tin Website"
+
+msgid "thiet_lap_website"
+msgstr "Thiết lập Website"
+
+msgid "thiet_lap_seo"
+msgstr "Thiết lập Seo"
+
+msgid "phat_trien"
+msgstr "Phát triển"
+
+msgid "da_thiet_lap"
+msgstr "Đã thiết lập"
+
+msgid "ngon_ngu"
+msgstr "Ngôn ngữ"
+
+msgid "vi_tri"
+msgstr "Vị trí"
+
+msgid "van_chuyen"
+msgstr "Vận chuyển"
+
+msgid "hang_van_chuyen"
+msgstr "Hãng vận chuyển"
+
+msgid "cau_hinh_gia_va_phuong_thuc_van_chuyen"
+msgstr "Cấu hình giá và phương thức vận chuyển"
+
+msgid "cau_hinh_van_chuyen"
+msgstr "Cấu hình vận chuyển"
+
+msgid "phi_van_chuyen_chung"
+msgstr "Phí vận chuyển chung"
+
+msgid "lay_gia_van_chuyen"
+msgstr "Lấy giá vận chuyển"
+
+msgid "theo_phi_chung"
+msgstr "Theo phí chung"
+
+msgid "theo_cau_hinh_rieng"
+msgstr "Theo cấu hình riêng"
+
+msgid "theo_hang_van_chuyen"
+msgstr "Theo hãng vận chuyển"
+
+msgid "danh_sach_cua_hang"
+msgstr "Danh sách cửa hàng"
+
+msgid "chua_co_cua_hang_nao"
+msgstr "Chưa có cửa hàng nào"
+
+msgid "dong_bo_cua_hang_tu_giao_hang_nhanh"
+msgstr "Đồng bộ cửa hàng từ Giao Hàng Nhanh"
+
+msgid "dong_bo_cua_hang_tu_giao_hang_tiet_kiem"
+msgstr "Đồng bộ cửa hàng từ Giao Hàng Tiết Kiệm"
+
+msgid "dong_bo_du_lieu_tinh_thanh"
+msgstr "Đồng bộ dữ liệu tỉnh thành"
+
+msgid "dong_bo_du_lieu"
+msgstr "Đồng bộ dữ liệu"
+
+msgid "da_dong_bo"
+msgstr "Đã đồng bộ"
+
+msgid "chua_dong_bo"
+msgstr "Chưa đồng bộ"
+
+msgid "thuc_hien"
+msgstr "Thực hiện"
+
+msgid "dong_bo_tinh_thanh"
+msgstr "Đồng bộ tỉnh thành"
+
+msgid "dong_bo_quan_huyen"
+msgstr "Đồng bộ quận huyện"
+
+msgid "dong_bo_phuong_xa"
+msgstr "Đồng bộ phường xã"
+
+msgid "giao_hang_nhanh"
+msgstr "Giao Hàng Nhanh"
+
+msgid "giao_hang_tiet_kiem"
+msgstr "Giao Hàng Tiết Kiệm"
+
+msgid "cau_hinh_rieng_theo_gia_tri_don_hang"
+msgstr "Cấu hình riêng theo giá trị đơn hàng"
+
+msgid "them_gia_tri_don_hang"
+msgstr "Thêm giá trị đơn hàng"
+
+msgid "gia_tri_don_hang"
+msgstr "Giá trị đơn hàng"
+
+msgid "mau_in"
+msgstr "Mẫu in"
+
+msgid "in_thu"
+msgstr "In thử"
+
+msgid "tinh_thanh"
+msgstr "Tỉnh thành"
+
+msgid "he_thong"
+msgstr "Hệ thống"
+
+msgid "xoa_cache"
+msgstr "Xóa Cache"
+
+msgid "bao_mat"
+msgstr "Bảo mật"
+
+msgid "ho_tro"
+msgstr "Hỗ trợ"
+
+msgid "ho_tro_khach_hang"
+msgstr "Hỗ trợ khách hàng"
+
+msgid "huong_dan_su_dung"
+msgstr "Hướng dẫn sử dụng"
+
+msgid "phan_hoi"
+msgstr "Phản hồi"
+
+msgid "thong_tin_goi_website"
+msgstr "Thông tin gói Website"
+
+msgid "cap_nhat_thanh_cong"
+msgstr "Cập nhật thành công"
+
+msgid "cap_nhat_khong_thanh_cong"
+msgstr "Cập nhật không thành công"
+
+msgid "xoa_du_lieu_thanh_cong"
+msgstr "Xóa dữ liệu thành công"
+
+msgid "xu_ly_du_lieu_thanh_cong"
+msgstr "Xử lý dữ liệu thành công"
+
+msgid "loi_xu_ly_du_lieu"
+msgstr "Lỗi xử lý dữ liệu"
+
+msgid "phuong_thuc_khong_hop_le"
+msgstr "Phương thức không hợp lệ"
+
+msgid "du_lieu_khong_hop_le"
+msgstr "Dữ liệu không hợp lệ"
+
+msgid "khong_lay_duoc_thong_tin_ban_ghi"
+msgstr "Không lấy được thông tin bản ghi"
+
+msgid "ten_dang_nhap_da_ton_tai_tren_he_thong"
+msgstr "Tên đăng nhập đã tồn tại trên hệ thống"
+
+msgid "email_da_ton_tai_tren_he_thong"
+msgstr "Email đã tồn tại trên hệ thống"
+
+msgid "chua_dung_dinh_dang_ngay_thang"
+msgstr "Chưa đúng định dạng ngày tháng"
+
+msgid "vui_long_chon_ngon_ngu"
+msgstr "Vui lòng chọn ngôn ngữ"
+
+msgid "vui_long_nhap_tieu_de"
+msgstr "Vui lòng nhập tiêu đề"
+
+msgid "vui_long_nhap_duong_dan"
+msgstr "Vui lòng nhập đường dẫn"
+
+msgid "duong_dan_da_ton_tai_tren_he_thong"
+msgstr "Đường dẫn đã tồn tại trên hệ thống"
+
+msgid "co_the_su_dung_duong_dan_nay"
+msgstr "Có thể sử dụng đường dẫn này"
+
+msgid "ten_thuong_hieu"
+msgstr "Tên thương hiệu"
+
+msgid "thong_tin_cap_nhat"
+msgstr "Thông tin cập nhật"
+
+msgid "ngon_ngu_hien_tai"
+msgstr "Ngôn ngữ hiện tại"
+
+msgid "sua_ban_dich"
+msgstr "Sửa bản dịch"
+
+msgid "nguoi_tao"
+msgstr "Người tạo"
+
+msgid "thoi_gian_tao"
+msgstr "Thời gian tạo"
+
+msgid "cap_nhat_moi"
+msgstr "Cập nhật mới"
+
+msgid "bai_noi_bat"
+msgstr "Bài nổi bật"
+
+msgid "album_anh"
+msgstr "Album ảnh"
+
+msgid "chon_anh_album"
+msgstr "Chọn ảnh album"
+
+msgid "chon_video"
+msgstr "Chọn video"
+
+msgid "xoa_tep"
+msgstr "Xóa tệp"
+
+msgid "quan_ly_danh_muc"
+msgstr "Quản lý danh mục"
+
+msgid "tep_dinh_kem"
+msgstr "Tệp đính kèm"
+
+msgid "chon_tep_dinh_kem"
+msgstr "Chọn tệp đính kèm"
+
+msgid "voi_kieu_video_youtube_url_chi_dien_ma_video"
+msgstr "Với kiểu video Youtube, chỉ điền mã video"
+
+msgid "ten_cong_ty"
+msgstr "Tên công ty"
+
+msgid "ten_cong_ty"
+msgstr "Tên công ty"
+
+msgid "favicon"
+msgstr "Favicon"
+
+msgid "logo"
+msgstr "Logo"
+
+msgid "hotline"
+msgstr "Hotline"
+
+msgid "luu_lai"
+msgstr "Lưu lại"
+
+msgid "copyright"
+msgstr "Copyright"
+
+msgid "ten_co_so"
+msgstr "Tên cơ sở"
+
+msgid "ten_website"
+msgstr "Tên website"
+
+msgid "them_moi_chi_nhanh"
+msgstr "Thêm mới chi nhánh"
+
+msgid "co"
+msgstr "Có"
+
+msgid "khong"
+msgstr "Không"
+
+msgid "thong_tin_seo"
+msgstr "Thông tin SEO"
+
+msgid "tai_tep_robots"
+msgstr "Tải tệp robots"
+
+msgid "cau_hinh_seo"
+msgstr "Cấu hình SEO"
+
+msgid "cau_hinh_seo"
+msgstr "Cấu hình SEO"
+
+msgid "luu_cau_hinh_sitemap"
+msgstr "Lưu cấu hình SITEMAP"
+
+msgid "phan_nhom_sitemap"
+msgstr "Phân nhóm SITEMAP"
+
+msgid "chia_sitemap_theo_nam"
+msgstr "Chia SITEMAP theo năm"
+
+msgid "chia_sitemap_thanh_cac_nhom_nho_giup_viec_hien_thi_sitemap_nhanh_va_de_dang_hon"
+msgstr "Chia SITEMAP thành các nhóm nhỏ giúp việc hiện thị SITEMAP nhanh và dễ dàng hơn"
+
+msgid "chung_toi_khuyen_khich_su_dung_chuc_nang_nay_voi_cac_website_co_tu_500_duong_dan_tro_len"
+msgstr "Chúng tôi khuyến khích sử dụng chức năng này với các Website có từ 500 đường dẫn trở lên"
+
+msgid "khi_website_cua_ban_hoat_dong_lau_nam_va_da_co_qua_nhieu_duong_dan_thi_ban_nen_chia_sitemap_theo_cac_nam_de_dam_bao_sitemap_luon_duoc_hien_thi_tot_nhat"
+msgstr "Khi Website của bạn hoạt động lâu năm và đã có quá nhiều đường dẫn thì bạn nên chia SITEMAP theo các năm để đảm bảo SITEMAP luôn được hiển thị tốt nhất"
+
+msgid "chi_hoat_dong_khi_sitemap_duoc_cau_hinh_phan_theo_nhom"
+msgstr "Chỉ hoạt động khi SITEMAP được cấu hình phân theo nhóm"
+
+msgid "tai_len"
+msgstr "Tải lên"
+
+msgid "tai_len_tat_ca"
+msgstr "Tải lên tất cả"
+
+msgid "chi_ho_tro_dinh_dang_tep_txt"
+msgstr "Chỉ hỗ trợ định dạng tệp .txt"
+
+msgid "chi_ho_tro_dinh_dang_file_txt"
+msgstr "Chỉ hỗ trợ định dạng file .txt"
+
+msgid "chi_ho_tro_dinh_dang_file_xml"
+msgstr "Chỉ hỗ trợ định dạng file .xml"
+
+msgid "chon_tep_robots"
+msgstr "Chọn tệp robots.txt"
+
+msgid "ten_tep_khong_chinh_xac"
+msgstr "Tên tệp không chính xác"
+
+msgid "tep_tin_khong_hop_le"
+msgstr "Tệp tin không hợp lệ"
+
+msgid "sai_dinh_dang"
+msgstr "Sai định dạng"
+
+msgid "nhap_file_robots"
+msgstr "Nhập file robots"
+
+msgid "tai_xuong_file_robots"
+msgstr "Tải xuống file robots"
+
+msgid "chua_co_file_robots"
+msgstr "Chưa có file robots"
+
+msgid "duong_dan_tinh"
+msgstr "Đường dẫn tĩnh"
+
+msgid "cai_dat_co_ban"
+msgstr "Cài đặt cơ bản"
+
+msgid "co_ban"
+msgstr "Cơ bản"
+
+msgid "nang_cao"
+msgstr "Nâng cao"
+
+msgid "mac_dinh"
+msgstr "Mặc định"
+
+msgid "ngon_ngu_va_ten_bai_viet"
+msgstr "Ngôn ngữ và tên bài viết"
+
+msgid "danh_muc_va_ten_bai_viet"
+msgstr "Danh mục và tên bài viết"
+
+msgid "tieu_de_bai_viet"
+msgstr "Tiêu đề bài viết"
+
+msgid "tuy_bien"
+msgstr "Tùy biến"
+
+msgid "file_htaccess"
+msgstr "file .htaccess"
+
+msgid "htaccess"
+msgstr ".htaccess"
+
+msgid "id"
+msgstr "ID"
+
+msgid "tieu-de"
+msgstr "tieu-de"
+
+msgid "danh-muc"
+msgstr "danh-muc"
+
+msgid "nam_year"
+msgstr "Năm"
+
+msgid "thang"
+msgstr "Tháng"
+
+msgid "ngay"
+msgstr "Ngày"
+
+msgid "gio"
+msgstr "Giờ"
+
+msgid "luc"
+msgstr "Lúc"
+
+msgid "cau_hinh_email"
+msgstr "Cấu hình email"
+
+msgid "template_email"
+msgstr "Template email"
+
+msgid "gui_thu"
+msgstr "Gửi thử"
+
+msgid "email_ung_dung"
+msgstr "Email ứng dụng"
+
+msgid "mat_khau_ung_dung"
+msgstr "Mật khẩu ứng dụng"
+
+msgid "email_host"
+msgstr "Email host"
+
+msgid "quan_tri_nhan_thong_bao"
+msgstr "Quản trị nhận thông báo"
+
+msgid "email_quan_tri"
+msgstr "Email quản trị"
+
+msgid "mau_email"
+msgstr "Mẫu email"
+
+msgid "tieu_de_email_gui"
+msgstr "Tiêu đề email gửi"
+
+msgid "email_gui_kem_cc"
+msgstr "Email gửi kèm (CC)"
+
+msgid "email_gui_kem_an_danh_bcc"
+msgstr "Email gửi kèm (ẩn danh - BCC)"
+
+msgid "mau_template"
+msgstr "Mẫu template"
+
+msgid "mau_dung_san_khong_phep_sua"
+msgstr "Mẫu dựng sẵn (không cho phép sửa)"
+
+msgid "tu_thiet_ke"
+msgstr "Tự thiết kế"
+
+msgid "luu_mau_email"
+msgstr "Lưu mẫu email"
+
+msgid "email_nhan"
+msgstr "Email nhận"
+
+msgid "gui_email"
+msgstr "Gửi email"
+
+msgid "gmail"
+msgstr "Gmail"
+
+msgid "yahoo_mail"
+msgstr "Yahoo Mail"
+
+msgid "hotmail_live"
+msgstr "Hotmail, Live mail"
+
+msgid "khac"
+msgstr "Khác"
+
+msgid "khong_duoc_thay_doi_mau_email_mac_dinh"
+msgstr "Không được thay đổi mẫu email mặc định"
+
+msgid "luu_lai_css"
+msgstr "Lưu lại css"
+
+msgid "luu_lai_javascript"
+msgstr "Lưu lại javascript"
+
+msgid "chon_anh"
+msgstr "Chọn ảnh"
+
+msgid "ma_nhung_trong_the_head"
+msgstr "Mã nhúng trong thẻ head"
+
+msgid "ma_nhung_phia_tren_the_body"
+msgstr "Mã nhúng phía trên thẻ body"
+
+msgid "ma_nhung_phia_duoi_the_body"
+msgstr "Mã nhúng phía dưới thẻ body"
+
+msgid "chinh_sua_giao_dien"
+msgstr "Chỉnh sửa giao diện"
+
+msgid "danh_sach_thu_muc"
+msgstr "Danh sách thư mục"
+
+msgid "noi_dung_file_chinh_sua"
+msgstr "Nội dung file chỉnh sửa"
+
+msgid "chi_ho_tro_dinh_dang_file"
+msgstr "Chỉ hỗ trợ định dạng file"
+
+msgid "them_file"
+msgstr "Thêm file"
+
+msgid "tai_len"
+msgstr "Tải lên"
+
+msgid "tai_file_len"
+msgstr "Tải file lên"
+
+msgid "khong_cho_phep_doc_file_này"
+msgstr "Không cho phép đọc file này"
+
+msgid "khong_cho_phep_luu_file_voi_dinh_dang_nay"
+msgstr "Không cho phép lưu file với định dạng này"
+
+msgid "file_nay_khong_ton_tai"
+msgstr "File này không tồn tại"
+
+msgid "ten_chua_duoc_thay_doi"
+msgstr "Tên chưa được thay đổi"
+
+msgid "doi_ten_thanh_cong"
+msgstr "Đổi tên thành công"
+
+msgid "file_khong_ton_tai"
+msgstr "File không tồn tại"
+
+msgid "file_da_duoc_xoa"
+msgstr "File đã được xóa"
+
+msgid "folder_da_duoc_xoa"
+msgstr "Folder đã được xóa"
+
+msgid "kich_thuoc_tep_tin_qua_lon"
+msgstr "Kích thước tệp tin quá lớn"
+
+msgid "hien_thi"
+msgstr "Hiển thị"
+
+msgid "khong_hien_thi"
+msgstr "Không hiển thị"
+
+msgid "ngung_kinh_doanh"
+msgstr "Ngừng kinh doanh"
+
+msgid "hien_thi_muc_luc"
+msgstr "Hiển thị mục lục"
+
+msgid "ban_luu_nhap"
+msgstr "Bản lưu nháp"
+
+msgid "chon"
+msgstr "Chọn"
+
+msgid "tu"
+msgstr "Từ"
+
+msgid "den"
+msgstr "Đến"
+
+msgid "khong_co_anh"
+msgstr "Không có ảnh"
+
+msgid "co_anh"
+msgstr "Có ảnh"
+
+msgid "cua_hang"
+msgstr "Cửa hàng"
+
+msgid "ten_cua_hang"
+msgstr "tên cửa hàng"
+
+msgid "danh_dau"
+msgstr "Đánh dấu"
+
+msgid "san_pham_noi_bat"
+msgstr "Sản phẩm nổi bật"
+
+msgid "hinh_anh"
+msgstr "Hình ảnh"
+
+msgid "hien_thi_ngoai_website"
+msgstr "Hiển thị ngoài website"
+
+msgid "ma_san_pham"
+msgstr "Mã sản phẩm"
+
+msgid "gia"
+msgstr "Giá"
+
+msgid "muc_gia"
+msgstr "Mức giá"
+
+msgid "ngay_khuyen_mai"
+msgstr "Ngày khuyến mại"
+
+msgid "gia_dac_biet"
+msgstr "Giá đặc biệt"
+
+msgid "can_nang"
+msgstr "Cân nặng"
+
+msgid "chieu_dai"
+msgstr "Chiều dài"
+
+msgid "chieu_rong"
+msgstr "Chiều rộng"
+
+msgid "chieu_cao"
+msgstr "Chiều cao"
+
+msgid "so_luong"
+msgstr "Số lượng"
+
+msgid "phien_ban"
+msgstr "Phiên bản"
+
+msgid "dong_y"
+msgstr "Đồng ý"
+
+msgid "huy_bo"
+msgstr "Hủy bỏ"
+
+msgid "gia_khong_nho_hon_gia_dac_biet"
+msgstr "Giá không nhỏ hơn giá đặc biệt"
+
+msgid "chua_dien_gia"
+msgstr "Chưa điền giá"
+
+msgid "ghi_chu"
+msgstr "Ghi chú"
+
+msgid "ma_khach_hang"
+msgstr "Mã khách hàng"
+
+msgid "neu_khong_nhap_he_thong_se_tu_dong_sinh_ra_ma"
+msgstr "Nếu không nhập hệ thống sẽ tự động sinh ra mã"
+
+msgid "ten"
+msgstr "Tên"
+
+msgid "them_moi_dia_chi"
+msgstr "Thêm mới địa chỉ"
+
+msgid "them_moi_ghi_chu"
+msgstr "Thêm mới ghi chú"
+
+msgid "zip_code"
+msgstr "Zip code"
+
+msgid "cap_nhat_khach_hang"
+msgstr "Cập nhật khách hàng"
+
+msgid "ten_khach_hang"
+msgstr "Tên khách hàng"
+
+msgid "ten_da_ton_tai_tren_he_thong"
+msgstr "Tên đã tồn tại trên hệ thống"
+
+msgid "vui_long_nhap_ten_khach_hang"
+msgstr "Vui lòng nhập tên khách hàng"
+
+msgid "email_da_duoc_dang_ky"
+msgstr "Email đã được đăng ký"
+
+msgid "so_dien_thoai_da_duoc_dang_ky"
+msgstr "Số điện thoại đã được đăng ký"
+
+msgid "ngay_sinh_chua_dung_dinh_dang_ngay_thang"
+msgstr "Ngày sinh chưa đúng định dạng ngày tháng"
+
+msgid "khong_xoa_duoc_dia_chi_mac_dinh"
+msgstr "Không xóa được địa chỉ mặc định"
+
+msgid "nhan_vien_cham_soc"
+msgstr "Nhân viên chăm sóc"
+
+msgid "tinh_thanh_thanh_pho"
+msgstr "Tỉnh thành/Thành phố"
+
+msgid "quan_huyen"
+msgstr "Quận huyện"
+
+msgid "phuong_xa"
+msgstr "Phường xã"
+
+msgid "neu_khong_nhap_he_thong_se_tu_dong_sinh_ra_ma_khach_hang"
+msgstr "Nếu không nhập hệ thống sẽ tự động sinh ra mã khách hàng"
+
+msgid "thong_tin_co_ban"
+msgstr "Thông tin cơ bản"
+
+msgid "chi_tiet_khach_hang"
+msgstr "Chi tiết khách hàng"
+
+msgid "don_hang_cua_toi"
+msgstr "Đơn hàng của tôi"
+
+msgid "so_dia_chi"
+msgstr "Sổ địa chỉ"
+
+msgid "ma_don_hang"
+msgstr "Mã đơn hàng"
+
+msgid "tong_tien"
+msgstr "Tổng tiền"
+
+msgid "ten_dia_chi"
+msgstr "Tên địa chỉ"
+
+msgid "them_dia_chi"
+msgstr "Thêm địa chỉ"
+
+msgid "don_hang_moi"
+msgstr "Đơn hàng mới"
+
+msgid "xac_nhan"
+msgstr "Xác nhận"
+
+msgid "dong_goi"
+msgstr "Đóng gói"
+
+msgid "xuat_kho"
+msgstr "Xuất kho"
+
+msgid "hoan_thanh"
+msgstr "Hoàn thành"
+
+msgid "huy"
+msgstr "Hủy"
+
+msgid "chinh_sua"
+msgstr "Chỉnh sửa"
+
+msgid "danh_sach_don_van"
+msgstr "Danh sách đơn vận"
+
+msgid "chi_tiet_don_van"
+msgstr "Chi tiết đơn vận"
+
+msgid "cho_lay_hang"
+msgstr "Chờ lấy hàng"
+
+msgid "dang_giao_hang"
+msgstr "Đang giao hàng"
+
+msgid "da_giao_hang"
+msgstr "Đã giao hàng"
+
+msgid "huy_dong_goi"
+msgstr "Hủy đóng gói"
+
+msgid "huy_giao_va_cho_nhan"
+msgstr "Hủy giao và chờ nhận"
+
+msgid "huy_giao_va_da_nhan"
+msgstr "Hủy giao và đã nhận"
+
+msgid "thong_tin_don_van"
+msgstr "Thông tin đơn vận"
+
+msgid "ma_don_van"
+msgstr "Mã đơn vận"
+
+msgid "ma_hoa_don"
+msgstr "Mã hóa đơn"
+
+msgid "tinh_trang_giao_hang"
+msgstr "Tình trạng giao hàng"
+
+msgid "phuong_thuc"
+msgstr "Phương thức"
+
+msgid "tien_thu_ho_cod"
+msgstr "Tiền thu hộ (COD)"
+
+msgid "phi_tinh_cho_khach"
+msgstr "Phí tính cho khách"
+
+msgid "phi_tra_dtgh"
+msgstr "Phí trả ĐTGH"
+
+msgid "trong_luong"
+msgstr "Trọng lượng"
+
+msgid "kich_thuoc"
+msgstr "Kích thước"
+
+msgid "dai"
+msgstr "Dài"
+
+msgid "rong"
+msgstr "Rộng"
+
+msgid "cao"
+msgstr "Cao"
+
+msgid "thong_tin_nguoi_nhan"
+msgstr "Thông tin người nhận"
+
+msgid "nguoi_nhan"
+msgstr "Người nhận"
+
+msgid "thong_tin_san_pham"
+msgstr "Thông tin sản phẩm"
+
+msgid "ma"
+msgstr "Mã"
+
+msgid "ten_san_pham"
+msgstr "Tên sản phẩm"
+
+msgid "chiet_khau"
+msgstr "Chiết khấu"
+
+msgid "thue"
+msgstr "Thuế"
+
+msgid "thanh_tien"
+msgstr "Thành tiền"
+
+msgid "phi_van_chuyen"
+msgstr "Phí vận chuyển"
+
+msgid "khach_phai_tra"
+msgstr "Khách phải trả"
+
+msgid "nhan_tai_cua_hang"
+msgstr "Nhận tại của hàng"
+
+msgid "van_chuyen_thong_thuong"
+msgstr "Vận chuyển thông thường"
+
+msgid "hang_van_chuyen"
+msgstr "Hãng vận chuyển"
+
+msgid "khong_lay_duoc_thong_tin_hang_van_chuyen"
+msgstr "Không lấy được thông tin hãng vận chuyển"
+
+msgid "chi_tiet_don_van"
+msgstr "Chi tiết đơn vận"
+
+msgid "thong_tin_chi_nhanh"
+msgstr "Thông tin chi nhánh"
+
+msgid "ten_chi_nhanh"
+msgstr "Tên chi nhánh"
+
+msgid "ten_nguoi_dai_dien"
+msgstr "Tên người đại diện"
+
+msgid "ma_chi_nhanh"
+msgstr "Mã chi nhánh"
+
+msgid "ma_buu_dien"
+msgstr "Mã bưu điện"
+
+msgid "so_dien_thoai_chi_nhanh"
+msgstr "Số điện thoại chi nhánh"
+
+msgid "dia_chi_chi_nhanh"
+msgstr "Địa chỉ chi nhánh"
+
+msgid "chi_nhanh_mac_dinh"
+msgstr "Chi nhánh mặc định"
+
+msgid "maps"
+msgstr "Maps"
+
+msgid "mo_ta_chi_nhanh"
+msgstr "Mô tả chi nhánh"
+
+msgid "them_chi_nhanh"
+msgstr "Thêm chi nhánh"
+
+msgid "chi_nhanh"
+msgstr "Chi nhánh"
+
+msgid "chi_tiet_chi_nhanh"
+msgstr "Chi tiết chi nhánh"
+
+msgid "tong_quan"
+msgstr "Tổng quan"
+
+msgid "giao_dien"
+msgstr "Giao diện"
+
+msgid "cau_hinh"
+msgstr "Cấu hình"
+
+msgid "xin_chao"
+msgstr "Xin chào"
+
+msgid "quan_ly_giao_dien"
+msgstr "Quản lý giao diện"
+
+msgid "thiet_lap_giao_dien"
+msgstr "Thiết lập giao diện"
+
+msgid "danh_sach_giao_dien"
+msgstr "Danh sách giao diện"
+
+msgid "quan_ly_va_thiet_lap_giao_dien_mac_dinh"
+msgstr "Quản lý và thiết lập giao diện mặc định"
+
+msgid "cai_dat_va_thiet_lap_giao_dien"
+msgstr "Cài đặt và thiết lập giao diện"
+
+msgid "chinh_sua_file_giao_dien_goc"
+msgstr "Chỉnh sửa file giao diện gốc"
+
+msgid "tuy_chinh_css_cho_website"
+msgstr "Tùy chỉnh css cho website"
+
+msgid "tuy_chinh_javascript_cho website"
+msgstr "Tùy chỉnh javascript cho website"
+
+msgid "thiet_lap_block"
+msgstr "Thiết lập block"
+
+msgid "danh_sach_block"
+msgstr "Danh sách block"
+
+msgid "quan_ly_cac_block_cua_website"
+msgstr "Quản lý các block của website"
+
+msgid "them_block"
+msgstr "Thêm block"
+
+msgid "them_block_moi_cho_website"
+msgstr "Thêm block mới cho website"
+
+msgid "thiet_lap_khac"
+msgstr "Thiết lập khác"
+
+msgid "menu"
+msgstr "Menu"
+
+msgid "quan_ly_thong_tin_menu"
+msgstr "Quản lý thông tin menu"
+
+msgid "quan_ly_ma_nhung"
+msgstr "Quản lý mã nhúng"
+
+msgid "thiet_lap_thong_tin_website"
+msgstr "Thiết lập thông tin website"
+
+msgid "thiet_lap_cau_hinh_seo"
+msgstr "Thiết lập cấu hình SEO"
+
+msgid "thiet_lap_duong_dan_tinh"
+msgstr "Thiết lập đường dẫn tĩnh"
+
+msgid "thiet_lap_cau_hinh_email"
+msgstr "Thiết lập cấu hình email"
+
+msgid "thiet_lap_ngon_ngu_website"
+msgstr "Thiết lập ngôn ngữ website"
+
+msgid "thiet_lap_cau_hinh_mau_in"
+msgstr "Thiết lập cấu hình mẫu in"
+
+msgid "cai_dat_cua_hang"
+msgstr "Cài đặt cửa hàng"
+
+msgid "nguon_ban_hang"
+msgstr "Nguồn bán hàng"
+
+msgid "them_va_quan_ly_nguon_tao_ra_don_hang"
+msgstr "Thêm và quản lý nguồn tạo ra đơn hàng"
+
+msgid "thiet_lap_tai_khoan"
+msgstr "Thiết lập tài khoản"
+
+msgid "thiet_lap_nhom_quyen"
+msgstr "Thiết lập nhóm quyền"
+
+msgid "thiet_lap_phan_quyen"
+msgstr "Thiết lập phân quyền"
+
+msgid "cau_hinh_san_pham"
+msgstr "Cấu hình sản phẩm"
+
+msgid "thiet_lap_cau_hinh_san_pham"
+msgstr "Thiết lập cấu hình sản phẩm"
+
+msgid "kiem_tra_so_luong_san_pham_truoc_khi_them_vao_gio_hang"
+msgstr "Kiểm tra số lượng sản phẩm trước khi thêm vào giỏ hàng"
+
+msgid "xoa_bo_nho_luu_tru_tam_thoi_cua_website"
+msgstr "Xóa bộ nhớ lưu trữ tạm thời của website"
+
+msgid "bao_mat_cua_website"
+msgstr "Bảo mật của website"
+
+msgid "van_don"
+msgstr "Vận đơn"
+
+msgid "tao_don_hang"
+msgstr "Tạo đơn hàng"
+
+msgid "danh_sach_don_hang"
+msgstr "Danh sách đơn hàng"
+
+msgid "khach_tra_hang"
+msgstr "Khách trả hàng"
+
+msgid "khach_tra_hang"
+msgstr "Khách trả hàng"
+
+msgid "dat_hang"
+msgstr "Đặt hàng"
+
+msgid "duyet_don"
+msgstr "Duyệt đơn"
+
+msgid "thong_tin_don_hang"
+msgstr "Thông tin đơn hàng"
+
+msgid "nguon_don_hang"
+msgstr "Nguồn đơn hàng"
+
+msgid "tao_moi_don"
+msgstr "Tạo mới đơn"
+
+msgid "khong_lay_duoc_thong_tin_don_hang"
+msgstr "Không lấy được thông tin đơn hàng"
+
+msgid "trang_thai_don_hang_khong_hop_le"
+msgstr "Trạng thái đơn hàng không hợp lệ"
+
+msgid "nhan_vien"
+msgstr "Nhân viên"
+
+msgid "thong_tin_khach_hang"
+msgstr "Thông tin khách hàng"
+
+msgid "tim_kiem_danh_muc_san_pham"
+msgstr "Tìm kiếm danh mục sản phẩm"
+
+msgid "tim_kiem_khach_hang"
+msgstr "Tìm kiếm khách hàng"
+
+msgid "tim_kiem_khach_hang_f4"
+msgstr "Tìm kiếm khách hàng (F4)"
+
+msgid "tim_kiem_san_pham_f3"
+msgstr "Tìm kiếm sản phẩm (F3)"
+
+msgid "thanh_toan_don_hang"
+msgstr "Thanh toán đơn hàng"
+
+msgid "dong_goi_va_giao_hang"
+msgstr "Đóng gói và giao hàng"
+
+msgid "xac_nhan_thanh_toan"
+msgstr "Xác nhận thanh toán"
+
+msgid "dong_goi_cho_van_chuyen"
+msgstr "Đóng gói chờ vận chuyển"
+
+msgid "hinh_thuc_thanh_toan"
+msgstr "Hình thức thanh toán"
+
+msgid "tien_mat"
+msgstr "Tiền mặt"
+
+msgid "chuyen_khoan"
+msgstr "Chuyển khoản"
+
+msgid "quet_the"
+msgstr "Quẹt thẻ"
+
+msgid "cod"
+msgstr "COD"
+
+msgid "so_tien_thanh_toan"
+msgstr "số tiền thanh toán"
+
+msgid "so_tien_thanh_toan_khong_duoc_lon_hon_gia_tri_don_hang"
+msgstr "Số tiền thanh toán không được lớn hơn giá trị đơn hàng"
+
+msgid "ma_tham_chieu"
+msgstr "Mã tham chiếu"
+
+msgid "ngay_thanh_toan"
+msgstr "Ngày thanh toán"
+
+msgid "phi_van_chuyen_thu_khach_hang"
+msgstr "Phí vận chuyển thu khách hàng"
+
+msgid "tu_van_chuyen"
+msgstr "Tự vận chuyển"
+
+msgid "khach_hang_se_den_cua_hang_cua_ban_de_lay_hang"
+msgstr "Khách hàng sẽ đến cửa hàng của bạn để lấy hàng"
+
+msgid "ban_hay_them_khach_hang_de_su_dung_dich_vu_giao_hang"
+msgstr "Bạn hãy thêm khách hàng để sử dụng dịch vụ giao hàng"
+
+msgid "cap_nhat_tai_day"
+msgstr "Cập nhật tại đây"
+
+msgid "tao_don_va_duyet"
+msgstr "Tạo đơn và duyệt"
+
+msgid "them_moi_khach_hang"
+msgstr "Thêm mới khách hàng"
+
+msgid "them_moi_san_pham"
+msgstr "Thêm mới sản phẩm"
+
+msgid "ly_do"
+msgstr "Lý do"
+
+msgid "tao_don_hang_moi"
+msgstr "Tạo đơn hàng mới"
+
+msgid "dia_chi_giao_hang"
+msgstr "Địa chỉ giao hàng"
+
+msgid "don_hang_da_duoc_thanh_toan_toan_bo"
+msgstr "Đơn hàng đã được thanh toán toàn bộ"
+
+msgid "da_thanh_toan"
+msgstr "Đã thanh toán"
+
+msgid "giao_hang"
+msgstr "Giao hàng"
+
+msgid "dong"
+msgstr "Đóng"
+
+msgid "huy_don"
+msgstr "Hủy đơn"
+
+msgid "sua_thong_tin"
+msgstr "Sửa thông tin"
+
+msgid "dang_xuat"
+msgstr "Đăng xuất"
+
+msgid "chiet_khau_don_hang"
+msgstr "Chiết khấu đơn hàng"
+
+msgid "chi_tiet_don_hang"
+msgstr "Chi tiết đơn hàng"
+
+msgid "ngay_lap_don"
+msgstr "Ngày lập đơn"
+
+msgid "phuong_thuc_van_chuyen_khong_hop_le"
+msgstr "Phương thức vận chuyển không hợp lệ"
+
+msgid "vui_long_nhap_so_dien_thoai_khach_hang"
+msgstr "Vui lòng nhập số điện thoại khách hàng"
+
+msgid "thong_tin_quoc_gia_chua_chinh_xac"
+msgstr "Thông tin quốc gia chưa chính xác"
+
+msgid "vui_long_chon_thong_tin_tinh_thanh"
+msgstr "Vui lòng chọn thông tin tỉnh thành"
+
+msgid "vui_long_chon_thong_tin_quan_huyen"
+msgstr "Vui lòng chọn thông tin quận huyện"
+
+msgid "luu_thong_tin_don_hang_khong_thanh_cong"
+msgstr "Lưu thông tin đơn hàng không thành công"
+
+msgid "cap_nhat_ma_don_hang_khong_thanh_cong"
+msgstr "Cập nhật mã đơn hàng không thành công"
+
+msgid "luu_thong_tin_thanh_toan_khong_thanh_cong"
+msgstr "Lưu thông tin thanh toán không thành công"
+
+msgid "luu_thong_tin_van_chuyen_khong_thanh_cong"
+msgstr "Lưu thông tin vận chuyển không thành công"
+
+msgid "loai_don_khong_hop_le"
+msgstr "Loại đơn không hợp lệ"
+
+msgid "khong_lay_duoc_thong_tin_hoa_don_lien_quan"
+msgstr "Không lấy được thông tin hóa đơn liên quan"
+
+msgid "trang_thai_khong_hop_le"
+msgstr "Trạng thái không hợp lệ"
+
+msgid "vui_long_chon_san_pham"
+msgstr "Vui lòng chọn sản phẩm"
+
+msgid "id_san_pham_khong_hop_le"
+msgstr "ID sản phẩm không hợp lệ"
+
+msgid "loai_phieu_thanh_toan_khong_hop_le"
+msgstr "Loại phiếu thanh toán không hợp lệ"
+
+msgid "doi_tuong_thanh_toan_khong_hop_le"
+msgstr "Đối tượng thanh toán không hợp lệ"
+
+msgid "so_tien_thanh_toan_khong_hop_le"
+msgstr "Số tiền thanh toán không hợp lệ"
+
+msgid "phuong_thuc_thanh_toan_khong_hop_le"
+msgstr "Phương thức thanh toán không hợp lệ"
+
+msgid "upload_thanh_cong"
+msgstr "Upload thành công"
+
+msgid "danh_sach_don_tra_hang"
+msgstr "Danh sách đơn trả hàng"
+
+msgid "tao_don_tra_hang"
+msgstr "Tạo đơn trả hàng"
+
+msgid "danh_sach_don_hang_thanh_cong"
+msgstr "Danh sách đơn hàng thành công"
+
+msgid "thanh_cong"
+msgstr "Thành công"
+
+msgid "trang_thai_thanh_toan"
+msgstr "Trạng thái thanh toán"
+
+msgid "thanh_toan_thanh_cong"
+msgstr "Thanh toán thành công"
+
+msgid "phuong_thuc_thanh_toan"
+msgstr "Phương thức thanh toán"
+
+msgid "thanh_toan_tien_mat"
+msgstr "Thanh toán tiền mặt"
+
+msgid "ma_phieu_thanh_toan"
+msgstr "Mã phiếu thanh toán"
+
+msgid "tat_ca_san_pham_da_duoc_giao"
+msgstr "Tất cả sản phẩm đã được giao"
+
+msgid "hoan_tra_hang_da_giao"
+msgstr "Hoàn trả hàng đã giao"
+
+msgid "phuong_thuc_van_chuyen"
+msgstr "Phương thức vận chuyển"
+
+msgid "mo_ta_phuong_thuc"
+msgstr "Mô tả phương thức"
+
+msgid "tien_thu_ho"
+msgstr "Tiền thu hộ"
+
+msgid "phi_van_chuyen_thu_cua_khach"
+msgstr "Phí vận chuyển thu của khách"
+
+msgid "hoan_tra"
+msgstr "Hoàn trả"
+
+msgid "ngay_tra_hang"
+msgstr "Ngày trả hàng"
+
+msgid "tra_hang"
+msgstr "Trả hàng"
+
+msgid "so_luong_tra"
+msgstr "Số lượng trả"
+
+msgid "so_luong_mua"
+msgstr "Số lượng mua"
+
+msgid "so_luong_san_pham"
+msgstr "Số lượng sản phẩm"
+
+msgid "tong_tien_tra_khach"
+msgstr "Tổng tiền trả khách"
+
+msgid "hoan_tien"
+msgstr "Hoàn tiền"
+
+msgid "nhan_hang"
+msgstr "Nhận hàng"
+
+msgid "da_nhan_hang_tra_lai"
+msgstr "Đã nhận hàng trả lại"
+
+msgid "don_hang_nay_da_hoan_tra_het_khong_the_tiep_tuc_thuc_hien"
+msgstr "Đơn hàng này đã hoàn trả hết, không thể tiếp tục thực hiện"
+
+msgid "khong_lay_duoc_thong_tin_san_pham_trong_don_hang"
+msgstr "Không lấy được thông tin sản phẩm trong đơn hàng"
+
+msgid "ngay_nhan_hang"
+msgstr "Ngày nhận hàng"
+
+msgid "duoc_tra_tu_don_hang"
+msgstr "Được trả từ đơn hàng"
+
+msgid "xem_chi_tiet"
+msgstr "Xem chi tiết"
+
+msgid "xem"
+msgstr "Xem"
+
+msgid "don_hang_da_duoc_hoan_tien_toan_bo"
+msgstr "Đơn hàng đã được hoàn tiền toàn bộ"
+
+msgid "con_phai_tra"
+msgstr "Còn phải trả"
+
+msgid "don_tra_hang_da_nhan_duoc_hang"
+msgstr "Đơn trả hàng đã nhận được hàng"
+
+msgid "thanh_toan"
+msgstr "Thanh toán"
+
+msgid "nhan_hang_hoan_lai"
+msgstr "Nhận hàng hoàn lại"
+
+msgid "xac_nhan_da_nhan_lai_hang_hoan_cua_khach_hang"
+msgstr "Xác nhận đã nhận lại hàng hoàn của khách hàng"
+
+msgid "cap_nhat_thong_tin_khach_hang"
+msgstr "Cập nhật thông tin khách hàng"
+
+msgid "da_tra_hang_hang_toan_bo"
+msgstr "Đã trả hàng hãng toàn bộ"
+
+msgid "ban_co_chac_chan_chan_xuat_kho_don_giao_hang_nay_khong"
+msgstr "Bạn có chắc chắn xuất kho đơn giao hàng này không"
+
+msgid "xac_nhan_huy_don_hang"
+msgstr "Xác nhận hủy đơn hàng"
+
+msgid "ban_chac_chan_muon_huy_don_hang"
+msgstr "Bạn chắc chắn muốn hủy đơn hàng"
+
+msgid "thao_tac_nay_khong_the_khoi_phuc_va_se_tac_dong_den"
+msgstr "Thao tác này không thể khôi phục và sẽ tác động đến"
+
+msgid "thay_doi_so_luong_san_pham"
+msgstr "Thay đổi số lượng sản phẩm"
+
+msgid "thay_doi_trang_thai_va_thong_tin_cua_don_hang"
+msgstr "Thay đổi trạng thái và thông tin của đơn hàng"
+
+msgid "huy_phieu_giao_van_va_thu_chi_don_hang"
+msgstr "Hủy phiếu giao vận và thu chi đơn hàng"
+
+msgid "tao_don_moi"
+msgstr "Tạo đơn mới"
+
+msgid "thanh_toan_loi"
+msgstr "Thanh toán lỗi"
+
+msgid "xac_nhan_thanh_toan"
+msgstr "Xác nhận thanh toán"
+
+msgid "cho_thu_ho"
+msgstr "Chờ thu hộ"
+
+msgid "dang_cho_xac_nhan"
+msgstr "Đang chờ xác nhận"
+
+msgid "dang_cho_duyet"
+msgstr "Đang chờ duyệt"
+
+msgid "thanh_toan_chuyen_khoan"
+msgstr "Thanh toán chuyển khoản"
+
+msgid "thanh_toan_quet_the"
+msgstr "Thanh toán quẹt thẻ"
+
+msgid "thanh_toan_qua_cong_thanh_toan"
+msgstr "Thanh toán qua cổng thanh toán"
+
+msgid "thanh_toan_bang_voucher"
+msgstr "Thanh toán bằng voucher"
+
+msgid "thanh_toan_thu_ho"
+msgstr "Thanh toán thu hộ"
+
+msgid "cho_nhan_hang"
+msgstr "Chờ nhận hàng"
+
+msgid "da_nhan_hang"
+msgstr "Đã nhận hàng"
+
+msgid "gui_qua_hang_van_chuyen"
+msgstr "Gửi qua hãng vận chuyển"
+
+msgid "huy_giao_hang"
+msgstr "Hủy giao hàng"
+
+msgid "huy_giao_va_nhan_lai_hang"
+msgstr "Hủy giao và nhận lại hàng"
+
+msgid "thay_doi_dia_chi"
+msgstr "Thay đổi địa chỉ"
+
+msgid "them_dia_chi_moi"
+msgstr "Thêm địa chỉ mới"
+
+msgid "phi_van_chuyen_phai_chi_cho_nhan_vien_van_chuyen_hoac_hang_van_chuyen"
+msgstr "Phí vận chuyển phải chi cho nhân viên vận chuyển hoặc hãng vận chuyển"
+
+msgid "khoi_luong"
+msgstr "Khối lượng"
+
+msgid "chieu_dai"
+msgstr "Chiều dài"
+
+msgid "chieu_rong"
+msgstr "Chiều rộng"
+
+msgid "chieu_cao"
+msgstr "Chiều cao"
+
+msgid "ban_hay_them_san_pham_vao_don_hang_de_su_dung_dich_vu_giao_hang"
+msgstr "Bạn hãy thêm sản phẩm vào đơn hàng để sử dụng dịch vụ giao hàng"
+
+msgid "thay_doi_dia_chi_giao_hang"
+msgstr "Thay đổi địa chỉ giao hàng"
+
+msgid "khong_cho_phep_xoa_nguon_don_hang_nay"
+msgstr "Không cho phép xóa nguồn đơn hàng này"
+
+msgid "thong_tin_don_hang_khong_hop_le"
+msgstr "Thông tin đơn hàng không hợp lệ"
+
+msgid "cap_nhat_don_hang"
+msgstr "Cập nhật đơn hàng"
+
+msgid "khong_tim_thay_thong_tin_don_hang"
+msgstr "Không tìm thấy thông tin đơn hàng"
+
+msgid "so_tien_thanh_toan_vuot_qua_so_tien_can_thanh_toan"
+msgstr "Số tiền thanh toán vượt quá số tiền cần thanh toán"
+
+msgid "khong_tim_thay_thong_tin_van_chuyen"
+msgstr "Không tìm thấy thông tin vận chuyển"
+
+msgid "don_hang_khach_tra"
+msgstr "Đơn hàng khách trả"
+
+msgid "chi_tiet_don_tra_hang"
+msgstr "Chi tiết đơn trả hàng"
+
+msgid "vui_long_chon_san_pham_vao_don_tra_hang"
+msgstr "Vui lòng chọn sản phẩm vào đơn trả hàng"
+
+msgid "nhan_lai_hang_hoan_thanh_cong"
+msgstr "Nhận lại hàng hoàn thành công"
+
+msgid "trang_thuong"
+msgstr "Trang thường"
+
+msgid "trang_bo_cuc"
+msgstr "Trang bố cục"
+
+msgid "trang_chu"
+msgstr "Trang chủ"
+
+msgid "danh_sach_san_pham"
+msgstr "Danh sách sản phẩm"
+
+msgid "san_pham"
+msgstr "Sản phẩm"
+
+msgid "chi_tiet_san_pham"
+msgstr "Chi tiết sản phẩm"
+
+msgid "bai_viet"
+msgstr "Bài viết"
+
+msgid "chi_tiet_bai_viet"
+msgstr "Chi tiết bài viết"
+
+msgid "youtube"
+msgstr "Youtube"
+
+msgid "phan_tich_bai_viet_va_tu_khoa"
+msgstr "Phân tích bài viết và từ khóa"
+
+msgid "cap_nhat_san_pham"
+msgstr "Cập nhật sản phẩm"
+
+msgid "cap_nhat_thong_tin"
+msgstr "Cập nhật thông tin"
+
+msgid "gia_va_so_luong_san_pham"
+msgstr "Giá và số lượng sản phẩm"
+
+msgid "chon_thuoc_tinh_san_pham"
+msgstr "Chọn thuộc tính sản phẩm"
+
+msgid "gia_va_phien_ban_san_pham"
+msgstr "Giá và phiên bản sản phẩm"
+
+msgid "chon_thuoc_tinh"
+msgstr "Chọn thuộc tính"
+
+msgid "anh_san_pham"
+msgstr "Ảnh sản phẩm"
+
+msgid "san_co"
+msgstr "Sẵn có"
+
+msgid "bo_san_pham_day_du"
+msgstr "Bộ sản phẩm đầy đủ"
+
+msgid "thay_doi_thuoc_tinh"
+msgstr "Thay đổi thuộc tính"
+
+msgid "cac_thanh_phan_gom_trong_bo_san_pham_nay"
+msgstr "Các thành phần gồm trong bộ sản phẩm này"
+
+msgid "gia_ban_le_san_pham_cho_chuong_trinh_khuyen_mai"
+msgstr "Giá bán lẻ sản phẩm cho chương trình khuyến mại"
+
+msgid "gia_khuyen_mai"
+msgstr "Giá khuyến mại"
+
+msgid "sao_chep_thong_tin_phien_ban_dau_tien_cho_cac_phien_ban_con_lai"
+msgstr "Sao chép thông tin phiên bản đầu tiên cho các phiên bản còn lại"
+
+msgid "sao_chep_so_luong_phien_ban_dau_tien_cho_cac_phien_ban_con_lai"
+msgstr "Sao chép số lượng phiên bản đầu tiên cho các phiên bản còn lại"
+
+msgid "sao_chep_gia_phien_ban_dau_tien_cho_cac_phien_ban_con_lai"
+msgstr "Sao chép giá phiên bản đầu tiên cho các phiên bản còn lại"
+
+msgid "xoa_thong_tin_tat_ca_phien_ban"
+msgstr "Xóa thông tin tất cả phiên bản"
+
+msgid "ap_dung_thuoc_tinh"
+msgstr "Áp dụng thuộc tính"
+
+msgid "chọn_thuoc_tinh"
+msgstr "Chọn thuộc tính"
+
+msgid "them_phien_ban_san_pham"
+msgstr "Thêm phiên bản sản phẩm"
+
+msgid "mo_ta_san_pham"
+msgstr "Mô tả sản phẩm"
+
+msgid "duong_dan_video"
+msgstr "Đường dẫn video"
+
+msgid "chon_tep"
+msgstr "Chọn tệp"
+
+msgid "seo"
+msgstr "SEO"
+
+msgid "tu_khoa"
+msgstr "Từ khóa"
+
+msgid "tot"
+msgstr "Tốt"
+
+msgid "binh_thuong"
+msgstr "Bình thường"
+
+msgid "chua_dat"
+msgstr "Chưa đạt"
+
+msgid "chua_co"
+msgstr "Chưa có"
+
+msgid "code"
+msgstr "Code"
+
+msgid "tac_gia"
+msgstr "Tác giả"
+
+msgid "version"
+msgstr "Version"
+
+msgid "kich_hoat_giao_dien"
+msgstr "Kích hoạt giao diện"
+
+msgid "dang_kich_hoat"
+msgstr "Đang kích hoạt"
+
+msgid "cho_kich_hoat"
+msgstr "Chờ kích hoạt"
+
+msgid "them_giao_dien_moi"
+msgstr "Thêm giao diện mới"
+
+msgid "them_va_quan_ly_chi_nhanh"
+msgstr "Thêm và quản lý chi nhánh"
+
+msgid "loai_block"
+msgstr "Loại block"
+
+msgid "ten_block"
+msgstr "Tên block"
+
+msgid "ten_block"
+msgstr "Tên block"
+
+msgid "cap_nhat_block"
+msgstr "Cập nhật block"
+
+msgid "cau_hinh_chung"
+msgstr "Cấu hình chung"
+
+msgid "du_lieu_mo_rong"
+msgstr "Dữ liệu mở rộng"
+
+msgid "sua_giao_dien"
+msgstr "Sửa giao diện"
+
+msgid "lich_su_thay_doi"
+msgstr "Lịch sử thay đổi"
+
+msgid "nhung_class_se_duoc_dat_o_the_bao_ngoai_cua_block"
+msgstr "Những class sẽ được đặt ở thẻ bao ngoài của block"
+
+msgid "lay_du_lieu_theo"
+msgstr "Lấy dữ liệu theo"
+
+msgid "tu_dong_theo_trang"
+msgstr "Tự động theo trang"
+
+msgid "lay_tu_dong_theo_duong_dan"
+msgstr "Lấy tự động theo đường dẫn"
+
+msgid "luu_cau_hinh"
+msgstr "Lưu cấu hình"
+
+msgid "tim_hieu_ve_json"
+msgstr "Tìm hiểu về JSON"
+
+msgid "du_lieu_mo_rong_se_duoc_luu_duoi_dang_json_va_block_co_the_doc_duoc_du_lieu_nay_de_hien_thi_ra_ngoai"
+msgstr "Dữ liệu mở rộng sẽ được lưu dưới dạng JSON và block có thể đọc được dữ liệu này để hiển thị ra ngoài"
+
+msgid "so_ban_ghi_hien_thi"
+msgstr "Số bản ghi hiển thị"
+
+msgid "so_luong_ban_ghi_se_hien_thi_trong_block"
+msgstr "Số lượng bản ghi sẽ hiển thị trong block"
+
+msgid "su_dung_phan_trang"
+msgstr "Sử dụng phân trang"
+
+msgid "neu_su_dung_phan_trang_thi_cau_hinh_so_san_pham_se_duoc_bo_qua"
+msgstr "Nếu sử dụng phân trang thì cấu hình số sản phẩm sẽ được bỏ qua"
+
+msgid "sap_xep_theo"
+msgstr "Sắp xếp theo"
+
+msgid "luot_xem"
+msgstr "Lượt xem"
+
+msgid "luot_thich"
+msgstr "Lượt thích"
+
+msgid "luot_binh_luan"
+msgstr "Lượt bình luận"
+
+msgid "noi_bat"
+msgstr "Nổi bật"
+
+msgid "ngay_cap_nhat"
+msgstr "Ngày cập nhật"
+
+msgid "giam_dan"
+msgstr "Giảm dần"
+
+msgid "tang_dan"
+msgstr "Tăng dần"
+
+msgid "luu_thong_tin"
+msgstr "Lưu thông tin"
+
+msgid "media"
+msgstr "Media"
+
+msgid "thanh_toan_truc_tiep"
+msgstr "Thanh toán trực tiếp"
+
+msgid "thanh_toan_paypal"
+msgstr "Thanh toán Paypal"
+
+msgid "thanh_toan_bao_kim"
+msgstr "Thanh toán Bảo Kim"
+
+msgid "thanh_toan_vnptpay"
+msgstr "Thanh toán VNPT PAY"
+
+msgid "thanh_toan_onepay"
+msgstr "Thanh toán Onepay"
+
+msgid "thanh_toan_onepay_noi_dia"
+msgstr "Thanh toán Onepay nội địa"
+
+msgid "thanh_toan_onepay_quoc_te"
+msgstr "Thanh toán Onepay quốc tế"
+
+msgid "thanh_toan_onepay_tra_gop"
+msgstr "Thanh toán Onepay trả góp"
+
+msgid "thanh_toan_alepay"
+msgstr "Thanh toán Alepay"
+
+msgid "thanh_toan_vnpay"
+msgstr "Thanh toán Vnpay"
+
+msgid "thanh_toan_momo"
+msgstr "Thanh toán Momo"
+
+msgid "nhan_hoa_azpay"
+msgstr "Nhân Hòa AzPay"
+
+msgid "dang_hoat_dong"
+msgstr "Đang hoạt động"
+
+msgid "dang_phat_trien"
+msgstr "Đang phát triển"
+
+msgid "ten_phuong_thuc"
+msgstr "Tên phương thức"
+
+msgid "huong_dan_cau_hinh"
+msgstr "Hướng dẫn cấu hình"
+
+msgid "cau_hinh_tai_khoan_ngan_hang"
+msgstr "Cấu hình tài khoản ngân hàng"
+
+msgid "thong_tin_cau_hinh"
+msgstr "Thông tin cấu hình"
+
+msgid "mo_ta"
+msgstr "Mô tả"
+
+msgid "ten_ngan_hang"
+msgstr "Tên ngân hàng"
+
+msgid "chu_tai_khoan"
+msgstr "Chủ tài khoản"
+
+msgid "so_tai_khoan"
+msgstr "Số tài khoản"
+
+msgid "them_moi_tai_khoan"
+msgstr "Thêm mới tài khoản"
+
+msgid "token_key"
+msgstr "Token key"
+
+msgid "checksum_key"
+msgstr "Checksum key"
+
+msgid "encrypt_key"
+msgstr "Encrypt key"
+
+msgid "environment"
+msgstr "Environment"
+
+msgid "ma_giao_dich"
+msgstr "Mã giao dịch"
+
+msgid "chi_tiet_giao_dich"
+msgstr "Chi tiết giao dịch"
+
+msgid "loai_phieu"
+msgstr "Loại phiếu"
+
+msgid "phieu_thu"
+msgstr "Phiếu thu"
+
+msgid "phieu_chi"
+msgstr "Phiếu chi"
+
+msgid "doi_tuong_nop"
+msgstr "Đối tượng nộp"
+
+msgid "doi_tuong_nhan"
+msgstr "Đối tượng nhận"
+
+msgid "ten_nguoi_nop"
+msgstr "Tên người nộp"
+
+msgid "ten_nguoi_nhan"
+msgstr "Tên người nhận"
+
+msgid "so_tien"
+msgstr "Số tiền"
+
+msgid "hach_toan_ket_qua_kinh_doanh"
+msgstr "Hạch toán kết quả kinh doanh"
+
+msgid "binh_luan"
+msgstr "Bình luận"
+
+msgid "binh_luan_danh_gia"
+msgstr "Bình luận/Đánh giá"
+
+msgid "cho_duyet"
+msgstr "Chờ duyệt"
+
+msgid "khong_duyet_binh_luan"
+msgstr "Không duyệt bình luận"
+
+msgid "duyet_binh_luan"
+msgstr "Duyệt bình luận"
+
+msgid "da_duyet"
+msgstr "Đã duyệt"
+
+msgid "nhap_binh_luan"
+msgstr "Nhập bình luận"
+
+msgid "ngay_truoc"
+msgstr "Ngày trước"
+
+msgid "ua_thich"
+msgstr "Ưa thích"
+
+msgid "quan_tri"
+msgstr "Quản trị"
+
+msgid "tai_lai_danh_sach"
+msgstr "Tải lại danh sách"
+
+msgid "danh_sach_binh_luan"
+msgstr "Danh sách bình luận"
+
+msgid "thong_tin_binh_luan"
+msgstr "Thông tin bình luận"
+
+msgid "dia_chi_ip"
+msgstr "Địa chỉ IP"
+
+msgid "xoa_binh_luan"
+msgstr "Xóa bình luận"
+
+msgid "xem_tai_day"
+msgstr "Xem tại đây"
+
+msgid "xoa_cache_thanh_cong"
+msgstr "Xóa cache thành công"
+
+msgid "thuoc_tinh_mo_rong"
+msgstr "Thuộc tính mở rộng"
+
+msgid "tuy_chinh_cac_thuoc_tinh_mo_rong_cua_san_pham_va_bai_viet"
+msgstr "Tùy chỉnh các thuộc tính mở rộng của sản phẩm và bài viết"
+
+msgid "xoa_du_lieu_thuoc_tinh_mo_rong"
+msgstr "Xóa dữ liệu thuộc tính mở rộng"
+
+msgid "xoa_du_lieu_lien_he_tu_khach_hang"
+msgstr "Xóa dữ liệu liên hệ từ khách hàng"
+
+msgid "form_lien_he"
+msgstr "Form liên hệ"
+
+msgid "quan_ly_thong_tin_form_lien_he"
+msgstr "Quản lý thông tin form liên hệ"
+
+msgid "mang_xa_hoi"
+msgstr "Mạng xã hội"
+
+msgid "cau_hinh_cac_thong_tin_lien_quan_den_cac_trang_mang_xa_hoi"
+msgstr "Cấu hình các thông tin liên quan đến các trang mạng xã hội"
+
+msgid "{0}_su_dung_de_cau_hinh_ham_khoi_tao_cho_cac_ung_dung_cua_facebook_nhung_vao_website"
+msgstr "{0} sử dụng để cấu hình hàm khởi tạo cho các ứng dụng của Facebook nhúng vào Website"
+
+msgid "tai_thu_vien_facebook"
+msgstr "Tải thư viện Facebook"
+
+msgid "tai_thu_vien_google"
+msgstr "Tải thư viện Google"
+
+msgid "thoi_gian_cho_tai_thu_vien"
+msgstr "Thời gian chờ tải thư viện"
+
+msgid "tuy_chinh_thoi_gian_tai_thu_vien_phu_hop_giup_website_cua_ban_rut_ngan_thoi_gian_tai_ban_dau"
+msgstr "Tùy chỉnh thời gian tải thư viện phù hợp giúp Website của bạn rút ngắn thời gian tải ban đầu"
+
+msgid "tien_te"
+msgstr "Tiền tệ"
+
+msgid "thiet_lap_tien_te_cua_he_thong"
+msgstr "Thiết lập tiền tệ của hệ thống"
+
+msgid "chua_cai_dat_don_vi_tien_te_mac_dinh_cua_website"
+msgstr "Chưa cài đặt đơn vị tiền tệ mặc định của website"
+
+msgid "doi_che_do"
+msgstr "Đổi chế độ"
+
+msgid "chua_tao"
+msgstr "Chưa tạo"
+
+msgid "thay_doi_che_do_website"
+msgstr "Thay đổi chế độ website"
+
+msgid "thong_tin_bao_mat"
+msgstr "Thông tin bảo mật"
+
+msgid "cau_hinh_thong_tin_bao_mat_cua_website"
+msgstr "Cấu hình thông tin bảo mật của website"
+
+msgid "chong_spam_va_bao_ve_thong_tin_du_lieu"
+msgstr "Chống spam và bảo vệ thông tin dữ liệu"
+
+msgid "chon_anh_giao_dien"
+msgstr "Chọn ảnh giao diện"
+
+msgid "chon_anh_tu_cdn"
+msgstr "Chọn ảnh từ CDN"
+
+msgid "nguoi_nhan_nop"
+msgstr "Người nhận nộp"
+
+msgid "da_huy"
+msgstr "Đã hủy"
+
+msgid "cho_xet_duyet"
+msgstr "Chờ xét duyệt"
+
+msgid "tim_kiem_theo_ghi_chu"
+msgstr "Tìm kiếm theo ghi chú"
+
+msgid "con_no"
+msgstr "Còn nợ"
+
+msgid "thanh_toan_hoan_tat"
+msgstr "Thanh toán hoàn tất"
+
+msgid "lien_he_cua_khach_hang"
+msgstr "Liên hệ của khách hàng"
+
+msgid "danh_gia"
+msgstr "Đánh giá"
+
+msgid "danh_sach_media"
+msgstr "Danh sách media"
+
+msgid "danh_sach_plugin"
+msgstr "Danh sách Plugin"
+
+msgid "su_dung_cache"
+msgstr "Sử dụng Cache"
+
+msgid "nhung_class_cau_hinh_se_duoc_dat_o_the_bao_ngoai_cua_block"
+msgstr "Những class cấu hình sẽ được đặt ở thẻ bao ngoài của block"
+
+msgid "logo_cong_ty"
+msgstr "Logo công ty"
+
+msgid "vui_long_nhap_ten_dia_chi"
+msgstr "Vui lòng nhập tên địa chỉ"
+
+msgid "ten_dia_chi_nay_da_duoc_su_dung_vui_long_chon_mot_ten_khac"
+msgstr "Tên địa chỉ này đã được sử dụng vui lòng chọn một tên khác"
+
+msgid "khong_lay_duoc_thong_tin_dia_chi"
+msgstr "Không lấy được thông tin địa chỉ"
+
+msgid "ban_khong_the_xoa_dia_chi_mac_dinh"
+msgstr "Bạn không thể xóa địa chỉ mặc định"
+
+msgid "vui_long_chon_khach_hang"
+msgstr "Vui lòng chọn khách hàng"
+
+msgid "vui_long_nhap_ten_giao_dien"
+msgstr "Vui lòng nhập tên giao diện"
+
+msgid "vui_long_nhap_ma_giao_dien"
+msgstr "Vui lòng nhập mã giao diện"
+
+msgid "vui_long_nhap_ten_tac_gia_giao_dien"
+msgstr "Vui lòng nhập tên tác giả giao diện"
+
+msgid "thu_muc_chua_giao_dien_mau_khong_ton_tai"
+msgstr "Thư mục chứa giao diện mẫu không tồn tại"
+
+msgid "khong_doc_duoc_tep_du_lieu_cua_giao_dien"
+msgstr "Không đọc được tệp dữ liệu của giao diện"
+
+msgid "khong_the_khoi_tao_thu_muc_chua_giao_dien"
+msgstr "Không thể khởi tạo thư mục chứa giao diện"
+
+msgid "nhan_ban_giao_dien_mau_khong_thanh_cong"
+msgstr "Nhân bản giao diện mẫu không thành công"
+
+msgid "khong_doc_duoc_tep_cau_hinh_cua_giao_dien"
+msgstr "Không đọc được tệp cấu hình của giao diện"
+
+msgid "nen_thu_muc_giao_dien_khong_thanh_cong"
+msgstr "Nén thư mục giao diện không thành công"
+
+msgid "giai_nen_thu_muc_giao_dien_khong_thanh_cong"
+msgstr "Giải nén thư mục giao diện không thành công"
+
+msgid "xuat_giao_dien_mau_thanh_cong"
+msgstr "Xuất giao diện mẫu thành công"
+
+msgid "tep_khoi_tao_cua_giao_dien_khong_hop_le"
+msgstr "Tệp khởi tạo của giao diện không hợp lệ"
+
+msgid "tai_xuong_tep_khoi_tao_cua_giao_dien_khong_thanh_cong"
+msgstr "Tải xuống tệp khởi tạo của giao diện không thành công"
+
+msgid "giai_nen_tep_khoi_tao_cua_giao_dien_khong_thanh_cong"
+msgstr "Giải nén tệp khởi tạo của giao diện không thành công"
+
+msgid "khong_tim_thay_tep_cau_hinh_cua_giao_dien"
+msgstr "Không tìm thấy tệp cấu hình của giao diện"
+
+msgid "khong_tim_thay_tep_du_lieu_cua_giao_dien"
+msgstr "Không tìm thấy tệp dữ liệu của giao diện"
+
+msgid "thong_tin_cau_hinh_cua_giao_dien_khong_hop_le"
+msgstr "Thông tin cấu hình của giao diện không hợp lệ"
+
+msgid "khong_doc_duoc_thong_tin_du_lieu_giao_dien"
+msgstr "Không đọc được thông tin dữ liệu giao diện"
+
+msgid "cai_dat_giao_dien_thanh_cong"
+msgstr "Cài đặt giao diện thành công"
+
+msgid "xoa_giao_dien_thanh_cong"
+msgstr "Xóa giao diện thành công"
+
+msgid "khong_tim_thay_thong_tin_bai_viet"
+msgstr "Không tìm thấy thông tin bài viết"
+
+msgid "nhan_ban_du_lieu_thanh_cong"
+msgstr "Nhân bản dữ liệu thành công"
+
+msgid "phien_ban_san_pham"
+msgstr "Phiên bản sản phẩm"
+
+msgid "them_thuoc_tinh"
+msgstr "Thêm thuộc tính"
+
+msgid "cap_nhat_thuoc_tinh"
+msgstr "Cập nhật thuộc tính"
+
+msgid "ten_thuoc_tinh_khong_hop_le"
+msgstr "Tên thuộc tính không hợp lệ"
+
+msgid "vui_long_nhap_ten_thuoc_tinh"
+msgstr "Vui lòng nhập tên thuộc tính"
+
+msgid "ten_thuoc_tinh_da_ton_tai_tren_he_thong"
+msgstr "Tên thuộc tính đã tồn tại trên hệ thống"
+
+msgid "vui_long_nhap_loai_thuoc_tinh"
+msgstr "Vui lòng nhập loại thuộc tính"
+
+msgid "vui_long_nhap_loai_input_thuoc_tinh"
+msgstr "Vui lòng nhập loại input thuộc tính"
+
+msgid "kieu_input_{0}_chi_ap_dung_voi_loai_thuoc_tinh_phien_ban_san_pham"
+msgstr "Kiểu input {0} chỉ áp dụng với loại thuộc tính phiên bản sản phẩm"
+
+msgid "vui_long_nhap_ma_thuoc_tinh"
+msgstr "Vui lòng nhập mã thuộc tính"
+
+msgid "ma_thuoc_tinh_da_ton_tai_tren_he_thong"
+msgstr "Mã thuộc tính đã tồn tại trên hệ thống"
+
+msgid "ma_thuoc_tinh_khong_hop_le"
+msgstr "Mã thuộc tính không hợp lệ"
+
+msgid "khong_lay_duoc_thong_tin_thuoc_tinh"
+msgstr "Không lấy được thông tin thuộc tính"
+
+msgid "tuy_chon_cua_thuoc_tinh"
+msgstr "Tùy chọn của thuộc tính"
+
+msgid "them_tuy_chon_thuoc_tinh"
+msgstr "Thêm tùy chọn thuộc tính"
+
+msgid "cap_nhat_tuy_chon"
+msgstr "Cập nhật tùy chọn"
+
+msgid "khong_lay_duoc_thong_tin_tuy_chon"
+msgstr "Không lấy được thông tin tùy chọn"
+
+msgid "vui_long_nhap_ten_chi_nhanh"
+msgstr "Vui lòng nhập tên chi nhánh"
+
+msgid "vui_long_nhap_ten_nguoi_dai_dien"
+msgstr "Vui lòng nhập tên người đại diện"
+
+msgid "ten_thuong_hieu_da_ton_tai_tren_he_thong"
+msgstr "Tên thương hiệu đã tồn tại trên hệ thống"
+
+msgid "khong_tim_thay_thong_tin_danh_muc"
+msgstr "Không tìm thấy thông tin danh mục"
+
+msgid "khong_lay_duoc_thong_tin_binh_luan"
+msgstr "Không lấy được thông tin bình luận"
+
+msgid "gui_binh_luan_thanh_cong"
+msgstr "Gửi bình luận thành công"
+
+msgid "khong_tim_thay_thong_tin"
+msgstr "Không tìm thấy thông tin"
+
+msgid "thong_tin_lien_he"
+msgstr "Thông tin liên hệ"
+
+msgid "them_form_lien_he"
+msgstr "Thêm form liên hệ"
+
+msgid "cap_nhat_form_lien_he"
+msgstr "Cập nhật form liên hệ"
+
+msgid "ten_form"
+msgstr "Tên form"
+
+msgid "vui_long_nhap_ten_form"
+msgstr "Vui lòng nhập tên form"
+
+msgid "vui_long_nhap_day_du_cac_truong_thong_tin"
+msgstr "Vui lòng nhập đây đủ các trường thông tin"
+
+msgid "khong_tim_thay_thong_tin_form"
+msgstr "Không tìm thấy thông tin form"
+
+msgid "them_tien_te"
+msgstr "Thêm tiền tệ"
+
+msgid "khong_the_xoa_loai_tien_te_mac_dinh"
+msgstr "Không thể xóa loại tiền tệ mặc định"
+
+msgid "khong_tim_thay_thong_tin_ban_ghi"
+msgstr "Không tìm thấy thông tin bản ghi"
+
+msgid "khong_lay_duoc_thong_tin_khach_hang"
+msgstr "Không lấy được thông tin khách hàng"
+
+msgid "khong_tim_thay_thong_tin_ghi_chu"
+msgstr "Không tìm thấy thông tin ghi chú"
+
+msgid "tong_quan_he_thong"
+msgstr "Tổng quan hệ thống"
+
+msgid "vui_long_nhap_chon_mau_email"
+msgstr "Vui lòng nhập chọn mẫu email"
+
+msgid "khong_ton_tai_file_mau_email"
+msgstr "Không tồn tại file mẫu email"
+
+msgid "khong_lay_duoc_thong_tin_mau_email"
+msgstr "Không lấy được thông tin mẫu email"
+
+msgid "vui_long_nhap_tieu_de_email"
+msgstr "Vui lòng nhập tiêu đề email"
+
+msgid "vui_long_nhap_email_gui_thu"
+msgstr "Vui lòng nhập email gửi thử"
+
+msgid "vui_long_nhap_noi_dung_gui_thu"
+msgstr "Vui lòng nhập nội dung gửi thử"
+
+msgid "nhap_id_cua_ban_ghi_can_gui_thu"
+msgstr "Nhập ID của bản ghi cần gửi thử"
+
+msgid "vui_long_nhap_dia_chi_email"
+msgstr "Vui lòng nhập địa chỉ email"
+
+msgid "vui_long_cau_hinh_email_ung_dung"
+msgstr "Vui lòng cấu hình email ứng dụng"
+
+msgid "vui_long_nhap_id_ban_ghi_gui_thu"
+msgstr "Vui lòng nhập ID bản ghi gửi thử"
+
+msgid "gui_email_khong_thanh_cong"
+msgstr "Gửi email không thành công"
+
+msgid "gui_email_thanh_cong"
+msgstr "Gửi email thành công"
+
+msgid "khong_lay_duoc_thong_tin_lien_he_cua_don_hang"
+msgstr "Không lấy được thông tin liên hệ của đơn hàng"
+
+msgid "nhap_hang"
+msgstr "Nhập hàng"
+
+msgid "tao_don_nhap_hang"
+msgstr "Tạo đơn nhập hàng"
+
+msgid "cap_nhat_don_nhap_hang"
+msgstr "Cập nhật đơn nhập hàng"
+
+msgid "khong_lay_duoc_thong_tin_cua_giao_dich"
+msgstr "Không lấy được thông tin của giao dịch"
+
+msgid "khong_the_cap_nhat_trang_thai_cua_giao_dich_nay"
+msgstr "Không thể cập nhật trạng thái của giao dịch này"
+
+msgid "khong_tim_thay_thong_tin_cong_thanh_toan"
+msgstr "Không tìm thấy thông tin cổng thanh toán"
+
+msgid "vui_long_nhap_ten_san_pham"
+msgstr "Vui lòng nhập tên sản phẩm"
+
+msgid "khong_lay_duoc_thong_tin_phien_ban_san_pham"
+msgstr "Không lấy được thông tin phiên bản sản phẩm"
+
+msgid "ma_phien_ban_san_pham_khong_the_trung_nhau_vui_long_dieu_chinh_lai"
+msgstr "Mã phiên bản sản phẩm không thể trùng nhau vui lòng điều chỉnh lại"
+
+msgid "gia_dac_biet_cua_san_pham_phai_nho_hon_gia_ban"
+msgstr "Giá đặc biệt của sản phẩm phải nhỏ hơn giá bán"
+
+msgid "gia_tri_thuoc_tinh_cua_phien_ban_san_pham_bi_trung_lap_vui_long_chon_lai"
+msgstr "Giá trị thuộc tính của phiên bản sản phẩm bị trùng lặp vui lòng chọn lại"
+
+msgid "xoa_san_pham_thanh_cong"
+msgstr "Xóa sản phẩm thành công"
+
+msgid "khong_tim_thay_thong_tin_san_pham"
+msgstr "Không tìm thấy thông tin sản phẩm"
+
+msgid "cap_nhat_trang_thai_san_pham_thanh_cong"
+msgstr "Cập nhật trạng thái sản phẩm thành công"
+
+msgid "gia_san_pham_khong_duoc_nho_hon_gia_dac_biet"
+msgstr "Giá sản phẩm không được nhỏ hơn giá đặc biệt"
+
+msgid "gia_san_pham_hien_dang_de_trong"
+msgstr "Giá sản phẩm hiện đang để trống"
+
+msgid "ten_nhom_quyen_da_ton_tai_tren_he_thong"
+msgstr "Tên nhóm quyền đã tồn tại trên hệ thống"
+
+msgid "tai_tep_len_thanh_cong"
+msgstr "Tải tệp lên thành công"
+
+msgid "xoa_du_lieu"
+msgstr "Xóa dữ liệu"
+
+msgid "chua_chon_muc_xoa_du_lieu"
+msgstr "Chưa chọn mục xóa dữ liệu"
+
+msgid "doi_che_do_website"
+msgstr "Đổi chế độ website"
+
+msgid "nha_cung_cap"
+msgstr "Nhà cung cấp"
+
+msgid "them_nha_cung_cap"
+msgstr "Thêm nhà cung cấp"
+
+msgid "cap_nhat_nha_cung_cap"
+msgstr "Cập nhật nhà cung cấp"
+
+msgid "vui_long_nhap_ten_nha_cung_cap"
+msgstr "Vui lòng nhập tên nhà cung cấp"
+
+msgid "ten_nha_cung_cap_da_ton_tai_tren_he_thong"
+msgstr "Tên nhà cung cấp đã tồn tại trên hệ thống"
+
+msgid "khong_lay_duoc_thong_tin_nha_cung_cap"
+msgstr "Không lấy được thông tin nhà cung cấp"
+
+msgid "khong_lay_duoc_thong_tin_block"
+msgstr "Không lấy được thông tin block"
+
+msgid "khong_tim_thay_duong_dan_file_cua_block"
+msgstr "Không tìm thấy đường dẫn file của block"
+
+msgid "khong_co_quyen_ghi_file"
+msgstr "Không có quyền ghi file"
+
+msgid "tao_file_khong_thanh_cong"
+msgstr "Tạo file không thành công"
+
+msgid "xoa_giao_dien_khong_thanh_cong"
+msgstr "Xóa giao diện không thành công"
+
+msgid "vui_long_chon_tep_giao_dien"
+msgstr "Vui lòng chọn tệp giao diện"
+
+msgid "khong_lay_duoc_thong_tin_trang"
+msgstr "Không lấy được thông tin trang"
+
+msgid "trang_cau_hinh_khong_duoc_de_trang"
+msgstr "Trang cấu hình không được để trắng"
+
+msgid "khong_tim_thay_thong_tin_trang"
+msgstr "Không tìm thấy thông tin trang"
+
+msgid "da_ton_tai_trang_nay_tren_he_thong"
+msgstr "Đã tồn tại trang này trên hệ thống"
+
+msgid "duong_dan_khong_hop_le"
+msgstr "Đường dẫn không hợp lệ"
+
+msgid "duong_dan_da_ton_tai_vui_long_nhap_lai"
+msgstr "Đường dẫn đã tồn tại vui lòng nhập lại"
+
+msgid "khong_the_nhan_ban_trang_chu"
+msgstr "Không thể nhân bản trang chủ"
+
+msgid "khong_doc_duoc_noi_dung_tep"
+msgstr "Không đọc được nội dung tệp"
+
+msgid "tep_nay_khong_ton_tai"
+msgstr "Tệp này không tồn"
+
+msgid "khong_doc_duoc_tep_nay"
+msgstr "Không đọc được tệp này"
+
+msgid "tai_khoan_thanh_vien"
+msgstr "Tài khoản thành viên"
+
+msgid "tai_khoan_hoac_mat_khau_khong_dung"
+msgstr "Tài khoản hoặc mật khẩu không đúng"
+
+msgid "dang_nhap_thanh_cong"
+msgstr "Đăng nhập thành công"
+
+msgid "trang"
+msgstr "Trang"
+
+msgid "khong_duyet"
+msgstr "Không duyệt"
+
+msgid "duyet"
+msgstr "Duyệt"
+
+msgid "thuc_te"
+msgstr "Thực tế"
+
+msgid "thu_nghiem"
+msgstr "Thử nghiệm"
+
+msgid "don_moi"
+msgstr "Đơn mới"
+
+msgid "don_huy"
+msgstr "Đơn hủy"
+
+msgid "website"
+msgstr "Website"
+
+msgid "doi_tac_van_chuyen"
+msgstr "Đối tác vận chuyển"
+
+msgid "doi_tuong_khac"
+msgstr "Đối tượng khác"
+
+msgid "moi_nhat"
+msgstr "Mới nhất"
+
+msgid "chua_co_danh_muc_duoc_kich_hoat"
+msgstr "Chưa có danh mục được kích hoạt"
+
+msgid "chua_co_thuong_hieu_duoc_kich_hoat"
+msgstr "Chưa có thương hiệu được kích hoạt"
+
+msgid "xoa_anh"
+msgstr "Xóa ảnh"
+
+msgid "loai_thuoc_tinh"
+msgstr "Loại thuộc tính"
+
+msgid "loai_input"
+msgstr "Loại input"
+
+msgid "thong_tin_thuoc_tinh"
+msgstr "Thông tin thuộc tính"
+
+msgid "ma_thuoc_tinh"
+msgstr "Mã thuộc tính"
+
+msgid "ma_thuoc_tinh_viet_thuong_va_khong_chua_ky_tu_dac_biet"
+msgstr "Mã thuộc tính viết thường và không chứa ký tự đặc biệt"
+
+msgid "ap_dung_anh_dai_dien_cho_thuoc_tinh_nay"
+msgstr "Áp dụng ảnh đại diện cho thuộc tính này"
+
+msgid "tuy_chon_nay_chi_1_thuoc_tinh_duy_nhat_duoc_ap_dung"
+msgstr "Tùy chọn này chỉ 1 thuộc tính duy nhất được áp dụng"
+
+msgid "bat_buoc"
+msgstr "Bắt buộc"
+
+msgid "quay_lai_quan_ly_thuoc_tinh"
+msgstr "Quay lại quản lý thuộc tính"
+
+msgid "thuoc_tinh"
+msgstr "Thuộc tính"
+
+msgid "thong_tin_tuy_chon"
+msgstr "Thông tin tùy chọn"
+
+msgid "ten_tuy_chon"
+msgstr "Tên tùy chọn"
+
+msgid "ma_tuy_chon"
+msgstr "Mã tùy chọn"
+
+msgid "ban_do"
+msgstr "Bản đồ"
+
+msgid "ngay_nhan"
+msgstr "Ngày nhận"
+
+msgid "thong_tin_form"
+msgstr "Thông tin form"
+
+msgid "vui_long_nhap_thong_tin"
+msgstr "Vui lòng nhập thông tin"
+
+msgid "them_form_lien_he_moi"
+msgstr "Thêm form liên hệ mới"
+
+msgid "ma_form"
+msgstr "Mã form"
+
+msgid "ma_form_se_duoc_su_dung_de_nhung_ngoai_website"
+msgstr "Mã form sẽ được sử dụng để nhúng ngoài website"
+
+msgid "nhan_email_khi_lien_he"
+msgstr "Nhận email khi liên hệ"
+
+msgid "cau_hinh_cac_truong_thong_tin"
+msgstr "Cấu hình các trường thông tin"
+
+msgid "them_truong_moi"
+msgstr "Thêm trường mới"
+
+msgid "ten_tien_te"
+msgstr "Tên tiền tệ"
+
+msgid "ma_tien_te"
+msgstr "Mã tiền tệ"
+
+msgid "don_vi"
+msgstr "Đơn vị"
+
+msgid "ti_le_chuyen_doi"
+msgstr "Tỉ lệ chuyển đổi"
+
+msgid "ti_le_chuyen_doi_cua_tien_te_hien_tai_so_voi_tien_te_mac_dinh"
+msgstr "Tỉ lệ chuyển đổi của tiền tệ hiện tại so với tiền tệ mặc định"
+
+msgid "nguoi_them"
+msgstr "Người thêm"
+
+msgid "han_su_dung"
+msgstr "Hạn sử dụng"
+
+msgid "lien_he_gia_han"
+msgstr "Liên hệ gia hạn"
+
+msgid "thoi_gian_ket_thuc"
+msgstr "Thời gian kết thúc"
+
+msgid "thoi_gian_con_lai"
+msgstr "Thời gian còn lại"
+
+msgid "dung_luong"
+msgstr "Dung lượng"
+
+msgid "tong_dung_luong"
+msgstr "Tổng dung lượng"
+
+msgid "tong_bai_viet"
+msgstr "Tổng bài viết"
+
+msgid "anh"
+msgstr "Ảnh"
+
+msgid "tai_lieu"
+msgstr "Tài liệu"
+
+msgid "bai_viet_chuan_seo"
+msgstr "Bài viết chuẩn seo"
+
+msgid "tong_san_pham"
+msgstr "Tổng sản phẩm"
+
+msgid "san_pham_chuan_seo"
+msgstr "Sản phẩm chuẩn seo"
+
+msgid "tong_don_hang"
+msgstr "Tổng đơn hàng"
+
+msgid "che_do"
+msgstr "Chế độ"
+
+msgid "giao_dien_duoc_chon"
+msgstr "Giao diện được chọn"
+
+msgid "chua_duoc_thiet_lap"
+msgstr "Chưa được thiết lập"
+
+msgid "thong_ke_khach_hang"
+msgstr "Thống kê khách hàng"
+
+msgid "tong_binh_luan"
+msgstr "Tổng bình luận"
+
+msgid "tong_danh_gia"
+msgstr "Tổng đánh giá"
+
+msgid "cap_nhat_dia_chi"
+msgstr "Cập nhật địa chỉ"
+
+msgid "nha_rieng_co_quan"
+msgstr "Nhà riêng, cơ quan"
+
+msgid "gia_ban"
+msgstr "Giá bán"
+
+msgid "them_moi_nha_cung_cap"
+msgstr "Thêm mới nhà cung cấp"
+
+msgid "ten_nha_cung_cap"
+msgstr "Tên nhà cung cấp"
+
+msgid "ma_nha_cung_cap"
+msgstr "Mã nhà cung cấp"
+
+msgid "don_gia"
+msgstr "Đơn giá"
+
+msgid "cau_hinh_mau_email"
+msgstr "Cấu hình mẫu email"
+
+msgid "chinh_sua_mau_email"
+msgstr "Chỉnh sửa mẫu email"
+
+msgid "ten_email"
+msgstr "Tên email"
+
+msgid "noi_dung_gui_thu"
+msgstr "Nội dung gửi thử"
+
+msgid "them_nguon_don_hang"
+msgstr "Thêm nguồn đơn hàng"
+
+msgid "cap_nhat_nguon_don_hang"
+msgstr "Cập nhật nguồn đơn hàng"
+
+msgid "ten_nguon_hang"
+msgstr "Tên nguồn hàng"
+
+msgid "ma_nguon_don_hang"
+msgstr "Mã nguồn đơn hàng"
+
+msgid "khach_hang_chua_xac_nhan"
+msgstr "Khách hàng chưa xác nhận"
+
+msgid "ban_hay_them_khu_vuc_quan_huyen_cua_khach_hang_de_su_dung_dich_vu_giao_hang"
+msgstr "Bạn hãy thêm khu vực quận huyện của khách hàng để sử dụng dịch vụ giao hàng"
+
+msgid "ban_hay_them_khu_vuc_phuong_xa_cua_khach_hang_de_su_dung_dich_vu_hang_van_chuyen"
+msgstr "Bạn hãy thêm khu vực phường xã của khách hàng để sử dụng dịch vụ hãng vận chuyển"
+
+msgid "dong_goi_va_giao_hang"
+msgstr "Đóng gói và giao hàng"
+
+msgid "sua"
+msgstr "Sửa"
+
+msgid "thong_tin_don_nhap_hang"
+msgstr "Thông tin đơn nhập hàng"
+
+msgid "ma_don_nhap_hang"
+msgstr "Mã đơn nhập hàng"
+
+msgid "thong_tin_nha_cung_cap"
+msgstr "Thông tin nhà cung cấp"
+
+msgid "tim_kiem_nha_cung_cap_f4"
+msgstr "Tìm kiếm nhà cung cấp (f4)"
+
+msgid "thanh_toan_voi_nha_cung_cap"
+msgstr "Thanh toán với nhà cung cấp"
+
+msgid "nhap_kho"
+msgstr "Nhập kho"
+
+msgid "nhap_hang_vao_kho"
+msgstr "Nhập hàng vào kho"
+
+msgid "da_hoan_tien"
+msgstr "Đã hoàn tiền"
+
+msgid "xac_nhan_thanh_cong"
+msgstr "Xác nhận thành công"
+
+msgid "xac_nhan_huy_giao_dich"
+msgstr "Xác nhận hủy giao dịch"
+
+msgid "ban_chac_chan_muon_huy_giao_dich"
+msgstr "Bạn chắc chắn muốn hủy giao dịch"
+
+msgid "xac_nhan_giao_hang_thanh_cong"
+msgstr "Xác nhận giao hàng thành công"
+
+msgid "ban_chac_chan_muon_xac_nhan_giao_dich"
+msgstr "Bạn chắc chắn muốn xác nhận giao dịch"
+
+msgid "mo_ta_cong_thanh_toan"
+msgstr "Mô tả cổng thanh toán"
+
+msgid "ma_website"
+msgstr "Mã website"
+
+msgid "chuoi_tao_checksum"
+msgstr "Chuỗi tạo checksum"
+
+msgid "server_thanh_toan"
+msgstr "Server thanh toán"
+
+msgid "luu_nhap"
+msgstr "Lưu nháp"
+
+msgid "them_san_pham_moi"
+msgstr "Thêm sản phẩm mới"
+
+msgid "ten_phien_ban"
+msgstr "Tên phiên bản"
+
+msgid "chuc_nang_dang_duoc_phat_trien"
+msgstr "Chức năng đang được phát triển"
+
+msgid "thong_tin_nhom_quyen"
+msgstr "Thông tin nhóm quyền"
+
+msgid "che_do_danh_cho_nha_phat_trien"
+msgstr "Chế độ danh cho nhà phát triển"
+
+msgid "o_che_do_nay_he_thong_se_vo_hieu_hoa_viec_tao_cache_html_va_bo_nen_tai_nguyen_duoc_tai"
+msgstr "Ở chế độ này hệ thống sẽ vô hiệu hóa việc tạo cache HTML và bộ nén tài nguyên được tải"
+
+msgid "che_do_hoan_thien"
+msgstr "Chế độ hoàn thiện"
+
+msgid "giup_website_tang_toc_do_tai_va_hien_thi"
+msgstr "Giúp website tăng tốc độ tải và hiển thị"
+
+msgid "muc_luc"
+msgstr "Mục lục"
+
+msgid "xoa_du_lieu_danh_muc_san_pham"
+msgstr "Xóa dữ liệu danh mục sản phẩm"
+
+msgid "xoa_du_lieu_danh_muc_bai_viet"
+msgstr "Xóa dữ liệu danh mục bài viết"
+
+msgid "xoa_du_lieu_bai_viet"
+msgstr "Xóa dữ liệu bài viết"
+
+msgid "xoa_du_lieu_san_pham"
+msgstr "Xóa dữ liệu sản phẩm"
+
+msgid "xoa_du_lieu_khach_hang"
+msgstr "Xóa dữ liệu khách hàng"
+
+msgid "xoa_du_lieu_don_hang_bao_gom_don_hang_payment_va_van_chuyen"
+msgstr "Xóa dữ liệu đơn hàng bao gồm hàng payment và vận chuyển"
+
+msgid "chuc_nang_nay_hien_dang_duoc_phat_trien"
+msgstr "Chức năng này hiện đang được phát triển"
+
+msgid "su_dung"
+msgstr "Sử dụng"
+
+msgid "tao_recaptcha_moi_tai_day"
+msgstr "Tạo reCaptcha mới tại đây"
+
+msgid "thong_tin_seo_cua_trang"
+msgstr "Thông tin SEO của trang"
+
+msgid "luu_cau_hinh_seo"
+msgstr "Lưu cấu hình Seo"
+
+msgid "neu_khong_nhap_he_thong_se_tu_dong_sinh_ra_ma_nha_cung_cap"
+msgstr "Nếu không nhập hệ thống sẽ tự động sinh ra mã nhà cung cấp"
+
+msgid "gioi_thieu"
+msgstr "Giới thiệu"
+
+msgid "thong_tin_dia_chi"
+msgstr "Thông tin địa chỉ"
+
+msgid "nha_cung_cap_chua_co_dia_chi"
+msgstr "Nhà cung cấp chưa có địa chỉ"
+
+msgid "luu_giao_dien"
+msgstr "Lưu giao diện"
+
+msgid "desktop"
+msgstr "Desktop"
+
+msgid "mobile"
+msgstr "Mobile"
+
+msgid "sua_cau_hinh_trang"
+msgstr "Sửa cấu hình trang"
+
+msgid "hanh_dong"
+msgstr "Hành động"
+
+msgid "them_trang_moi"
+msgstr "Thêm trang mới"
+
+msgid "them_trang_bo_cuc"
+msgstr "Thêm trang bố cục"
+
+msgid "nhan_ban_trang_nay"
+msgstr "Nhân bản trang này"
+
+msgid "xoa_cau_hinh_trang"
+msgstr "Xóa cấu hình trang"
+
+msgid "xoa_trang"
+msgstr "Xóa trang"
+
+msgid "tim_kiem_block"
+msgstr "Tìm kiếm block"
+
+msgid "hay_keo_block_vao_trong_cot_ma_ban_muon"
+msgstr "Hãy kéo block vào trong cột mà bạn muốn"
+
+msgid "chua_co_block_nao_duoc_tao_tren_he_thong"
+msgstr "Chưa có block nào được tạo trên hệ thống"
+
+msgid "tao_block_moi"
+msgstr "Tạo block mới"
+
+msgid "chua_co_giao_dien_nao_duoc_kich_hoat"
+msgstr "Chưa có giao diện nào được kích hoạt"
+
+msgid "thong_tin_trang"
+msgstr "Thông tin trang"
+
+msgid "thong_tin_trang_bo_cuc"
+msgstr "Thông tin trang bố cục"
+
+msgid "thong_tin_block"
+msgstr "Thông tin block"
+
+msgid "xuat_giao_dien"
+msgstr "Xuất giao diện"
+
+msgid "xoa_giao_dien"
+msgstr "Xóa giao diện"
+
+msgid "danh_muc_ap_dung"
+msgstr "Danh mục áp dụng"
+
+msgid "tat_ca_ban_ghi_hoac_danh_muc_thuoc_danh_muc_da_chon_se_ap_dung_cau_hinh_cua_trang_nay"
+msgstr "Tất cả bản ghi hoặc danh mục thuộc danh mục đã chọn sẽ áp dụng cấu hình của trang này"
+
+msgid "cai_dat_giao_dien_moi"
+msgstr "Cài đặt giao diện mới"
+
+msgid "dat_lam_mac_dinh"
+msgstr "Đặt làm mặc định"
+
+msgid "thiet_lap_so_cot"
+msgstr "Thiết lập số cột"
+
+msgid "chon_so_cot"
+msgstr "Chọn số cột"
+
+msgid "cot"
+msgstr "Cột"
+
+msgid "thiet_lap_thong_tin_cua_dong"
+msgstr "Thiết lập thông tin của dòng"
+
+msgid "toan_man_hinh"
+msgstr "Toàn màn hình"
+
+msgid "rong_toan_man_hinh"
+msgstr "Rộng toàn màn hình"
+
+msgid "len_tren"
+msgstr "Lên trên"
+
+msgid "xuong_duoi"
+msgstr "Xuống dưới"
+
+msgid "chon_cot"
+msgstr "Chọn cột"
+
+msgid "thiet_lap"
+msgstr "Thiết lập"
+
+msgid "ten_giao_dien"
+msgstr "Tên giao diện"
+
+msgid "ma_giao_dien"
+msgstr "Mã giao diện"
+
+msgid "anh_dai_dien"
+msgstr "Ảnh đại diện"
+
+msgid "loai_trang"
+msgstr "Loại trang"
+
+msgid "ten_trang"
+msgstr "Tên trang"
+
+msgid "su_dung_trang_bo_cuc"
+msgstr "Sử dụng trang bố cục"
+
+msgid "dang_su_dung_trang_bo_cuc"
+msgstr "Đang sử dụng trang bố cục"
+
+msgid "loai_trang_dong_tinh_tuy_bien_cao"
+msgstr "Loại trang động tính tùy biến cao"
+
+msgid "loai_trang_he_thong"
+msgstr "Loại trang hệ thống"
+
+msgid "dau_trang"
+msgstr "Đầu trang"
+
+msgid "giua_trang"
+msgstr "Giữa trang"
+
+msgid "cuoi_trang"
+msgstr "Cuối trang"
+
+msgid "dong_mo"
+msgstr "Đóng mở"
+
+msgid "them_dong_moi"
+msgstr "Thêm dòng mới"
+
+msgid "giao_dien_block"
+msgstr "Giao diện block"
+
+msgid "luu_cau_hinh"
+msgstr "Lưu cấu hình"
+
+msgid "luu_du_lieu"
+msgstr "Lưu dữ liệu"
+
+msgid "giai_thich"
+msgstr "Giải thích"
+
+msgid "block_se_duoc_hien_binh_thuong_khi_trang_web_duoc_tai"
+msgstr "Block sẽ được hiện bình thường khi trang web được tải"
+
+msgid "thoi_gian_cho"
+msgstr "Thời gian chờ"
+
+msgid "block_se_duoc_hien_sau_khi_trang_web_da_duoc_tai_thanh_cong"
+msgstr "Block sẽ được hiện sau khi trang web đã được tải thành công"
+
+msgid "la_khoang_thoi_gian_tu_khi_trang_da_tai_xong_den_khi_block_duoc_hien_thi"
+msgstr "Là khoảng thời gian từ khi trang đã tải xong đến khi block được hiển thị"
+
+msgid "khoang_cach"
+msgstr "Khoảng cách"
+
+msgid "block_se_duoc_hien_sau_khi_con_tro_chuot_keo_den_vi_tri_cua_no"
+msgstr "Block sẽ được hiện sau khi con trỏ chuột kéo đến vị trí của nó"
+
+msgid "la_khoang_cach_cua_block_den_vi_tri_ma_block_se_bat_dau_hien_thi_khi_con_tro_chuot_den_do"
+msgstr "Là khoảng cách của block đến vị trí mà block sẽ bắt đầu hiển thị khi con trỏ chuột đến đó"
+
+msgid "so_bai_viet_hien_thi"
+msgstr "Số bài viết hiển thị"
+
+msgid "neu_su_dung_phan_trang_thi_cau_hinh_so_bai_viet_se_la_so_san_pham_tren_1_trang"
+msgstr "Nếu sử dụng phân trang thì cấu hình số bài viết sẽ là số sản phẩm trên 1 trang"
+
+msgid "tu_dong_theo_duong_dan"
+msgstr "Tự động theo đường dẫn"
+
+msgid "neu_cau_hinh_lay_du_lieu_tu_dong_theo_duong_dan_thi_hay_tat_cau_hinh_su_dung_cache_cua_block"
+msgstr "Nếu cấu hinh lấy dữ liệu tự động theo đường dẫn thì hãy tắt cấu hình sử dụng cache của block"
+
+msgid "so_binh_luan_hien_thi"
+msgstr "Số bình luận hiển thị"
+
+msgid "so_luong_binh_luan_hien_thi_trong_1_trang"
+msgstr "Số lượng bình luận hiển thị trong 1 trang"
+
+msgid "yeu_cau_dang_nhap"
+msgstr "Yêu cầu đăng nhập"
+
+msgid "cho_quan_tri_phe_duyet"
+msgstr "Chờ quản trị phê duyệt"
+
+msgid "them_menu"
+msgstr "Thêm menu"
+
+msgid "so_san_pham_hien_thi"
+msgstr "Số sản phẩm hiển thị"
+
+msgid "neu_su_dung_phan_trang_thi_cau_hinh_so_san_pham_se_la_so_san_pham_tren_1_trang"
+msgstr "Nếu sử dụng phân trang thì cấu hình số sản phẩm sẽ là số sản phẩm trên 1 trang"
+
+msgid "so_danh_gia_hien_thi"
+msgstr "Số đánh giá hiển thị"
+
+msgid "so_luong_danh_gia_hien_thi_trong_1_trang"
+msgstr "Số lượng đánh giá hiển thị trong 1 trang"
+
+msgid "them_slider"
+msgstr "Thêm slider"
+
+msgid "luu_y"
+msgstr "Lưu ý"
+
+msgid "he_thong_su_dung_thu_vien_{0}"
+msgstr "Hệ thông sử dụng thư viện {0}"
+
+msgid "thong_tin_cau_hinh_cua_slider_se_duoc_luu_ben_du_lieu_mo_rong"
+msgstr "Thông tin cấu hình của slider sẽ được lưu bên dữ liệu mở rộng"
+
+msgid "tham_khao_cau_hinh_mac_dinh"
+msgstr "Tham khảo cấu hình mặc định"
+
+msgid "xem_cau_hinh"
+msgstr "Xem cấu hình"
+
+msgid "cau_hinh_tham_khao"
+msgstr "Cấu hình tham khảo"
+
+msgid "huong_dan"
+msgstr "Hướng dẫn"
+
+msgid "thong_tin_cau_hinh_duoc_viet_duoi_dang_json_va_chi_nhan_cac_gia_tri_nam_trong_key_config"
+msgstr "Thông tin cấu hình được viết dươi dạng json và chỉ nhận các giá trị nằm trong key config"
+
+msgid "du_lieu_tuy_bien"
+msgstr "Dữ liệu tùy biến"
+
+msgid "loai_menu"
+msgstr "Loại menu"
+
+msgid "mo_duong_dan_tren_tab_moi"
+msgstr "Mở đường dẫn trên tab mới"
+
+msgid "chon_anh_slider"
+msgstr "Chọn ảnh slider"
+
+msgid "su_dung_menu_phu"
+msgstr "Sử dụng menu phụ"
+
+msgid "giao_dien_menu_phu"
+msgstr "Giao diện menu phụ"
+
+msgid "du_lieu_menu_phu"
+msgstr "Dữ liệu menu phụ"
+
+msgid "chon_danh_muc"
+msgstr "Chọn danh mục"
+
+msgid "chon_san_pham"
+msgstr "Chọn sản phẩm"
+
+msgid "nhap_ten_va_chon_san_pham"
+msgstr "Nhập tên và chọn sản phẩm"
+
+msgid "san_pham_da_chon"
+msgstr "Sản phẩm đã chọn"
+
+msgid "chon_bai_viet"
+msgstr "Chọn bài viết"
+
+msgid "nhap_ten_va_chon_bai_viet"
+msgstr "Nhập tên và chọn bài viết"
+
+msgid "bai_viet_da_chon"
+msgstr "Bài viết đã chọn"
+
+msgid "loc_du_lieu"
+msgstr "Lọc dữ liệu"
+
+msgid "tat_ca"
+msgstr "Tất cả"
+
+msgid "thong_tin_lich_su_thay_doi"
+msgstr "Thông tin lịch sử thay đổi"
+
+msgid "quay_lai_phien_ban_nay"
+msgstr "Quay lại phiên bản này"
+
+msgid "them_giao_dien_block"
+msgstr "Thêm giao diện block"
+
+msgid "khong_doc_duoc_noi_dung_cua_tep"
+msgstr "Không đọc được nội dung của tệp"
+
+msgid "avatar"
+msgstr "Avatar"
+
+msgid "dang_nhap_quan_tri"
+msgstr "Đăng nhập quản trị"
+
+msgid "ghi_nho_tai_khoan"
+msgstr "Ghi nhớ tài khoản"
+
+msgid "quen_mat_khau"
+msgstr "Quên mật khẩu"
+
+msgid "dang_nhap"
+msgstr "Đăng nhập"
+
+msgid "khong_lay_duoc_thong_tin_tep_khoi_tao"
+msgstr "Không lấy được thông tin tệp khởi tạo"
+
+msgid "tep_khoi_tao_cau_truc_co_so_du_lieu_khong_hop_le"
+msgstr "Tệp khởi tạo cấu trúc cơ sở dữ liệu không hợp lệ"
+
+msgid "khong_doc_duoc_noi_dung_tep_khoi_tao_cau_truc_co_so_du_lieu"
+msgstr "Không đọc được nội dung tệp khởi tạo cấu trúc cơ sở dữ liệu"
+
+msgid "cai_dat_cau_truc_co_so_du_lieu_thanh_cong"
+msgstr "Cài đặt cấu trúc cơ sở dữ liệu thành công"
+
+msgid "tep_khoi_tao_du_lieu_ban_dau_khong_hop_le"
+msgstr "Tệp khởi tạo dữ liệu ban đầu không hợp lệ"
+
+msgid "khong_doc_duoc_noi_dung_tep_khoi_tao_du_lieu_ban_dau"
+msgstr "Không đọc được nội dung tệp khởi tạo dữ liệu ban đầu"
+
+msgid "cai_dat_du_lieu_ban_dau_thanh_cong"
+msgstr "Cài đặt dữ liệu ban đầu thành công"
+
+msgid "mo_ta_bai_viet"
+msgstr "Mô tả bài viết"
+
+msgid "cap_nhat_thong_tin_san_pham_thanh_cong"
+msgstr "Cập nhật thông tin sản phẩm thành công"
+
+msgid "cho_phep_gui_ma_xac_nhan_khi_dang_ky"
+msgstr "Cho phép gửi mã xác nhận khi đăng ký"
+
+msgid "cau_hinh_khach_hang"
+msgstr "Cấu hình khách hàng"
+
+msgid "thiet_lap_cau_hinh_khach_hang"
+msgstr "Thiết lập cấu hình khách hàng"
+
+msgid "khong_lay_duoc_ma_xac_nhan_cho_email"
+msgstr "Không lấy được mã xác nhận cho email"
+
+msgid "loai_binh_luan"
+msgstr "Loại bình luận"
+
+msgid "bai_viet_noi_bat"
+msgstr "Bài viết nổi bật"
+
+msgid "khong_noi_bat"
+msgstr "Không nổi bật"
+
+msgid "co_noi_bat"
+msgstr "Có nổi bật"
+
+msgid "co_video"
+msgstr "Có Video"
+
+msgid "co_album"
+msgstr "Có Album"
+
+msgid "co_tep_dinh_kem"
+msgstr "Có Tệp đính kèm"
+
+msgid "don_khach_tra"
+msgstr "Đơn khách trả"
+
+msgid "so_luot_xem"
+msgstr "Số lượt xem"
+
+msgid "so_luot_thich"
+msgstr "Số lượt thích"
+
+msgid "so_luong_binh_luan"
+msgstr "Số lượt bình luận"
+
+msgid "so_luong_danh_gia"
+msgstr "Số lượt đánh giá"
+
+msgid "diem_seo"
+msgstr "Điểm SEO"
+
+msgid "diem_tu_khoa"
+msgstr "Điểm từ khóa"
+
+msgid "so_luong_san_co"
+msgstr "Số lượng sẵn có"
+
+msgid "anh_bai_viet"
+msgstr "Ảnh bài viết"
+
+msgid "da_phuong_tien"
+msgstr "Đa phương tiện"
+
+msgid "noi_dung_lien_he"
+msgstr "Nội dung liên hệ"
+
+msgid "ma_truong"
+msgstr "Mã trường"
+
+msgid "ten_truong"
+msgstr "Tên trường"
+
+msgid "thong_tin_bai_viet"
+msgstr "Thông tin bài viết"
+
+msgid "da_doc"
+msgstr "Đã đọc"
+
+msgid "chua_doc"
+msgstr "Chưa đọc"
+
+msgid "chon_loai"
+msgstr "Chọn loại"
+
+msgid "gui_thu_noi_dung"
+msgstr "Gửi thử nội dung"
+
+msgid "gui_thu_mau_email"
+msgstr "Gửi thử mẫu email"
+
+msgid "chi_tiet_thuong_hieu"
+msgstr "Chi tiết thương hiệu"
+
+msgid "thong_tin_thuong_hieu"
+msgstr "Thông tin thương hiệu"
+
+msgid "ma_thuong_hieu"
+msgstr "Mã thương hiệu"
+
+msgid "khong_tim_thay_thong_tin_thuong_hieu"
+msgstr "Không tìm thấy thông tin thương hiệu"
+
+msgid "khong_tim_thay_thong_tin_danh_muc"
+msgstr "Không tìm thấy thông tin danh mục"
+
+msgid "chon_tat_ca"
+msgstr "Chọn tất cả"
+
+msgid "binh_luan_lien_quan"
+msgstr "Bình luận liên quan"
+
+msgid "cap_nhat_the_bai_viet"
+msgstr "Cập nhật thẻ bài viết"
+
+msgid "mo_ta_the_bai_viet"
+msgstr "Mô tả thẻ bài viết"
+
+msgid "cau_hinh_sitemap"
+msgstr "Cấu hình Sitemap"
+
+msgid "xem_tep_robots"
+msgstr "Xem tệp robots"
+
+msgid "vui_long_nhap_day_du_thong_tin"
+msgstr "Vui lòng nhập đầy đủ thông tin"
+
+msgid "xac_nhan_mat_khau_khong_chinh_xac"
+msgstr "Xác nhận mật khẩu không chính xác"
+
+msgid "khong_lay_duoc_thong_tin_tai_khoan"
+msgstr "Không lấy được thông tin tài khoản"
+
+msgid "mat_khau_cu_nhap_khong_chinh_xac"
+msgstr "Mật khẩu cũ nhập không chính xác"
+
+msgid "mat_khau_thay_doi_khong_the_giong_mat_khau_cu"
+msgstr "Mật khẩu thay đổi không thể giống mật khẩu cũ"
+
+msgid "thay_doi_mat_khau"
+msgstr "Thay đổi mật khẩu"
+
+msgid "mat_khau_moi"
+msgstr "Mật khẩu mới"
+
+msgid "nhap_lai_mat_khau_moi"
+msgstr "Nhập lại mật khẩu mới"
+
+msgid "chua_xac_nhan"
+msgstr "Chưa xác nhận"
+
+msgid "san_pham_giam_gia"
+msgstr "Sản phẩm giảm giá"
+
+msgid "san_pham_giam_gia"
+msgstr "Sản phẩm giảm giá"
+
+msgid "tinh_trang"
+msgstr "Tình trạng"
+
+msgid "het_hang"
+msgstr "Hết hàng"
+
+msgid "con_hang"
+msgstr "Còn hàng"
+
+msgid "chua_co_anh"
+msgstr "Chưa có ảnh"
+
+msgid "nhap_lai_mat_khau"
+msgstr "Nhập lại mật khẩu"
+
+msgid "chua_xac_dinh"
+msgstr "Chưa xác định"
+
+msgid "co_phan_nhom"
+msgstr "Có phân nhóm"
+
+msgid "khong_phan_nhom"
+msgstr "Không phân nhóm"
+
+msgid "co_chia"
+msgstr "Có chia"
+
+msgid "khong_chia"
+msgstr "Không chia"
+
+msgid "co_bat_chuyen_huong"
+msgstr "Có bật chuyển hướng"
+
+msgid "khong_bat_chuyen_huong"
+msgstr "Không bật chuyển hướng"
+
+msgid "da_tai_len"
+msgstr "Đã tải lên"
+
+msgid "chua_tai_len"
+msgstr "Chưa tải lên"
+
+msgid "duong_dan_cdn"
+msgstr "Đường dẫn CDN"
+
+msgid "het_han"
+msgstr "Hết hạn"
+
+msgid "trong_ngay_hom_nay"
+msgstr "Trong ngày hôm nay"
+
+msgid "thang_label"
+msgstr "Tháng"
+
+msgid "nam_label"
+msgstr "Năm"
+
+msgid "xem_cau_hinh_thuc_te"
+msgstr "Xem cấu hình thực tế"
+
+msgid "don_tra_hang"
+msgstr "Đơn trả hàng"
+
+msgid "ma_bao_mat"
+msgstr "Mã bảo mật"
+
+msgid "thiet_lap_thong_tin_api"
+msgstr "Thiết lập thông tin API"
+
+msgid "su_dung_ma_nhung"
+msgstr "Sử dụng mã nhúng"
+
+msgid "thoi_gian_cho_tai_ma_nhung"
+msgstr "Thời gian cho tải mã nhúng"
+
+msgid "tuy_chinh_thoi_gian_tai_ma_nhung_phu_hop_giup_website_cua_ban_rut_ngan_thoi_gian_tai_ban_dau"
+msgstr "Tùy chỉnh thời gian tải mã nhúng phù hợp giúp website của bạn rút ngắn thời gian tải ban đầu"
+
+msgid "chua_nhap"
+msgstr "Chưa nhập"
+
+msgid "duong_dan_the"
+msgstr "Đường dẫn thẻ"
+
+msgid "thay_doi_duong_dan_the_bai_viet"
+msgstr "Thay đổi đường dẫn thẻ bài viết"
+
+msgid "tien_to_tieu_de_seo"
+msgstr "Tiền tố tiêu đề SEO"
+
+msgid "hau_to_tieu_de_seo"
+msgstr "Hậu tố tiêu đề SEO"
+
+msgid "them_tien_to_vao_tieu_de_seo_cua_the"
+msgstr "Thêm tiền tố vào tiêu đề SEO của thẻ"
+
+msgid "nhap"
+msgstr "Nhập"
+
+msgid "ket_qua"
+msgstr "Kết quả"
+
+msgid "them_hau_to_vao_tieu_de_seo_cua_the"
+msgstr "Thêm hậu tố vào tiêu đề SEO của thẻ"
+
+msgid "luu_cau_hinh_the_bai_viet"
+msgstr "Lưu cấu hình thẻ bài viết"
+
+msgid "xem_bai_viet"
+msgstr "Xem bài viết"
+
+msgid "xem_san_pham"
+msgstr "Xem sản phẩm"
+
+msgid "xem_danh_muc"
+msgstr "Xem danh mục"
+
+msgid "ap_dung_anh_dai_dien"
+msgstr "Áp dụng ảnh đại diện"
+
+msgid "khong_ap_dung"
+msgstr "Không áp dụng"
+
+msgid "co_ap_dung"
+msgstr "Có áp dụng"
+
+msgid "co_bat_buoc"
+msgstr "Có bắt buộc"
+
+msgid "khong_bat_buoc"
+msgstr "Không bắt buộc"
+
+msgid "cap_nhat_hinh_anh"
+msgstr "Cập nhập hình ảnh"
+
+msgid "ten_form"
+msgstr "Tên form"
+
+msgid "mobile_app"
+msgstr "Mobile App"
+
+msgid "cai_dat_mobile_app"
+msgstr "Cài đặt Mobile App"
+
+msgid "giao_dien_mobile_app"
+msgstr "Giao diện Mobile App"
+
+msgid "block_mobile_app"
+msgstr "Block Mobile App"
+
+msgid "cai_dat_thong_tin_mobile_app"
+msgstr "Cài đặt thông tin Mobile App"
+
+msgid "cai_dat_giao_dien_mobile_app"
+msgstr "Cài đặt giao diện Mobile App"
+
+msgid "khong_lay_duoc_thong_tin_giao_dien_mac_dinh"
+msgstr "Không lấy được thông tin giao diện mặc định"
+
+msgid "san_pham_da_xem"
+msgstr "Sản phẩm đã xem"
+
+msgid "bai_viet_da_xem"
+msgstr "Bài viết đã xem"
+
+msgid "san_pham_da_them_vao_yeu_thich"
+msgstr "Sản phẩm đã thêm vào yêu thích"
+
+msgid "san_pham_da_them_vao_so_sanh"
+msgstr "Sản phẩm đã thêm vào so sánh"
+
+msgid "bai_viet_yeu_thich"
+msgstr "Bài viết yêu thích"
+
+msgid "duyet_bai_viet"
+msgstr "Duyệt bài viết"
+
+msgid "thiet_lap_quyen_duyet_bai_viet"
+msgstr "Thiết lập quyền duyệt bài viết"
+
+msgid "kich_hoat_duyet_bai_viet"
+msgstr "Kích hoạt duyệt bài viết"
+
+msgid "kich_hoat_duyet_san_pham"
+msgstr "Kích hoạt duyệt sản phẩm"
+
+msgid "quyen_duoc_duyet_bai"
+msgstr "Quyền được duyệt bài"
+
+msgid "khi_kich_hoat_duyet_bai_viet_thi_nhung_tai_khoan_khong_nam_trong_nhom_quyen_duoc_duyet_bai_khi_cap_nhat_bai_viet_trang_thai_cua_bai_viet_se_chuyen_ve_cho_duyet"
+msgstr "Khi kích hoạt duyệt bài viết thì những tài khoản không nằm trong nhóm quyền được duyệt bài, khi cập nhật bài viết trạng thái của bài viết sẽ chuyển về chờ duyệt"
+
+msgid "duyet_san_pham"
+msgstr "Duyệt sản phẩm"
+
+msgid "cai_dat_thong_tin_app"
+msgstr "Cài đặt thông tin app"
+
+msgid "thiet_lap_giao_dien_app"
+msgstr "Thiết lập giao diện app"
+
+msgid "cai_dat_cac_cau_hinh_chung_cua_giao_dien"
+msgstr "Cài đặt các cấu hình chung của giao diện"
+
+msgid "thu_vien_anh"
+msgstr "Thư viện ảnh"
+
+msgid "thu_vien_anh_danh_cho_app"
+msgstr "Thư viện ảnh dành cho app"
+
+msgid "quan_ly_cac_block_cua_app"
+msgstr "Quản lý các block của app"
+
+msgid "them_block_moi_cho_app"
+msgstr "Thêm block mới cho app"
+
+msgid "cau_hinh_mau_sac"
+msgstr "Cấu hình màu sắc"
+
+msgid "color_main"
+msgstr "Màu chính"
+
+msgid "color_hightlight"
+msgstr "Màu nổi bật"
+
+msgid "color_text"
+msgstr "Màu chữ"
+
+msgid "anh_template"
+msgstr "Ảnh template"
+
+msgid "them_anh"
+msgstr "Thêm ảnh"
+
+msgid "sua_thong_tin_trang"
+msgstr "Sửa thông tin trang"
+
+msgid "white"
+msgstr "Màu trắng"
+
+msgid "black"
+msgstr "Màu đen"
+
+msgid "red"
+msgstr "Màu đỏ"
+
+msgid "green"
+msgstr "Màu xanh lá"
+
+msgid "yellow"
+msgstr "Màu vàng"
+
+msgid "light"
+msgstr "Màu sáng"
+
+msgid "blue"
+msgstr "Màu xanh dương"
+
+msgid "purple"
+msgstr "Màu tía"
+
+msgid "pink"
+msgstr "Màu hồng"
+
+msgid "indigo"
+msgstr "Màu xanh đậm"
+
+msgid "teal"
+msgstr "Màu mòng két"
+
+msgid "orange"
+msgstr "Màu cam"
+
+msgid "cyan"
+msgstr "Màu lục lam"
+
+msgid "gray"
+msgstr "Màu xám"
+
+msgid "khong_ton_tai_thong_tin_app"
+msgstr "Không tồn tại thông tin app"
+
+msgid "cau_hinh_thong_tin_app"
+msgstr "Cấu hình thông tin app"
+
+msgid "ten_app"
+msgstr "Tên app"
+
+msgid "app_key"
+msgstr "App key"
+
+msgid "cau_hinh_vphone"
+msgstr "Cấu hình Vphone"
+
+msgid "ten_hotline"
+msgstr "Tên hotline"
+
+msgid "ten_mien"
+msgstr "Tên miền"
+
+msgid "cong"
+msgstr "Cổng"
+
+msgid "chon_anh_template"
+msgstr "Chọn ảnh template"
+
+msgid "nhan_giao_dien"
+msgstr "Nhãn giao diện"
+
+msgid "quan_ly_tat_ca_cac_nhan_cua_giao_dien"
+msgstr "Quản lý tất cả các nhãn của giao diện"
+
+msgid "them_nhan_moi"
+msgstr "Thêm nhãn mới"
+
+msgid "cap_nhat_nhan_giao_dien"
+msgstr "Cập nhật nhãn giao diện"
+
+msgid "cau_hinh_du_lieu"
+msgstr "Cấu hình dữ liệu"
+
+msgid "chuyen_huong"
+msgstr "Chuyển hướng"
+
+msgid "font_size"
+msgstr "Cỡ chữ"
+
+msgid "can_chinh"
+msgstr "Căn chỉnh"
+
+msgid "mau_chu"
+msgstr "Màu chữ"
+
+msgid "mau_nen"
+msgstr "Màu nền"
+
+msgid "chieu_cao_block"
+msgstr "Chiều cao Block"
+
+msgid "cau_hinh_giao_dien"
+msgstr "Cấu hình giao diện"
+
+msgid "tieu_de_hien_thi"
+msgstr "Tiêu đề hiển thị"
+
+msgid "so_luong_tren_dong"
+msgstr "Số lượng trên dòng"
+
+msgid "ti_le_chieu_cao_anh"
+msgstr "Tỉ lệ chiều cao ảnh"
+
+msgid "ti_le_chieu_rong_anh"
+msgstr "Tỉ lệ chiều rộng ảnh"
+
+msgid "dinh_dang"
+msgstr "Định dạng"
+
+msgid "da_dung"
+msgstr "Đã dùng"
+
+msgid "kiem_tra_dung_luong"
+msgstr "Kiểm tra dung lượng"
+
+msgid "tong_khach_hang"
+msgstr "Tổng khách hàng"
+
+msgid "cau_hinh_danh_sach_san_pham"
+msgstr "Cấu hình danh sách sản phẩm"
+
+msgid "cau_hinh_binh_luan"
+msgstr "Cấu hình bình luận"
+
+msgid "social_login"
+msgstr "Social login"
+
+msgid "google_client_id"
+msgstr "Google Client ID"
+
+msgid "facebook_app_id"
+msgstr "Facebook App ID"
+
+msgid "bo_loc_nang_cao"
+msgstr "Bộ lọc nâng cao"
+
+msgid "bo_loc_nang_cao"
+msgstr "Bộ lọc nâng cao"
+
+msgid "gioi_han_dang_tai_anh"
+msgstr "Giới hạn đăng tải ảnh"
+
+msgid "danh_sach_ma_coupon"
+msgstr "Danh sách mã coupon"
+
+msgid "them_ma_thu_cong"
+msgstr "Thêm mã thủ công"
+
+msgid "them_ma_ngau_nhien"
+msgstr "Thêm mã ngẫu nhiên"
+
+msgid "them_ma_khac"
+msgstr "Thêm mã khác"
+
+msgid "them_ma"
+msgstr "Thêm mã"
+
+msgid "so_lan_su_dung"
+msgstr "Số lần sử dụng"
+
+msgid "khong_gio_han"
+msgstr "Không giới hạn"
+
+msgid "so_lan"
+msgstr "Số lần"
+
+msgid "toi_da_6_ky_tu"
+msgstr "Tối đa 6 ký tự"
+
+msgid "ma_coupon_cho_chuong_trinh"
+msgstr "Mã coupon cho chương trình"
+
+msgid "so_luong_ma"
+msgstr "Số lượng mã"
+
+msgid "toi_da"
+msgstr "Tối đa"
+
+msgid "toi_da_1000_ma"
+msgstr "Tối đa 1000 mã"
+
+msgid "tien_to"
+msgstr "Tiền tố"
+
+msgid "so_ky_tu_ngau_nhien"
+msgstr "Số ký tự ngẫu nhiên"
+
+msgid "hau_to"
+msgstr "Hậu tố"
+
+msgid "ma_cua_ban_se_co_dinh_dang"
+msgstr "Mã của bạn sẽ có định dạng"
+
+msgid "voi_x_la_so_ky_tu_ngau_nhien"
+msgstr "Với X là số ký tự ngẫu nhiên"
+
+msgid "chuong_trinh"
+msgstr "Chương trình"
+
+msgid "da_su_dung"
+msgstr "Đã sử dụng"
+
+msgid "loai_chiet_khau"
+msgstr "Loại chiết khấu"
+
+msgid "chiet_khau_don_hang"
+msgstr "Chiết khấu đơn hàng"
+
+msgid "chiet_khau_san_pham"
+msgstr "Chiết khấu sản phẩm"
+
+msgid "mien_phi_van_chuyen"
+msgstr "Miễn phí vận chuyển"
+
+msgid "tang_san_pham"
+msgstr "Tặng sản phẩm"
+
+msgid "thiet_lap_cau_hinh_khuyen_mai"
+msgstr "Thiết lập cấu hình khuyến mãi"
+
+msgid "tich_diem"
+msgstr "Tích điểm"
+
+msgid "thiet_lap_cau_hinh_tich_diem"
+msgstr "Thiết lập cấu hình tích điểm"
+
+msgid "ty_le_quy_doi_diem"
+msgstr "Tỷ lệ quy đổi điểm"
+
+msgid "ty_le_quy_diem_ra_tien"
+msgstr "Tỷ lệ quy điểm ra tiền"
+
+msgid "diem"
+msgstr "điểm"
+
+msgid "dieu_kien_don_hang"
+msgstr "Điều kiện đơn hàng"
+
+msgid "cau_hinh_tich_diem"
+msgstr "Cấu hình tích điểm"
+
+msgid "cau_hinh_diem_danh"
+msgstr "Cấu hình điểm danh"
+
+msgid "quy_dinh_diem"
+msgstr "Quy định điểm"
+
+msgid "cau_hinh_bo_loc_nang_cao"
+msgstr "Cấu hình bộ lọc nâng cao"
+
+msgid "tim_kiem_tu_khoa"
+msgstr "Tìm kiếm từ khóa"
+
+msgid "tim_kiem_khoang_gia"
+msgstr "Tìm kiếm khoảng giá"
+
+msgid "chon_trang_thai"
+msgstr "Chọn trạng thái"
+
+msgid "chon_thuong_hieu"
+msgstr "Chọn thương hiệu"
+
+msgid "giam_gia"
+msgstr "Giảm giá"
+
+msgid "bai_viet_dang_tab"
+msgstr "Bài viết dạng tab"
+
+msgid "bai_viet_dang_tab_chi_tra_ve_du_lieu_cac_danh_muc_duoc_chon"
+msgstr "Bài viết dạng tab chỉ trả về dữ liệu các danh mục được chọn"
+
+msgid "so_ngay"
+msgstr "Số ngày"
+
+msgid "them_chuong_trinh_khuyen_mai"
+msgstr "Thêm chương trình khuyến mãi"
+
+msgid "ten_chuong_trinh_khuyen_mai"
+msgstr "Tên chương trình khuyến mãi"
+
+msgid "ma_chuong_trinh"
+msgstr "Mã chương trình"
+
+msgid "ma_chuong_trinh_se_duoc_coi_nhu_1_ma_coupon_mac_dinh"
+msgstr "Mã chương trình sẽ được coi như 1 mã coupon mặc định"
+
+msgid "cau_hinh_chuong_trinh_khuyen_mai"
+msgstr "Cấu hình chương trình khuyến mãi"
+
+msgid "thoi_gian_ap_dung"
+msgstr "Thời gian áp dụng"
+
+msgid "loai_khuyen_mai"
+msgstr "Loại khuyến mãi"
+
+msgid "ap_dung_voi_don_hang"
+msgstr "Áp dụng với đơn hàng"
+
+msgid "them_dieu_kien_ap_dung"
+msgstr "Thêm điều kiện áp dụng"
+
+msgid "gia_tri_toi_thieu"
+msgstr "Giá trị tối thiểu"
+
+msgid "gia_tri_toi_da"
+msgstr "Giá trị tối đa"
+
+msgid "so_luong_san_pham_mua_toi_thieu"
+msgstr "Số lượng sản phẩm mua tối thiểu"
+
+msgid "ap_dung_voi_san_pham"
+msgstr "Áp dụng với sản phẩm"
+
+msgid "ap_dung_cho"
+msgstr "Áp dụng cho"
+
+msgid "ap_dung_voi_tinh_thanh"
+msgstr "Áp dụng với tỉnh thành"
+
+msgid "tinh_thanh_ap_dung"
+msgstr "Tỉnh thành áp dụng"
+
+msgid "tim_kiem_tinh_thanh"
+msgstr "Tìm kiếm tỉnh thành"
+
+msgid "tinh_thanh_da_chon"
+msgstr "Tỉnh thành đã chọn"
+
+msgid "gia_tri_chiet_khau"
+msgstr "Giá trị chiết khấu"
+
+msgid "gia_tri_chiet_khau_toi_da"
+msgstr "Giá trị chiết khấu tối đa"
+
+msgid "gia_tri_mien_phi_toi_da"
+msgstr "Giá trị miễn phí tối đa"
+
+msgid "thay_doi_dieu_kien_mua"
+msgstr "Thay đổi điều kiện mua"
+
+msgid "tim_kiem_san_pham"
+msgstr "Tìm kiếm sản phẩm"
+
+msgid "thay_doi_san_pham_tang"
+msgstr "Thay đổi sản phẩm tặng"
+
+msgid "san_pham_mua"
+msgstr "Sản phẩm mua"
+
+msgid "san_pham_duoc_tang"
+msgstr "Sản phẩm được tặng"
+
+msgid "them_dieu_kien"
+msgstr "Thêm điều kiện"
+
+msgid "thoi_han_diem_tang"
+msgstr "Thời hạn điểm tặng"
+
+msgid "thiet_lap_gia_tri_tien_tuong_ung_voi_1_diem_dung_de_thanh_toan_bang_diem_hoac_doi_hang"
+msgstr "Thiết lập giá trị tiền tương ứng với 1 điểm, dùng để thanh toán bằng điểm hoặc đổi hàng"
+
+msgid "khach_hang_tich_diem"
+msgstr "Khách hàng tích điểm"
+
+msgid "dieu_chinh_diem"
+msgstr "Điều chỉnh điểm"
+
+msgid "diem_mac_dinh"
+msgstr "Điểm mặc định"
+
+msgid "diem_thuong"
+msgstr "Điểm thưởng"
+
+msgid "diem_nap"
+msgstr "Điểm nạp"
+
+msgid "diem_khuyen_mai"
+msgstr "Điểm khuyến mãi"
+
+msgid "thoi_han_diem"
+msgstr "Thời hạn điểm"
+
+msgid "lich_su_khach_hang_tich_diem"
+msgstr "Lịch sử khách hàng tích điểm"
+
+msgid "chi_tiet_diem_khach_hang"
+msgstr "Chi tiết điểm khách hàng"
+
+msgid "lich_su_tich_diem"
+msgstr "Lịch sử tích điểm"
+
+msgid "so_diem"
+msgstr "Số điểm"
+
+msgid "thoi_gian_het_han"
+msgstr "Thời gian hết hạn"
+
+msgid "so_diem"
+msgstr "Số điểm"
+
+msgid "cong_tru"
+msgstr "Cộng/Trừ"
+
+msgid "cong_diem"
+msgstr "Cộng điểm"
+
+msgid "tru_diem"
+msgstr "Trừ điểm"
+
+msgid "diem_danh"
+msgstr "Điểm danh"
+
+msgid "diem_hien_tai"
+msgstr "Điểm hiện tại"
+
+msgid "thoi_gian_su_dung_den"
+msgstr "Thời gian sử dụng đến"
+
+msgid "diem_danh_tich_tiem"
+msgstr "Điểm danh tích điểm"
+
+msgid "mua_hang_tich_diem"
+msgstr "Mua hàng tích điểm"
+
+msgid "ngay_ghi_nhan"
+msgstr "Ngày ghi nhận"
+
+msgid "diem_thay_doi"
+msgstr "Điểm thay đổi"
+
+msgid "diem_sau_thay_doi"
+msgstr "Điểm sau thay đổi"
+
+msgid "nhan_vien_xet_duyet"
+msgstr "Nhân viên xét duyệt"
+
+msgid "them_tab"
+msgstr "Thêm tab"
+
+msgid "mau_chinh"
+msgstr "Màu chính"
+
+msgid "mau_nut"
+msgstr "Màu nút"
+
+msgid "mau_chu"
+msgstr "Màu chữ"
+
+msgid "mau_noi_bat"
+msgstr "Màu nổi bật"
+
+msgid "app_id"
+msgstr "App ID"
+
+msgid "thay_doi_password"
+msgstr "Thay đổi password"
+
+msgid "thay_doi_trang_thai_tai_khoan"
+msgstr "Thay đổi trạng thái tài khoản"
+
+msgid "thay_doi"
+msgstr "Thay đổi"
+
+msgid "cau_hinh_vfone"
+msgstr "Cấu hình Vfone"
+
+msgid "dem_nguoc_thoi_gian"
+msgstr "Đếm ngược thời gian"
+
+msgid "hien_thi_khong_co_ban_ghi_nao"
+msgstr "Hiển thị không có bản ghi nào"
+
+msgid "thiet_lap_cho_trang_he_thong"
+msgstr "Thiết lập cho trang hệ thống"
+
+msgid "tab_san_pham"
+msgstr "Tab sản phẩm"
+
+msgid "tab_bai_viet"
+msgstr "Tab bài viết"
+
+msgid "giao_dien_tab_child"
+msgstr "Giao diện tab child"
+
+msgid "giao_dien_cua_block_san_pham"
+msgstr "Giao diện của block sản phẩm"
+
+msgid "kich_hoat_duyet_dieu_chinh_diem"
+msgstr "Kích hoạt duyệt điều chỉnh điểm"
+
+msgid "cap_nhat_chuong_trinh_khuyen_mai"
+msgstr "Cập nhật chương trình khuyến mãi"
+
+msgid "san_pham_ap_dung"
+msgstr "Sản phẩm áp dụng"
+
+msgid "ma_coupon_khong_hop_le"
+msgstr "Mã coupon không hợp lệ"
+
+msgid "ma_khuyen_mai_khong_hop_le"
+msgstr "Mã coupon không hợp lệ"
+
+msgid "ma_coupon_da_duoc_su_dung"
+msgstr "Mã coupon đã được sử dụng"
+
+msgid "xac_minh_ma_coupon_thanh_cong"
+msgstr "xác minh mã coupon thành công"
+
+msgid "ap_dung_tich_diem_don_hang"
+msgstr "Áp dụng tích điểm đơn hàng"
+
+msgid "diem_tang_theo_moi_don_hang"
+msgstr "Điểm tặng theo mỗi đơn hàng"
+
+msgid "ty_le_quy_doi_tu_tien_ra_diem"
+msgstr "Tỷ lệ quy đổi từ tiền ra điểm"
+
+msgid "ty_le_quy_doi_tu_diem_ra_tien"
+msgstr "Tỷ lệ quy đổi từ điểm ra tiền"
+
+msgid "thoi_han_su_dung_diem_tang_mac_dinh_la_30_ngay"
+msgstr "Thời hạn sử dụng điểm tặng (Mặc định là 30 ngày)"
+
+msgid "so_diem_duoc_tang_theo_%_moi_don_hang"
+msgstr "Số điểm được tặng theo % mỗi đơn hàng"
+
+msgid "so_diem_duoc_tang_theo_moi_don_hang"
+msgstr "Số điểm được tặng theo mỗi đơn hàng"
+
+msgid "mua_hang_bang_diem"
+msgstr "Mua hàng bằng điểm"
+
+msgid "ma_thuoc_tinh_viet_thuong_va_cach_nhau_bang_dau_gach_duoi"
+msgstr "Mã thuộc tính viết thường và cách nhau bằng dấu gạch dưới"
+
+msgid "ma_thuoc_tinh_viet_lien_khong_dau"
+msgstr "Mã thuộc tính viết liền không dấu"
+
+msgid "ma_trang"
+msgstr "Mã trang"
+
+msgid "tieu_de_trang"
+msgstr "Tiêu đề trang"
+
+msgid "lua_chon_doi_tac"
+msgstr "Lựa chọn đối tác"
+
+msgid "sms_brandname"
+msgstr "Sms Brandname"
+
+msgid "thiet_lap_cau_hinh_sms_brandname"
+msgstr "Thiết lập cấu hình sms brandname"
+
+msgid "tim_kiem_ma_coupon"
+msgstr "Tìm kiếm mã coupon"
+
+msgid "tim_kiem_chuong_trinh"
+msgstr "Tìm kiếm chương trình"
+
+msgid "khong_tim_thay_thong_tin_chuong_trinh"
+msgstr "Không tìm thấy thông tin chương trình"
+
+msgid "chuong_trinh_affiliate"
+msgstr "Chương trình Affiliate"
+
+msgid "affiliate"
+msgstr "Affiliate"
+
+msgid "thiet_lap_cau_hinh_affiliate"
+msgstr "Thiết lập cấu hình Affiliate"
+
+msgid "cau_hinh_chuong_trinh_affiliate"
+msgstr "Cấu hình chương trình Affiliate"
+
+msgid "kich_hoat_chuong_trinh_tiep_thi_lien_ket"
+msgstr "Kích hoạt chương trình tiếp thị liên kết"
+
+msgid "hoa_hong"
+msgstr "Hoa hồng"
+
+msgid "thiet_lap_ty_le_hoa_hong"
+msgstr "Thiết lập tỷ lệ hoa hồng"
+
+msgid "so_luot_ap_dung_lien_ket"
+msgstr "Số lượt áp dụng liên kết"
+
+msgid "them_cap_moi"
+msgstr "Thêm cấp mới"
+
+msgid "ten_cap"
+msgstr "Tên cấp"
+
+msgid "so_luot_gioi_thieu"
+msgstr "Số lượt giới thiệu"
+
+msgid "phan_tram_hoa_hong"
+msgstr "Phần trăm hoa hồng"
+
+msgid "lien_ket_khach_hang"
+msgstr "Liên kết khách hàng"
+
+msgid "thong_bao"
+msgstr "Thông báo"
+
+msgid "loai_thong_bao"
+msgstr "Loại thông báo"
+
+msgid "danh_sach_thong_bao"
+msgstr "Danh sách thông báo"
+
+msgid "tao_thong_bao_moi"
+msgstr "Tạo thông báo mới"
+
+msgid "cap_nhat_thong_bao"
+msgstr "Cập nhật thông báo"
+
+msgid "danh_sach_thiet_bi"
+msgstr "Danh sách thiết bị"
+
+msgid "danh_sach_thiet_bi_nhan_thong_bao"
+msgstr "Danh sách thiết bị nhận thông báo"
+
+msgid "lich_su_gui_thong_bao"
+msgstr "Lịch sử gửi thông báo"
+
+msgid "lich_su_gui"
+msgstr "Lịch sử gửi"
+
+msgid "gui_thong_bao"
+msgstr "Gửi thông báo"
+
+msgid "thiet_lap_cau_hinh_gui_thong_bao"
+msgstr "Thiết lập cấu hình gửi thông báo"
+
+msgid "danh_sach_yeu_cau"
+msgstr "Danh sách yêu cầu"
+
+msgid "kich_hoat"
+msgstr "Kích hoạt"
+
+msgid "ngung_kich_hoat"
+msgstr "Ngừng kích hoạt"
+
+msgid "thong_ke"
+msgstr "Thống kê"
+
+msgid "danh_sach_doi_tac"
+msgstr "Danh sách đối tác"
+
+msgid "thiet_lap_chiet_khau_don_hang"
+msgstr "Thiết lập chiết khấu đơn hàng"
+
+msgid "chiet_khau_don_hang_ap_dung_ma_gioi_thieu"
+msgstr "Chiết khấu đơn hàng áp dụng mã giới thiệu"
+
+msgid "don_hang_doi_tac"
+msgstr "Đơn hàng đối tác"
+
+msgid "thong_tin_doi_tac"
+msgstr "Thông tin đối tác"
+
+msgid "du_lieu_thang"
+msgstr "Dữ liệu tháng"
+
+msgid "tong_don"
+msgstr "Tổng đơn"
+
+msgid "don_hang_that_bai"
+msgstr "Đơn hàng thất bại"
+
+msgid "tam_tinh"
+msgstr "Tạm tính"
+
+msgid "ma_gioi_thieu"
+msgstr "Mã giới thiệu"
+
+msgid "thu_hang"
+msgstr "Thứ hạng"
+
+msgid "lich_su_thanh_toan"
+msgstr "Lịch sử thanh toán"
+
+msgid "trang_thai_don_hang"
+msgstr "Trạng thái đơn hàng"
+
+msgid "thong_ke_doi_tac"
+msgstr "Thống kê đối tác"
+
+msgid "tong_doi_tac"
+msgstr "Tổng đối tác"
+
+msgid "doi_tac_hoat_dong"
+msgstr "Đối tác hoạt động"
+
+msgid "doi_tac_cho_duyet"
+msgstr "Đối tác chờ duyệt"
+
+msgid "doi_tac"
+msgstr "Đối tác"
+
+msgid "ty_le_hoa_hong"
+msgstr "Tỷ lệ hoa hồng"
+
+msgid "chiet_khau_don_hang_ap_dung_ma_gioi_thieu_va_ma_khuyen_mai"
+msgstr "Chiết khấu đơn hàng áp dụng mã giới thiệu và mã khuyến mãi"
+
+msgid "trang_thai_ap_dung_chiet_khau_voi_ma_khuyen_mai"
+msgstr "Trạng thái áp dụng chiết khấu với mã khuyến mãi"
+
+msgid "mac_dinh_chiet_khau_don_hang_se_la_chiet_khau_theo_ma_gio_thieu"
+msgstr "Mặc định chiết khấu đơn hàng sẽ là chiết khấu theo mã giới thiệu"
+
+msgid "neu_trang_thai_hoat_dong_thi_se_ap_dung_chiet_khau_don_hang_theo_ma_gioi_thieu_va_ma_khuyen_mai"
+msgstr "Nếu trạng thái hoạt động thì sẽ áp dụng chiết khấu đơn hàng theo mã giới thiệu và mã khuyến mãi"
+
+msgid "chiet_khau_cung_ma_khuyen_mai"
+msgstr "Chiết khấu cùng mã khuyến mãi"
+
+msgid "loai_giao_dich"
+msgstr "Loại giao dịch"
+
+msgid "ngay_giao_dich"
+msgstr "Ngày giao dịch"
+
+msgid "diem_danh_tich_diem"
+msgstr "Điểm danh tích điểm"
+
+msgid "tang_diem"
+msgstr "Tặng điểm"
+
+msgid "nap_diem"
+msgstr "Nạp điểm"
+
+msgid "tiep_thi_lien_ket"
+msgstr "Tiếp thị liên kết"
+
+msgid "tong_hoa_hong"
+msgstr "Tổng hoa hồng"
+
+msgid "hoa_hong_tam_tinh"
+msgstr "Hoa hồng tạm tính"
+
+msgid "yeu_cau_hop_tac"
+msgstr "Yêu cầu hợp tác"
+
+msgid "yeu_cau_rut_tien"
+msgstr "Yêu cầu rút tiền"
+
+msgid "yeu_cau_rut_tien"
+msgstr "Yêu cầu rút tiền"
+
+msgid "vui_long_nhap_so_diem"
+msgstr "Vui lòng nhập số điểm"
+
+msgid "vui_long_nhap_so_diem"
+msgstr "Vui lòng nhập số điểm"
+
+msgid "so_diem_trong_vi_khong_du_de_su_dung"
+msgstr "Số điểm trong ví không đủ để sử dụng"
+
+msgid "dieu_chinh_diem_khong_thanh_cong"
+msgstr "Điều chỉnh điểm không thành công"
+
+msgid "ngay_yeu_cau"
+msgstr "Ngày yêu cầu"
+
+msgid "ngay_duyet"
+msgstr "Ngày duyệt"
+
+msgid "them_ban_ghi"
+msgstr "Thêm bản ghi"
+
+msgid "lich_su_su_dung_diem"
+msgstr "Lịch sử sử dụng điểm"
+
+msgid "top_doi_tac"
+msgstr "Top đối tác"
+
+msgid "doanh_thu"
+msgstr "Doanh thu"
+
+msgid "luot_gioi_thieu"
+msgstr "Lượt giới thiệu"
+
+msgid "doi_tac_moi"
+msgstr "Đối tác mới"
+
+msgid "thang_1"
+msgstr "Tháng 1"
+
+msgid "thang_2"
+msgstr "Tháng 2"
+
+msgid "thang_3"
+msgstr "Tháng 3"
+
+msgid "thang_4"
+msgstr "Tháng 4"
+
+msgid "thang_5"
+msgstr "Tháng 5"
+
+msgid "thang_6"
+msgstr "Tháng 6"
+
+msgid "thang_7"
+msgstr "Tháng 7"
+
+msgid "thang_8"
+msgstr "Tháng 8"
+
+msgid "thang_9"
+msgstr "Tháng 9"
+
+msgid "thang_10"
+msgstr "Tháng 10"
+
+msgid "thang_11"
+msgstr "Tháng 11"
+
+msgid "thang_12"
+msgstr "Tháng 12"
+
+msgid "trong_nam"
+msgstr "Trong năm"
+
+msgid "don_thanh_cong"
+msgstr "Đơn thành công"
+
+msgid "don_that_bai"
+msgstr "Đơn thất bại"
+
+msgid "tai_khoan_ngan_hang"
+msgstr "Tài khoản ngân hàng"
+
+msgid "thong_tin_thanh_toan"
+msgstr "Thông tin thanh toán"
+
+msgid "tim_kiem_khach_hang"
+msgstr "Tìm kiếm khách hàng"
+
+msgid "diem_mac_dinh"
+msgstr "Điểm mặc định"
+
+msgid "diem_thuong"
+msgstr "Điểm thưởng"
+
+msgid "diem_vi"
+msgstr "Điểm ví"
+
+msgid "diem_tuy_chinh"
+msgstr "Điểm tùy chỉnh"
+
+msgid "khach_hang_hien_tai_da_la_doi_tac"
+msgstr "Khách hàng hiện tại đã là đối tác"
+
+msgid "dang_ap_dung"
+msgstr "Đang áp dụng"
+
+msgid "khach_da_tra"
+msgstr "Khách đã trả"
+
+msgid "su_dung_diem_thuong"
+msgstr "Sử dụng điểm thưởng"
+
+msgid "su_dung_diem_vi"
+msgstr "Sử dụng điểm ví"
+
+msgid "phuong_thuc_van_chuyen_da_chon"
+msgstr "Phương thức vận chuyển đã chọn"
+
+msgid "yeu_cau_rut_tien_nay_da_duoc_thuc_hien"
+msgstr "Yêu cầu rút tiền này đã được thực hiện"
+
+msgid "tao_yeu_cau"
+msgstr "Tạo yêu cầu"
+
+msgid "tao_yeu_cau_rut_tien_theo_ky_han"
+msgstr "Tạo yêu cầu rút tiền theo kỳ hạn"
+
+msgid "ho_ten"
+msgstr "Họ tên"
+
+msgid "ngan_hang"
+msgstr "Ngân hàng"
+
+msgid "chon_ngan_hang"
+msgstr "Chọn ngân hàng"
+
+msgid "so_diem_co_the_rut"
+msgstr "Số điểm có thể rút"
+
+msgid "vui_long_chon_ngan_hang"
+msgstr "Vui lòng chọn ngân hàng"
+
+msgid "vui_long_nhap_so_diem_de_rut"
+msgstr "Vui lòng nhập số điểm để rút"
+
+msgid "so_diem_khong_du_de_rut"
+msgstr "Số điểm không đủ để rút"
+
+msgid "chua_thiet_lap_ti_le_quy_doi"
+msgstr "Chưa thiết lập tỉ lệ quy đổi điểm"
+
+msgid "them_phuong_thuc_van_chuyen"
+msgstr "Thêm phương thức vận chuyển"
+
+msgid "khong_co_du_lieu"
+msgstr "Không có dữ liệu"
+
+msgid "chuyen_huong_trang_error"
+msgstr "Chuyển hướng trang Error"
+
+msgid "trang_dich"
+msgstr "Trang đích"
+
+msgid "trang_404"
+msgstr "Trang 404"
+
+msgid "cau_hinh_mau_in"
+msgstr "Cấu hình mẫu in"
+
+msgid "chinh_sua_mau_in"
+msgstr "Chỉnh sửa mẫu in"
+
+msgid "ten_mau_in"
+msgstr "Tên mẫu in"
+
+msgid "mau_in"
+msgstr "Mẫu in"
+
+msgid "vui_long_chon_mau_in"
+msgstr "Vui lòng chọn mẫu in"
+
+msgid "khong_ton_tai_file_mau_in"
+msgstr "Không tồn tại file mẫu in"
+
+msgid "khong_lay_duoc_thong_tin_mau_in"
+msgstr "Không lấy được thông tin mẫu in"
+
+msgid "vui_long_nhap_ten_mau_in"
+msgstr "Vui lòng nhập tên mẫu in"
+
+msgid "tieu_de_mau_in"
+msgstr "Tiêu đề mẫu in"
+
+msgid "luu_mau_in"
+msgstr "Lưu mẫu in"
+
+msgid "chuyen_huong_xem_them"
+msgstr "Chuyển hướng xem thêm"
+
+msgid "duong_dan_chinh_sach"
+msgstr "Đường dẫn chính sách"
+
+msgid "chinh_sach"
+msgstr "Chính sách"
+
+msgid "dieu_khoan_su_dung"
+msgstr "Điều khoản sử dụng"
+
+msgid "xoa_du_lieu_nguoi_dung"
+msgstr "Xóa dữ liệu người dùng"
+
+msgid "theo_thoi_gian"
+msgstr "Theo thời gian"
+
+msgid "theo_san_pham"
+msgstr "Theo sản phẩm"
+
+msgid "theo_nhan_vien"
+msgstr "Theo nhân viên"
+
+msgid "theo_nguon_don_hang"
+msgstr "Theo nguồn đơn hàng"
+
+msgid "bao_cao_theo_thoi_gian"
+msgstr "Báo cáo theo thời gian"
+
+msgid "bao_cao_theo_san_pham"
+msgstr "Báo cáo theo sản phẩm"
+
+msgid "bao_cao_theo_nhan_vien"
+msgstr "Báo cáo theo nhân viên"
+
+msgid "bao_cao_theo_tinh_thanh"
+msgstr "Báo cáo theo tỉnh thành"
+
+msgid "bao_cao_theo_nguon_don_hang"
+msgstr "Báo cáo theo nguồn đơn hàng"
+
+msgid "chua_co_thong_tin"
+msgstr "Chưa có thông tin"
+
+msgid "stt"
+msgstr "STT"
+
+msgid "so_don"
+msgstr "Số đơn"
+
+msgid "so_san_pham"
+msgstr "Số sản phẩm"
+
+msgid "doanh_thu_tck"
+msgstr "Doanh thu TCK"
+
+msgid "so_luong_ban"
+msgstr "Số lượng bán"
+
+msgid "tong"
+msgstr "Tổng"
+
+msgid "thoi_gian"
+msgstr "Thời gian"
+
+msgid "cvr"
+msgstr "CVR"
+
+msgid "hien_thi_theo"
+msgstr "Hiển thị theo"
+
+msgid "cau_hinh_lien_he"
+msgstr "Cấu hình liên hệ"
+
+msgid "ngay_dang"
+msgstr "Ngày đăng"
+
+msgid "da_ban"
+msgstr "Đã bán"
+
+msgid "top_10_san_pham_ban_chay"
+msgstr "Top 10 sản phẩm bán chạy"
+
+msgid "so_thu_tu"
+msgstr "Số thứ tự"
+
+msgid "doanh_thu_truoc_chiet_khau"
+msgstr "Doanh thu trước chiết khấu"
+
+msgid "ti_le_chuyen_doi_thanh_cong"
+msgstr "Tỉ lệ chuyển đổi thành công"
+
+msgid "trung_binh"
+msgstr "Trung bình"
+
+msgid "cong_thanh_toan_momo_app_to_app"
+msgstr "Cổng thanh toán MoMo app to app"
+
+msgid "danh_sach_thuoc_tinh"
+msgstr "Danh sách thuộc tính"
+
+msgid "quan_ly_tat_ca_thuoc_tinh_mo_rong"
+msgstr "Quản lý tất cả thuộc tính mở rộng"
+
+msgid "ma_nhung_thuoc_tinh"
+msgstr "Mã nhúng thuộc tính"
+
+msgid "them_ma_nhung_thuoc_tinh"
+msgstr "Thêm mã nhúng thuộc tính"
+
+msgid "ma_nhung_thuoc_tinh_bai_viet"
+msgstr "Mã nhúng thuộc tính bài viết"
+
+msgid "them_ma_nhung_thuoc_tinh_vao_bai_viet"
+msgstr "Thêm mã nhúng thuộc tính vào bài viết"
+
+msgid "ma_nhung_thuoc_tinh_san_pham"
+msgstr "Mã nhúng thuộc tính sản phẩm"
+
+msgid "them_ma_nhung_thuoc_tinh_vao_san_pham"
+msgstr "Thêm mã nhúng thuộc tính vào sản phẩm"
+
+msgid "cau_hinh_thuoc_tinh_mo_rong_duoc_phep_nhung_vao_noi_dung_bai_viet"
+msgstr "Cấu hình thuộc tính mở rộng được phép nhúng vào nội dung bài viết"
+
+msgid "cau_hinh_thuoc_tinh_mo_rong_duoc_phep_nhung_vao_noi_dung_san_pham"
+msgstr "Cấu hình thuộc tính mở rộng được phép nhúng vào nội dung sản phẩm"
+
+msgid "thuoc_tinh_ap_dung_theo_danh_muc"
+msgstr "Thuộc tính áp dụng theo danh mục"
+
+msgid "tuy_chinh_cac_thuoc_tinh_mo_rong_cho_tung_danh_muc_san_pham"
+msgstr "Tùy chỉnh các thuộc tính mở rộng cho từng danh mục sản phẩm"
+
+msgid "slb"
+msgstr "SLB"
+
+msgid "slsp"
+msgstr "SLSP"
+
+msgid "so_luong_san_pham"
+msgstr "Số lượng sản phẩm"
+
+msgid "giatb"
+msgstr "Giá TB"
+
+msgid "gia_trung_binh"
+msgstr "Giá trung bình"
+
+msgid "nguon_chua_xac_dinh"
+msgstr "Nguồn chưa xác định"
+
+msgid "so_luong_don_theo_tinh_thanh"
+msgstr "Số lượng đơn theo tỉnh thành"
+
+msgid "nhan_vien_suat_sac"
+msgstr "Nhân viên suất sắc"
+
+msgid "tam_tinh_doanh_thu"
+msgstr "Tạm tính doanh thu"
+
+msgid "so_don_dat_hang"
+msgstr "Số đơn đạt hàng"
+
+msgid "tuan"
+msgstr "Tuần"
+
+msgid "doanh_thu_tam_tinh"
+msgstr "Doanh thu tạm tính"
+
+msgid "doanh_thu_theo_nguon_don_hang"
+msgstr "Doanh thu theo nguồn đơn hàng"
+
+msgid "bao_gom_cac_don_hang_chua_thanh_cong"
+msgstr "Bao gồm các đơn hàng chưa thành công"
+
+msgid "doanh_thu_thuc_te"
+msgstr "Doanh thu thực tế"
+
+msgid "tong_tien_don_huy"
+msgstr "Tổng tiền đơn hủy"
+
+msgid "tong_tien_chua_thanh_toan"
+msgstr "Tổng tiền chưa thanh toán"
+
+msgid "xuat_excel_trang_hien_tai"
+msgstr "Xuất excel trang hiện tại"
+
+msgid "xuat_excel_toan_bo_cac_trang"
+msgstr "Xuất excel toàn bộ các trang"
+
+msgid "xuat_excel"
+msgstr "Xuất excel"
+
+msgid "doanh_thu_theo_tinh_thanh"
+msgstr "Doanh thu theo tỉnh thành"
+
+msgid "trang_thai_ap_dung_thuoc_tinh_theo_danh_muc"
+msgstr "Trạng thái áp dụng thuộc tính theo danh mục"
+
+msgid "khi_kich_hoat_trang_thai_thi_nhung_danh_muc_khong_cau_hinh_thuoc_tinh_mo_rong_khi_them_moi_hoac_cap_nhat_se_khong_ap_dung_duoc_thuoc_tinh_mo_rong"
+msgstr "Khi kích hoạt trạng thái thì những danh mục không cấu hình thuộc tính mở rộng, khi thêm mới hoặc cập nhật sẽ không áp dụng được thuộc tính mở rộng"
+
+msgid "import_san_pham_qua_excel"
+msgstr "Import sản phẩm qua excel"
+
+msgid "mau_file"
+msgstr "Mẫu File"
+
+msgid "file_import"
+msgstr "File Import"
+
+msgid "tai_mau_file_excel_va_nhap_thong_tin_san_pham"
+msgstr "Tải mẫu file excel và nhập thông tin sản phẩm"
+
+msgid "thuong_hieu_ap_dung_theo_danh_muc"
+msgstr "Thương hiệu áp dụng theo danh mục"
+
+msgid "tuy_chinh_thuong_hieu_cho_tung_danh_muc_san_pham"
+msgstr "Tùy chỉnh thương hiệu cho từng danh mục sản phẩm"
+
+msgid "khi_kich_hoat_trang_thai_thi_nhung_danh_muc_khong_cau_hinh_thuong_hieu_khi_them_moi_hoac_cap_nhat_se_khong_ap_dung_duoc_thuong_hieu"
+msgstr "Khi kích hoạt trạng thái thì những danh mục không cấu hình thương hiệu, khi thêm mới hoặc cập nhật sẽ không áp dụng được thương hiệu"
+
+msgid "cau_hinh_gui_tin"
+msgstr "Cấu hình gửi tin"
+
+msgid "huong_dan_thiet_lap_slack"
+msgstr "Hướng dẫn thiết lập Slack"
+
+msgid "huong_dan_cau_hinh_telegram_nicegram"
+msgstr "Hướng dẫn cấu hình Telegram (Nicegram)"
+
+msgid "huong_dan_lay_webhook_url"
+msgstr "Hướng dẫn lấy Webhook URL"
+
+msgid "tao_app_tren_slack"
+msgstr "Tạo App trên Slack"
+
+msgid "trong_trang_dashboard_cua_slack_chon_them_ung_dung_va_tim_incoming_webhooks"
+msgstr "Trong trang dashboard của Slack chọn thêm ứng dụng và tìm Incoming WebHooks"
+
+msgid "lua_chon_channel_muon_gui_tin"
+msgstr "Lựa chọn Channel muốn gửi tin"
+
+msgid "neu_chua_co_thi_tao_moi_channel"
+msgstr "Nếu chưa có thì tạo mới Channel"
+
+msgid "thong_tin_webhook_url"
+msgstr "Thông tin Webhook URL"
+
+msgid "tai_ung_dung_nicegram_tren_iphone"
+msgstr "Tải ứng dụng Nicegram trên Iphone"
+
+msgid "tren_ung_dung_nicegram_tim_kiem_botfather"
+msgstr "Trên ứng dụng Nicegram tìm kiếm BotFather"
+
+msgid "khi_cua_so_tro_chuyen_voi_bot_duoc_mo_nhan_nut_start"
+msgstr "Khi của sổ trò chuyện với Bot được mở, nhấn nút Start"
+
+msgid "nhap_vao_newbot_va_nhap_ten_username_cho_bot"
+msgstr "Nhấp vào /newbot và nhập tên, username cho Bot"
+
+msgid "thong_tin_token_cua_bot"
+msgstr "Thông tin Token của Bot"
+
+msgid "tao_nhom_va_them_bot_ban_vua_tao_vao_nhom_chat"
+msgstr "Tạo nhóm và thêm Bot bạn vừa tạo vào nhóm chat"
+
+msgid "lay_thong_tin_id_nhom_chat"
+msgstr "Lấy thông tin ID nhóm chat"
+
+msgid "ket_noi"
+msgstr "Kết nối"
+
+msgid "gui_tin_nhan"
+msgstr "Gửi tin nhắn"
+
+msgid "thiet_lap_gui_tin_nhan"
+msgstr "Thiết lập gửi tin nhắn"
+
+msgid "ma_sp"
+msgstr "Mã SP"
+
+msgid "gia_km"
+msgstr "Giá KM"
+
+msgid "ngay_giam_gia"
+msgstr "Ngày giảm giá"
+
+msgid "ngay_ket_thuc_giam_gia"
+msgstr "Ngày kết thúc giảm giá"
+
+msgid "trang_thai_phien_ban"
+msgstr "Trạng thái phiên bản"
+
+msgid "thong_tin_phien_ban_san_pham"
+msgstr "Thông tin phiên bản sản phẩm"
+
+msgid "chuyen_huong_duong_dan_website"
+msgstr "Chuyển hướng đường dẫn website"
+
+msgid "cau_hinh_chuyen_huong"
+msgstr "Cấu hình chuyển hướng"
+
+msgid "thiet_lap_duong_dan_cdn"
+msgstr "Thiết lập đường dẫn CDN"
+
+msgid "cau_hinh_mang_xa_hoi"
+msgstr "Cấu hình mạng xã hội "
+
+msgid "trang_thai_sp"
+msgstr "Trạng thái SP"
+
+msgid "quoc_gia"
+msgstr "Quốc gia"
+
+msgid "them_quoc_gia"
+msgstr "Thêm quốc gia"
+
+msgid "cap_nhat_quoc_gia"
+msgstr "Cập nhật quốc gia"
+
+msgid "ten_quoc_gia"
+msgstr "Tên quốc gia"
+
+msgid "ten_tinh_thanh"
+msgstr "Tên tỉnh thành"
+
+msgid "cap_nhat_tinh_thanh"
+msgstr "Cập nhật tỉnh thành"
+
+msgid "ten_quan_huyen"
+msgstr "Tên quận huyện"
+
+msgid "cap_nhat_quan_huyen"
+msgstr "Cập nhật quận huyện"
+
+msgid "ten_phuong_xa"
+msgstr "Tên phường xã"
+
+msgid "cap_nhat_phuong_xa"
+msgstr "Cập nhật phường xã"
+
+msgid "danh_sach_quoc_gia"
+msgstr "Danh sách quốc gia"
+
+msgid "danh_sach_tinh_thanh"
+msgstr "Danh sách tỉnh thành"
+
+msgid "danh_sach_phuong_xa"
+msgstr "Danh sách phường xã"
+
+msgid "mau_block"
+msgstr "Màu block"
+
+msgid "mau_item"
+msgstr "Màu item"
+
+msgid "khoang_cach_block"
+msgstr "Khoảng cách block"
+
+msgid "khoang_cach_item"
+msgstr "Khoảng cách item"
+
+msgid "danh_muc_chinh"
+msgstr "Danh mục chính"
+
+msgid "nhan_da_ngon_ngu"
+msgstr "Nhãn đa ngôn ngữ"
+
+msgid "dung_de_hien_thi_cac_du_lieu_theo_ngon_ngu"
+msgstr "Dùng để hiển thị các dữ liệu theo ngôn ngữ"
+
+msgid "nhan_thuong"
+msgstr "Nhãn thường"
+
+msgid "dung_de_luu_cac_gia_tri_khong_thay_doi_voi_cac_ngon_ngu_khac_nhau"
+msgstr "Dùng để lưu các giá trị không thay đổi với các ngôn ngữ khác nhau"
+
+msgid "gia_tri"
+msgstr "Giá trị"
+
+msgid "duong_dan_he_thong"
+msgstr "Đường dẫn hệ thống"
+
+msgid "duong_dan_he_thong"
+msgstr "Đường dẫn hệ thống"
+
+msgid "plugins"
+msgstr "Plugins"
+
+msgid "quan_ly_va_thiet_lap_cac_tien_ich_cho_website"
+msgstr "Quản lý và thiết lập các tiện ích cho website"
+
+msgid "clear_data"
+msgstr "Clear data"
+
+msgid "xoa_bo_du_lieu_mau_tren_website"
+msgstr "Xóa dữ liệu mẫu trên website"
+
+msgid "xoa_bo_du_lieu_mau_tren_website"
+msgstr "Xóa bỏ dữ liệu mẫu trên website"
+
+msgid "cap_nhat_thong_tin_duong_dan_cdn"
+msgstr "Cập nhật thông tin đường dẫn CDN"
+
+msgid "export_du_lieu_mau"
+msgstr "Export dữ liệu mẫu"
+
+msgid "export_du_lieu_mau_cho_website"
+msgstr "Export dữ liệu mẫu cho website"
+
+msgid "import_du_lieu_mau"
+msgstr "Import dữ liệu mẫu"
+
+msgid "import_du_lieu_mau_cho_website"
+msgstr "Import dữ liệu mẫu cho website"
+
+msgid "migrate"
+msgstr "Migrate"
+
+msgid "migrate_thong_tin_du_lieu_cho_website"
+msgstr "Migrate thông tin dữ liệu cho website"
+
+msgid "search_unicode"
+msgstr "Search unicode"
+
+msgid "cap_nhat_lai_thong_tin_search_unicode"
+msgstr "Cập nhật lại thông tin search unicode"
+
+msgid "export_du_lieu_danh_muc_bai_viet"
+msgstr "Export dữ liệu danh mục bài viết"
+
+msgid "export_du_lieu_bai_viet"
+msgstr "Export dữ liệu bài viết"
+
+msgid "export_du_lieu_the_tag_cua_bai_viet"
+msgstr "Export dữ liệu thẻ tag bài viết"
+
+msgid "export_du_lieu_thuoc_tinh_mo_rong_cua_bai_viet"
+msgstr "Export dữ liệu thuộc tính mở rộng của bài viết"
+
+msgid "export_du_lieu_danh_muc_san_pham"
+msgstr "Export dữ liệu danh mục sản phẩm"
+
+msgid "export_du_lieu_thuong_hieu"
+msgstr "Export dữ liệu thương hiệu"
+
+msgid "export_du_lieu_san_pham"
+msgstr "Export dữ liệu sản phẩm"
+
+msgid "export_du_lieu_the_tag_cua_san_pham"
+msgstr "Export dữ liệu thẻ tag của sản phẩm"
+
+msgid "export_du_lieu_thuoc_tinh_mo_rong_cua_san_pham"
+msgstr "Export dữ liệu thuộc tính mở rộng của sản phẩm"
+
+msgid "export_du_lieu"
+msgstr "Export dữ liệu"
+
+msgid "xoa_cache_website"
+msgstr "Xoá Cache Website"
+
+msgid "xoa_cache_trinh_duyet"
+msgstr "Xoá Cache trình duyệt"
+
+msgid "xem_cau_hinh_block"
+msgstr "Xem cấu hình Block"
+
+msgid "chao"
+msgstr "Chào"
+
+msgid "thuc_hien_cac_buoc_export_theo_dung_thu_tu"
+msgstr "Thực hiện các bước export theo đúng thứ tự"
+
+msgid "so_ban_ghi_can_export_cang_it_thi_export_du_lieu_cang_nhanh"
+msgstr "Số bản ghi cần export càng ít thì export dữ liệu càng nhanh"
+
+msgid "du_lieu_export_mau_duoc_luu_tam_trong_thu_muc_tmp_trong_qua_trinh_export_du_lieu_khong_duoc_xoa_cache_he_thong_de_tranh_xay_ra_loi_khi_export_du_lieu_mau"
+msgstr "Dữ liệu export mẫu được lưu tạm trong thư mục tmp. Trong quá trình export dữ liệu không được xóa cache hệ thống để tránh xảy ra lỗi khi export dữ liệu mẫu"
+
+msgid "so_ban_ghi"
+msgstr "Số bản ghi"
+
+msgid "so_ban_ghi_export"
+msgstr "Số bản ghi export"
+
+msgid "the_tag_bai_viet"
+msgstr "Thẻ tag bài viết"
+
+msgid "thuoc_tinh_mo_rong_bai_viet"
+msgstr "Thuộc tính mở rộng bài viết"
+
+msgid "thuoc_tinh_mo_rong_san_pham"
+msgstr "Thuộc tính mở rộng sản phẩm"
+
+msgid "id_bat_dau"
+msgstr "ID bắt đầu"
+
+msgid "buoc_khoi_tao"
+msgstr "Bước khởi tạo"
+
+msgid "chuc_nang_he_thong"
+msgstr "Chức năng hệ thống"
+
+msgid "import_du_lieu"
+msgstr "Import dữ liệu"
+
+msgid "khoi_tao_moi_quy_trinh_export_du_lieu"
+msgstr "Khởi tạo mới quy trình export dữ liệu"
+
+msgid "doc_thong_tin_du_lieu"
+msgstr "Đọc thông tin dữ liệu"
+
+msgid "cau_hinh_du_lieu_export"
+msgstr "Cấu hình dữ liệu export"
+
+msgid "cau_hinh_id_bat_dau_cho_du_lieu"
+msgstr "Cấu hình ID bắt đầu cho dữ liệu"
+
+msgid "cau_hinh_thong_tin_cdn"
+msgstr "Cấu hình thông tin CDN"
+
+msgid "chon_ngon_ngu_cho_du_lieu_can_export"
+msgstr "Chọn ngôn ngữ cho dữ liệu cần export"
+
+msgid "cau_hinh_mo_rong"
+msgstr "Cấu hình mở rộng"
+
+msgid "danh_sach_ngon_ngu"
+msgstr "Danh sách ngôn ngữ"
+
+msgid "quan_ly_danh_sach_ngon_ngu_he_thong"
+msgstr "Quản lý danh sách ngôn ngữ hệ thống"
+
+msgid "dich_tu_dong"
+msgstr "Dịch tự động"
+
+msgid "dich_tu_dong_khi_tao_moi_bai_viet"
+msgstr "Dịch tự động khi tạo mới bài viết"
+
+msgid "dich"
+msgstr "Dịch"
+
+msgid "da_khoi_tao"
+msgstr "Đã khởi tạo"
+
+msgid "da_khoi_tao"
+msgstr "Đã khởi tạo"
+
+msgid "khong_the_khoi_tao_tep_du_lieu_{0}"
+msgstr "Không thể khởi tạo tệp dữ liệu {0}"
+
+msgid "khong_the_khoi_tao_tep_du_lieu_all_sql"
+msgstr "Không thể khởi tạo tệp dữ liệu all.sql"
+
+msgid "khong_the_khoi_tao_thu_muc_media"
+msgstr "Không thể khởi tạo thư mục media"
+
+msgid "khong_the_khoi_tao_thu_muc_thumbs"
+msgstr "Không thể khởi tạo thư mục thumbs"
+
+msgid "khoi_tao_thanh_cong"
+msgstr "Khởi tạo thành công"
+
+msgid "cap_nhat_file_migrate_json_khong_thanh_cong"
+msgstr "Cập nhật file migrate.json không thành công"
+
+msgid "khoi_tao_quy_trinh_thanh_cong"
+msgstr "Khởi tạo quy trình thành công"
+
+msgid "doc_thong_tin_du_lieu_thanh_cong"
+msgstr "Đọc thông tin dữ liệu thành công"
+
+msgid "da_thuc_hien"
+msgstr "Đã thực hiện"
+
+msgid "thuoc_tinh_mo_rong_phien_ban_san_pham"
+msgstr "Thuộc tính mở rộng phiên bản sản phẩm"
+
+msgid "export_du_lieu_thuoc_tinh_mo_rong_cua_phien_ban_san_pham"
+msgstr "Export dữ liệu thuộc tính mở rộng của phiên bản sản phẩm"
+
+msgid "gui_yeu_cau"
+msgstr "Gửi yêu cầu"
+
+msgid "gui_yeu_cau_thanh_cong"
+msgstr "Gửi yêu cầu thành công"
+
+msgid "{0}_da_nhan_duoc_yeu_cau_ho_tro_cua_ban_chung_toi_se_lien_he_va_phan_hoi_lai_ban_trong_thoi_gian_toi_da_24h_cam_on_ban_da_tham_gia_dong_gop"
+msgstr "{0} đã nhận được yêu cầu hỗ trợ của bạn. Chúng tôi sẽ liên hệ và phản hồi lại bạn trong thời gian tối đa 24h. Cám ơn bạn đã tham gia đóng góp"
+
+msgid "goi_ngay"
+msgstr "Gọi ngay"
+
+msgid "gui_thong_tin_ho_tro"
+msgstr "Gửi thông tin hỗ trợ"
+
+msgid "dung_luong_toi_da_{0}_va_so_luong_toi_da_{1}_tep_tin"
+msgstr "Dung lượng tối đa {0} và số lượng tối đa {1} tệp tin"
+
+msgid "hotline_ho_tro"
+msgstr "Hotline hỗ trợ"
+
+msgid "chua_co_thong_bao_nao"
+msgstr "Chưa có thông báo nào"
+
+msgid "thong_bao_cua_toi"
+msgstr "Thông báo của tôi"
+
+msgid "thong_bao_chung"
+msgstr "Thông báo chung"
+
+msgid "vua_xong"
+msgstr "Vừa xong"
+
+msgid "phut_truoc"
+msgstr "Phút trước"
+
+msgid "gio_truoc"
+msgstr "Giờ trước"
+
+msgid "ngay_truoc"
+msgstr "Ngày trước"
+
+msgid "thang_truoc"
+msgstr "Tháng trước"
+
+msgid "nam_truoc"
+msgstr "Năm trước"
+
+msgid "xem_them"
+msgstr "Xem thêm"
+
+msgid "khong_tim_thay_thong_tin_ma_coupon"
+msgstr "Không tìm thấy thông tin mã coupon"
+
+msgid "so_ban_ghi_danh_muc_bai_viet_vuot_qua_du_lieu_hien_tai"
+msgstr "Số bản ghi danh mục bài viết vượt quá dữ liệu hiện tại"
+
+msgid "so_ban_ghi_danh_muc_san_pham_vuot_qua_du_lieu_hien_tai"
+msgstr "Số bản ghi danh mục sản phẩm vượt quá dữ liệu hiện tại"
+
+msgid "so_ban_ghi_bai_viet_vuot_qua_du_lieu_hien_tai"
+msgstr "Số bản ghi bài viết vượt quá dữ liệu hiện tại"
+
+msgid "so_ban_ghi_san_pham_vuot_qua_du_lieu_hien_tai"
+msgstr "Số bản ghi sản phẩm vượt quá dữ liệu hiện tại"
+
+msgid "so_ban_ghi_tag_bai_viet_vuot_qua_du_lieu_hien_tai"
+msgstr "Số bản ghi tag bài viết vượt quá dữ liệu hiện tại"
+
+msgid "so_ban_ghi_tag_san_pham_vuot_qua_du_lieu_hien_tai"
+msgstr "Số bản ghi tag sản phẩm vượt quá dữ liệu hiện tại"
+
+msgid "so_ban_ghi_thuong_hieu_vuot_qua_du_lieu_hien_tai"
+msgstr "Số bản ghi thương hiệu vượt quá dữ liệu hiện tại"
+
+msgid "cau_hinh_id_du_lieu"
+msgstr "Cấu hình ID dữ liệu"
+
+msgid "luu_y_kiem_tra_id_trong_cac_bang_cua_database_sau_nay_se_import_du_lieu_dam_bao_rang_id_cau_hinh_cho_cac_bang_la_gia_tri_cao_nhat_hien_tai"
+msgstr "Lưu ý: Kiểm tra ID trong các bảng của database sau này sẽ import dữ liệu, đảm bảo rằng ID cấu hình cho các bảng là giá trị cao nhất hiện tại"
+
+msgid "the_tag_san_pham"
+msgstr "Thẻ tag sản phẩm"
+
+msgid "id_bat_dau_cua_danh_muc"
+msgstr "ID bắt đầu của danh mục"
+
+msgid "id_bat_dau_cua_bai_viet"
+msgstr "ID bắt đầu của bài viết"
+
+msgid "id_bat_dau_cua_san_pham"
+msgstr "ID bắt đầu của sản phẩm"
+
+msgid "id_bat_dau_cua_thuong_hieu"
+msgstr "ID bắt đầu của thương hiệu"
+
+msgid "id_bat_dau_cua_the_tag"
+msgstr "ID bắt đầu của thẻ tag"
+
+msgid "id_bat_dau_cua_thuoc_tinh_mo_rong"
+msgstr "ID bắt đầu của thuộc tính mở rộng"
+
+msgid "duong_dan_cdn_hien_tai"
+msgstr "Đường dẫn CDN hiện tại"
+
+msgid "duong_dan_cdn_moi"
+msgstr "Đường dẫn CDN mới"
+
+msgid "tiep_tuc"
+msgstr "Tiếp tục"
+
+msgid "mau_tieu_de"
+msgstr "Màu tiêu đề"
+
+msgid "chuyen_doi_danh_muc"
+msgstr "Chuyển đổi danh mục"
+
+msgid "chuyen_doi_danh_muc_bai_viet"
+msgstr "Chuyển đổi danh mục bài viết"
+
+msgid "chuyen_doi_danh_muc_san_pham"
+msgstr "Chuyển đổi danh mục sản phẩm"
+
+msgid "tong_so_danh_muc"
+msgstr "Tổng số danh mục"
+
+msgid "da_chuyen_doi"
+msgstr "Đã chuyển đổi"
+
+msgid "chuyen_doi_du_lieu"
+msgstr "Chuyển đổi dữ liệu"
+
+msgid "quay_lai_buoc_truoc"
+msgstr "Quay lại bước trước"
+
+msgid "sau_khi_thuc_hien_export_du_lieu_va_tai_file_export_du_lieu_thanh_cong_hay_xoa_cache_de_tranh_chiem_dung_luong_cua_website"
+msgstr "Sau khi thực hiện Export dữ liệu và tải File Export dữ liệu thành công, hãy xóa Cache để tránh chiếm dung lượng của website"
+
+msgid "chua_co_cau_hinh"
+msgstr "Chưa có cấu hình"
+
+msgid "them_ma_nhung"
+msgstr "Thêm mã nhúng"
+
+msgid "ten_ma_nhung"
+msgstr "Tên mã nhúng"
+
+msgid "chuyen_doi_thanh_cong"
+msgstr "Chuyển đổi thành công"
+
+msgid "luu_cau_hinh_mo_rong_thanh_cong"
+msgstr "Lưu cấu hình mở rộng thành công"
+
+msgid "chuyen_doi_bai_viet"
+msgstr "Chuyển đổi bài viết"
+
+msgid "tong_so_bai_viet"
+msgstr "Tổng số bài viết"
+
+msgid "chuyen_doi_thuong_hieu"
+msgstr "Chuyển đổi thương hiệu"
+
+msgid "tong_so_thuong_hieu"
+msgstr "Tổng số thương hiệu"
+
+msgid "chuyen_doi_thuong_hieu_thanh_cong"
+msgstr "Chuyển đổi thương hiệu thành công"
+
+msgid "chuyen_doi_san_pham"
+msgstr "Chuyển đổi sản phẩm"
+
+msgid "tong_so_san_pham"
+msgstr "Tổng số sản phẩm"
+
+msgid "chuyen_doi_san_pham_thanh_cong"
+msgstr "Tổng số sản phẩm thành công"
+
+msgid "chuyen_doi_thuoc_tinh_mo_rong"
+msgstr "Chuyển đổi thuộc tính mở rộng"
+
+msgid "tong_so_thuoc_tinh"
+msgstr "Tổng số thuộc tính"
+
+msgid "chuyen_doi_thuoc_tinh_thanh_cong"
+msgstr "Chuyển đổi thuộc tính thành công"
+
+msgid "chuyen_doi_the_tags"
+msgstr "Chuyển đổi thẻ Tags"
+
+msgid "tong_so_the_tags"
+msgstr "Tổng số thẻ Tags"
+
+msgid "hoan_thanh_chuyen_doi_du_lieu"
+msgstr "Hoàn thành chuyển đổi dữ liệu"
+
+msgid "danh_muc_bai_viet_da_chuyen_doi"
+msgstr "Danh mục bài viết đã chuyển đổi"
+
+msgid "danh_muc_san_pham_da_chuyen_doi"
+msgstr "Danh mục sản phẩm đã chuyển đổi"
+
+msgid "bai_viet_da_chuyen_doi"
+msgstr "Bài viết đã chuyển đổi"
+
+msgid "san_pham_da_chuyen_doi"
+msgstr "Sản phẩm đã chuyển đổi"
+
+msgid "thuong_hieu_da_chuyen_doi"
+msgstr "Thương hiệu đã chuyển đổi"
+
+msgid "thuoc_tinh_da_chuyen_doi"
+msgstr "Thuộc tính đã chuyển đổi"
+
+msgid "the_tag_da_chuyen_doi"
+msgstr "Thẻ tag đã chuyển đổi"
+
+msgid "xuat_file_du_lieu"
+msgstr "Xuất file dữ liệu"
+
+msgid "tai_file_du_lieu"
+msgstr "Tải file dữ liệu"
+
+msgid "tai_media"
+msgstr "Tải Media"
+
+msgid "tai_thumbs"
+msgstr "Tải Thumbs"
+
+msgid "tai_thumbs"
+msgstr "Tải Thumbs"
+
+msgid "thong_tin_danh_muc"
+msgstr "Thông tin danh mục"
+
+msgid "nhap_du_lieu_excel_thanh_cong"
+msgstr "Nhập dữ liệu excel thành công"
+
+msgid "san_pham_{0}_da_ton_tai_tren_he_thong_vui_long_nhap_dung_id_san_pham_de_cap_nhat_san_pham_nay"
+msgstr "Sản phẩm {0} đã tồn tại trên hệ thống vui lòng nhập dùng id sản phẩm để cập nhật sản phẩm này"
+
+msgid "san_pham_{0}_khong_lay_duoc_thong_tin_ngon_ngu"
+msgstr "Sản phẩm {0} không lấy được thông tin ngôn ngữ"
+
+msgid "cap_nhat_thong_tin_san_pham_khong_thanh_cong"
+msgstr "Cập nhật thông tin sản phẩm không thành công"
+
+msgid "khong_tao_duoc_du_lieu"
+msgstr "Không tạo được dữ liệu"
+
+msgid "khong_lay_duoc_ten_thu_muc_excel"
+msgstr "Không lấy được tên thư mục excel"
+
+msgid "khong_co_du_lieu_excel"
+msgstr "Không có dữ liệu excel"
+
+msgid "khong_lay_duoc_thong_tin_san_pham_co_id_la_{0}"
+msgstr "Không lấy được thông tin sản phẩm có id là {0}"
+
+msgid "thuong_hieu_ap_dung"
+msgstr "Thương hiệu áp dụng"
+
+msgid "thuong_hieu_da_chon"
+msgstr "Thương hiệu đã chọn"
+
+msgid "tim_kiem_thuong_hieu"
+msgstr "Tìm kiếm thương hiệu"
+
+msgid "ap_dung"
+msgstr "Áp dụng"
+
+msgid "giam_gia_hang_loat"
+msgstr "Giảm giá hàng loạt"
+
+msgid "ap_dung_giam_gia_hang_loat_doi_voi_cac_tuy_chon_duoi_day"
+msgstr "Áp dụng giảm giá hàng loạt đối với các tùy chọn dưới đây"
+
+msgid "phan_tram_giam_gia"
+msgstr "% khuyến mãi"
+
+msgid "ap_dung_voi_toan_bo_san_pham"
+msgstr "Áp dụng với toàn bộ sản phẩm"
+
+msgid "ap_dung_voi_danh_muc"
+msgstr "Áp dụng với danh mục"
+
+msgid "ap_dung_voi_thuong_hieu"
+msgstr "Áp dụng với thương hiệu"
+
+msgid "ban_vui_long_nhap_thong_tin_giam_gia"
+msgstr "Bạn vui lòng nhập thông tin giảm giá"
+
+msgid "gia_khuyen_mai_trong_khoang_1_den_100"
+msgstr "Giá khuyến mãi trong khoảng 1 - 100"
+
+msgid "ban_vui_long_chon_thong_tin_ap_dung_giam_gia"
+msgstr "Bạn vui lòng chọn thông tin áp dụng giảm giá"
+
+msgid "excel"
+msgstr "Excel"
+
+msgid "block_giao_dien"
+msgstr "Block giao diện"
+
+msgid "xac_nhan_toi_khong_phai_nguoi_may"
+msgstr "Xác nhận tôi không phải người máy"
+
+msgid "vui_long_xac_nhan_truoc_khi_dang_nhap"
+msgstr "Vui lòng xác nhận trước khi đăng nhập"
+
+msgid "ma_xac_nhan_khong_chinh_xac"
+msgstr "Mã xác nhận không chính xác"
+
+msgid "chi_chap_nhan_dinh_dang"
+msgstr "Chỉ chấp nhận định dạng"
+
+msgid "chuyen_doi_sang_dinh_dang_{0}"
+msgstr "Chuyển đổi sang định dạng {0}"
+
+msgid "chuyen_huong_{0}"
+msgstr "Chuyển hướng {0}"
+
+msgid "them_chuyen_huong_{0}"
+msgstr "Thêm chuyển hướng {0}"
+
+msgid "cap_nhat_chuyen_huong_{0}"
+msgstr "Cập nhật chuyển hướng {0}"
+
+msgid "vui_long_cau_hinh_chuyen_huong_{0}_truoc_khi_su_dung_chuc_nang_nay"
+msgstr "Vui lòng cấu hình chuyển hướng {0} trước khi sử dụng chức năng này"
+
+msgid "cau_hinh_duong_dan"
+msgstr "Cấu hình đường dẫn"
+
+msgid "bo_dinh_dang_unicode_cho_duong_dan"
+msgstr "Bỏ định dạng unicode cho đường dẫn"
+
+msgid "ngon_ngu_quan_tri_website"
+msgstr "Ngôn ngữ quản trị website"
+
+msgid "ngon_ngu_quan_tri"
+msgstr "Ngôn ngữ quản trị"
+
+msgid "tieng_viet"
+msgstr "Tiếng việt"
+
+msgid "phien_ban_ap_dung_theo_danh_muc_san_pham"
+msgstr "Phiên bản áp dụng theo danh mục sản phẩm"
+
+msgid "thuoc_tinh_ap_dung_theo_danh_muc_bai_viet"
+msgstr "Thuộc tính áp dụng theo danh mục bài viết"
+
+msgid "thuoc_tinh_ap_dung_theo_danh_muc_san_pham"
+msgstr "Thuộc tính áp dụng theo danh mục sản phẩm"
+
+msgid "thuoc_tinh_theo_danh_muc"
+msgstr "Thuộc tính theo danh mục"
+
+msgid "cau_hinh_danh_sach_thuoc_tinh_theo_danh_muc"
+msgstr "Cấu hình danh sách thuộc tính theo danh mục"
+
+msgid "thuong_hieu_ap_dung_theo_danh_muc_san_pham"
+msgstr "Thương hiệu áp dụng theo danh mục sản phẩm"
+
+msgid "huy_giao_dich"
+msgstr "Hủy giao dịch"
+
+msgid "neu_khong_cau_hinh_danh_muc_con_thi_he_thong_se_mac_dinh_ap_dung_theo_danh_muc_cha"
+msgstr "Nếu không cấu hình danh mục con thì hệ thống sẽ mặc định áp dụng theo danh mục cha"
+
+msgid "duong_dan_cu"
+msgstr "Đường dẫn cũ"
+
+msgid "duong_dan_moi"
+msgstr "Đường dẫn mới"
+
+msgid "ten_ket_noi"
+msgstr "Tên kết nối"
+
+msgid "phan_mem_quan_ly_ban_hang"
+msgstr "Phần mềm quản lý bán hàng"
+
+msgid "dong_bo_cua_hang_tu_kiotviet"
+msgstr "Đồng bộ cửa hàng từ Kiotviet"
+
+msgid "doi_tac_quan_ly_kho_hang"
+msgstr "Đối tác quản lý kho hàng"
+
+msgid "cau_hinh_thong_tin_phan_mem_quan_ly_kho_hang_cua_doi_tac"
+msgstr "Cấu hình thông tin phần mềm quản lý kho hàng của đối tác"
+
+msgid "tao_ma_qr_thanh_cong"
+msgstr "Tạo mã QR thành công"
+
+msgid "tao_ma_qr_khong_thanh_cong"
+msgstr "Tạo mã QR không thành công"
+
+msgid "tham_so_{0}_khong_hop_le"
+msgstr "Tham số {0} không hợp lệ"
+
+msgid "tham_so_{0}_qua_dai_do_dai_cho_phep_la_{1}_ky_tu"
+msgstr "Tham số {0} quá dài. Độ dài cho phép là {1} ký tự"
+
+msgid "cap_nhat_ton_kho"
+msgstr "Cập nhật tồn kho"
+
+msgid "dang_ky_webhook"
+msgstr "Đăng ký webhook"
+
+msgid "loai_webhook"
+msgstr "Loại webhook"
+
+msgid "danh_sach_webhook"
+msgstr "Danh sách webhook"
+
+msgid "dong_bo_danh_sach_webhook"
+msgstr "Đồng bộ danh sách webhook"
+
+msgid "huy_webhook"
+msgstr "Hủy webhook"
+
+msgid "dang_ky"
+msgstr "Đăng ký"
+
+msgid "khong_co_thong_tin_webhook"
+msgstr "không có thông tin webhook"
+
+msgid "khong_lay_duoc_thong_tin_cua_hang"
+msgstr "Không lấy được thông tin cửa hàng"
+
+msgid "dang_ky_webhook_khong_thanh_cong"
+msgstr "Đăng ký webhook không thành công"
+
+msgid "dang_ky_webhook_thanh_cong"
+msgstr "Đăng ký webhook thành công"
+
+msgid "xoa_webhook_khong_thanh_cong"
+msgstr "Xóa webhook không thành công"
+
+msgid "xoa_webhook_thanh_cong"
+msgstr "Xóa webhook thành công"
+
+msgid "khong_co_thong_tin_cua_hang"
+msgstr "Không có thông tin cửa hàng"
+
+msgid "khong_lay_duoc_danh_sach_webhook"
+msgstr "Không lấy được danh sách webhook"
+
+msgid "lay_thong_tin_webhook_thanh_cong"
+msgstr "Lấy thông tin webhook thành công"
+
+msgid "dong_bo_danh_sach_cua_hang_thanh_cong"
+msgstr "Đồng bộ danh sách cửa hàng thành công"
+
+msgid "danh_sach_khach_hang"
+msgstr "Danh sách khách hàng"
+
+msgid "thoi_gian_tao_don"
+msgstr "Thời gian tạo đơn"
+
+msgid "ho_va_ten_khach_hang"
+msgstr "Họ và tên khách hàng"
+
+msgid "kenh"
+msgstr "Kênh"
+
+msgid "thong_tin_giao_dich"
+msgstr "Thông tin giao dịch"
+
+msgid "thoi_gian_giao_dich"
+msgstr "Thời gian giao dịch"
+
+msgid "loai_video"
+msgstr "Loại video"
+
+msgid "cau_hinh_ma_qr"
+msgstr "Cấu hình mã QR"
+
+msgid "cau_hinh_ma_qr_giao_dich_don_hang"
+msgstr "Cấu hình mã QR giao dịch đơn hàng"
+
+msgid "tao_ma_qr"
+msgstr "Tạo mã QR"
+
+msgid "ma_qr_giao_dich_don_hang"
+msgstr "Mã QR giao dịch đơn hàng"
+
+msgid "ma_qr_thuong"
+msgstr "Mã QR thường"
+
+msgid "cau_hinh_ma_qr_thuong"
+msgstr "Cấu hình mã QR thường"
+
+msgid "tao_ma_qr_theo_loai"
+msgstr "Tạo mã QR theo loại"
+
+msgid "khoang_cach_cac_dong"
+msgstr "Khoảng cách các dòng"
+
+msgid "mau_sac"
+msgstr "Màu sắc"
+
+msgid "xem_truoc"
+msgstr "Xem trước"
+
+msgid "mo_ta_giao_dich"
+msgstr "Mô tả giao dịch"
+
+msgid "ma_qr"
+msgstr "Mã QR"
+
+msgid "noi_dung_ma_qr"
+msgstr "Nội dung mã QR"
+
+msgid "van_ban"
+msgstr "Văn bản"
+
+msgid "nhap_noi_dung"
+msgstr "Nhập nội dung"
+
+msgid "xem_va_tai_ma"
+msgstr "Xem và tải mã"
+
+msgid "ten_tai_khoan"
+msgstr "Tên tài khoản"
+
+msgid "ma_san_pham_da_ton_tai_tren_he_thong"
+msgstr "Mã sản phẩm đã tồn tại trên hệ thống"
+
+msgid "thanh_toan_zalopay"
+msgstr "Thanh toán Zalopay"
+
+msgid "ap_dung_tat_ca_so_luong"
+msgstr "Áp dụng tất cả số lượng"
+
+msgid "tong_so_san_pham_tu_{0}"
+msgstr "Tổng số sản phẩm từ {0}"
+
+msgid "khong_lay_duoc_thong_tin_san_pham"
+msgstr "Không lấy được thông tin sản phẩm"
+
+msgid "dong_bo_so_luong_{0}_thanh_cong"
+msgstr "Đồng bộ số lượng {0} thành công"
+
+msgid "dong_bo_tat_ca"
+msgstr "Đồng bộ tất cả"
+
+msgid "dong_bo_tat_ca_so_luong_{0}"
+msgstr "Đồng bộ tất cả số lượng {0}"
+
+msgid "dong_bo_ton_kho_{0}"
+msgstr "Đồng bộ tồn kho {0}"
+
+msgid "ap_dung_voi_tat_ca_san_pham_da_duoc_dong_bo"
+msgstr "Áp dụng với tất cả sản phẩm đã được đồng bộ"
+
+msgid "dong_bo_thuoc_tinh_truoc_khi_dong_bo_san_pham"
+msgstr "Đồng bộ thuộc tính trước khi đồng bộ sản phẩm"
+
+msgid "khong_lay_duoc_danh_sach_san_pham_{0}"
+msgstr "Không lấy được danh sách sản phẩm {0}"
+
+msgid "lay_danh_sach_san_pham_{0}_thanh_cong"
+msgstr "Lấy danh sách sản phẩm {0} thành công
+
+msgid "cap_nhat_san_pham_{0}_khong_thanh_cong"
+msgstr "Cập nhật mã sản phẩm {0} không thành công"
+
+msgid "cap_nhat_san_pham_{0}_thanh_cong"
+msgstr "Cập nhật mã sản phẩm {0} thành công"
+
+msgid "cap_nhat_so_luong_{0}_khong_thanh_cong"
+msgstr "Cập nhật số lượng {0} không thành công"
+
+msgid "cap_nhat_so_luong_{0}_thanh_cong"
+msgstr "Cập nhật số lượng {0} thành công"
+
+msgid "khong_lay_duoc_thong_tin_san_pham_{0}"
+msgstr "Không lấy được thông tin sản phẩm {0}"
+
+msgid "ton_kho"
+msgstr "Tồn kho"
+
+msgid "dong_bo_don_hang_{0}_khong_thanh_cong"
+msgstr "Đồng bộ đơn hàng {0} không thành công"
+
+msgid "dong_bo_thuoc_tinh"
+msgstr "Đồng bộ thuộc tính"
+
+msgid "lay_danh_sach_thuoc_tinh_{0}_thanh_cong"
+msgstr "Lấy danh sách thuộc tính {0} thành công"
+
+msgid "dong_bo_thuoc_tinh_san_pham_{0}_thanh_cong"
+msgstr "Đồng bộ thuộc tính sản phẩm {0} thành công"
+
+msgid "dong_bo"
+msgstr "Đồng bộ"
+
+msgid "dong_bo_tat_ca_san_pham_{0}"
+msgstr "Đồng bộ tất cả sản phâm {0}"
+
+msgid "khong_lay_duoc_danh_sach_san_pham_{0}"
+msgstr "Không lấy được danh sách sản phẩm {0}"
+
+msgid "khong_lay_duoc_thong_tin_thuoc_tinh_{0}"
+msgstr "Không lấy được thông tin thuộc tính {0}"
+
+msgid "khong_lay_duoc_danh_sach_webhook_{0}"
+msgstr "Không lấy được danh sách webhook {0}"
+
+msgid "them_moi_{0}_{1}"
+msgstr "Thêm mới {0} {1}"
+
+msgid "cap_nhat_{0}_{1}"
+msgstr "Cập nhật {0} {1}"
+
+msgid "thay_doi_trang_thai_{0}_{1}}"
+msgstr "Thay đổi trạng thái {0} {1}"
+
+msgid "xoa_{0}_{1}"
+msgstr "Xóa {0} {1}"
+
+msgid "kich_hoat_{0}_{1}"
+msgstr "Kích hoạt {0} {1}"
+
+msgid "ngung_hoat_dong_{0}_{1}"
+msgstr "Ngừng hoạt động {0} {1}"
+
+msgid "ngung_kinh_doanh_{0}_{1}"
+msgstr "Ngừng kinh doanh {0} {1}"
+
+msgid "lich_su_cap_nhat"
+msgstr "Lịch sử cập nhật"
+
+msgid "lich_su_cap_nhat_cua_tai_khoan"
+msgstr "Lịch sử cập nhật của tài khoản"
+
+msgid "loai"
+msgstr "Loại"
+
+msgid "nguoi_thuc_hien"
+msgstr "Người thực hiện"
+
+msgid "thay_doi_du_lieu"
+msgstr "Thay đổi dữ liệu"
+
+msgid "sua_tep_giao_dien"
+msgstr "Sửa tệp giao diện"
+
+msgid "lich_su_thay_doi_cua_tep"
+msgstr "Lịch sử thay đổi của tệp"
+
+msgid "so_sanh"
+msgstr "So sánh"
+
+msgid "ban_ghi_truoc"
+msgstr "Bản ghi trước"
+
+msgid "ban_ghi_hien_tai"
+msgstr "Bản ghi hiện tại"
+
+msgid "tao_moi"
+msgstr "Tạo mới"
+
+msgid "cap_nhat_trang_thai"
+msgstr "Cập nhật trạng thái"
+
+msgid "phuc_hoi_cau_hinh"
+msgstr "Phục hồi cấu hình"
+
+msgid "link_webhook"
+msgstr "Đường dẫn webhook"
+	
+msgid "ma_xac_nhan_khong_chinh_xac_hoac_da_het_han"	
+msgstr "Mã xác nhận không chính xác hoặc đã hết hạn"
+
+msgid "so_san_pham_tu_{0}"	
+msgstr "Số sản phẩm từ {0}"
+
+msgid "dong_bo_san_pham_moi_tu_{0}"	
+msgstr "Đồng bộ sản phẩm mới từ {0}"
+
+msgid "so_san_pham_da_duoc_dong_bo_tu_{0}_ve_he_thong"
+msgstr "Số sản phẩm đã được đồng bộ từ {0} về hệ thống"

@@ -1,0 +1,302 @@
+msgid "phuong_thuc_khong_hop_le"
+msgstr "Phương thức không hợp lệ"
+
+msgid "du_lieu_khong_hop_le"
+msgstr "Dữ liệu không hợp lệ"
+
+msgid "xu_ly_thanh_cong"
+msgstr "Xử lý thành công"
+
+msgid "xu_ly_khong_thanh_cong"
+msgstr "Xử lý không thành công"
+
+msgid "khong_tim_thay_thu_muc_{0}"
+msgstr "Không tìm thấy thư mục {0}"
+
+msgid "nhap_ten_tep"
+msgstr "Nhập tên tệp"
+
+msgid "tat_ca"
+msgstr "Tất cả"
+
+msgid "ten_tep"
+msgstr "Tên tệp"
+
+msgid "loai_tep"
+msgstr "Loại tệp"
+
+msgid "dung_luong"
+msgstr "Dung lượng"
+
+msgid "ngay_tao"
+msgstr "Ngày tạo"
+
+msgid "khong_lay_duoc_thong_tin_duong_dan"
+msgstr "Không lấy được thông tin đường dẫn"
+
+msgid "vui_long_nhap_ten_thu_muc"
+msgstr "Vui lòng nhập tên thư mục"
+
+msgid "vui_long_nhap_ten_tep"
+msgstr "Vui lòng nhập tên tệp"
+
+msgid "ten_thu_muc_khong_hop_le"
+msgstr "Tên thư mục không hợp lệ"
+
+msgid "tao_thu_muc_khong_thanh_cong"
+msgstr "Tạo thư mục không thành công"
+
+msgid "tao_thu_muc_thumb_khong_thanh_cong"
+msgstr "Tạo thư mục THUMB không thành công"
+
+msgid "tao_anh_thumb_khong_thanh_cong"
+msgstr "Tạo ảnh THUMB không thành công"
+
+msgid "tao_thu_muc_thanh_cong"
+msgstr "Tạo thư mục thành công"
+
+msgid "thu_muc_da_duoc_tao"
+msgstr "Thư mực đã được tạo"
+
+msgid "thu_muc_khong_ton_tai"
+msgstr "Thư mực không tồn tại"
+
+msgid "tep_khong_ton_tai"
+msgstr "Tệp không tồn tại"
+
+msgid "doi_ten_thu_muc_thanh_cong"
+msgstr "Đổi tên thư mục thành công"
+
+msgid "doi_ten_thu_muc_khong_thanh_cong"
+msgstr "Đổi tên thư mục không thành công"
+
+msgid "ten_tep_khong_hop_le"
+msgstr "Tên tệp không hợp lệ"
+
+msgid "doi_ten_tep_khong_thanh_cong"
+msgstr "Đổi tên tệp không thành công"
+
+msgid "xoa_tep_khong_thanh_cong"
+msgstr "Xóa tệp không thành công"
+
+msgid "xoa_thu_muc_khong_thanh_cong"
+msgstr "Xóa thư mục không thành công"
+
+msgid "xoa_tep_thanh_cong"
+msgstr "Xóa tệp thành công"
+
+msgid "dan_thu_muc_thanh_cong"
+msgstr "Dán thư mục thành công"
+
+msgid "dan_thu_muc_khong_thanh_cong"
+msgstr "Dán thư mục không thành công"
+
+msgid "dan_tep_khong_thanh_cong"
+msgstr "Dán tệp không thành công"
+
+msgid "dan_tep_thanh_cong"
+msgstr "Dán tệp thành công"
+
+msgid "khong_the_dan_thu_muc_nguon_vao_thu_muc_con"
+msgstr "Không thể dán thư mục nguồn vào thư mục con"
+
+msgid "dung_luong_tep_dang_tai_qua_lon_{0}"
+msgstr "Dung lượng tệp đăng tải quá lớn {0}"
+
+msgid "tep_dang_tai_khong_hop_le"
+msgstr "Tệp đăng tải không hợp lệ"
+
+msgid "tep_dang_tai_hop_le"
+msgstr "Tệp đăng tải hợp lệ"
+
+msgid "dang_tai_tep_thanh_cong"
+msgstr "Đăng tải tệp thành công"
+
+msgid "dang_tai_tep_khong_thanh_cong"
+msgstr "Đăng tải tệp không thành công"
+
+msgid "khong_lay_duoc_ma_bao_mat"
+msgstr "Không lấy được mã bảo mật"
+
+msgid "ma_bao_mat_khong_hop_le"
+msgstr "Mã bảo mật không hợp lệ"
+
+msgid "khong_the_truy_cap_he_thong"
+msgstr "Không thể truy cập hệ thống"
+
+msgid "{0}_da_tao_thu_muc_{1}"
+msgstr "{0} đã tạo thư mục {1}"
+
+msgid "{0}_da_doi_ten_tep_{1}"
+msgstr "{0} đã đổi tên tệp {1}"
+
+msgid "{0}_da_doi_ten_thu_muc_{1}"
+msgstr "{0} đã đổi tên thư mục {1}"
+
+msgid "{0}_da_doi_ten_thu_muc_tu_{1}_sang_{2}"
+msgstr "{0} đã đổi tên thư mục từ {1} sang {2}"
+
+msgid "{0}_da_doi_ten_tep_tu_{1}_sang_{2}"
+msgstr "{0} đã đổi tên tệp từ {1} sang {2}"
+
+msgid "{0}_da_sao_chep_tep_{1}_den_{2}"
+msgstr "{0} đã sao chép tệp {1} đến {2}"
+
+msgid "{0}_da_sao_chep_thu_muc_{1}_den_{2}"
+msgstr "{0} đã sao chép thư mục {1} đến {2}"
+
+msgid "{0}_da_cat_thu_muc_tu_{1}_den_{2}"
+msgstr "{0} đã cắt thư mục từ {1} đến {2}"
+
+msgid "{0}_da_cat_tep_tu_{1}_den_{2}"
+msgstr "{0} đã cắt tệp từ {1} đến {2}"
+
+msgid "{0}_da_xoa_thu_muc_{1}"
+msgstr "{0} đã xóa thư mục {1}"
+
+msgid "{0}_da_xoa_tep_{1}"
+msgstr "{0} đã xóa tệp {1}"
+
+msgid "{0}_da_dang_tai_tep_{1}"
+msgstr "{0} đã đăng tải tệp {1}"
+
+msgid "tao_thu_muc"
+msgstr "Tạo thư mục"
+
+msgid "tai_len"
+msgstr "Tải lên"
+
+msgid "tai_lai"
+msgstr "Tải lại"
+
+msgid "xem_chi_tiet"
+msgstr "Xem chi tiết"
+
+msgid "xem_dang_luoi"
+msgstr "Xem dạng lưới"
+
+msgid "xem_dang_danh_sach"
+msgstr "Xem dạng danh sách"
+
+msgid "hinh_anh"
+msgstr "Hình ảnh"
+
+msgid "tep_tin"
+msgstr "Tệp tin"
+
+msgid "video"
+msgstr "Video"
+
+msgid "am_thanh"
+msgstr "Âm thanh"
+
+msgid "file_nen"
+msgstr "File nén"
+
+msgid "tai_trang"
+msgstr "Tải trang"
+
+msgid "lich_su_cap_nhat"
+msgstr "Lịch sử cập nhật"
+
+msgid "sap_xep"
+msgstr "Sắp xếp"
+
+msgid "dung_luong_cdn_da_vuot_qua_han_muc_{0}"
+msgstr "Dung lượng CDN đã vượt quá hạn mức {0}"
+
+msgid "chon"
+msgstr "Chọn"
+
+msgid "chon_tat_ca"
+msgstr "Chọn tất cả"
+
+msgid "bo_chon_tat_ca"
+msgstr "Bỏ chọn tất cả"
+
+msgid "tai_lieu"
+msgstr "Tài liệu"
+
+msgid "tep_dang_tai_da_bi_doi_duoi_mo_rong_vui_long_dang_tai_tep_goc"
+msgstr "Tệp đăng tải đã bị đổi đuôi mở rộng. Vui lòng đăng tải tệp gốc"
+
+msgid "tep_tai_len_gioi_han"
+msgstr "Tệp tải lên giới hạn"
+
+msgid "anh_tai_len_gioi_han"
+msgstr "Ảnh tải lên giới hạn"
+
+msgid "luu_y"
+msgstr "Lưu ý"
+
+msgid "anh_tai_len_gioi_han_khong_duoc_qua"
+msgstr "Ảnh tải lên giới hạn không được quá"
+
+msgid "tep_tai_len_tru_dinh_dang_anh_gioi_han_khong_duoc_qua"
+msgstr "Tệp tải lên 'trừ định dạng ảnh' giới hạn không được quá"
+
+msgid "phim_tat"
+msgstr "Phím tắt"
+
+msgid "nhan_to_hop_phim"
+msgstr "Nhấn tổ hợp phím"
+
+msgid "de_thuc_hien_thao_tac"
+msgstr "Để thực hiện thao tác"
+
+msgid "chon_tat_ca_tep_trong_thu_muc"
+msgstr "Chọn tất cả các tệp trong thư mục"
+
+msgid "tai_file_ve_may"
+msgstr "Tải tệp về máy"
+
+msgid "sao_chep_tep"
+msgstr "Sao chép tệp"
+
+msgid "cat_tep"
+msgstr "Cắt tệp"
+
+msgid "dan_tep"
+msgstr "Dán tệp"
+
+msgid "doi_ten_tep"
+msgstr "Đổi tên tệp"
+
+msgid "hoac"
+msgstr "hoặc"
+
+msgid "xoa_tep"
+msgstr "Xóa tệp"
+
+msgid "duong_dan_tep"
+msgstr "Đường dẫn tệp"
+
+msgid "dinh_dang_tep_tin_tai_len"
+msgstr "Định dạng tệp tin được phép tải lên"
+
+msgid "duoi_image"
+msgstr "Đuôi hình ảnh"
+
+msgid "duoi_video"
+msgstr "Đuôi video"
+
+msgid "duoi_am_thanh"
+msgstr "Đuôi âm thanh"
+
+msgid "duoi_file_nen"
+msgstr "Đuôi tệp nén"
+
+msgid "duoi_file"
+msgstr "Đuôi tệp"
+
+msgid "anh"
+msgstr "Ảnh"
+
+msgid "tep"
+msgstr "Tệp"
+
+msgid "su_dung"
+msgstr "Sử dụng"
+
+msgid "ap_dung"
+msgstr "Áp dụng"

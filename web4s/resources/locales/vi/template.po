@@ -1,0 +1,2128 @@
+msgid "danh_sach"
+msgstr "Danh sách"
+
+msgid "tao_moi_tai_khoan"
+msgstr "Tạo mới tài khoản"
+
+msgid "dong"
+msgstr "Đóng"
+
+msgid "so_luong_san_pham_{0}_hien_khong_con_du_so_luong_de_dat_hang"
+msgstr "Số lượng sản phẩm "{0}" hiện không còn đủ số lượng để đặt hàng"
+
+msgid "tai_khoan_hoac_email"
+msgstr "Tài khoản hoặc email"
+
+msgid "mat_khau"
+msgstr "Mật khẩu"
+
+msgid "dang_nhap"
+msgstr "Đăng nhập"
+
+msgid "quen_mat_khau"
+msgstr "Quên mật khẩu"
+
+msgid "dang_ky_tai_khoan_moi"
+msgstr "Đăng ký tài khoản mới"
+
+msgid "thoat"
+msgstr "Thoát"
+
+msgid "noi_bat"
+msgstr "Nổi Bật"
+
+msgid "tai_khoan_cua_toi"
+msgstr "Tài khoản của tôi"
+
+msgid "giam_gia"
+msgstr "Giảm giá"
+
+msgid "con_hang"
+msgstr "Còn hàng"
+
+msgid "het_hang"
+msgstr "Hết hàng"
+
+msgid "them_gio_hang"
+msgstr "Thêm giỏ hàng"
+
+msgid "xem_nhanh"
+msgstr "Xem nhanh"
+
+msgid "xem_chi_tiet"
+msgstr "Xem chi tiết"
+
+msgid "chon_thuoc_tinh"
+msgstr "Chọn thuộc tính"
+
+msgid "san_pham_het_hang"
+msgstr "Sản phẩm hết hàng"
+
+msgid "uu_thich"
+msgstr "Ưu thích"
+
+msgid "so_sanh"
+msgstr "So sánh"
+
+msgid "danh_muc"
+msgstr "Danh mục"
+
+msgid "mau_sac"
+msgstr "Màu sắc"
+
+msgid "size"
+msgstr "Size"
+
+msgid "xoa"
+msgstr "Xóa"
+
+msgid "luu"
+msgstr "Lưu"
+
+msgid "chia_se"
+msgstr "Chia sẻ"
+
+msgid "tong_cong"
+msgstr "Tổng cộng"
+
+msgid "thong_tin_gio_hang"
+msgstr "Thông tin giỏ hàng"
+
+msgid "gio_hang"
+msgstr "Giỏ hàng"
+
+msgid "tim_kiem"
+msgstr "Tìm kiếm"
+
+msgid "tai_khoan"
+msgstr "Tài khoản"
+
+msgid "ban_can_them_mot_so_san_pham_vao_gio_hang_cua_minh"
+msgstr "Bạn cần thêm một số sản phẩm vào giỏ hàng của mình"
+
+msgid "vui_long_them_mot_so_san_pham_vao_gio_hang_cua_minh_vui_long_truy_cap_trang_chu_va_tim_san_pham_cua_ban"
+msgstr "Vui lòng truy cập "Trang Chủ" và tìm sản phẩm của bạn"
+
+msgid "xin_loi_da_co_loi_he_thong_xay_ra_ban_vui_long_quay_lai_gio_hang_va_tien_hanh_thanh_toan"
+msgstr "Xin lỗi, đã có lỗi hệ thống xảy ra. Bạn vui lòng quay lại giỏ hàng và tiến hành thanh toán"
+
+msgid "thong_tin_dang_nhap"
+msgstr "Thông tin đăng nhập"
+
+msgid "de_gui_binh_luan_vui_long_cung_cap_ten_hien_thi_va_dia_chi_email_lien_he"
+msgstr "Để gửi bình luận, vui lòng cung cấp tên hiển thị và địa chỉ email liên hệ"
+
+msgid "email_hoac_so_dien_thoai_se_khong_hien_thi_va_se_chi_duoc_ban_bien_tap_su_dung_de_lien_he_voi_ban_trong_truong_hop_can_thiet"
+msgstr "Email hoặc số điện thoại sẽ không hiển thị và sẽ chỉ được ban biên tập sử dụng để liên hệ với bạn trong trường hợp cần thiết"
+
+msgid "ho_va_ten"
+msgstr "Họ và tên"
+
+msgid "so_dien_thoai"
+msgstr "Số điện thoại"
+
+msgid "tieu_de"
+msgstr "Tiêu đề"
+
+msgid "noi_dung"
+msgstr "Nội dung"
+
+msgid "gui_yeu_cau"
+msgstr "Gửi yêu cầu"
+
+msgid "gui_tin_nhan"
+msgstr "Gửi tin nhắn"
+
+msgid "trang_chu"
+msgstr "Trang chủ"
+
+msgid "dang_ky"
+msgstr "Đăng ký"
+
+msgid "email"
+msgstr "Email"
+
+msgid "tinh_thanh"
+msgstr "Tỉnh thành"
+
+msgid "quan_huyen"
+msgstr "Quận huyện"
+
+msgid "phuong_xa"
+msgstr "Phường xã"
+
+msgid "zip_code"
+msgstr "Zipcode"
+
+msgid "dia_chi"
+msgstr "Địa chỉ"
+
+msgid "xac_nhan_mat_khau"
+msgstr "Xác nhận mật khẩu"
+
+msgid "tong_quan"
+msgstr "Tổng quan"
+
+msgid "quan_ly_don_hang"
+msgstr "Quản lý đơn hàng"
+
+msgid "so_dia_chi"
+msgstr "Sổ địa chỉ"
+
+msgid "khong_lay_duoc_thong_tin_dia_chi"
+msgstr "Không lấy được thông tin địa chỉ"
+
+msgid "khong_lay_duoc_thong_tin_dich_vu"
+msgstr "Không lấy được thông tin dịch vụ"
+
+msgid "thong_tin_tai_khoan"
+msgstr "Thông tin tài khoản"
+
+msgid "thay_doi_mat_khau"
+msgstr "Thay đổi mật khẩu"
+
+msgid "dang_xuat"
+msgstr "Đăng xuất"
+
+msgid "thong_tin_ca_nhan"
+msgstr "Thông tin cá nhân"
+
+msgid "dia_chi_mac_dinh"
+msgstr "Địa chỉ mặc định"
+
+msgid "ten_tai_khoan"
+msgstr "Tên tài khoản"
+
+msgid "gioi_tinh"
+msgstr "Giới tính"
+
+msgid "ngay_sinh"
+msgstr "Ngày sinh"
+
+msgid "ten"
+msgstr "Tên"
+
+msgid "dien_thoai"
+msgstr "Điện thoại"
+
+msgid "don_hang_gan_day"
+msgstr "Đơn hàng gần đây"
+
+msgid "ma_don_hang"
+msgstr "Mã đơn hàng"
+
+msgid "tien"
+msgstr "Tiền"
+
+msgid "ngay_dat_hang"
+msgstr "Ngày đặt hàng"
+
+msgid "trang_thai"
+msgstr "Trạng thái"
+
+msgid "nam"
+msgstr "Nam"
+
+msgid "nu"
+msgstr "Nữ"
+
+msgid "khac"
+msgstr "Khác"
+
+msgid "mat_khau"
+msgstr "Mật khẩu"
+
+msgid "mat_khau_moi"
+msgstr "Mật khẩu mới"
+
+msgid "nhap_lai_mat_khau_moi"
+msgstr "Nhập lại mật khẩu mới"
+
+msgid "cap_nhat"
+msgstr "Cập nhật"
+
+msgid "thong_tin_san_pham"
+msgstr "Thông tin sản phẩm"
+
+msgid "san_pham"
+msgstr "Sản phẩm"
+
+msgid "so_luong"
+msgstr "Số lượng"
+
+msgid "gia"
+msgstr "Giá"
+
+msgid "van_chuyen"
+msgstr "Vận chuyển"
+
+msgid "coupon"
+msgstr "Coupon"
+
+msgid "tong_tien"
+msgstr "Tổng tiền"
+
+msgid "mac_dinh"
+msgstr "Mặc định"
+
+msgid "sua"
+msgstr "Sửa"
+
+msgid "them_dia_chi"
+msgstr "Thêm địa chỉ"
+
+msgid "don_hang"
+msgstr "Đơn hàng"
+
+msgid "ghi_chu"
+msgstr "Ghi chú"
+
+msgid "phuong_thuc"
+msgstr "Phương thức"
+
+msgid "phuong_thuc_thanh_toan"
+msgstr "Phương thức thanh toán"
+
+msgid "chua_xac_nhan"
+msgstr "Chưa xác nhận"
+
+msgid "don_moi"
+msgstr "Đơn mới"
+
+msgid "dang_chuyen"
+msgstr "Đang chuyển"
+
+msgid "xac_nhan"
+msgstr "Xác nhận"
+
+msgid "da_dong_goi"
+msgstr "Đã đóng gói"
+
+msgid "xuat_kho"
+msgstr "Xuất kho"
+
+msgid "thanh_cong"
+msgstr "Thành công"
+
+msgid "da_huy"
+msgstr "Đã hủy"
+
+msgid "cho_nhan_hang"
+msgstr "Chờ nhận hàng"
+
+msgid "da_nhan_hang"
+msgstr "Đã nhận hàng"
+
+msgid "tu_ngay"
+msgstr "Từ ngày"
+
+msgid "den_ngay"
+msgstr "Đến ngày"
+
+msgid "huy_don"
+msgstr "Hủy đơn"
+
+msgid "xac_nhan_huy_don_hang"
+msgstr "Xác nhận hủy đơn hàng"
+
+msgid "truoc_khi_huy_don_hang_vui_long_doc_ky_dieu_kien_duoi_day"
+msgstr "Trước khi hủy đơn hàng vui lòng đọc kỹ điều kiện dưới đây"
+
+msgid "dieu_kien_huy_don_hang"
+msgstr "Điều kiện hủy đơn hàng"
+
+msgid "ly_do_huy_don"
+msgstr "Lý do hủy đơn"
+
+
+msgid "huy_don_hang_khong_thanh_cong"
+msgstr "Hủy đơn hàng không thành công"
+
+msgid "toi_da_doc_va_dong_y_voi_chinh_sach"
+msgstr "Tôi đã đọc và đồng ý với chính sách"
+
+msgid "dong_y"
+msgstr "Đồng ý"
+
+msgid "ma_khach_hang"
+msgstr "Mã khách hàng"
+
+msgid "mat_khau"
+msgstr "Mật khẩu"
+
+msgid "hien_chua_co_don_hang"
+msgstr "Hiện chưa có đơn hàng"
+
+msgid "ban_chua_dong_y_voi_dieu_khoan"
+msgstr "Bạn chưa đồng ý với điều khoản"
+
+msgid "cap_nhat_thanh_cong"
+msgstr "Cập nhật thành công"
+
+msgid "cap_nhat_dia_chi"
+msgstr "Cập nhật địa chỉ"
+
+msgid "that_tiec_trang_cua_ban_yeu_cau_khong_ton_tai"
+msgstr "Thật tiếc trang của bạn yêu cầu không tồn tại"
+
+msgid "vui_long_thu_mot_trang_khac_hoac_lien_he_truc_tiep_voi_web4s_nhe"
+msgstr "Vui lòng thử một trang khác hoặc liên hệ trực tiếp với web4s nhé"
+
+msgid "khong_lay_duoc_thong_tin_don_hang"
+msgstr "Không lấy được thông tin đơn hàng"
+
+msgid "thong_tin_don_hang"
+msgstr "Thông tin đơn hàng"
+
+msgid "binh_luan"
+msgstr "Bình luận"
+
+msgid "thay_doi"
+msgstr "Thay đổi"
+
+msgid "moi_ban_de_lai_binh_luan"
+msgstr "Mời bạn để lại bình luận"
+
+msgid "gui_binh_luan"
+msgstr "Gửi bình luận"
+
+msgid "de_gui_binh_luan_ban_vui_long_cung_cap_them_thong_tin_lien_he"
+msgstr "Để gửi bình luận bạn vui lòng cung cấp thêm thông tin liên hệ"
+
+msgid "thong_tin_nguoi_gui"
+msgstr "Thông tin người gửi"
+
+msgid "ten_hien_thi"
+msgstr "Tên hiển thị"
+
+msgid "phut_truoc"
+msgstr "phút trước"
+
+msgid "gio_truoc"
+msgstr "giờ trước"
+
+msgid "ngay_truoc"
+msgstr "ngày trước"
+
+msgid "thang"
+msgstr "tháng"
+
+msgid "luc"
+msgstr "lúc"
+
+msgid "thang_truoc"
+msgstr "tháng trước"
+
+msgid "nam_truoc"
+msgstr "năm trước"
+
+msgid "vua_xong"
+msgstr "vừa xong"
+
+msgid "gia_san_pham"
+msgstr "Giá sản phẩm"
+
+msgid "thuong_hieu"
+msgstr "Thương hiệu"
+
+msgid "sap_xep"
+msgstr "Sắp xếp"
+
+msgid "sap_xep_theo_ten"
+msgstr "Sắp xếp theo tên"
+
+msgid "gia_tu_thap_den_cao"
+msgstr "Giá từ thấp đến cao"
+
+msgid "gia_tu_cao_den_thap"
+msgstr "Giá từ cao đến thấp"
+
+msgid "hien_thi"
+msgstr "Hiển thị"
+
+msgid "duoi"
+msgstr "dưới"
+
+msgid "trieu_vnd"
+msgstr "triệu vnd"
+
+msgid "trieu"
+msgstr "triệu"
+
+msgid "tu"
+msgstr "từ"
+
+msgid "den"
+msgstr "đến"
+
+msgid "tren"
+msgstr "trên"
+
+msgid "dia_chi_giao_hang"
+msgstr "Địa chỉ giao hàng"
+
+msgid "gui_don_sang_hang_van_chuyen_khong_thanh_cong"
+msgstr "Gửi đơn sang hãng vận chuyển không thành công"
+
+msgid "chuc_mung_quy_khach_da_dat_hang_thanh_cong"
+msgstr "Chúc mừng quý khách đã đặt hàng thành công"
+
+msgid "don_hang_thanh_cong"
+msgstr "Đơn hành thành công"
+
+msgid "da_het_phien_lam_viec_vui_long_chon_lai_san_pham"
+msgstr "Đã hết phiền làm việc vui lòng chọn lại sản phẩm"
+
+msgid "san_pham_chua_duoc_them_vao_gio_hang"
+msgstr "Sản phẩm chưa được thêm vào giỏ hàng"
+
+msgid "cap_nhat_gio_hang"
+msgstr "Cập nhật giỏ hàng"
+
+msgid "xac_nhan_gio_hang"
+msgstr "Xác nhận giỏ hàng"
+
+msgid "ban_da_co_ma_coupon"
+msgstr "Bạn đã có mã Coupon"
+
+msgid "click_de_nhap_ma"
+msgstr "Click để nhập mã"
+
+msgid "neu_ban_da_co_tai_khoan_hay_dang_nhap_tai_day"
+msgstr "Nếu bạn đã có tài khoản hay đăng nhập tại đây"
+
+msgid "ban_da_co_tai_khoan"
+msgstr "Bạn đã có tài khoản?"
+
+msgid "ma_coupon"
+msgstr "Mã Coupon"
+
+msgid "ap_dung_ma"
+msgstr "Áp dụng mã"
+
+msgid "thong_tin_khach_hang"
+msgstr "Thông tin khách hàng"
+
+msgid "thong_tin_dat_hang"
+msgstr "Thông tin đặt hàng"
+
+msgid "dia_chi_chi_tiet"
+msgstr "Địa chỉ chi tiết"
+
+msgid "tong_tien_san_pham"
+msgstr "Tổng tiền sản phẩm"
+
+msgid "thanh_toan"
+msgstr "Thanh toán"
+
+msgid "thanh_tien"
+msgstr "Thành tiền"
+
+msgid "them_thong_tin"
+msgstr "Thêm thông tin"
+
+msgid "so_nha_ngo_duong"
+msgstr "Số nhà ngõ đường"
+
+msgid "thanh_toan_ngay"
+msgstr "Thanh toán ngay"
+
+msgid "thanh_toan_don_hang"
+msgstr "Thanh toán đơn hàng"
+
+msgid "don_hang_nay_da_duoc_thanh_toan"
+msgstr "Đơn hàng này đã được thanh toán"
+
+msgid "don_hang_nay_da_xac_nhan_thanh_toan"
+msgstr "Đơn hàng này đã xác nhận thanh toán"
+
+msgid "phuong_thuc_khong_hop_le"
+msgstr "Phương thức không hợp lệ"
+
+msgid "du_lieu_khong_hop_le"
+msgstr "Dữ liệu không hợp lệ"
+
+msgid "tao_don_hang_thanh_cong"
+msgstr "Tạo đơn hàng thành công"
+
+msgid "thong_tin_cau_hinh_chua_hop_le"
+msgstr "Thông tin cấu hình chưa hợp lệ"
+
+msgid "khong_lay_duoc_thong_tin_hang_van_chuyen"
+msgstr "Không lấy được thông tin hãng vận chuyển"
+
+msgid "phuong_thuc"
+msgstr "Phương thức"
+
+msgid "giao_thuong"
+msgstr "Giao thường"
+
+msgid "giao_nhanh"
+msgstr "Giao nhanh"
+
+msgid "khong_ket_noi_duoc_den_api_{0}"
+msgstr "Không kết nối được đến API {0}"
+
+msgid "khong_lay_duoc_thong_tin_cong_thanh_toan"
+msgstr "Không lấy được thông tin cổng thanh toán"
+
+msgid "khong_cap_nhat_duoc_thong_tin_don_hang"
+msgstr "Không cập nhật được thông tin đơn hàng"
+
+msgid "xu_ly_thanh_toan_don_hang_thanh_cong"
+msgstr "Xử lý thanh toán đơn hàng thành công"
+
+msgid "chua_co_san_pham_nao_trong_gio_hang"
+msgstr "Chưa có sản phẩm nào trong giỏ hàng"
+
+msgid "chua_co_cong_thanh_toan_nao_duoc_cau_hinh"
+msgstr "Chưa có cổng thanh toán nào được cấu hình"
+
+msgid "mua_hang"
+msgstr "Mua hàng"
+
+msgid "xem_them"
+msgstr "Xem thêm"
+
+msgid "chia_se"
+msgstr "Chia sẻ"
+
+msgid "mo_ta"
+msgstr "Mô tả"
+
+msgid "ma_san_pham"
+msgstr "Mã sản phẩm"
+
+msgid "chua_co_binh_luan_nao"
+msgstr "Chưa có bình luận"
+
+msgid "khach_hang_da_binh_luan"
+msgstr "bình luận"
+
+msgid "cac_truong_bat_buoc_khong_duoc_de_trong"
+msgstr "Các trường bắt buộc không được để trống"
+
+msgid "cac_truong_bat_buoc_khong_duoc_de_trong"
+msgstr "Các trường bắt buộc không được để trống"
+
+msgid "co_anh"
+msgstr "Có ảnh"
+
+msgid "co_video"
+msgstr "Có video"
+
+msgid "co_tai_lieu"
+msgstr "Có tài liệu"
+
+msgid "tai_xuong"
+msgstr "Tải xuống"
+
+msgid "khong_co_du_lieu"
+msgstr "Không có dữ liệu"
+
+msgid "gui_binh_luan_thanh_cong"
+msgstr "Gửi bình luận thành công"
+
+msgid "trang_dau_tien"
+msgstr "Trang đầu tiên"
+
+msgid "trang_tiep"
+msgstr "Trang tiếp"
+
+msgid "trang_cuoi"
+msgstr "Trang cuối"
+
+msgid "khong_lay_duoc_thong_tin_giao_dich"
+msgstr "Không lấy được thông tin giao dịch"
+
+msgid "giao_dich_da_duoc_thuc_hien"
+msgstr "Giao dịch đã được thức hiện"
+
+msgid "xu_ly_thong_tin_giao_dich_thanh_cong"
+msgstr "Xử lý thông tin giao dịch thành công"
+
+msgid "khong_lay_duoc_thong_tin_email_nhan"
+msgstr "Không lấy được thông tin email nhận"
+
+msgid "khong_lay_duoc_thong_tin_mau_email"
+msgstr "Không lấy được thông tin mẫu email"
+
+msgid "vui_long_cau_hinh_email_ung_dung"
+msgstr "Vui lòng cấu hình email ứng dụng"
+
+msgid "he_thong_khong_cau_hinh_su_dung_recaptcha"
+msgstr "Hệ thống không cấu hình sử dụng reCaptcha"
+
+msgid "khong_lay_duoc_thong_tin_ma_bao_mat_recaptcha"
+msgstr "Không lấy được thông tin mã bảo mật reCaptcha"
+
+msgid "khong_nhan_duoc_thong_tin_ma_xac_nhan_recaptcha"
+msgstr "Không nhận được thông tin mã xác nhận reCaptcha"
+
+msgid "khong_xac_nhan_duoc_thong_tin_recaptcha"
+msgstr "Không xác nhận được thông tin reCaptcha"
+
+msgid "xac_nhan_recaptcha_thanh_cong"
+msgstr "Xác nhận reCaptcha thành công"
+
+msgid "cap_nhat_khong_thanh_cong"
+msgstr "Cập nhật không thành công"
+
+msgid "tep_dang_tai_khong_hop_le"
+msgstr "Tệp đang tải không hợp lệ"
+
+msgid "tep_dang_tai_co_dung_luong_qua_lon"
+msgstr "Tệp đang tải có dung lượng quá lớn"
+
+msgid "khong_lay_duoc_ma_dang_tai_cdn"
+msgstr "Không lấy được ma đang tải CDN"
+
+msgid "dang_tai_tep_khong_thanh_cong"
+msgstr "Đăng tải tệp không thành công"
+
+msgid "dang_tai_tep_thanh_cong"
+msgstr "Đăng tải tệp thành công"
+
+msgid "khong_lay_duoc_thong_tin_giao_dien"
+msgstr "Không lấy được thông tin giao diện"
+
+msgid "khong_lay_duoc_thong_tin_ngon_ngu_cua_website"
+msgstr "Không lấy được thông tin ngôn ngữ của Website"
+
+msgid "chua_cai_dat_don_vi_tien_te_mac_dinh_cua_website"
+msgstr "Chưa cài đặt đơn vị tiền tệ mặc định của Website"
+
+msgid "xu_ly_du_lieu_khong_thanh_cong"
+msgstr "Xử lý dữ liệu không thành công"
+
+msgid "khong_tim_thay_thong_tin_san_pham"
+msgstr "Không tìm thấy thông tin sản phẩm"
+
+msgid "cap_nhat_gio_hang_thanh_cong"
+msgstr "Cập nhật giỏ hàng thành công"
+
+msgid "khong_tim_thay_thong_tin_gio_hang"
+msgstr "Không tìm thấy thông tin giỏ hàng"
+
+msgid "vui_long_nhap_ten_nguoi_binh_luan"
+msgstr "Vui lòng nhập tên người bình luận"
+
+msgid "vui_long_nhap_noi_dung_binh_luan"
+msgstr "Vui lòng nhập nội dung bình luận"
+
+msgid "khong_lay_duoc_thong_tin_duong_dan"
+msgstr "Không lấy được thông tin đường dẫn"
+
+msgid "khong_lay_duoc_thong_tin_binh_luan"
+msgstr "Không lấy được thông tin bình luận"
+
+msgid "loai_binh_luan_khong_hop_le"
+msgstr "Loại bình luận không hợp lệ"
+
+msgid "vui_long_chon_so_sao_danh_gia"
+msgstr "Vui lòng chọn số sao đánh giá"
+
+msgid "vui_long_cau_hinh_ma_form"
+msgstr "Vui lòng cấu hình mã form"
+
+msgid "ma_form_duoc_cau_hinh_khong_ton_tai_tren_he_thong"
+msgstr "Mã form được cấu hình không tồn tại trên hệ thống"
+
+msgid "vui_long_cau_hinh_cac_truong_cua_form"
+msgstr "Vui lòng cấu hình các trường của form"
+
+msgid "gui_thong_tin_lien_he_thanh_cong"
+msgstr "Gửi thông tin liên hệ thành công"
+
+msgid "xu_ly_du_lieu_thanh_cong"
+msgstr "Xử lý dữ liệu thành công"
+
+msgid "het_phien_lam_viec_vui_long_dang_nhap_lai_tai_khoan"
+msgstr "hết phiên làm việc vui lòng đăng nhập lại tài khoản"
+
+msgid "vui_long_nhap_tai_khoan_va_mat_khau_de_dang_nhap"
+msgstr "Vui lòng nhập tài khoản và mật khẩu để đăng nhập"
+
+msgid "tai_khoan_hoac_mat_khau_khong_dung"
+msgstr "Tài khoản hoặc mật khẩu không đúng"
+
+msgid "tai_khoan_cua_ban_hien_dang_bi_khoa"
+msgstr "Tài khoản của bạn hiện đang bị khóa"
+
+msgid "tai_khoan_cua_ban_chua_duoc_kich_hoat"
+msgstr "Tài khoản của bạn chưa được kích hoạt"
+
+msgid "khong_lay_duoc_thong_tin_tai_khoan"
+msgstr "Không lấy được thông tin tài khoản"
+
+msgid "dang_nhap_thanh_cong"
+msgstr "Đăng nhập thành công"
+
+msgid "dang_ky_tai_khoan"
+msgstr "Đăng ký tài khoản"
+
+msgid "vui_long_nhap_tai_khoan_dang_ky"
+msgstr "Vui lòng nhập tài khoản đăng ký"
+
+msgid "vui_long_nhap_mat_khau"
+msgstr "Vui lòng nhập mật khẩu"
+
+msgid "vui_long_nhap_xac_nhan_mat_khau"
+msgstr "Vui lòng nhập xác nhận mật khẩu"
+
+msgid "xac_nhan_mat_khau_khong_chinh_xac"
+msgstr "Xác nhận mật khẩu không chính xác"
+
+msgid "vui_long_nhap_so_dien_thoai"
+msgstr "Vui lòng nhập số điện thoại"
+
+msgid "tai_khoan_da_duoc_dang_ky"
+msgstr "Tài khoản đã được đăng ký"
+
+msgid "tai_khoan_cua_ban_da_duoc_dang_ky_thanh_cong"
+msgstr "Tài khoản của bạn đã được đăng ký thành công"
+
+msgid "quan_ly_tai_khoan"
+msgstr "Quản lý tài khoản"
+
+msgid "vui_long_nhap_day_du_thong_tin"
+msgstr "Vui lòng nhập đầy đủ thông tin"
+
+msgid "mat_khau_cu_nhap_khong_chinh_xac"
+msgstr "Mật khẩu cũ nhập không chính xác"
+
+msgid "mat_khau_thay_doi_khong_the_giong_mat_khau_cu"
+msgstr "Mật khẩu thay đổi không thể giống mật khẩu cũ"
+
+msgid "vui_long_nhap_ma_khach_hang"
+msgstr "Vui lòng nhập mã khách hàng"
+
+msgid "vui_long_nhap_so_diem"
+msgstr "Vui lòng nhập số điểm"
+
+msgid "don_hang_cua_ban"
+msgstr "Đơn hàng của bạn"
+
+msgid "chu_ky_khong_hop_le"
+msgstr "Chữ ký không hợp lệ"
+
+msgid "giao_dich_khong_thanh_cong"
+msgstr "Giao dịch không thành công"
+
+msgid "giao_dich_thanh_cong"
+msgstr "Giao dịch thành công"
+
+msgid "khong_lay_duoc_du_lieu_tra_ve_tu_webhooks"
+msgstr "Không lấy được dữ liệu trả về từ Webhooks"
+
+msgid "khong_tim_thay_thong_tin_giao_dich"
+msgstr "Không tìm thấy thông tin giao dịch"
+
+msgid "giao_dich_nay_da_thanh_cong"
+msgstr "Giao dịch này đã thành công"
+
+msgid "gia_tri_giao_dich_khong_chinh_xac"
+msgstr "Giá trị giao dịch không chính xác"
+
+msgid "loi_khi_cap_nhap_thong_tin_giao_dich"
+msgstr "Lỗi khi cập nhật thông tin giao dịch"
+
+msgid "loi_khi_cap_nhap_thong_tin_don_hang"
+msgstr "Lỗi khi cập nhật thông tin đơn hàng"
+
+msgid "vui_long_nhap_noi_dung_gui_thu"
+msgstr "Vui lòng nhập nội dung gửi thư"
+
+msgid "the_bai_viet"
+msgstr "Thẻ bài viết"
+
+msgid "khong_co_du_lieu_file"
+msgstr "Không có dữ liệu file"
+
+msgid "khong_co_du_lieu_anh"
+msgstr "Không có dữ liệu ảnh"
+
+msgid "khong_co_du_lieu_video"
+msgstr "Không có dữ liệu video"
+
+msgid "trang_truoc"
+msgstr "Trang trước"
+
+msgid "hien_chua_co_dia_chi_nao"
+msgstr "Hiện chưa có địa chỉ nào"
+
+msgid "xin_loi_da_co_loi_he_thong_xay_ra_ban_vui_long_quay_lai_trang_chu"
+msgstr "Xin lỗi đã có lỗi hệ thống xảy ra bạn vui lòng quay lại trang chủ"
+
+msgid "kich_thuoc"
+msgstr "Kích thước"
+
+msgid "tin_tuc"
+msgstr "Tin tức"
+
+msgid "tu_khoa_tim_kiem"
+msgstr "Từ khóa tìm kiếm"
+
+msgid "khach_hang_danh_gia"
+msgstr "Khách hàng đánh giá"
+
+msgid "chia_se_nhan_xet_ve_san_pham"
+msgstr "Chia sẻ nhận xét về sản phẩm"
+
+msgid "danh_gia_va_nhan_xet"
+msgstr "Đánh giá và nhận xét"
+
+msgid "gui_nhan_xet_cua_ban"
+msgstr "Gửi nhận xét của bạn"
+
+msgid "danh_gia_cua_ban_ve_san_pham_nay"
+msgstr "Đánh giá của bạn về sản phẩm này"
+
+msgid "viet_nhan_xet_cua_ban_vao_ben_duoi"
+msgstr "Viết nhận xét của bạn vào bên dưới"
+
+msgid "nhan_xet_cua_ban_ve_san_pham_nay"
+msgstr "Nhận xét của bạn về sản phẩm này"
+
+msgid "thong_tin_ca_nhan_cua_ban"
+msgstr "Thông tin cá nhân của bạn"
+
+msgid "thong_tin_ca_nhan_cua_ban"
+msgstr "Thông tin cá nhân của bạn"
+
+msgid "hinh_anh"
+msgstr "Hình ảnh"
+
+msgid "gui_danh_gia"
+msgstr "Gửi đánh giá"
+
+msgid "thao_luan"
+msgstr "Thảo luận"
+
+msgid "xem_them_thao_luan"
+msgstr "Xem thêm thảo luận"
+
+msgid "danh_gia"
+msgstr "Đánh giá"
+
+msgid "tai_xuong_tap_tin_dinh_kem"
+msgstr "Tải xuống tập tin đính kèm"
+
+msgid "dat_lai"
+msgstr "Đặt lại"
+
+msgid "muc_luc_noi_dung"
+msgstr "Mục lục nội dung"
+
+msgid "tai_khoan_ngan_hang"
+msgstr "Tài khoản ngân hàng"
+
+msgid "ten_ngan_hang"
+msgstr "Tên ngân hàng"
+
+msgid "chi_nhanh"
+msgstr "Chi nhánh"
+
+msgid "chu_tai_khoan"
+msgstr "Chủ tài khoản"
+
+msgid "so_tai_khoan"
+msgstr "Số tài khoản"
+
+msgid "ma_giao_dich"
+msgstr "Mã giao dịch"
+
+msgid "can_nang"
+msgstr "Cân nặng"
+
+msgid "chieu_dai"
+msgstr "Chiều dài"
+
+msgid "chieu_rong"
+msgstr "Chiều rộng"
+
+msgid "chieu_cao"
+msgstr "Chiều cao"
+
+msgid "chao_khach_hang"
+msgstr "Chào khách hàng"
+
+msgid "chao_ban"
+msgstr "Chào bạn"
+
+msgid "cam_on_ban_da_mua_sam_tren_website_cua_chung_toi_hy_vong_ban_se_hai_long_voi_nhung_san_pham_da_mua"
+msgstr "Cám ơn bạn đã mua sắm trên website của chúng tôi. Hy vọng bạn sẽ hài lòng với những sản phẩm đã mua."
+
+msgid "cua_ban_hien_dang_xu_ly_va_se_thong_bao_cho_ban_ngay_khi_hang_duoc_xuat_kho"
+msgstr "của bạn hiện đang được xử lý và sẽ thông báo cho bạn ngay khi hàng được xuất kho."
+
+msgid "don_gia"
+msgstr "Đơn giá"
+
+msgid "chiet_khau"
+msgstr "Chiết khấu"
+
+msgid "phi_van_chuyen"
+msgstr "Phí vận chuyển"
+
+msgid "xac_nhan_thay_doi_mat_khau"
+msgstr "Xác nhận thay đổi mật khẩu"
+
+msgid "vui_long_click_vao_dia_chi_ben_duoi_de_thay_doi_mat_khau"
+msgstr "- Vui lòng click vào địa chỉ bên dưới để thay đổi mật khẩu"
+
+msgid "thong_tin_dang_ky"
+msgstr "Thông tin đăng ký"
+
+msgid "ban_hoac_ai_do_da_su_dung_email_nay_de_dang_ky_tai_khoan_tai_website_voi_thong_tin_sau"
+msgstr "Bạn hoặc ai đó đã sử dụng email này. Để đăng ký tài khoản tại website với thông tin sau"
+
+msgid "de_xac_nhan_viec_dang_ky_nay_la_hop_le_ban_vui_long_truy_cap_vao"
+msgstr "Để xác nhận việc đăng ký này là hợp lệ, bạn vui lòng truy cập vào"
+
+msgid "email_dang_ky"
+msgstr "Email đăng ký"
+
+msgid "ten_truy_cap"
+msgstr "Tên truy cập"
+
+msgid "thong_tin_lien_he"
+msgstr "Thông tin liên hệ"
+
+msgid "dang_ky_thanh_cong"
+msgstr "Đăng ký thành công"
+
+msgid "chuc_mung_ban_da_dang_ky_thanh_cong_vui_long_kiem_tra_email_de_nhan_thong_tin_kich_hoat"
+msgstr "Chúc mừng bạn đã đăng ký thành công. Vui lòng kiểm tra email để nhận thông tin kích hoạt"
+
+msgid "chuc_mung_ban_da_dang_ky_thanh_cong_tai_khoan_tai"
+msgstr "Chúc mừng bạn đã đăng ký thành công tài khoản tại"
+
+msgid "voi_thong_tin_sau"
+msgstr "với thông tin sau"
+
+msgid "duong_dan"
+msgstr " đường dẫn "
+
+msgid "nay_de_kich_hoat_tai_khoan"
+msgstr "này để kích hoạt tài khoản"
+
+msgid "gui_lai_ma_xac_nhan"
+msgstr "Gửi lại mã xác nhận"
+
+msgid "ma_xac_nhan"
+msgstr "Mã xác nhận"
+
+msgid "ma_xac_nhan_cua_ban_la"
+msgstr "Mã xác nhận của bạn là"
+
+msgid "thoi_gian_giua_hai_lan_gui_la_mot_phut"
+msgstr "Thời gian giữa hai lần gửi là một phút"
+
+msgid "thong_tin_kich_hoat_khong_ton_tai"
+msgstr "Thông tin kích hoạt không tồn tại"
+
+msgid "ban_da_kich_hoat_thanh_cong_tai_khoan"
+msgstr "Bạn đã kích hoạt thành công tài khoản"
+
+msgid "gui_ma_xac_nhan_thanh_cong"
+msgstr "Gửi mã xác nhận thành công"
+
+msgid "kich_hoat_tai_khoan"
+msgstr "Kích hoạt tài khoản"
+
+msgid "neu_nhu_ban_khong_dang_ky_thong_tin_voi_tai_khoan"
+msgstr "Nếu như bạn không đăng ký thông tin với tài khoản"
+
+msgid "vui_long_bo_qua_va_xoa_email_nay"
+msgstr "vui lòng bỏ qua và xóa email này"
+
+msgid "xin_cam_on"
+msgstr "Xin cám ơn"
+
+msgid "sau_khi_nhap_dia_chi_email_vui_long_kiem_tra_hom_thu_dien_tu_de_lay_ma_xac_nhan_thay_doi_mat_khau"
+msgstr "Sau khi nhập địa chỉ email. Vui lòng kiểm tra hòm thư điện tử để lấy mã xác nhận thay đổi mật khẩu"
+
+msgid "thong_tin_tai_khoan_khong_ton_tai"
+msgstr "Thông tin tài khoản không tồn tại"
+
+msgid "thay_doi_mat_khau_thanh_cong"
+msgstr "Thay đổi mật khẩu thành công"
+
+msgid "thong_tin_khong_chinh_xac_hoac_ma_xac_nhan_da_het_han"
+msgstr "Thông tin không chính xác hoặc mã xác nhận đã hết hạn"
+
+msgid "de_xac_nhan_viec_thay_doi_mat_khau_nay_la_hop_le_ban_vui_long_truy_cap_vao"
+msgstr "Để xác nhận việc thay đổi mật khẩu này là hợp lệ bạn vui lòng truy cập vào"
+
+msgid "neu_nhu_ban_khong_thay_doi_mat_khau_voi_tai_khoan"
+msgstr "Nếu như bạn không thay đổi mật khẩu với tài khoản"
+
+msgid "khach_hang_de_lai_thong_tin_lien_he"
+msgstr "Khách hàng để lại thông tin liên hệ"
+
+msgid "thong_tin_khach_hang_khong_hop_le"
+msgstr "Thông tin khách hàng không hợp lệ"
+
+msgid "nhan_vao"
+msgstr "Nhấn vào"
+
+msgid "nay_de_chuyen_toi_trang_kich_hoat_tai_khoan"
+msgstr "này để chuyển tới trang kích hoạt tài khoản"
+
+msgid "neu_nhu_ban_khong_yeu_cau_gui_lai_ma_xac_nhan_vui_long_bo_qua_va_xoa_email_nay"
+msgstr "Nếu như bạn không yêu cầu gửi lại mã xác nhận. Vui lòng bỏ qua và xóa email này"
+
+msgid "khong_the_kich_hoat_tai_khoan_nay"
+msgstr "Không thể kích hoạt tài khoản này"
+
+msgid "kich_hoat_tai_khoan_thanh_cong"
+msgstr "Kích hoạt tài khoản thành công"
+
+msgid "chon_dia_chi_khac"
+msgstr "Chọn địa chỉ khác"
+
+msgid "ban_da_danh_gia_san_pham_nay_roi"
+msgstr "Bạn đã đánh giá sản phẩm này rồi"
+
+msgid "vui_long_dang_nhap_tai_khoan_de_su_dung_chuc_nang_nay"
+msgstr "Vui lòng đăng nhập tài khoản để sử dụng chức năng này"
+
+msgid "cho_van_chuyen"
+msgstr "Chờ vận chuyển"
+
+msgid "da_xac_nhan"
+msgstr "Đã xác nhận"
+
+msgid "thao_tac"
+msgstr "Thao tác"
+
+msgid "anh_dai_dien"
+msgstr "Ảnh đại diện"
+
+msgid "thong_tin_san_pham_khong_ton_tai"
+msgstr "Thông tin sản phẩm không tồn tại"
+
+msgid "san_pham_ngung_kinh_doanh"
+msgstr "Sản phẩm ngừng kinh doanh"
+
+msgid "quay_lai"
+msgstr "Quay lại"
+
+msgid "dia_chi_nhan_hang"
+msgstr "Địa chỉ nhận hàng"
+
+msgid "ten_dia_chi"
+msgstr "Tên địa chỉ"
+
+msgid "khong_gui_duoc_email"
+msgstr "Không gửi được email"
+
+msgid "vui_long_nhap_ma_xac_nhan"
+msgstr "Vui lòng nhập mã xác nhận"
+
+msgid "ban_chua_co_tai_khoan_he_thong"
+msgstr "Bạn chưa có tài khoản hệ thống ?"
+
+msgid "quay_lai_gio_hang"
+msgstr "Quay lại giỏ hàng"
+
+msgid "vui_long_nhap_dia_chi_email"
+msgstr "Vui lòng nhập địa chỉ email"
+
+msgid "so_dien_thoai_da_duoc_dang_ky"
+msgstr "Số điện thoại đã được đăng ký"
+
+msgid "yeu_thich"
+msgstr "Yêu thích"
+
+msgid "khong_lay_duoc_thong_tin_yeu_thich"
+msgstr "Không lấy được thông tin yêu thích"
+
+msgid "them_thanh_cong_san_pham_yeu_thich"
+msgstr "Thêm thành công sản phẩm yêu thích"
+
+msgid "them_thanh_cong_bai_viet_yeu_thich"
+msgstr "Thêm thành công bài viết yêu thích"
+
+msgid "xoa_thanh_cong_san_pham_yeu_thich"
+msgstr "Xóa thành công sản phẩm yêu thích"
+
+msgid "xoa_thanh_cong_bai_viet_yeu_thich"
+msgstr "Xóa thành công bài viết yêu thích"
+
+msgid "bai_viet"
+msgstr "Bài viết"
+
+msgid "anh"
+msgstr "Ảnh"
+
+msgid "gio_hang_cua_ban"
+msgstr "Giỏ hàng của bạn"
+
+msgid "xem_gio_hang"
+msgstr "Xem Giỏ hàng"
+
+msgid "thanh_toan"
+msgstr "Thanh toán"
+
+msgid "gia_tam"
+msgstr "Giá tạm tính"
+
+msgid "mota_cart"
+msgstr "Có 17 người đang thêm cùng sản phẩm giống bạn vào giỏ hàng. Mua ngay trước khi các sản phẩm này hết hàng bạn nhé!"
+
+msgid "mo_ta_cart"
+msgstr "Đơn hàng của bạn đã đủ điều kiện miễn phí vận chuyển"
+
+msgid "tom_tat_san_pham"
+msgstr "Tóm Tắt Sản Phẩm"
+ 
+msgid "tom_tat_don_hang"
+msgstr "Tóm Tắt Sản Phẩm"
+
+msgid "chung_toi_chap_nhan"
+msgstr "Chúng Tôi Chấp Nhận"
+
+msgid "van_chuyen"
+msgstr "Vận chuyển"
+
+msgid "dia_chi_nhan_hang"
+msgstr "Địa chỉ nhận hàng"
+
+msgid "tai_khoan"
+msgstr "Tài khoản/ Thẻ ngân hàng"
+
+msgid "vi_lien_ket"
+msgstr "Ví liên kết"
+
+msgid "phieu_giam_gia"
+msgstr "Phiếu giảm giá"
+
+msgid "vi_dago"
+msgstr "Ví Dago"
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "dieu_khoan_cua_dago"
+msgstr "Điều khoản của Dago"
+
+msgid "tieu_chuan"
+msgstr "Tiêu chuẩn cộng đồng"
+
+msgid "gioi_thieu_dago"
+msgstr "Giới thiểu về Dago"
+
+msgid "yeu_cau_xoa_tai_khoan"
+msgstr "Yêu cầu xóa tài khoản"
+
+msgid "ho_tro"
+msgstr "Hỗ trợ khách hàng"
+
+msgid "ngon_ngu"
+msgstr "Ngôn ngữ"
+
+msgid "ho_so_cua_toi"
+msgstr "Hồ sơ của tôi"
+
+msgid "quan_ly_thong_tin_ho_so_de_bao_mat_tai_khoan"
+msgstr "Quản lý thông tin hồ sơ để bảo mật tài khoản"
+
+msgid "tai_khoan_mang_xa_hoi"
+msgstr "Tài khoảng mạng xã hội"
+
+msgid "sua_thong_tin"
+msgstr "Sửa thông tin"
+
+msgid "ho_tro_khach_hang"
+msgstr "Hỗ trợ khách hàng"
+
+msgid "khong_lay_duoc_thong_tin_khach_hang"
+msgstr "Không lấy được thông tin khách hàng"
+
+msgid "khong_lay_duoc_thong_tin_nguoi_nhan"
+msgstr "Không lấy được thông tin người nhận"
+
+msgid "ma_khach_hang_khong_hop_le"
+msgstr "Mã khách hàng không hợp lệ"
+
+msgid "dieu_khoan"
+msgstr "Điều khoản"
+
+msgid "gioi_thieu"
+msgstr "Giới thiệu"
+
+msgid "diem_danh_nhan_qua"
+msgstr "Điểm danh nhận quà"
+
+msgid "ban_co"
+msgstr "Bạn có"
+
+msgid "diem"
+msgstr "Điểm"
+
+msgid "don"
+msgstr "Đơn"
+
+msgid "ghi_chu_diem"
+msgstr "(Mỗi điểm tương ứng bằng 1.000 đồng) Đăng nhập liên tục 7 ngày, để nhận được những món quà bất ngờ"
+
+msgid "diem_khuyen_mai"
+msgstr "Điểm khuyến mãi"
+
+msgid "diem_danh"
+msgstr "Điểm danh"
+msgid "phieu_giam_gia_cua_ban"
+msgstr "Phiếu giảm giá của bạn"
+
+msgid "ap_dung"
+msgstr "Áp dụng"
+
+msgid "xoa_coupon"
+msgstr "Xóa coupon"
+
+msgid "vi_kha_dung"
+msgstr "Ví khả dụng"
+
+msgid "the_giam_gia"
+msgstr "Thẻ giảm giá"
+
+msgid "so_du_vi"
+msgstr "Số dư ví"
+
+msgid "vui_long_nhap_ma_coupon"
+msgstr "Vui lòng nhập mã coupon"
+
+msgid "ma_coupon_khong_duoc_ap_dung"
+msgstr "Mã coupon không được áp dụng"
+
+msgid "xac_minh_ma_coupon_thanh_cong"
+msgstr "Xác minh mã coupon thành công"
+
+msgid "phieu_giam_gia_va_diem_thuong_duoc_su_dung_buoc_tiep_theo"
+msgstr "Phiếu giảm giá và điểm thưởng được sử dụng bước tiếp theo"
+
+msgid "thong_bao"
+msgstr "Thông báo"
+
+msgid "chua_den_ngay_diem_danh"
+msgstr "Chưa đến ngày điểm danh"
+
+msgid "ban_dan_gianh_duoc"
+msgstr "Bạn đã giành được"
+
+msgid "hay_quay_lai_vao_ngay_hom_sau"
+msgstr "Hãy quay lại vào ngày hôm sau"
+
+msgid "moi_diem_tuong_ung_bang"
+msgstr "Mỗi điểm tương ứng bằng"
+
+msgid "dong_vnd"
+msgstr "đồng"
+
+msgid "thoi_han_su_dung_diem_den_ngay"
+msgstr "Thời hạn sử dụng điểm đến ngày"
+
+msgid "hom_nay"
+msgstr "Hôm nay"
+
+msgid "so_diem"
+msgstr "Số điểm"
+
+msgid "tat_ca"
+msgstr "Tất cả"
+
+msgid "so_diem_trong_vi_khong_du_de_su_dung"
+msgstr "Số điểm trong ví không đủ để sử dụng"
+
+msgid "so_diem_thuong_vi_khong_du_de_su_dung"
+msgstr "Số điểm thưởng trong ví không đủ để sử dụng"
+
+msgid "khong_ap_dung_diem_voi_don_hang_nay"
+msgstr "Không áp dụng điểm với đơn hàng này"
+
+msgid "diem_thuong_da_het_han_su_dung"
+msgstr "Điểm thưởng đã hết hạn sử dụng"
+
+msgid "diem_danh_tich_diem"
+msgstr "Điểm danh tích điểm"
+
+msgid "ngay_diem_danh_khong_hop_le"
+msgstr "Ngày điểm danh không hợp lệ"
+
+msgid "vi_cua_ban"
+msgstr "Ví của bạn"
+
+msgid "diem_dang_co"
+msgstr "Điểm đang có"
+
+msgid "diem_khuyen_mai_se_het_han_vao"
+msgstr "Điểm khuyến mãi sẽ hết hạn vào"
+
+msgid "nap_tien"
+msgstr "Nạp tiền"
+
+msgid "nap_diem"
+msgstr "Nạp điểm"
+
+msgid "nap_diem_vao_vi"
+msgstr "Nạp điểm vào ví"
+
+msgid "chuyen_tien"
+msgstr "Chuyển tiền"
+
+msgid "diem_tang"
+msgstr "Điểm tặng"
+
+msgid "su_dung"
+msgstr "Sử dụng"
+
+msgid "so_diem_hien_co"
+msgstr "Số điểm hiện có"
+
+msgid "han_dung"
+msgstr "Hạn dùng"
+
+msgid "nhap_phieu_giam_gia"
+msgstr "Nhập phiếu giảm giá"
+
+msgid "danh_muc_san_pham"
+msgstr "Danh mục sản phẩm"
+
+msgid "lay_phieu_giam_gia"
+msgstr "Lấy phiếu giảm giá"
+
+msgid "diem_vi"
+msgstr "Điểm ví"
+
+msgid "huy_ap_dung_diem"
+msgstr "Hủy áp dụng điểm"
+
+msgid "dang_nhap_de_su_dung_chuc_nang"
+msgstr "Đăng nhập để sử dụng chức năng"
+
+msgid "thong_tin_cong_azpay_01"
+msgstr "Thanh toán Onepay nhân hòa"
+
+msgid "thong_tin_cong_azpay_04"
+msgstr "Thanh toán Momo nhân hòa"
+
+msgid "tat_ca_lich_su"
+msgstr "Tất cả lịch sử"
+
+msgid "da_nhan"
+msgstr "Đã nhận"
+
+msgid "da_dung"
+msgstr "Đã dùng"
+
+msgid "tang_diem"
+msgstr "Tặng điểm"
+
+msgid "ma_nguoi_nhan"
+msgstr "Mã người nhận"
+
+msgid "diem_vi"
+msgstr "Điểm ví"
+
+msgid "diem_thuong"
+msgstr "Điểm thưởng"
+
+msgid "thoi_han_su_dung"
+msgstr "Thời hạn sử dụng"
+
+msgid "so_diem_phai_nho_hon_diem_trong_vi"
+msgstr "Số điểm phải nhỏ hơn điểm trong ví"
+
+msgid "dat_lam_dia_chi_mac_dinh"
+msgstr "Đặt làm địa chỉ mặc định"
+
+msgid "sua_dia_chi"
+msgstr "Sửa địa chỉ"
+
+msgid "dang_nhap_google"
+msgstr "Đăng nhập google"
+
+msgid "dang_nhap_facebook"
+msgstr "Đăng nhập facebook"
+
+msgid "hoac_tai_khoan"
+msgstr "Hoặc tài khoản"
+
+msgid "ghi_nho_toi"
+msgstr "Ghi nhớ tôi"
+
+msgid "ban_chua_co_tai_khoan"
+msgstr "Bạn chưa có tài khoản?"
+
+msgid "dang_ky_ngay"
+msgstr "Đăng ký ngay"
+
+msgid "huy_phieu_giam_gia"
+msgstr "Hủy phiếu giảm giá"
+
+msgid "cong_diem_thuong_khi_diem_danh"
+msgstr "Cộng điểm thưởng khi điểm danh"
+
+msgid "cong_diem_thuong_khi_mua_hang"
+msgstr "Cộng điểm thưởng khi mua hàng"
+
+msgid "tru_diem_thuong_khi_mua_hang"
+msgstr "Trừ điểm thưởng khi mua hàng"
+
+msgid "dieu_chinh_diem_tu_he_thong"
+msgstr "Điều chỉnh điểm từ hệ thống"
+
+msgid "tru_diem_vi_khi_mua_hang"
+msgstr "Trừ điểm ví khi mua hàng"
+
+msgid "cong_diem_vi_khi_mua_hang"
+msgstr "Cộng điểm ví khi mua hàng"
+
+msgid "tang_diem_trong_vi"
+msgstr "Tặng điểm trong ví"
+
+msgid "dung_diem_thuong_khi_mua_hang"
+msgstr "Dùng điểm thưởng khi mua hàng"
+
+msgid "nap_diem_vi"
+msgstr "Nạp điểm ví"
+
+msgid "nap_diem_thanh_cong"
+msgstr "Nạp điểm thành công"
+
+msgid "ban_da_nap_thanh_cong"
+msgstr "Bạn đã nạp thành công"
+
+msgid "diem_vao_vi"
+msgstr "điểm vào ví"
+
+msgid "giao_dich_moi"
+msgstr "Giao dịch mới"
+
+msgid "ma_nap"
+msgstr "Mã nạp"
+
+msgid "so_diem_nap"
+msgstr "Số điểm nạp"
+
+msgid "cong_thanh_toan"
+msgstr "Cổng thanh toán"
+
+msgid "hien_khong_co_phieu_giam_gia_nao_duoc_ap_dung"
+msgstr "Hiện không có phiếu giảm giá nào được áp dụng"
+
+msgid "xac_nhan_tai_khoan"
+msgstr "Xác nhận tài khoản"
+
+msgid "buoc_tiep_theo"
+msgstr "Bước tiếp theo"
+
+msgid "ban_chua_nhan_duoc_ma"
+msgstr "Bạn chưa nhận được mã"
+
+msgid "khoi_phuc_mat_khau_qua_email"
+msgstr "Khôi phục mật khẩu qua email"
+
+msgid "ma_se_gui_qua_email_ban_dang_ky_de_thay_doi_mat_khau"
+msgstr "Mã sẽ gửi qua email bạn đăng ký để thay đổi mật khẩu"
+
+msgid "ap_dung_voi_san_pham_{0}"
+msgstr "Áp dụng với sản phẩm "{0}""
+
+msgid "ap_dung_voi_danh_muc_{0}"
+msgstr "Áp dụng với danh mục "{0}""
+
+msgid "ap_dung_voi_thuong_hieu_{0}"
+msgstr "Áp dụng với thương hiệu "{0}""
+
+msgid "ap_dung_voi_don_hang_tu_{0}"
+msgstr "Áp dụng với đơn hàng từ "{0}""
+
+msgid "ap_dung_voi_don_hang_duoi_{0}"
+msgstr "Áp dụng với đơn hàng dưới "{0}""
+
+msgid "ap_dung_khi_mua_tren_{0}_san_pham"
+msgstr "Áp dụng khi mua trên "{0}" sản phẩm"
+
+msgid "ap_dung_voi_don_tai_{0}"
+msgstr "Áp dụng với đơn tại "{0}""
+
+msgid "ap_dung_voi_tat_ca_san_pham"
+msgstr "Áp dụng với tất cả sản phẩm"
+
+msgid "ma"
+msgstr "Mã"
+
+msgid "giam_toi_da"
+msgstr "Giảm tối đa"
+
+msgid "so_tien_nap"
+msgstr "Số tiền nạp"
+
+msgid "quy_doi"
+msgstr "Quy đổi"
+
+msgid "lay_ma_xac_nhan_qua_email"
+msgstr "Lấy mã xác nhận qua email"
+
+msgid "ma_se_gui_qua_email_ban_dang_ky_de_thay_doi"
+msgstr "Mã sẽ gửi qua email bạn đăng ký để thay đổi"
+
+msgid "lay_ma_xac_nhan_qua_dien_thoai"
+msgstr "Lấy mã xác nhận qua số điện thoại"
+
+msgid "ma_se_gui_qua_so_dien_thoai_ban_dang_ky_de_thay_doi"
+msgstr "Mã sẽ gửi qua số điện thoại bạn đăng ký để thay đổi"
+
+msgid "thay_doi_so_dien_thoai"
+msgstr "Thay đổi số điện thoại"
+
+msgid "nhan_ma"
+msgstr "Nhận mã"
+
+msgid "so_dien_thoai_moi"
+msgstr "Số điện thoại mới"
+
+msgid "su_dung_diem"
+msgstr "Sử dụng điểm"
+
+msgid "cho_thanh_toan"
+msgstr "Chờ thanh toán"
+
+msgid "dang_xu_ly"
+msgstr "Đang xử lý"
+
+msgid "vi_du"
+msgstr "Ví dụ"
+
+msgid "chinh_sua"
+msgstr "Chỉnh sửa"
+
+msgid "ma_xac_nhan_se_gui_qua_email_cua_ban"
+msgstr "Mã xác nhận sẽ gửi qua email của bạn"
+
+msgid "ma_xac_nhan_se_gui_qua_so_dien_thoai_cua_ban"
+msgstr "Mã xác nhận sẽ gửi qua số điện thoại của bạn"
+
+msgid "thay_doi_email"
+msgstr "Thay đổi email"
+
+msgid "email_moi"
+msgstr "Email mới"
+
+msgid "xac_nhan_thay_doi_thong_tin_tai"
+msgstr "Xác nhận thay đổi thông tin tại"
+
+msgid "trang_thai_khong_hoat_dong"
+msgstr "Trạng thái không hoạt động"
+
+msgid "khong_lay_duoc_ma_xac_nhan"
+msgstr "Không lấy được mã xác nhận"
+
+msgid "ma_xac_nhan_la_{0}"
+msgstr "Mã xác nhận là {0}"
+
+msgid "gui_ma_thanh_cong"
+msgstr "Gửi mã thành công"
+
+msgid "vui_long_chon_hinh_thuc_nhan_ma_xac_nhan"
+msgstr "Vui lòng chọn hình thức nhận mã xác nhận"
+
+msgid "khong_lay_duoc_thong_tin_so_dien_thoai"
+msgstr "Không lấy được thông tin số điện thoại"
+
+msgid "khong_lay_duoc_thong_tin_email"
+msgstr "Không lấy được thông tin email"
+
+msgid "khong_lay_duoc_loai_thong_tin_thay_doi"
+msgstr "Không lấy được loại thông tin thay đổi"
+
+msgid "vui_long_nhap_thong_tin"
+msgstr "Vui lòng nhập thông tin"
+
+msgid "email_da_duoc_dang_ky"
+msgstr "Email đã được đăng ký"
+
+msgid "ma_otp_hop_le"
+msgstr "Mã OTP hợp lệ"
+
+msgid "vui_long_nhap_ten"
+msgstr "Vui lòng nhập tên"
+
+msgid "mat_khau_tai_khoan_cua_ban_la_{0}"
+msgstr "Mật khẩu tài khoản của bạn là {0}"
+
+msgid "tim_kiem_tu_khoa"
+msgstr "Tìm kiếm từ khóa"
+
+msgid "tinh_trang"
+msgstr "Tình trạng"
+
+msgid "so_dien_thoai_chua_chinh_xac"
+msgstr "Số điện thoại chưa chính xác"
+
+msgid "san_pham_khong_co_mo_ta"
+msgstr "Sản phẩm không có mô tả"
+
+msgid "day_la_email_tu_dong_quy_khach_vui_long_khong_tra_loi_email_nay"
+msgstr "Đây là email tự động quý khách vui lòng không trả lời email này"
+
+msgid "gia_va_phien_ban_san_pham"
+msgstr "Giá và phiên bản sản phẩm"
+
+msgid "anh_san_pham"
+msgstr "Ảnh sản phẩm"
+
+msgid "so_luong_san_co"
+msgstr "Số lượng sẵn có"
+
+msgid "phuong_thuc_van_chuyen"
+msgstr "Phương thức vận chuyển"
+
+msgid "mua_ngay_bang_diem"
+msgstr "Mua ngay bằng điểm"
+
+msgid "vui_long_nhap_diem"
+msgstr "Vui lòng nhập điểm"
+
+msgid "chuyen_diem"
+msgstr "Chuyển điểm"
+msgid "lien_ket_doi_tac"
+msgstr "Liên kết đối tác"
+
+msgid "giao_dich"
+msgstr "Giao dịch"
+
+msgid "lien_ket_ngan_hang"
+msgstr "Liên kết ngân hàng"
+
+msgid "rut_tien"
+msgstr "Rút tiền"
+
+msgid "kich_hoat_tai_khoan_doi_tac"
+msgstr "Kích hoạt tài khoản đối tác"
+
+msgid "khong_co_phuong_thuc_nao_duoc_ap_dung"
+msgstr "Không có phương thức nào được áp dụng"
+
+msgid "gia_tang_thu_nhap_ca_nhan"
+msgstr "Gia tăng thu nhập cá nhân"
+
+msgid "hoa_hong_theo_cap_bac"
+msgstr "Hoa hồng theo cấp bậc"
+
+msgid "thanh_toan_theo_dinh_ky"
+msgstr "Thanh toán theo định kỳ"
+
+msgid "gioi_thieu_khach_hang_mua_san_pham_su_dung_ma_gioi_thieu_ban_duoc_cung_cap_ban_se_nhan_duoc_%_gia_tri_don_hang"
+msgstr "Giới thiệu khách hàng mua sản phẩm. Sử dụng mã giới thiệu bạn được cung cấp, bạn sẽ nhận được % giá trị đơn hàng."
+
+msgid "khi_doanh_thu_dat_den_muc_nhat_dinh_ban_se_duoc_huong_%_hoa_hong_theo_muc_dat_duoc_voi_tat_ca_don_hang_trong_thang"
+msgstr "Khi doanh thu đạt đến mức nhất định, bạn sẽ được hưởng % hoa hồng theo mức đạt được với tất cả đơn hàng trong tháng."
+
+msgid "ngay_15_hang_thang_chung_toi_se_tu_dong_thanh_toan_%_hoa_hong_den_tai_khoan_ban_cung_cap"
+msgstr "Ngày 15 hàng tháng chúng tôi sẽ tự động thanh toán % hoa hồng đến tài khoản bạn cung cấp."
+
+msgid "ban_hang_cung_chung_toi"
+msgstr "Bán hàng cùng chúng tôi"
+
+msgid "ban_hang_cung_chung_toi"
+msgstr "Bán hàng cùng chúng tôi"
+
+msgid "ban_hien_dang_la_doi_tac_cua_chung_toi"
+msgstr "Bạn hiện đang là đối tác của chúng tôi"
+
+msgid "chua_co_thong_tin"
+msgstr "Chưa có thông tin"
+
+msgid "cap_nhat"
+msgstr "Cập nhật"
+
+msgid "thong_bao_cua_ban"
+msgstr "Thông báo của bạn"
+
+msgid "ban_chua_co_thong_bao_nao"
+msgstr "Bạn chưa có thông báo nào"
+
+msgid "loai_hinh_tiep_thi_lien_ket_cua_ban"
+msgstr "Loại hình tiếp thị liên kết của bạn"
+
+msgid "huy_dang_ky"
+msgstr "Hủy đăng ký"
+
+msgid "vi_cua_toi"
+msgstr "Ví của tôi"
+
+msgid "qua_tang"
+msgstr "Quà tặng"
+
+msgid "tai_khoan_doi_tac"
+msgstr "Tài khoản đối tác"
+
+msgid "lich_su_rut_tien"
+msgstr "Lịch sử rút tiền"
+
+msgid "don_gioi_thieu"
+msgstr "Đơn giới thiệu"
+
+msgid "thu_hang"
+msgstr "Thứ hạng"
+
+msgid "don_hang_hoan_thanh"
+msgstr "Đơn hàng hoàn thành"
+
+msgid "don_hang_that_bai"
+msgstr "Đơn hàng thất bại"
+
+msgid "hien_tai_cua_ban"
+msgstr "Hiện tại của bạn"
+
+msgid "tong_hoa_hong_dat"
+msgstr "Tổng hoa hồng đạt"
+
+msgid "du_lieu_thang"
+msgstr "Dữ liệu tháng"
+
+msgid "tong_don"
+msgstr "Tổng đơn"
+
+msgid "don_hang_that_bai"
+msgstr "Đơn hàng thất bại"
+
+msgid "hoa_hong"
+msgstr "Hoa hồng"
+
+msgid "tam_tinh"
+msgstr "Tạm tính"
+
+msgid "bieu_do_thang"
+msgstr "Biểu đồ tháng"
+
+msgid "thang_1"
+msgstr "Tháng 1"
+
+msgid "thang_2"
+msgstr "Tháng 2"
+
+msgid "thang_3"
+msgstr "Tháng 3"
+
+msgid "thang_4"
+msgstr "Tháng 4"
+
+msgid "thang_5"
+msgstr "Tháng 5"
+
+msgid "thang_6"
+msgstr "Tháng 6"
+
+msgid "thang_7"
+msgstr "Tháng 7"
+
+msgid "thang_8"
+msgstr "Tháng 8"
+
+msgid "thang_9"
+msgstr "Tháng 9"
+
+msgid "thang_10"
+msgstr "Tháng 10"
+
+msgid "thang_11"
+msgstr "Tháng 11"
+
+msgid "thang_12"
+msgstr "Tháng 12"
+
+msgid "trong_nam"
+msgstr "Trong năm"
+
+msgid "thoi_gian"
+msgstr "Thời gian"
+
+msgid "ma_gioi_thieu"
+msgstr "Mã giới thiệu"
+
+msgid "nhap_ma_gioi_thieu"
+msgstr "Nhập mã giới thiệu"
+
+msgid "huy_ap_dung_ma_gioi_thieu"
+msgstr "Hủy áp dụng mã giới thiệu"
+
+msgid "quy_doi_diem"
+msgstr "Quy đổi điểm"
+
+msgid "ngan_hang"
+msgstr "Ngân hàng"
+
+msgid "so_diem_co_the_rut"
+msgstr "Số điểm có thể rút"
+
+msgid "them_ngan_hang"
+msgstr "Thêm ngân hàng"
+
+msgid "%_hoa_hong"
+msgstr "% hoa hồng"
+
+msgid "ngay"
+msgstr "Ngày"
+
+msgid "cho_xet_duyet"
+msgstr "Chờ xét duyệt"
+
+msgid "ngay_tao_yeu_cau"
+msgstr "Ngày tạo yêu cầu"
+
+msgid "so_tien_rut"
+msgstr "Số tiền rút"
+
+msgid "su_dung_diem_tang"
+msgstr "Sử dụng điểm tặng"
+
+msgid "su_dung_diem_vi"
+msgstr "Sử dụng điểm ví"
+
+msgid "tong_tien_don_hang"
+msgstr "Tổng tiền đơn hàng"
+
+msgid "diem_hoa_hong"
+msgstr "Điểm hoa hồng"
+
+msgid "so_diem_rut"
+msgstr "Số điểm rút"
+
+msgid "thu_hang"
+msgstr "Thứ hạng"
+
+msgid "ngay_cap"
+msgstr "Ngày cấp"
+
+msgid "vui_long_nhap_so_cmnd_cccd"
+msgstr "Vui lòng nhập số CMND/CCCD"
+
+msgid "vui_long_nhap_ngay_cap_cmnd_cccd"
+msgstr "Vui lòng nhập ngày cấp CMND/CCCD"
+
+msgid "hien_chua_co_ngan_hang_nao_duoc_lien_ket"
+msgstr "Hiện chưa có ngân hàng nào được liên kết"
+
+msgid "vui_long_nhap_ten_ngan_hang"
+msgstr "Vui lòng nhập tên ngân hàng"
+
+msgid "vui_long_nhap_chi_nhanh"
+msgstr "Vui lòng nhập chi nhánh"
+
+msgid "vui_long_nhap_ten_chu_tai_khoan"
+msgstr "Vui lòng nhập tên chủ tài khoản"
+
+msgid "vui_long_nhap_so_tai_khoan"
+msgstr "Vui lòng nhập số tài khoản"
+
+msgid "khong_lay_duoc_thong_tin_ngan_hang"
+msgstr "Không lấy được thông tin ngân hàng"
+
+msgid "cap_nhat_tai_khoan_ngan_hang_thanh_cong"
+msgstr "Cập nhật tài khoản ngân hàng thành công"
+
+msgid "ban_khong_the_xoa_ngan_hang_mac_dinh"
+msgstr "Bạn không thể xóa ngân hàng mặc định"
+
+msgid "xoa_lien_ket_ngan_hang_thanh_cong"
+msgstr "Xóa liên kết ngân hàng thành công"
+
+msgid "dang_cho_quan_tri_xet_duyet"
+msgstr "Đang chờ quản trị xét duyệt"
+
+msgid "tru_diem_tu_yeu_cau_rut_tien"
+msgstr "Trừ điểm từ yêu cầu rút tiền"
+
+msgid "ban_da_tro_thanh_doi_tac"
+msgstr "Bạn đã trở thành đối tác"
+
+msgid "khoi_tao_tai_khoan_doi_tac_thanh_cong"
+msgstr "Khởi tạo tài khoản đối tác thành công"
+
+msgid "vui_long_cap_nhat_ho_va_ten"
+msgstr "Vui lòng cập nhật họ và tên"
+
+msgid "vui_long_cap_nhat_so_dien_thoai"
+msgstr "Vui lòng cập nhật số điện thoại"
+
+msgid "vui_long_cap_nhat_email"
+msgstr "Vui lòng cập nhật email"
+
+msgid "vui_long_cap_nhat_tinh_thanh"
+msgstr "Vui lòng cập nhật tỉnh thành"
+
+msgid "vui_long_cap_nhat_quan_huyen"
+msgstr "Vui lòng cập nhật quận huyện"
+
+msgid "vui_long_cap_nhat_phuong_xa"
+msgstr "Vui lòng cập nhật phường xã"
+
+msgid "thoi_gian_dat"
+msgstr "Thời gian đặt"
+
+msgid "chi_tiet_don_gioi_thieu"
+msgstr "Chi tiết đơn giới thiệu"
+
+msgid "da_duyet"
+msgstr "Đã duyệt"
+
+msgid "huy_xet_duyet"
+msgstr "Hủy xét duyệt"
+
+msgid "rut_tien_truoc_ky_han"
+msgstr "Rút tiền trước kỳ hạn"
+
+msgid "rut_tien_theo_ky_han"
+msgstr "Rút tiền theo kỳ hạn"
+
+msgid "doi_tac"
+msgstr "Đối tác"
+
+msgid "quan_tri"
+msgstr "Quản trị"
+
+msgid "vuot_qua_so_luong_yeu_cau_trong_ngay"
+msgstr "Vượt quá số lượng yêu cầu trong ngày"
+
+msgid "chua_co_yeu_cau_rut_tien"
+msgstr "Chưa có yêu cầu rút tiền"
+
+msgid "thong_tin_cmnd_cccd"
+msgstr "Thông tin CMND/CCCD"
+
+msgid "thong_tin_ngan_hang"
+msgstr "Thông tin ngân hàng"
+
+msgid "ho_va_ten_cmnd_cccd"
+msgstr "Họ và tên CMND/CCCD"
+
+msgid "vui_long_nhap_ho_va_ten_trong_cmnd_cccd"
+msgstr "Vui lòng nhập họ và tên CMND/CCCD"
+
+msgid "noi_cap"
+msgstr "Nơi cấp"
+
+msgid "dat_hang_thanh_cong"
+msgstr "Đặt hàng thành công"
+
+msgid "don_hang_{0}_cua_ban_da_dat_hang_thanh_cong_chung_toi_se_xac_nhan_va_gui_hang_den_cho_quy_khach_trong_thoi_gian_som_nhat"
+msgstr "Đơn hàng {0} của bạn đã đặt hàng thành công, chúng tôi sẽ xác nhận và gửi hàng đến cho quý khách trong thời gian sớm nhất"
+
+msgid "tiep_thi_lien_ket"
+msgstr "Tiếp thị liên kết"
+
+msgid "mua_hang_tich_diem"
+msgstr "Mua hàng tích điểm"
+
+msgid "diem_danh_tich_tiem"
+msgstr "Điểm danh tích điểm"
+
+msgid "nhan_diem_tang"
+msgstr "Nhận điểm tặng"
+
+msgid "tang_diem_vi"
+msgstr "Tặng điểm ví"
+
+msgid "dung_diem_vi_khi_mua_hang"
+msgstr "Dùng điểm ví khi mua hàng"
+
+msgid "chuong_trinh_khuyen_mai"
+msgstr "Chương trình khuyến mãi"
+
+msgid "thong_tin_nguoi_tang"
+msgstr "Thông tin người tặng"
+
+msgid "thong_tin_nguoi_nhan"
+msgstr "Thông tin người nhận"
+
+msgid "ten_khach_hang"
+msgstr "Tên khách hàng"
+
+msgid "phuong_thuc_van_chuyen_da_thay_doi_vui_long_tai_lai_trang_de_cap_nhap_lai_phuong_thuc_van_chuyen"
+msgstr "Phương thức vận chuyển đã thay đổi vui lòng tải lại trang để cập nhập lại phương thức vận chuyển"
+
+msgid "thanh_toan_bang_diem_khuyen_mai"
+msgstr "Thanh toán bằng điểm khuyến mãi"
+
+msgid "thanh_toan_bang_diem_vi"
+msgstr "Thanh toán bằng điểm ví"
+
+msgid "con_phai_thanh_toan"
+msgstr "Còn phải thanh toán"
+
+msgid "ma_gioi_thieu_khong_ton_tai"
+msgstr "Mã giới thiệu không tồn tại"
+
+msgid "ban_da_diem_danh_trong_ngay_hom_nay"
+msgstr "Bạn đã điểm danh trong ngày hôm nay"
+
+msgid "khong_lay_duoc_thong_tin_cau_hinh_diem_danh"
+msgstr "Không lấy được thông tin cấu hình điểm danh"
+
+msgid "luu_thong_tin_diem_khong_thanh_cong"
+msgstr "Lưu thông tin điểm không thành công"
+
+msgid "xoa_ma_coupon_thanh_cong"
+msgstr "Xóa mã coupon thành công"
+
+msgid "xac_minh_ma_gioi_thieu_thanh_cong"
+msgstr "Xác minh mã giới thiệu thành công"
+
+msgid "vui_long_nhap_ma_gioi_thieu"
+msgstr "Vui lòng nhập mã giới thiệu"
+
+msgid "khong_lay_duoc_thong_tin_gio_hang"
+msgstr "Không lấy được thông tin giỏ hàng"
+
+msgid "khong_lay_duoc_thong_tin_doi_tac"
+msgstr "Không lấy được thông tin đối tác"
+
+msgid "vui_long_chon_ngan_hang"
+msgstr "Vui lòng chọn ngân hàng"
+
+msgid "so_diem_khong_du_dieu_kien_de_rut"
+msgstr "Số điểm không đủ điều kiện để rút"
+
+msgid "so_diem_khong_du_de_rut"
+msgstr "Số điểm không đủ để rút"
+
+msgid "chua_thiet_lap_ti_le_quy_doi"
+msgstr "Chưa thiết lập tỉ lệ quy đổi"
+
+msgid "gui_yeu_cau_thanh_cong"
+msgstr "Gửi yêu cầu thành công"
+
+msgid "ho_va_ten_khach_hang"
+msgstr "Họ và tên khách hàng"
+
+msgid "email_khach_hang"
+msgstr "Email khách hàng"
+
+msgid "so_dien_thoai_khach_hang"
+msgstr "Số điện thoại khách hàng"
+
+msgid "so_luong_ao_muon_in"
+msgstr "Số lượng áo muốn in"
+
+msgid "mau_ao_muon_in"
+msgstr "Mẫu áo muốn in"
+
+msgid "da_thanh_toan"
+msgstr "Đã thanh toán"
+
+msgid "co_thong_tin_lien_he_tu"
+msgstr "Có thông tin liên hệ từ"
+
+msgid "co_don_hang_moi"
+msgstr "Có đơn hàng mới"
+
+msgid "cac_dich_vu_dang_ky_qua_website"
+msgstr "Các dịch vụ đăng ký qua website"
+
+msgid "so_tien"
+msgstr "Số tiền"

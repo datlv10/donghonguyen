@@ -1,0 +1,8 @@
+{
+    "name": "Giao diện thời trang",
+    "code": "fashion03",
+    "author": "Nguyễn Hoàng Tuyển",
+    "plugins": "article, product",
+    "version": "v1.0",
+    "description": "Giao diện thời trang"
+}

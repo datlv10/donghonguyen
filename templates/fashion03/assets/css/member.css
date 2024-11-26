@@ -1,0 +1,177 @@
+.bg-rank {
+  background-color: #F2D7B6; }
+
+.separate-divide {
+  height: 4px;
+  width: 70px;
+  background: #ff7948;
+  background: linear-gradient(270deg, #ff7948 0%, #ffd787 100%);
+  border-radius: 2px; }
+
+.member-categories-section li i {
+  font-size: 1.8rem;
+  width: 2.5rem; }
+
+.member-categories-section li:last-child {
+  margin-bottom: 0; }
+
+.member-categories-section a {
+  display: block;
+  color: var(--color-main);
+  padding: 0.7rem 0.5rem;
+  border-radius: 0.5rem; }
+  .member-categories-section a i {
+    font-size: 1.6rem;
+    width: 2rem; }
+
+.member-categories-section .active > a {
+  color: var(--color-highlight);
+  background-color: var(--light); }
+
+.history-point {
+  overflow: hidden; }
+  .history-point .nav li {
+    border-left: 1px solid #dee2e6; }
+    .history-point .nav li:first-child {
+      border-left: 0; }
+  .history-point .nav a {
+    text-align: center;
+    color: var(--color-main);
+    background-color: var(--light);
+    padding: 1rem 0; }
+    .history-point .nav a.active {
+      background-color: var(--white);
+      color: var(--color-highlight); }
+
+.inner-buy-point input {
+  opacity: 0;
+  filter: opacity(0);
+  visibility: hidden; }
+
+.inner-buy-point input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0; }
+
+.inner-buy-point .form-check-label {
+  border: 1px solid var(--color-main);
+  border-radius: 8px;
+  padding: 10px 15px;
+  width: 100%;
+  text-align: center;
+  cursor: pointer; }
+
+.inner-buy-point input[type="radio"]:checked + .form-check-label {
+  background: var(--color-highlight);
+  border-color: var(--color-highlight);
+  color: #fff; }
+
+.coupon-plan {
+  margin-bottom: 3rem;
+  -webkit-box-shadow: 0px 0.3rem 0.6rem -0.3rem rgba(0, 0, 0, 0.16);
+  box-shadow: 0px 0.3rem 0.6rem -0.3rem rgba(0, 0, 0, 0.16); }
+  .coupon-plan-price {
+    text-align: center;
+    background: #ff7948;
+    position: relative;
+    overflow: hidden;
+    padding: 1rem 1rem 1.5rem;
+    font-size: 1.2rem;
+    min-height: 12rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; }
+    .coupon-plan-price span {
+      display: block;
+      font-size: 3.2rem;
+      font-weight: bold; }
+    .coupon-plan-price::after {
+      content: '';
+      position: absolute;
+      top: 0.1rem;
+      left: 0;
+      background: url(data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABQAAD/4QMraHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6NTY6MjcgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjdBNURGNURFNDI5MDExRUM5MDhDRTYwRDYxNzA1MjA4IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjdBNURGNURGNDI5MDExRUM5MDhDRTYwRDYxNzA1MjA4Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6N0E1REY1REM0MjkwMTFFQzkwOENFNjBENjE3MDUyMDgiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6N0E1REY1REQ0MjkwMTFFQzkwOENFNjBENjE3MDUyMDgiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7/7gAOQWRvYmUAZMAAAAAB/9sAhAACAgICAgICAgICAwICAgMEAwICAwQFBAQEBAQFBgUFBQUFBQYGBwcIBwcGCQkKCgkJDAwMDAwMDAwMDAwMDAwMAQMDAwUEBQkGBgkNCwkLDQ8ODg4ODw8MDAwMDA8PDAwMDAwMDwwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCAAOAAYDAREAAhEBAxEB/8QAbwABAQAAAAAAAAAAAAAAAAAABAkBAAMAAAAAAAAAAAAAAAAAAAMEBxAAAAUCBgMAAAAAAAAAAAAAAQIDBAUREiFBExQGBwAxUREAAQIEBQMFAAAAAAAAAAAAAQIDETESBAAhURMGQSIFcbEyFBX/2gAMAwEAAhEDEQA/AKGS3SUDH874pDpvHqkDPndpOUzHJuE1G7c6xbVAJQSmtzLUPuOE+ueKsNXjKApW2uoHMRBSkqnCR9MWKy5/dP8Ajrl0oSHmqCDA0kKWEmIjGIjr7ZllXvdA9j8XdyUOzLPl3QccjLk9gYNE4OBqVccdMREblLvVMg8DcO+X+80paBX3UDKiRq66amOGbNjjn5VwhpxW12bioHc+QommVWWSaZ4//9k=);
+      width: 0.6rem;
+      height: 100%;
+      z-index: 9; }
+  .coupon-plan:last-child {
+    margin-bottom: 0; }
+
+.member-attendance .list-date--item {
+  cursor: pointer;
+  background-color: var(--gray);
+  color: var(--color-main); }
+  .member-attendance .list-date--item:hover {
+    background-color: var(--black);
+    color: var(--white); }
+  .member-attendance .list-date--item[checked="checked"] {
+    cursor: context-menu;
+    background-color: var(--black);
+    color: var(--white); }
+
+.avatar-upload {
+  display: inline-block;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden; }
+  .avatar-upload .avatar-edit {
+    position: absolute;
+    bottom: -1px;
+    width: 100%;
+    text-align: center;
+    z-index: 9; }
+    .avatar-upload .avatar-edit input {
+      display: none; }
+    .avatar-upload .avatar-edit input + label {
+      margin-bottom: 0;
+      background: var(--black);
+      cursor: pointer;
+      font-weight: normal;
+      transition: all .2s ease-in-out;
+      width: 100%;
+      color: #fff;
+      font-size: 1.2rem; }
+      .avatar-upload .avatar-edit input + label:hover {
+        background: #5e5e5e; }
+  .avatar-upload .avatar-preview > div {
+    width: 8.9rem;
+    height: 8.9rem;
+    margin: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat; }
+  .avatar-upload .avatar-preview > .wrap-preview {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; }
+  .avatar-upload .avatar-clear-image {
+    cursor: pointer;
+    position: absolute;
+    top: auto;
+    right: -1rem;
+    bottom: -0.5rem;
+    width: 2.2rem;
+    height: 2.2rem;
+    line-height: 2rem;
+    border-radius: 50%;
+    background-color: #ffffff;
+    text-align: center;
+    border: 1px solid transparent;
+    box-shadow: 0px 0.2rem 0.4rem 0px rgba(0, 0, 0, 0.12); }
+
+.filter-member .input-group-text {
+  border: 0; }
+
+.filter-member .btn-submit {
+  padding: 0 1rem; }
+
+.table-member th i {
+  font-size: 1.8rem; }
+
+.action-table {
+  display: inline-block;
+  width: 3rem;
+  text-align: center; }

@@ -1,0 +1,109 @@
+.kt-login.kt-login--v4 .kt-login__wrapper .kt-login__container {
+    background: var(--white);
+    padding: 30px;
+    border-radius: 5px;
+}
+
+
+/*form dang nhap*/
+.kt-login.kt-login--v4 .kt-login__wrapper .kt-login__container .kt-login__head .kt-login__title {
+    font-weight: 600;
+    color: var(--dark);
+}
+/*form dang nhap*/
+
+/*form quen mat khau*/
+.img-invert {
+	filter: invert(1);
+}
+.color-white {
+	color: #fff !important;
+}
+
+.mb-50 {
+	margin-bottom: 50px !important;
+}
+.required {
+    color: var(--red);
+}
+.session-otp .input-opt input {
+    padding: 0 !important;
+    flex: 0 0 50px;
+    max-width: 50px;
+    height: 70px !important;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    border: 1px solid #dee2e6;
+    background-color: #f1f1f1;
+}
+
+
+.kt-login.kt-login--v4 .kt-login__wrapper .kt-login__container {
+    width: 450px;
+}
+.kt-login.kt-login--v4 .kt-login__wrapper .kt-login__container .kt-form .form-control {
+    background-color: var(--white);
+    border: 1px solid #dee2e6;
+}
+.kt-login.kt-login--v4 .kt-form .kt-checkbox > input:checked ~ span {
+    border-color: #0083d3;
+}
+.kt-login.kt-login--v4 .kt-form .kt-checkbox > span:after {
+    border: solid #0083d3;
+}
+
+
+
+#reset-password .form-control {
+    margin-top: 0;
+}
+#reset-password .btn.btn-pill {
+    border-radius: 3px;
+    background-color: #0083d3;
+    border-color: #0083d3;
+}
+
+#reset-password .btn.disable {
+    cursor: not-allowed;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: var(--red);
+    border-color: var(--red);
+}
+
+#kt_login .invalid-feedback {
+    text-align: center;
+    font-size: 90%;
+    font-weight: 500;
+    margin-top: 0;
+}
+
+.kt-login__actions .btn {
+    line-height: 30px;
+}
+
+.text-error {
+    margin: 5px 0;  
+    font-size: 90%;
+    color: #fd397a;
+    font-weight: 500;
+    text-align: center;
+}
+
+/*form quen mat khau*/
+
+html, body {
+    overflow-x: hidden;
+}
+
+@media (max-width: 576px) {
+    .kt-login.kt-login--v4 .kt-login__wrapper .kt-login__container {
+        width: 100%;
+    }
+}
+

@@ -1,0 +1,1 @@
+{$this->Form->select('page', $this->MobileTemplateAdmin->getAllPageForDropdown(), ['id' => 'select-page', 'empty' => "-- {__d('admin', 'chon')} --", 'default' => $code, 'class' => 'form-control form-control-sm kt-selectpicker'])}
